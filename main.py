@@ -4,15 +4,17 @@ from telegram.ext import (
     MessageHandler,
     filters
 )
-import src.utils as func
-from src.start_handler import start_handler
-from src.unknown_handler import unknown_handler
+import src.utils.functions as func
+from src.handlers.start_handler import Start
+from src.handlers.add_word_handler import AddWord
+from src.handlers.unknown_handler import Unknown
 
 
 if __name__ == '__main__':
     application = ApplicationBuilder().token(func.get_env('TOKEN_BOT')).build()
 
-    application.add_handler(CommandHandler('start', start_handler))
-    application.add_handler(MessageHandler(filters.COMMAND, unknown_handler))
+    application.add_handler(CommandHandler('start', Start.init))
+    application.add_handler(CommandHandler('add', AddWord.init))
+    application.add_handler(MessageHandler(filters.COMMAND, Unknown.init))
 
     application.run_polling()
