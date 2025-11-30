@@ -1,6 +1,8 @@
 from telegram import Update
-from telegram.ext import ContextTypes, ConversationHandler
+from telegram.ext import ContextTypes
 from src.handlers.base_handler import BaseHandler
+from src.database.vocabulary import Vocabulary
+from src.database.example_sentence import ExampleSentence
 
 class AddWord(BaseHandler):
 
@@ -79,11 +81,14 @@ class AddWord(BaseHandler):
             hint_word = cls.get_info_storage(context, 'hint_word')
             sentence_examples = cls.get_info_storage(context, 'sentence_examples')
 
-            print(english_word)
-            print(portuguese_word)
-            print(hint_word)
+            vocabulary_model = Vocabulary()
+            vocabulary_model.connect()
+
+            id_word = vocabulary_model.insert_line(english_word, portuguese_word, hint_word)
             for sentence in sentence_examples:
-                print(sentence)
+                sentence_model = ExampleSentence()
+                sentence_model.connect()
+                sentence_model.insert_line(sentence, id_word)
 
             await cls.finish(update, context, 'Dados salvos com sucesso!')
         except Exception as error:
