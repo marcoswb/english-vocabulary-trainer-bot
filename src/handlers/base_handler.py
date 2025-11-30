@@ -22,6 +22,13 @@ class BaseHandler:
         context.user_data[key] = value
 
     @classmethod
+    def append_in_storage(cls, context: ContextTypes.DEFAULT_TYPE, key: str, value):
+        if not context.user_data.get(key):
+            context.user_data[key] = []
+
+        context.user_data[key].append(value)
+
+    @classmethod
     def get_info_storage(cls, context: ContextTypes.DEFAULT_TYPE, key: str):
         return context.user_data.get(key)
 
