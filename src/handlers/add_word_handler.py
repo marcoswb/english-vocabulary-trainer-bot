@@ -28,9 +28,22 @@ class AddWord(BaseHandler):
                 return
 
             cls.storage_info(context, 'portuguese_word', portuguese_word)
-            await cls.question_message(update, context, 'Digite uma frase de exemplo', AddWord.get_examples)
+            await cls.question_message(update, context, 'Digite a definição da palavra/expressão', AddWord.get_hint)
         except Exception as error:
             await cls.send_message(update, context, f'falha no AddWord:confirm_word - {error}')
+
+    @classmethod
+    async def get_hint(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, hint_word: str):
+        try:
+            hint_word = str(hint_word).upper()
+            if not hint_word:
+                await cls.finish(update, context, 'Digite o hint da palavra/expressão corretamente!')
+                return
+
+            cls.storage_info(context, 'hint_word', hint_word)
+            await cls.question_message(update, context, 'Digite uma frase de exemplo', AddWord.get_examples)
+        except Exception as error:
+            await cls.send_message(update, context, f'falha no AddWord:get_hint - {error}')
 
     @classmethod
     async def get_examples(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, sentence_example: str):
@@ -52,7 +65,7 @@ class AddWord(BaseHandler):
                 cls.append_in_storage(context, 'sentence_examples', sentence_example)
                 await cls.question_message(update, context, "Digite uma frase de exemplo ou digite 'fim' para salvar os dados!", AddWord.get_examples)
         except Exception as error:
-            await cls.send_message(update, context, f'falha no AddWord:confirm_word - {error}')
+            await cls.send_message(update, context, f'falha no AddWord:get_examples - {error}')
 
     @classmethod
     async def save_word(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, confirm_response: str):
@@ -63,10 +76,12 @@ class AddWord(BaseHandler):
 
             english_word = cls.get_info_storage(context, 'english_word')
             portuguese_word = cls.get_info_storage(context, 'portuguese_word')
+            hint_word = cls.get_info_storage(context, 'hint_word')
             sentence_examples = cls.get_info_storage(context, 'sentence_examples')
 
             print(english_word)
             print(portuguese_word)
+            print(hint_word)
             for sentence in sentence_examples:
                 print(sentence)
 
