@@ -2,7 +2,9 @@ from telegram import Update
 from telegram.ext import ContextTypes
 from src.handlers.base_handler import BaseHandler
 from src.database.training_state import TrainingState
+from src.database.vocabulary import Vocabulary
 from src.utils.enum_exercise_type import ExerciseType
+from src.utils.functions import get_random_itens
 
 
 class Start(BaseHandler):
@@ -14,8 +16,14 @@ class Start(BaseHandler):
 
     @classmethod
     async def init(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        vocabulary_model = Vocabulary()
+        vocabulary_model.connect()
+
         training_model = TrainingState()
         training_model.connect()
+
+        english_words = vocabulary_model.get_all_english_words()
+        portuguese_words = vocabulary_model.get_all_portuguese_words()
 
         training_words = training_model.get_vocabs_to_training()
         for line in training_words:
@@ -27,13 +35,13 @@ class Start(BaseHandler):
                 cls.questions_step_1[vocab_id] = {
                     'question': f"Qual a tradução da palavra/expressão '<strong>{line.get('word').upper()}</strong>' para português?",
                     'correct_response': line.get('meaning'),
-                    'options': []
+                    'options': get_random_itens(portuguese_words, 3)
                 }
             elif exercise_type == ExerciseType.PT_TRANSLATION:
                 cls.questions_step_1[vocab_id] = {
                     'question': f"Qual a tradução da palavra/expressão '<strong>{line.get('meaning').upper()}</strong>' para inglês?",
                     'correct_response': line.get('word'),
-                    'options': []
+                    'options': get_random_itens(english_words, 3)
                 }
             else:
                 continue

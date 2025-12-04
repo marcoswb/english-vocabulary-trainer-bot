@@ -13,6 +13,5 @@ class ExampleSentence(Postgres):
 
         new_id = cursor.fetchone()[0]
         self.connection.commit()
-        cursor.close()
 
         return new_id

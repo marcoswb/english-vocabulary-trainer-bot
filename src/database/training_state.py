@@ -32,7 +32,7 @@ class TrainingState(Postgres):
             inner join english_trainer.vocabulary vb
                 on ts.vocab_id = vb.id
             where ts.next_review <= %s
-            order by ts.next_review
+            order by ts.next_review, ts.streak
         """
         result = self.select_query(query, (current_date, ))
         return result

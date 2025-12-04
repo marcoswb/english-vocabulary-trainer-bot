@@ -6,7 +6,7 @@ class BaseHandler:
 
     @classmethod
     def get_message(cls, update: Update):
-        return ' '.join(update.message.text.split(' ')[1:])
+        return ' '.join(update.message.text.split(' ')[1:]).strip()
 
     @classmethod
     async def send_message(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str):

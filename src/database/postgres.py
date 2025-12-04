@@ -40,7 +40,7 @@ class Postgres:
         cursor.close()
         return list_result
 
-    def select_query(self, query, args):
+    def select_query(self, query, args=()):
         cursor = self.connection.cursor()
         cursor.execute(query, args)
         result_db =  cursor.fetchall()
@@ -49,6 +49,16 @@ class Postgres:
         list_result = []
         for line in result_db:
             list_result.append(dict(zip(header, line)))
+        return list_result
+
+    def select_without_header(self, query, args=()):
+        cursor = self.connection.cursor()
+        cursor.execute(query, args)
+        result_db =  cursor.fetchall()
+
+        list_result = []
+        for line in result_db:
+            list_result.append(line[0])
         return list_result
 
     def clear_table(self):
