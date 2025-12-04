@@ -70,6 +70,20 @@ class Start(BaseHandler):
                         'correct_response': sentence,
                         'hint': line.get('hint')
                     })
+            elif exercise_type == ExerciseType.CLOZE_WITHOUT_HINT:
+                for sentence in sentences.get(vocab_id):
+                    question_sentence = str(sentence).replace(word, '_' * len(word))
+                    cls.questions_step_3.append({
+                        'question': question_sentence,
+                        'correct_response': sentence
+                    })
+            elif exercise_type == ExerciseType.LEARNEAD:
+                for sentence in sentences.get(vocab_id):
+                    question_sentence = str(sentence).replace(word, '_' * len(word))
+                    cls.questions_step_4.append({
+                        'question': question_sentence,
+                        'correct_response': sentence
+                    })
             else:
                 continue
 
