@@ -6,7 +6,8 @@ from src.database.vocabulary import Vocabulary
 from src.database.example_sentence import ExampleSentence
 from src.utils.enum_exercise_type import ExerciseType
 from src.utils.functions import get_random_itens
-from src.utils.question import Question
+from src.controllers.question import Question
+from src.controllers.time_questions import TimeQuestions
 
 
 class Start(BaseHandler):
@@ -18,88 +19,146 @@ class Start(BaseHandler):
 
     @classmethod
     async def init(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
-        vocabulary_model = Vocabulary()
-        vocabulary_model.connect()
+        try:
+            vocabulary_model = Vocabulary()
+            vocabulary_model.connect()
 
-        training_model = TrainingState()
-        training_model.connect()
+            training_model = TrainingState()
+            training_model.connect()
 
-        sentence_model = ExampleSentence()
-        sentence_model.connect()
+            sentence_model = ExampleSentence()
+            sentence_model.connect()
 
-        english_words = vocabulary_model.get_all_english_words()
-        portuguese_words = vocabulary_model.get_all_portuguese_words()
+            english_words = vocabulary_model.get_all_english_words()
+            portuguese_words = vocabulary_model.get_all_portuguese_words()
 
-        vocabs_to_learn = []
-        training_words = training_model.get_vocabs_to_training()
-        for line in training_words:
-            vocabs_to_learn.append(line.get('vocab_id'))
+            vocabs_to_learn = []
+            training_words = training_model.get_vocabs_to_training()
+            for line in training_words:
+                vocabs_to_learn.append(line.get('vocab_id'))
 
-        sentences = sentence_model.get_sentences_by_vocab(vocabs_to_learn)
+            sentences = sentence_model.get_sentences_by_vocab(vocabs_to_learn)
 
-        for line in training_words:
-            vocab_id = line.get('vocab_id')
-            word = line.get('word')
-            streak = line.get('streak')
-            exercise_type = ExerciseType.get_exercise_by_streak(streak)
+            for line in training_words:
+                vocab_id = line.get('vocab_id')
+                word = line.get('word')
+                streak = line.get('streak')
+                exercise_type = ExerciseType.get_exercise_by_streak(streak)
 
-            if exercise_type == ExerciseType.EN_TRANSLATION:
-                cls.questions_step_1.append(Question(
-                    question=f"Qual a tradução da palavra/expressão '<strong>{line.get('word').upper()}</strong>' para português?",
-                    correct_response=line.get('meaning'),
-                    options=get_random_itens(portuguese_words, 3)
-                ))
-            elif exercise_type == ExerciseType.PT_TRANSLATION:
-                cls.questions_step_1.append(Question(
-                    question=f"Qual a tradução da palavra/expressão '<strong>{line.get('meaning').upper()}</strong>' para inglês?",
-                    correct_response=line.get('word'),
-                    options=get_random_itens(english_words, 3)
-                ))
-            elif exercise_type == ExerciseType.CLOZE_WITH_HINT_AND_FIRST_WORD:
-                for sentence in sentences.get(vocab_id):
-                    question_sentence = str(sentence).replace(word, f'{word[0]}' + '_' * (len(word) -1))
-                    cls.questions_step_2.append(Question(
-                        question=question_sentence,
-                        correct_response=sentence,
-                        hint=line.get('hint')
+                if exercise_type == ExerciseType.EN_TRANSLATION:
+                    cls.questions_step_1.append(Question(
+                        question=f"Qual a tradução da palavra/expressão '<strong>{line.get('word').upper()}</strong>' para português?",
+                        correct_response=line.get('meaning'),
+                        options=get_random_itens(portuguese_words, 3)
                     ))
-            elif exercise_type == ExerciseType.CLOZE_WITH_HINT:
-                for sentence in sentences.get(vocab_id):
-                    question_sentence = str(sentence).replace(word, '_' * len(word))
-                    cls.questions_step_2.append(Question(
-                        question=question_sentence,
-                        correct_response=sentence,
-                        hint=line.get('hint')
+                elif exercise_type == ExerciseType.PT_TRANSLATION:
+                    cls.questions_step_1.append(Question(
+                        question=f"Qual a tradução da palavra/expressão '<strong>{line.get('meaning').upper()}</strong>' para inglês?",
+                        correct_response=line.get('word'),
+                        options=get_random_itens(english_words, 3)
                     ))
-            elif exercise_type == ExerciseType.CLOZE_WITHOUT_HINT:
-                for sentence in sentences.get(vocab_id):
-                    question_sentence = str(sentence).replace(word, '_' * len(word))
-                    cls.questions_step_3.append(Question(
-                        question=question_sentence,
-                        correct_response=sentence
-                    ))
-            elif exercise_type == ExerciseType.LEARNEAD:
-                for sentence in sentences.get(vocab_id):
-                    question_sentence = str(sentence).replace(word, '_' * len(word))
-                    cls.questions_step_4.append(Question(
-                        question=question_sentence,
-                        correct_response=sentence
-                    ))
-            else:
-                continue
+                elif exercise_type == ExerciseType.CLOZE_WITH_HINT_AND_FIRST_WORD:
+                    for sentence in sentences.get(vocab_id):
+                        question_sentence = str(sentence).replace(word, f'{word[0]}' + '_' * (len(word) -1))
+                        cls.questions_step_2.append(Question(
+                            question=question_sentence,
+                            correct_response=sentence,
+                            hint=line.get('hint')
+                        ))
+                elif exercise_type == ExerciseType.CLOZE_WITH_HINT:
+                    for sentence in sentences.get(vocab_id):
+                        question_sentence = str(sentence).replace(word, '_' * len(word))
+                        cls.questions_step_2.append(Question(
+                            question=question_sentence,
+                            correct_response=sentence,
+                            hint=line.get('hint')
+                        ))
+                elif exercise_type == ExerciseType.CLOZE_WITHOUT_HINT:
+                    for sentence in sentences.get(vocab_id):
+                        question_sentence = str(sentence).replace(word, '_' * len(word))
+                        cls.questions_step_3.append(Question(
+                            question=question_sentence,
+                            correct_response=sentence
+                        ))
+                elif exercise_type == ExerciseType.LEARNEAD:
+                    for sentence in sentences.get(vocab_id):
+                        question_sentence = str(sentence).replace(word, '_' * len(word))
+                        cls.questions_step_4.append(Question(
+                            question=question_sentence,
+                            correct_response=sentence
+                        ))
+                else:
+                    continue
 
-        print('\nNIVEL 1')
-        for line in cls.questions_step_1:
-            print(line)
+            print('\nNIVEL 1')
+            for line in cls.questions_step_1:
+                print(line)
 
-        print('\nNIVEL 2')
-        for line in cls.questions_step_2:
-            print(line)
+            print('\nNIVEL 2')
+            for line in cls.questions_step_2:
+                print(line)
 
-        print('\nNIVEL 3')
-        for line in cls.questions_step_3:
-            print(line)
+            print('\nNIVEL 3')
+            for line in cls.questions_step_3:
+                print(line)
 
-        print('\nNIVEL 4')
-        for line in cls.questions_step_4:
-            print(line)
+            print('\nNIVEL 4')
+            for line in cls.questions_step_4:
+                print(line)
+
+            await cls.question_message(update, context, 'pergunta', Start.questions_first_level)
+        except Exception as error:
+            await cls.send_message(update, context, f'falha no Start:init - {error}')
+
+    @classmethod
+    async def questions_first_level(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        try:
+            if TimeQuestions.is_finished():
+                await cls.finish(update, context, 'Tempo esgotado, voltamos a nos falar amanhã ;)')
+                return
+
+            if TimeQuestions.change_level():
+                await cls.question_message(update, context, 'pergunta', Start.questions_second_level)
+
+            await cls.question_message(update, context, 'pergunta', Start.questions_first_level)
+        except Exception as error:
+            await cls.send_message(update, context, f'falha no Start:questions_first_level - {error}')
+
+    @classmethod
+    async def questions_second_level(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        try:
+            if TimeQuestions.is_finished():
+                await cls.finish(update, context, 'Tempo esgotado, voltamos a nos falar amanhã ;)')
+                return
+
+            if TimeQuestions.change_level():
+                await cls.question_message(update, context, 'pergunta', Start.questions_third_level)
+
+            await cls.question_message(update, context, 'pergunta', Start.questions_second_level)
+        except Exception as error:
+            await cls.send_message(update, context, f'falha no Start:questions_second_level - {error}')
+
+    @classmethod
+    async def questions_third_level(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        try:
+            if TimeQuestions.is_finished():
+                await cls.finish(update, context, 'Tempo esgotado, voltamos a nos falar amanhã ;)')
+                return
+
+            if TimeQuestions.change_level():
+                await cls.question_message(update, context, 'pergunta', Start.questions_fourth_level)
+
+            await cls.question_message(update, context, 'pergunta', Start.questions_third_level)
+        except Exception as error:
+            await cls.send_message(update, context, f'falha no Start:questions_third_level - {error}')
+
+    @classmethod
+    async def questions_fourth_level(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        try:
+            if TimeQuestions.is_finished():
+                await cls.finish(update, context, 'Tempo esgotado, voltamos a nos falar amanhã ;)')
+                return
+
+            await cls.question_message(update, context, 'pergunta', Start.questions_fourth_level)
+        except Exception as error:
+            await cls.send_message(update, context, f'falha no Start:questions_fourth_level - {error}')

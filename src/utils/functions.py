@@ -15,5 +15,9 @@ def get_current_date():
     return datetime.now().date()
 
 
+def get_current_datetime():
+    return datetime.now()
+
+
 def get_random_itens(list_itens, number_itens):
     return random.sample(list_itens, number_itens)
