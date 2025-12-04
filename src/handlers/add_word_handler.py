@@ -3,6 +3,7 @@ from telegram.ext import ContextTypes
 from src.handlers.base_handler import BaseHandler
 from src.database.vocabulary import Vocabulary
 from src.database.example_sentence import ExampleSentence
+from src.database.training_state import TrainingState
 
 class AddWord(BaseHandler):
 
@@ -84,7 +85,11 @@ class AddWord(BaseHandler):
             vocabulary_model = Vocabulary()
             vocabulary_model.connect()
 
+            training_model = TrainingState()
+            training_model.connect()
+
             id_word = vocabulary_model.insert_line(english_word, portuguese_word, hint_word)
+            training_model.insert_line(id_word)
             for sentence in sentence_examples:
                 sentence_model = ExampleSentence()
                 sentence_model.connect()
