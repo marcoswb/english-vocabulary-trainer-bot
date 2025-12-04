@@ -22,10 +22,17 @@ class TrainingState(Postgres):
     def get_vocabs_to_training(self):
         current_date = get_current_date()
         query = """
-            select vocab_id, streak, confidence
-            from english_trainer.training_state
-            where next_review <= %s
-            order by next_review
+            select ts.vocab_id,
+                   ts.streak,
+                   ts.confidence,
+                   vb.word,
+                   vb.meaning,
+                   vb.hint
+            from english_trainer.training_state ts
+            inner join english_trainer.vocabulary vb
+                on ts.vocab_id = vb.id
+            where ts.next_review <= %s
+            order by ts.next_review
         """
         result = self.select_query(query, (current_date, ))
         return result
