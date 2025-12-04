@@ -18,17 +18,17 @@ class Vocabulary(Postgres):
         return new_id
 
     def get_all_english_words(self):
-        query = """
+        query = f"""
             select word
-            from english_trainer.vocabulary
+            from {self.schema}.{self.table_name}
         """
         result = self.select_without_header(query)
         return result
 
     def get_all_portuguese_words(self):
-        query = """
+        query = f"""
             select meaning
-            from english_trainer.vocabulary
+            from {self.schema}.{self.table_name}
         """
         result = self.select_without_header(query)
         return result

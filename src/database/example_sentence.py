@@ -15,3 +15,26 @@ class ExampleSentence(Postgres):
         self.connection.commit()
 
         return new_id
+
+    def get_sentences_by_vocab(self, vocabs=None):
+        if vocabs:
+            query = f"""
+                select vocab_id,
+                       sentence
+                from english_trainer.example_sentences
+                where vocab_id in ({', '.join([str(vocab) for vocab in vocabs])})
+            """
+        else:
+            query = f"""
+                select vocab_id,
+                       sentence
+                from english_trainer.example_sentences
+            """
+
+        result_db = self.select_query(query, (vocabs, ))
+        result = {}
+        for line in result_db:
+            result.setdefault(line.get('vocab_id'), [])
+            result[line.get('vocab_id')].append(line.get('sentence'))
+
+        return result

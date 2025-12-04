@@ -21,15 +21,15 @@ class TrainingState(Postgres):
 
     def get_vocabs_to_training(self):
         current_date = get_current_date()
-        query = """
+        query = f"""
             select ts.vocab_id,
                    ts.streak,
                    ts.confidence,
                    vb.word,
                    vb.meaning,
                    vb.hint
-            from english_trainer.training_state ts
-            inner join english_trainer.vocabulary vb
+            from {self.schema}.{self.table_name} ts
+            inner join {self.schema}.vocabulary vb
                 on ts.vocab_id = vb.id
             where ts.next_review <= %s
             order by ts.next_review, ts.streak
