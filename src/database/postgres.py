@@ -26,7 +26,7 @@ class Postgres:
 
         self.connection = Postgres.get_connection()
 
-    def select(self):
+    def select_all(self):
         cursor = self.connection.cursor()
 
         cursor.execute(f'SELECT * FROM {self.schema}.{self.table_name}')
@@ -38,6 +38,17 @@ class Postgres:
             list_result.append(dict(zip(header[1:], line[1:])))
 
         cursor.close()
+        return list_result
+
+    def select_query(self, query, args):
+        cursor = self.connection.cursor()
+        cursor.execute(query, args)
+        result_db =  cursor.fetchall()
+        header = [desc[0] for desc in cursor.description]
+
+        list_result = []
+        for line in result_db:
+            list_result.append(dict(zip(header, line)))
         return list_result
 
     def clear_table(self):
