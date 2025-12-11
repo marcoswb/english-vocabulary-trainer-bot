@@ -6,6 +6,12 @@ class Question:
         self.__hint = hint
         self.__options = options
 
+    def get_question(self):
+        return self.__question
+
+    def get_response(self):
+        return self.__correct_response
+
 
     def __str__(self):
         print_obj = {

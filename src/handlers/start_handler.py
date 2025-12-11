@@ -16,6 +16,11 @@ class Start(BaseHandler):
     questions_step_2 = []
     questions_step_3 = []
     questions_step_4 = []
+    current_question = None
+    current_questions = []
+    current_level = None
+    last_question = False
+    response_last_question = False
 
     @classmethod
     async def init(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -90,75 +95,48 @@ class Start(BaseHandler):
                 else:
                     continue
 
-            print('\nNIVEL 1')
-            for line in cls.questions_step_1:
-                print(line)
-
-            print('\nNIVEL 2')
-            for line in cls.questions_step_2:
-                print(line)
-
-            print('\nNIVEL 3')
-            for line in cls.questions_step_3:
-                print(line)
-
-            print('\nNIVEL 4')
-            for line in cls.questions_step_4:
-                print(line)
-
-            await cls.question_message(update, context, 'pergunta', Start.questions_first_level)
+            TimeQuestions.start_questions()
+            cls.current_level = 1
+            cls.current_questions = cls.questions_step_1.copy()
+            await cls.send_question(update, context, cls.current_questions, cls.handle_questions_user)
         except Exception as error:
             await cls.send_message(update, context, f'falha no Start:init - {error}')
 
     @classmethod
-    async def questions_first_level(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
+    async def handle_questions_user(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, response: str):
         try:
             if TimeQuestions.is_finished():
                 await cls.finish(update, context, 'Tempo esgotado, voltamos a nos falar amanhã ;)')
                 return
 
-            if TimeQuestions.change_level():
-                await cls.question_message(update, context, 'pergunta', Start.questions_second_level)
+            if TimeQuestions.change_level() or len(cls.current_questions) == 0:
+                if cls.current_level == 1:
+                    cls.current_level = 2
+                    cls.current_questions = cls.questions_step_2.copy()
+                elif cls.current_level == 2:
+                    cls.current_level = 3
+                    cls.current_questions = cls.questions_step_3.copy()
+                elif cls.current_level == 3:
+                    cls.current_level = 4
+                    cls.current_questions = cls.questions_step_4.copy()
+                elif cls.current_level == 4:
+                    await cls.finish(update, context, 'As perguntas terminaram, voltamos a nos falar amanhã ;)')
+                    if not cls.last_question:
+                        cls.last_question = True
 
-            await cls.question_message(update, context, 'pergunta', Start.questions_first_level)
+            if cls.last_question and not cls.last_question:
+                return
+
+            print(f'pergunta: {cls.current_question}')
+            print(f'respondido: {response}')
+            await cls.send_question(update, context, cls.current_questions, cls.handle_questions_user)
         except Exception as error:
-            await cls.send_message(update, context, f'falha no Start:questions_first_level - {error}')
+            await cls.send_message(update, context, f'falha no Start:teste - {error}')
 
     @classmethod
-    async def questions_second_level(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
-        try:
-            if TimeQuestions.is_finished():
-                await cls.finish(update, context, 'Tempo esgotado, voltamos a nos falar amanhã ;)')
-                return
-
-            if TimeQuestions.change_level():
-                await cls.question_message(update, context, 'pergunta', Start.questions_third_level)
-
-            await cls.question_message(update, context, 'pergunta', Start.questions_second_level)
-        except Exception as error:
-            await cls.send_message(update, context, f'falha no Start:questions_second_level - {error}')
-
-    @classmethod
-    async def questions_third_level(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
-        try:
-            if TimeQuestions.is_finished():
-                await cls.finish(update, context, 'Tempo esgotado, voltamos a nos falar amanhã ;)')
-                return
-
-            if TimeQuestions.change_level():
-                await cls.question_message(update, context, 'pergunta', Start.questions_fourth_level)
-
-            await cls.question_message(update, context, 'pergunta', Start.questions_third_level)
-        except Exception as error:
-            await cls.send_message(update, context, f'falha no Start:questions_third_level - {error}')
-
-    @classmethod
-    async def questions_fourth_level(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
-        try:
-            if TimeQuestions.is_finished():
-                await cls.finish(update, context, 'Tempo esgotado, voltamos a nos falar amanhã ;)')
-                return
-
-            await cls.question_message(update, context, 'pergunta', Start.questions_fourth_level)
-        except Exception as error:
-            await cls.send_message(update, context, f'falha no Start:questions_fourth_level - {error}')
+    async def send_question(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, questions: list, callback_func):
+        if len(questions) > 0:
+            question_obj: Question = questions[0]
+            cls.current_question = question_obj
+            questions.pop(0)
+            await cls.question_message(update, context, question_obj.get_question(), callback_func)

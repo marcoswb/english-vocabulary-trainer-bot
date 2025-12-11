@@ -15,7 +15,7 @@ class BaseHandler:
     @classmethod
     async def question_message(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str, callback_func):
         context.user_data['callback_function'] = callback_func
-        await update.message.reply_text(message)
+        await update.message.reply_text(message, parse_mode="HTML")
 
     @classmethod
     def storage_info(cls, context: ContextTypes.DEFAULT_TYPE, key: str, value):

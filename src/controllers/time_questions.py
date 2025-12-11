@@ -22,7 +22,7 @@ class TimeQuestions:
 
     @classmethod
     def change_level(cls):
-        difference_between_times = int((get_current_datetime() - cls.START_TIME) / 60)
+        difference_between_times = int((get_current_datetime() - cls.START_TIME).seconds / 60)
 
         if difference_between_times >= cls.END_FIRST_LEVEL and cls.CURRENT_LEVEL == 1:
             cls.CURRENT_LEVEL = 2
@@ -38,5 +38,5 @@ class TimeQuestions:
 
     @classmethod
     def is_finished(cls):
-        difference_between_times = int((get_current_datetime() - cls.START_TIME) / 60)
+        difference_between_times = int((get_current_datetime() - cls.START_TIME).seconds / 60)
         return difference_between_times > cls.TOTAL_TIME
