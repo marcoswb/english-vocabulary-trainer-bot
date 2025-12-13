@@ -64,34 +64,34 @@ class Start(BaseHandler):
                         options=get_random_itens(line.get('word'), english_words, 3)
                     ))
                 elif exercise_type == ExerciseType.CLOZE_WITH_HINT_AND_FIRST_WORD:
-                    for sentence in sentences.get(vocab_id):
+                    for sentence in sentences.get(vocab_id, [])[:1]:
                         question_sentence = str(sentence).replace(word, f'{word[0]}' + '_' * (len(word) -1))
                         cls.questions_step_2.append(Question(
                             question=question_sentence,
-                            correct_response=sentence,
+                            correct_response=word,
                             hint=line.get('hint')
                         ))
                 elif exercise_type == ExerciseType.CLOZE_WITH_HINT:
-                    for sentence in sentences.get(vocab_id):
+                    for sentence in sentences.get(vocab_id, [])[:1]:
                         question_sentence = str(sentence).replace(word, '_' * len(word))
                         cls.questions_step_2.append(Question(
                             question=question_sentence,
-                            correct_response=sentence,
+                            correct_response=word,
                             hint=line.get('hint')
                         ))
                 elif exercise_type == ExerciseType.CLOZE_WITHOUT_HINT:
-                    for sentence in sentences.get(vocab_id):
+                    for sentence in sentences.get(vocab_id, [])[:1]:
                         question_sentence = str(sentence).replace(word, '_' * len(word))
                         cls.questions_step_3.append(Question(
                             question=question_sentence,
-                            correct_response=sentence
+                            correct_response=word
                         ))
                 elif exercise_type == ExerciseType.LEARNEAD:
-                    for sentence in sentences.get(vocab_id):
+                    for sentence in sentences.get(vocab_id, [])[:1]:
                         question_sentence = str(sentence).replace(word, '_' * len(word))
                         cls.questions_step_4.append(Question(
                             question=question_sentence,
-                            correct_response=sentence
+                            correct_response=word
                         ))
                 else:
                     continue
@@ -143,9 +143,14 @@ class Start(BaseHandler):
                 questions.pop(0)
 
                 options = question_obj.get_options()
+                hint= question_obj.get_hint()
                 if options:
                     options.append(question_obj.get_response())
                     await cls.ask_with_options(update, context, question_obj.get_question(), options, callback_func)
+                elif hint:
+                    message = question_obj.get_question()
+                    message += f'\n\n<strong>HINT:</strong> <em>{hint}</em>'
+                    await cls.question_message(update, context, message, callback_func)
                 else:
                     await cls.question_message(update, context, question_obj.get_question(), callback_func)
         except Exception as error:

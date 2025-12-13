@@ -15,6 +15,9 @@ class Question:
     def get_options(self):
         return self.__options
 
+    def get_hint(self):
+        return self.__hint
+
 
     def __str__(self):
         print_obj = {
