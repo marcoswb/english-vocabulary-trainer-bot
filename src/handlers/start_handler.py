@@ -1,4 +1,5 @@
 import sys
+import time
 import random
 from telegram import Update
 from telegram.ext import ContextTypes
@@ -201,12 +202,25 @@ class Start(BaseHandler):
                 else:
                     decrease_confidence.append(str(vocab_id))
 
-            training_model.change_confidence(increase_confidence, increase=True)
-            training_model.change_confidence(decrease_confidence, decrease=True)
+            count = 0
+            while count < 5:
+                count += 1
+                try:
+                    training_model.change_confidence(increase_confidence, increase=True)
+                    training_model.change_confidence(decrease_confidence, decrease=True)
 
-            training_model.change_streak(increase_streak, increase=True)
-            training_model.change_streak(decrease_streak, decrease=True)
+                    training_model.change_streak(increase_streak, increase=True)
+                    training_model.change_streak(decrease_streak, decrease=True)
 
-            training_model.update_last_review(update_last_review)
+                    training_model.update_last_review(update_last_review)
+                    await cls.send_message(update, context, 'SALVOU TUDO!')
+                    break
+                except Exception as error:
+                    await cls.send_error(update, context, error, sys.exc_info())
+                    time.sleep(60)
+                    training_model = TrainingState()
+                    training_model.connect()
+
+                time.sleep(60)
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
