@@ -1,0 +1,31 @@
+name: Daily Quiz
+
+on:
+  schedule:
+    - cron: '30 15 * * *'
+  workflow_dispatch:
+
+jobs:
+  quiz:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run quiz script
+        env:
+          API_ID: ${{ secrets.TELEGRAM_TOKEN }}
+          API_HASH: ${{ secrets.CHAT_ID }}
+          TOKEN_BOT: ${{ secrets.CHAT_ID }}
+          DB_DATABASE: ${{ secrets.CHAT_ID }}
+          DB_HOST: ${{ secrets.CHAT_ID }}
+          DB_PASSWORD: ${{ secrets.CHAT_ID }}
+          DB_USER: ${{ secrets.CHAT_ID }}
+        run: python main.py
