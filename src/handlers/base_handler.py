@@ -13,9 +13,18 @@ class BaseHandler:
         await context.bot.send_message(chat_id=update.effective_chat.id, text=message, parse_mode="HTML")
 
     @classmethod
+    async def send_error(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, error, exec_info):
+        exc_type, exc_value, exc_tb = exec_info
+
+        filename = exc_tb.tb_frame.f_code.co_filename
+        filename = str(filename).split('english-vocabulary-trainer-bot')[1]
+        line_number = exc_tb.tb_lineno
+        await context.bot.send_message(chat_id=update.effective_chat.id, text=f'Arquivo: {filename}: {line_number} - "{error}"', parse_mode="HTML")
+
+    @classmethod
     async def question_message(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str, callback_func):
         context.user_data['callback_function'] = callback_func
-        await update.message.reply_text(message, parse_mode="HTML")
+        await cls.reply(update, message, parse_mode="HTML")
 
     @classmethod
     def storage_info(cls, context: ContextTypes.DEFAULT_TYPE, key: str, value):
@@ -39,7 +48,21 @@ class BaseHandler:
             [InlineKeyboardButton('Sim', callback_data='yes')],
             [InlineKeyboardButton('Não', callback_data='no')],
         ]
-        await update.message.reply_text(
+        await cls.reply(
+            update,
+            message,
+            reply_markup=InlineKeyboardMarkup(keyboard),
+            parse_mode="HTML"
+        )
+
+    @classmethod
+    async def ask_with_options(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str, options: list, callback_func):
+        context.user_data['callback_function'] = callback_func
+        keyboard = []
+        for option in options:
+            keyboard.append([InlineKeyboardButton(option, callback_data=option)])
+        await cls.reply(
+            update,
             message,
             reply_markup=InlineKeyboardMarkup(keyboard),
             parse_mode="HTML"
@@ -49,3 +72,10 @@ class BaseHandler:
     async def finish(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str):
         context.user_data.clear()
         await cls.send_message(update, context, message)
+
+    @classmethod
+    async def reply(cls, update: Update, text: str, **kwargs):
+        if update.message:
+            await update.message.reply_text(text, **kwargs)
+        elif update.callback_query:
+            await update.callback_query.message.reply_text(text, **kwargs)

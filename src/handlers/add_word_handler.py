@@ -1,3 +1,4 @@
+import sys
 from telegram import Update
 from telegram.ext import ContextTypes
 from src.handlers.base_handler import BaseHandler
@@ -20,7 +21,7 @@ class AddWord(BaseHandler):
 
             await cls.question_message(update, context, 'Qual o significado em português dessa palavra/expressão?', AddWord.confirm_word)
         except Exception as error:
-            await cls.send_message(update, context, f'falha no AddWord:init - {error}')
+            await cls.send_error(update, context, error, sys.exc_info())
 
     @classmethod
     async def confirm_word(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, portuguese_word: str):
@@ -33,7 +34,7 @@ class AddWord(BaseHandler):
             cls.storage_info(context, 'portuguese_word', portuguese_word)
             await cls.question_message(update, context, 'Digite a definição da palavra/expressão', AddWord.get_hint)
         except Exception as error:
-            await cls.send_message(update, context, f'falha no AddWord:confirm_word - {error}')
+            await cls.send_error(update, context, error, sys.exc_info())
 
     @classmethod
     async def get_hint(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, hint_word: str):
@@ -46,7 +47,7 @@ class AddWord(BaseHandler):
             cls.storage_info(context, 'hint_word', hint_word)
             await cls.question_message(update, context, 'Digite uma frase de exemplo', AddWord.get_examples)
         except Exception as error:
-            await cls.send_message(update, context, f'falha no AddWord:get_hint - {error}')
+            await cls.send_error(update, context, error, sys.exc_info())
 
     @classmethod
     async def get_examples(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, sentence_example: str):
@@ -68,7 +69,7 @@ class AddWord(BaseHandler):
                 cls.append_in_storage(context, 'sentence_examples', sentence_example)
                 await cls.question_message(update, context, "Digite uma frase de exemplo ou digite 'fim' para salvar os dados!", AddWord.get_examples)
         except Exception as error:
-            await cls.send_message(update, context, f'falha no AddWord:get_examples - {error}')
+            await cls.send_error(update, context, error, sys.exc_info())
 
     @classmethod
     async def save_word(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, confirm_response: str):
@@ -97,4 +98,4 @@ class AddWord(BaseHandler):
 
             await cls.finish(update, context, 'Dados salvos com sucesso!')
         except Exception as error:
-            await cls.send_message(update, context, f'falha no AddWord:save_word - {error}')
+            await cls.send_error(update, context, error, sys.exc_info())

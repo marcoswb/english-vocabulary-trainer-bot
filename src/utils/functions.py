@@ -19,5 +19,7 @@ def get_current_datetime():
     return datetime.now()
 
 
-def get_random_itens(list_itens, number_itens):
+def get_random_itens(word: str, list_itens: list, number_itens):
+    list_itens = [aux.upper() for aux in list_itens]
+    list_itens.remove(word.upper())
     return random.sample(list_itens, number_itens)

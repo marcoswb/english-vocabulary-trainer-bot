@@ -1,3 +1,4 @@
+import sys
 from telegram import Update
 from telegram.ext import ContextTypes
 from src.handlers.base_handler import BaseHandler
@@ -54,13 +55,13 @@ class Start(BaseHandler):
                     cls.questions_step_1.append(Question(
                         question=f"Qual a tradução da palavra/expressão '<strong>{line.get('word').upper()}</strong>' para português?",
                         correct_response=line.get('meaning'),
-                        options=get_random_itens(portuguese_words, 3)
+                        options=get_random_itens(line.get('meaning'), portuguese_words, 3)
                     ))
                 elif exercise_type == ExerciseType.PT_TRANSLATION:
                     cls.questions_step_1.append(Question(
                         question=f"Qual a tradução da palavra/expressão '<strong>{line.get('meaning').upper()}</strong>' para inglês?",
                         correct_response=line.get('word'),
-                        options=get_random_itens(english_words, 3)
+                        options=get_random_itens(line.get('word'), english_words, 3)
                     ))
                 elif exercise_type == ExerciseType.CLOZE_WITH_HINT_AND_FIRST_WORD:
                     for sentence in sentences.get(vocab_id):
@@ -100,7 +101,7 @@ class Start(BaseHandler):
             cls.current_questions = cls.questions_step_1.copy()
             await cls.send_question(update, context, cls.current_questions, cls.handle_questions_user)
         except Exception as error:
-            await cls.send_message(update, context, f'falha no Start:init - {error}')
+            await cls.send_error(update, context, error, sys.exc_info())
 
     @classmethod
     async def handle_questions_user(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, response: str):
@@ -131,12 +132,21 @@ class Start(BaseHandler):
             print(f'respondido: {response}')
             await cls.send_question(update, context, cls.current_questions, cls.handle_questions_user)
         except Exception as error:
-            await cls.send_message(update, context, f'falha no Start:teste - {error}')
+            await cls.send_error(update, context, error, sys.exc_info())
 
     @classmethod
     async def send_question(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, questions: list, callback_func):
-        if len(questions) > 0:
-            question_obj: Question = questions[0]
-            cls.current_question = question_obj
-            questions.pop(0)
-            await cls.question_message(update, context, question_obj.get_question(), callback_func)
+        try:
+            if len(questions) > 0:
+                question_obj: Question = questions[0]
+                cls.current_question = question_obj
+                questions.pop(0)
+
+                options = question_obj.get_options()
+                if options:
+                    options.append(question_obj.get_response())
+                    await cls.ask_with_options(update, context, question_obj.get_question(), options, callback_func)
+                else:
+                    await cls.question_message(update, context, question_obj.get_question(), callback_func)
+        except Exception as error:
+            await cls.send_error(update, context, error, sys.exc_info())

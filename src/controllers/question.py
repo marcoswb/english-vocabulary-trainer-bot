@@ -12,6 +12,9 @@ class Question:
     def get_response(self):
         return self.__correct_response
 
+    def get_options(self):
+        return self.__options
+
 
     def __str__(self):
         print_obj = {

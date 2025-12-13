@@ -1,3 +1,4 @@
+import sys
 from telegram import Update
 from telegram.ext import ContextTypes
 from src.handlers.base_handler import BaseHandler
@@ -13,7 +14,7 @@ class MessageResponseHandler(BaseHandler):
             if callback:
                 await callback(update, context, response)
         except Exception as error:
-            await cls.send_message(update, context, f'falha no MessageResponseHandler:response_str - {error}')
+            await cls.send_error(update, context, error, sys.exc_info())
 
     @classmethod
     async def response_query(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -25,4 +26,4 @@ class MessageResponseHandler(BaseHandler):
             if callback:
                 await callback(update, context, query.data)
         except Exception as error:
-            await cls.send_message(update, context, f'falha no MessageResponseHandler:response_query - {error}')
+            await cls.send_error(update, context, error, sys.exc_info())
