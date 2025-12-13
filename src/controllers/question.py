@@ -1,6 +1,7 @@
 class Question:
 
-    def __init__(self, question=None, correct_response=None, hint=None, options=None):
+    def __init__(self, vocab_id=None, question=None, correct_response=None, hint=None, options=None):
+        self.__vocab_id = vocab_id
         self.__question = question
         self.__correct_response = correct_response
         self.__hint = hint
@@ -18,6 +19,8 @@ class Question:
     def get_hint(self):
         return self.__hint
 
+    def get_vocab_id(self):
+        return self.__vocab_id
 
     def __str__(self):
         print_obj = {

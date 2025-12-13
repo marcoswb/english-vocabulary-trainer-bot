@@ -17,11 +17,11 @@ class Start(BaseHandler):
     questions_step_2 = []
     questions_step_3 = []
     questions_step_4 = []
-    current_question = None
+    current_question: Question = None
     current_questions = []
     current_level = None
-    last_question = False
-    response_last_question = False
+    correct_responses = []
+    wrong_responses = []
 
     @classmethod
     async def init(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -53,12 +53,14 @@ class Start(BaseHandler):
 
                 if exercise_type == ExerciseType.EN_TRANSLATION:
                     cls.questions_step_1.append(Question(
+                        vocab_id=vocab_id,
                         question=f"Qual a tradução da palavra/expressão '<strong>{line.get('word').upper()}</strong>' para português?",
                         correct_response=line.get('meaning'),
                         options=get_random_itens(line.get('meaning'), portuguese_words, 3)
                     ))
                 elif exercise_type == ExerciseType.PT_TRANSLATION:
                     cls.questions_step_1.append(Question(
+                        vocab_id=vocab_id,
                         question=f"Qual a tradução da palavra/expressão '<strong>{line.get('meaning').upper()}</strong>' para inglês?",
                         correct_response=line.get('word'),
                         options=get_random_itens(line.get('word'), english_words, 3)
@@ -67,6 +69,7 @@ class Start(BaseHandler):
                     for sentence in sentences.get(vocab_id, [])[:1]:
                         question_sentence = str(sentence).replace(word, f'{word[0]}' + '_' * (len(word) -1))
                         cls.questions_step_2.append(Question(
+                            vocab_id=vocab_id,
                             question=question_sentence,
                             correct_response=word,
                             hint=line.get('hint')
@@ -75,6 +78,7 @@ class Start(BaseHandler):
                     for sentence in sentences.get(vocab_id, [])[:1]:
                         question_sentence = str(sentence).replace(word, '_' * len(word))
                         cls.questions_step_2.append(Question(
+                            vocab_id=vocab_id,
                             question=question_sentence,
                             correct_response=word,
                             hint=line.get('hint')
@@ -83,6 +87,7 @@ class Start(BaseHandler):
                     for sentence in sentences.get(vocab_id, [])[:1]:
                         question_sentence = str(sentence).replace(word, '_' * len(word))
                         cls.questions_step_3.append(Question(
+                            vocab_id=vocab_id,
                             question=question_sentence,
                             correct_response=word
                         ))
@@ -90,6 +95,7 @@ class Start(BaseHandler):
                     for sentence in sentences.get(vocab_id, [])[:1]:
                         question_sentence = str(sentence).replace(word, '_' * len(word))
                         cls.questions_step_4.append(Question(
+                            vocab_id=vocab_id,
                             question=question_sentence,
                             correct_response=word
                         ))
@@ -122,14 +128,14 @@ class Start(BaseHandler):
                     cls.current_questions = cls.questions_step_4.copy()
                 elif cls.current_level == 4:
                     await cls.finish(update, context, 'As perguntas terminaram, voltamos a nos falar amanhã ;)')
-                    if not cls.last_question:
-                        cls.last_question = True
 
-            if cls.last_question and not cls.last_question:
-                return
+            if cls.current_question.get_response().upper() == response.upper():
+                cls.correct_responses.append(cls.current_question.get_vocab_id())
+            else:
+                cls.wrong_responses.append(cls.current_question.get_vocab_id())
 
-            print(f'pergunta: {cls.current_question}')
-            print(f'respondido: {response}')
+            if len(cls.current_questions) == 0:
+                await cls.save_score(update, context)
             await cls.send_question(update, context, cls.current_questions, cls.handle_questions_user)
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
@@ -153,5 +159,48 @@ class Start(BaseHandler):
                     await cls.question_message(update, context, message, callback_func)
                 else:
                     await cls.question_message(update, context, question_obj.get_question(), callback_func)
+        except Exception as error:
+            await cls.send_error(update, context, error, sys.exc_info())
+
+    @classmethod
+    async def save_score(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        try:
+            training_model = TrainingState()
+            training_model.connect()
+            vocabs_score = training_model.get_vocabs_score()
+
+            increase_confidence = []
+            increase_streak = []
+            decrease_confidence = []
+            decrease_streak = []
+            update_last_review = []
+
+            for vocab_id in cls.correct_responses:
+                aux_vocab = vocabs_score.get(vocab_id)
+                if int(aux_vocab.get('confidence')) < 2:
+                    increase_confidence.append(str(vocab_id))
+                else:
+                    if int(aux_vocab.get('streak')) < 5:
+                        increase_streak.append(str(vocab_id))
+                    else:
+                        update_last_review.append(str(vocab_id))
+
+            for vocab_id in cls.wrong_responses:
+                aux_vocab = vocabs_score.get(vocab_id)
+                if int(aux_vocab.get('confidence')) == 0:
+                    if int(aux_vocab.get('streak')) > 0:
+                        decrease_streak.append(str(vocab_id))
+                    else:
+                        update_last_review.append(str(vocab_id))
+                else:
+                    decrease_confidence.append(str(vocab_id))
+
+            training_model.change_confidence(increase_confidence, increase=True)
+            training_model.change_confidence(decrease_confidence, decrease=True)
+
+            training_model.change_streak(increase_streak, increase=True)
+            training_model.change_streak(decrease_streak, decrease=True)
+
+            training_model.update_last_review(update_last_review)
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())

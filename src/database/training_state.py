@@ -36,3 +36,62 @@ class TrainingState(Postgres):
         """
         result = self.select_query(query, (current_date, ))
         return result
+
+    def get_vocabs_score(self):
+        current_date = get_current_date()
+        query = f"""
+            select ts.vocab_id,
+                   ts.streak,
+                   ts.confidence
+            from {self.schema}.{self.table_name} ts
+        """
+        result = self.select_query_dict(query, 'vocab_id', (current_date, ))
+        return result
+
+    def change_confidence(self, vocabs_id: list, increase=None, decrease=None):
+        if not vocabs_id:
+            return
+
+        current_date = get_current_date()
+        cursor = self.connection.cursor()
+
+        if increase:
+            base_sql = f'UPDATE {self.schema}.{self.table_name} SET confidence = confidence +1, last_review = %s WHERE vocab_id IN ({", ".join(vocabs_id)})'
+        elif decrease:
+            base_sql = f'UPDATE {self.schema}.{self.table_name} SET confidence = confidence -1, last_review = %s WHERE vocab_id IN ({", ".join(vocabs_id)})'
+        else:
+            return
+
+        cursor.execute(base_sql, (current_date, ))
+        self.connection.commit()
+        cursor.close()
+
+    def change_streak(self, vocabs_id: list, increase=None, decrease=None):
+        if not vocabs_id:
+            return
+
+        current_date = get_current_date()
+        cursor = self.connection.cursor()
+
+        if increase:
+            base_sql = f'UPDATE {self.schema}.{self.table_name} SET streak = streak +1, last_review = %s WHERE vocab_id IN ({", ".join(vocabs_id)})'
+        elif decrease:
+            base_sql = f'UPDATE {self.schema}.{self.table_name} SET streak = streak -1, last_review = %s WHERE vocab_id IN ({", ".join(vocabs_id)})'
+        else:
+            return
+
+        cursor.execute(base_sql, (current_date, ))
+        self.connection.commit()
+        cursor.close()
+
+    def update_last_review(self, vocabs_id: list):
+        if not vocabs_id:
+            return
+
+        current_date = get_current_date()
+        cursor = self.connection.cursor()
+
+        base_sql = f'UPDATE {self.schema}.{self.table_name} SET last_review = %s WHERE vocab_id IN ({", ".join(vocabs_id)})'
+        cursor.execute(base_sql, (current_date, ))
+        self.connection.commit()
+        cursor.close()
