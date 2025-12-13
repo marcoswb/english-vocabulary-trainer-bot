@@ -1,4 +1,5 @@
 import sys
+import random
 from telegram import Update
 from telegram.ext import ContextTypes
 from src.handlers.base_handler import BaseHandler
@@ -56,17 +57,17 @@ class Start(BaseHandler):
                         vocab_id=vocab_id,
                         question=f"Qual a tradução da palavra/expressão '<strong>{line.get('word').upper()}</strong>' para português?",
                         correct_response=line.get('meaning'),
-                        options=get_random_itens(line.get('meaning'), portuguese_words, 3)
+                        options=get_random_itens(portuguese_words, 3, word=line.get('meaning'))
                     ))
                 elif exercise_type == ExerciseType.PT_TRANSLATION:
                     cls.questions_step_1.append(Question(
                         vocab_id=vocab_id,
                         question=f"Qual a tradução da palavra/expressão '<strong>{line.get('meaning').upper()}</strong>' para inglês?",
                         correct_response=line.get('word'),
-                        options=get_random_itens(line.get('word'), english_words, 3)
+                        options=get_random_itens(english_words, 3, word=line.get('word'))
                     ))
                 elif exercise_type == ExerciseType.CLOZE_WITH_HINT_AND_FIRST_WORD:
-                    for sentence in sentences.get(vocab_id, [])[:1]:
+                    for sentence in get_random_itens(sentences.get(vocab_id, []), 1):
                         question_sentence = str(sentence).replace(word, f'{word[0]}' + '_' * (len(word) -1))
                         cls.questions_step_2.append(Question(
                             vocab_id=vocab_id,
@@ -75,7 +76,7 @@ class Start(BaseHandler):
                             hint=line.get('hint')
                         ))
                 elif exercise_type == ExerciseType.CLOZE_WITH_HINT:
-                    for sentence in sentences.get(vocab_id, [])[:1]:
+                    for sentence in get_random_itens(sentences.get(vocab_id, []), 1):
                         question_sentence = str(sentence).replace(word, '_' * len(word))
                         cls.questions_step_2.append(Question(
                             vocab_id=vocab_id,
@@ -84,7 +85,7 @@ class Start(BaseHandler):
                             hint=line.get('hint')
                         ))
                 elif exercise_type == ExerciseType.CLOZE_WITHOUT_HINT:
-                    for sentence in sentences.get(vocab_id, [])[:1]:
+                    for sentence in get_random_itens(sentences.get(vocab_id, []), 1):
                         question_sentence = str(sentence).replace(word, '_' * len(word))
                         cls.questions_step_3.append(Question(
                             vocab_id=vocab_id,
@@ -92,7 +93,7 @@ class Start(BaseHandler):
                             correct_response=word
                         ))
                 elif exercise_type == ExerciseType.LEARNEAD:
-                    for sentence in sentences.get(vocab_id, [])[:1]:
+                    for sentence in get_random_itens(sentences.get(vocab_id, []), 1):
                         question_sentence = str(sentence).replace(word, '_' * len(word))
                         cls.questions_step_4.append(Question(
                             vocab_id=vocab_id,
@@ -101,6 +102,11 @@ class Start(BaseHandler):
                         ))
                 else:
                     continue
+
+            random.shuffle(cls.questions_step_1)
+            random.shuffle(cls.questions_step_2)
+            random.shuffle(cls.questions_step_3)
+            random.shuffle(cls.questions_step_4)
 
             TimeQuestions.start_questions()
             cls.current_level = 1
