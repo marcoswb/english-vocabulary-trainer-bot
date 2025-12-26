@@ -5,7 +5,9 @@ class Question:
         self.__question = question
         self.__correct_response = str(correct_response).upper()
         self.__hint = hint
-        self.__options = [str(item).upper() for item in options]
+        self.__options = None
+        if options:
+            self.__options = [str(item).upper() for item in options]
 
     def get_question(self):
         return self.__question
