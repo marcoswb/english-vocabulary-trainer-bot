@@ -3,9 +3,9 @@ class Question:
     def __init__(self, vocab_id=None, question=None, correct_response=None, hint=None, options=None):
         self.__vocab_id = vocab_id
         self.__question = question
-        self.__correct_response = correct_response
+        self.__correct_response = str(correct_response).upper()
         self.__hint = hint
-        self.__options = options
+        self.__options = [str(item).upper() for item in options]
 
     def get_question(self):
         return self.__question
