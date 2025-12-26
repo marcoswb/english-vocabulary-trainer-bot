@@ -69,6 +69,16 @@ class BaseHandler:
         )
 
     @classmethod
+    async def mark_response(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, is_correct: bool, correct_response: str):
+        await context.bot.send_message(chat_id=update.effective_chat.id, text=(
+                f'<b>Resposta correta!</b> 🎉'
+                if is_correct else
+                f'<b>Resposta errada.</b> ❌\n'
+                f'Correto: <b>{correct_response}</b>'
+            ),
+           parse_mode="HTML")
+
+    @classmethod
     async def finish(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str):
         context.user_data.clear()
         await cls.send_message(update, context, message)

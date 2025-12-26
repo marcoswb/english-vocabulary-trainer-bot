@@ -139,8 +139,10 @@ class Start(BaseHandler):
                     await cls.finish(update, context, 'As perguntas terminaram, voltamos a nos falar amanhã ;)')
 
             if cls.current_question.get_response().upper() == response.upper():
+                await cls.mark_response(update, context, True, cls.current_question.get_response().upper())
                 cls.correct_responses.append(cls.current_question.get_vocab_id())
             else:
+                await cls.mark_response(update, context, False, cls.current_question.get_response().upper())
                 cls.wrong_responses.append(cls.current_question.get_vocab_id())
 
             if len(cls.current_questions) == 0:
