@@ -1,0 +1,1050 @@
+to aim	She aims to become a software engineer.
+to aim	We should aim higher this year.
+to aim	The project aims to reduce costs.
+to aim	He aimed the camera carefully.
+to aim	They aim for quality over speed.
+to aim	The policy aims at fairness.
+to aim	She is aiming for a promotion.
+to aim	The program aims to help beginners.
+to aim	He aimed his efforts at learning English.
+to aim	We aim to finish the project early.
+imperative	It is imperative to follow the rules.
+imperative	Communication is imperative in a team.
+imperative	Sleep is imperative for health.
+imperative	It is imperative that we act now.
+imperative	Security is imperative in this system.
+imperative	Clear documentation is imperative.
+imperative	Training is imperative for success.
+imperative	Safety measures are imperative.
+imperative	Time management is imperative.
+imperative	It became imperative to fix the issue.
+postpone	They postponed the meeting.
+postpone	We had to postpone the release.
+postpone	The event was postponed due to rain.
+postpone	He postponed his vacation.
+postpone	Let’s not postpone the decision.
+postpone	The launch was postponed again.
+postpone	She postponed the call.
+postpone	They postponed the deadline.
+postpone	The trip was postponed indefinitely.
+postpone	He decided to postpone the task.
+behind	He was behind schedule.
+behind	She stayed behind after class.
+behind	The car behind us was speeding.
+behind	We are behind in our work.
+behind	He hid behind the door.
+behind	The team is behind on tasks.
+behind	She left everything behind.
+behind	He fell behind in school.
+behind	The house is behind the park.
+behind	They are behind the project.
+first off	First off	 let me explain the rules.
+first off	First off	 thank you for coming.
+first off	First off	 we need a plan.
+first off	First off	 I disagree.
+first off	First off	 check your email.
+first off	First off	 we must define goals.
+first off	First off	 I want to clarify something.
+first off	First off	 this is not acceptable.
+first off	First off	 let’s review the basics.
+first off	First off	 welcome everyone.
+to go over	Let’s go over the report.
+to go over	We need to go over the details.
+to go over	The teacher went over the lesson.
+to go over	Can we go over this once more?
+to go over	He went over the plan carefully.
+to go over	She went over her notes.
+to go over	Let’s go over the requirements.
+to go over	They went over the contract.
+to go over	I want to go over the rules.
+to go over	We should go over everything.
+once more	Please say that once more.
+once more	Let’s try once more.
+once more	He checked the data once more.
+once more	She asked once more for help.
+once more	We failed once more.
+once more	He read the email once more.
+once more	Try once more tomorrow.
+once more	They met once more.
+once more	He knocked once more.
+once more	Let’s review this once more.
+procedure	Follow the correct procedure.
+procedure	The procedure is clearly defined.
+procedure	This procedure takes time.
+procedure	Safety procedure must be followed.
+procedure	The procedure was updated.
+procedure	They explained the procedure.
+procedure	It’s a standard procedure.
+procedure	The procedure failed.
+procedure	We reviewed the procedure.
+procedure	The procedure is mandatory.
+to state	He stated his opinion clearly.
+to state	Please state your name.
+to state	She stated the facts.
+to state	The law states that clearly.
+to state	He stated his position.
+to state	The report states the problem.
+to state	She stated her concerns.
+to state	The document states the rules.
+to state	He stated the objective.
+to state	Please state your reason.
+thoroughly	Clean the room thoroughly.
+thoroughly	He explained the topic thoroughly.
+thoroughly	She reviewed the code thoroughly.
+thoroughly	They enjoyed the trip thoroughly.
+thoroughly	The system was thoroughly tested.
+thoroughly	Read the document thoroughly.
+thoroughly	He checked everything thoroughly.
+thoroughly	The issue was thoroughly analyzed.
+thoroughly	She washed her hands thoroughly.
+thoroughly	The process was thoroughly reviewed.
+farewell party	They organized a farewell party.
+farewell party	We had a farewell party at work.
+farewell party	The farewell party was emotional.
+farewell party	She invited everyone to her farewell party.
+farewell party	The team planned a farewell party.
+farewell party	They held a farewell party on Friday.
+farewell party	It was a surprise farewell party.
+farewell party	He gave a speech at the farewell party.
+farewell party	The farewell party was unforgettable.
+farewell party	We attended a farewell party.
+collection	They organized a collection for the farewell party.
+collection	We made a collection to buy her a gift.
+collection	The collection raised enough money.
+collection	Everyone contributed to the collection.
+collection	The office collection was a success.
+collection	They started a collection for charity.
+collection	The collection helped pay for the present.
+collection	She managed the collection.
+collection	A small collection was made among friends.
+collection	The team agreed to do a collection.
+looking forward	I am looking forward to the trip.
+looking forward	She is looking forward to the meeting.
+looking forward	They are looking forward to the results.
+looking forward	He is looking forward to the weekend.
+looking forward	We are looking forward to working together.
+looking forward	She said she is looking forward to it.
+looking forward	I am really looking forward to it.
+looking forward	They are looking forward to the launch.
+looking forward	He is looking forward to retirement.
+looking forward	We are looking forward to your reply.
+grandchildren	She loves her grandchildren.
+grandchildren	They visit their grandchildren often.
+grandchildren	His grandchildren live nearby.
+grandchildren	The grandchildren are playing outside.
+grandchildren	She babysits her grandchildren.
+grandchildren	He is proud of his grandchildren.
+grandchildren	They took pictures of their grandchildren.
+grandchildren	The grandchildren came to visit.
+grandchildren	She talks about her grandchildren often.
+grandchildren	They enjoy time with their grandchildren.
+dead-end job	He feels stuck in a dead-end job.
+dead-end job	She quit her dead-end job.
+dead-end job	Nobody wants a dead-end job.
+dead-end job	He escaped a dead-end job.
+dead-end job	She was tired of her dead-end job.
+dead-end job	It felt like a dead-end job.
+dead-end job	He described it as a dead-end job.
+dead-end job	They discussed leaving their dead-end job.
+dead-end job	She stayed too long in a dead-end job.
+dead-end job	He wanted more than a dead-end job.
+commute	I commute to work every day.
+commute	She has a long commute.
+commute	His commute takes an hour.
+commute	They commute by train.
+commute	The commute is exhausting.
+commute	She hates her commute.
+commute	He shortened his commute.
+commute	Many people commute daily.
+commute	The commute was delayed.
+commute	He changed jobs to reduce his commute.
+talk out	They talked out their problems.
+talk out	Let’s talk it out.
+talk out	They talked out the issue calmly.
+talk out	He suggested talking it out.
+talk out	They managed to talk it out.
+talk out	We should talk this out.
+talk out	She talked it out with him.
+talk out	They talked out their differences.
+talk out	Let’s talk it out before deciding.
+talk out	They talked it out peacefully.
+figure out	I need to figure out the problem.
+figure out	She figured out the answer.
+figure out	He is trying to figure it out.
+figure out	They figured out the solution.
+figure out	Can you figure this out?
+figure out	She finally figured it out.
+figure out	He couldn’t figure it out.
+figure out	We will figure it out together.
+figure out	They figured out how it works.
+figure out	He helped me figure it out.
+rusty	I am rusty at speaking English.
+rusty	He feels rusty after years away.
+rusty	My math skills are rusty.
+rusty	She is a bit rusty.
+rusty	He sounded rusty at first.
+rusty	I am rusty but improving.
+rusty	They were rusty in the beginning.
+rusty	His skills are rusty.
+rusty	I feel rusty today.
+rusty	She was rusty after the break.
+behavior	His behavior was unacceptable.
+behavior	Good behavior is rewarded.
+behavior	She studied animal behavior.
+behavior	The behavior changed over time.
+behavior	His behavior improved.
+behavior	They discussed his behavior.
+behavior	Behavior matters in the workplace.
+behavior	The child showed good behavior.
+behavior	They analyzed user behavior.
+behavior	Behavior reflects values.
+deliver	The company will deliver the package tomorrow.
+deliver	She delivered an excellent presentation.
+deliver	We need to deliver results.
+deliver	He failed to deliver on time.
+deliver	They deliver quality services.
+deliver	The system delivers accurate data.
+deliver	She always delivers what she promises.
+deliver	The courier delivered the documents.
+deliver	He managed to deliver under pressure.
+deliver	The team delivered a great product.
+key strengths	Communication is one of his key strengths.
+key strengths	She highlighted her key strengths.
+key strengths	Teamwork is among my key strengths.
+key strengths	Understanding your key strengths is important.
+key strengths	They discussed the candidate’s key strengths.
+key strengths	Problem-solving is a key strength.
+key strengths	The report outlines key strengths.
+key strengths	He knows his key strengths well.
+key strengths	Leadership is one of her key strengths.
+key strengths	They focused on their key strengths.
+every other day	I go to the gym every other day.
+every other day	She works from home every other day.
+every other day	We have meetings every other day.
+every other day	He takes the bus every other day.
+every other day	They practice English every other day.
+every other day	The medication is taken every other day.
+every other day	She calls her parents every other day.
+every other day	He studies late every other day.
+every other day	They clean the office every other day.
+every other day	I cook at home every other day.
+managerial	She has strong managerial skills.
+managerial	He applied for a managerial position.
+managerial	Managerial decisions affect the team.
+managerial	She lacks managerial experience.
+managerial	The role requires managerial responsibility.
+managerial	He is developing managerial abilities.
+managerial	Managerial tasks can be challenging.
+managerial	The course focuses on managerial training.
+managerial	She moved into a managerial role.
+managerial	Managerial support is essential.
+stealing	Stealing is against the law.
+stealing	He was caught stealing.
+stealing	Stealing damages trust.
+stealing	They accused him of stealing.
+stealing	Stealing from colleagues is unacceptable.
+stealing	She admitted to stealing.
+stealing	Stealing can have serious consequences.
+stealing	The company fired him for stealing.
+stealing	He was punished for stealing.
+stealing	Stealing is morally wrong.
+bounce off	Let’s bounce some ideas off each other.
+bounce off	She bounced the idea off her manager.
+bounce off	He likes to bounce ideas off the team.
+bounce off	We bounced ideas off during the meeting.
+bounce off	She bounced her thoughts off me.
+bounce off	They bounced solutions off one another.
+bounce off	I need to bounce this idea off you.
+bounce off	He bounced ideas off his colleagues.
+bounce off	They bounced concepts off the group.
+bounce off	Let’s bounce ideas off before deciding.
+employment	He is looking for employment.
+employment	The company offers stable employment.
+employment	Employment opportunities are growing.
+employment	She found employment quickly.
+employment	They discussed terms of employment.
+employment	Employment rates are improving.
+employment	He lost his employment.
+employment	The contract defines employment conditions.
+employment	She returned to employment.
+employment	Employment benefits vary.
+duty	It is my duty to help.
+duty	He takes his duty seriously.
+duty	She was on duty last night.
+duty	Duty comes before pleasure.
+duty	They fulfilled their duty.
+duty	He neglected his duty.
+duty	Duty requires commitment.
+duty	She feels a sense of duty.
+duty	It’s your duty to report it.
+duty	They understand their duty.
+fair	The decision was fair.
+fair	Everyone deserves a fair chance.
+fair	That seems fair to me.
+fair	They want fair treatment.
+fair	The rules are fair.
+fair	She believes in fair competition.
+fair	The judge made a fair ruling.
+fair	We want a fair solution.
+fair	The deal was fair.
+fair	He played fair.
+take it easy	Take it easy and relax.
+take it easy	He told me to take it easy.
+take it easy	Take it easy after surgery.
+take it easy	She decided to take it easy today.
+take it easy	Just take it easy for now.
+take it easy	He needs to take it easy.
+take it easy	Take it easy on yourself.
+take it easy	The doctor said to take it easy.
+take it easy	Let’s take it easy tonight.
+take it easy	She tries to take it easy.
+at least	At least we tried.
+at least	He should arrive at least by noon.
+at least	It will take at least an hour.
+at least	At least she called.
+at least	You need at least two years of experience.
+at least	At least tell me the truth.
+at least	He earns at least that much.
+at least	At least one option worked.
+at least	We need at least five people.
+at least	At least they apologized.
+duties	His duties include managing the team.
+duties	She knows her duties well.
+duties	They outlined their duties.
+duties	The job duties are clear.
+duties	He failed to perform his duties.
+duties	Her duties changed recently.
+duties	They share their duties.
+duties	The contract defines duties.
+duties	Duties must be respected.
+duties	She accepted new duties.
+tailor	We tailored the solution to the client.
+tailor	She tailored her resume.
+tailor	The course is tailored for beginners.
+tailor	They tailored the service.
+tailor	He tailored his approach.
+tailor	The plan was tailored to our needs.
+tailor	She tailored the presentation.
+tailor	The program is tailored specifically.
+tailor	They tailor products for customers.
+tailor	He tailored the message.
+whichever	Choose whichever option you like.
+whichever	Whichever you prefer is fine.
+whichever	You can take whichever seat.
+whichever	Whichever comes first wins.
+whichever	Pick whichever works best.
+whichever	Whichever path you choose.
+whichever	Whichever answer is correct.
+whichever	Use whichever tool you need.
+whichever	Whichever solution fits.
+whichever	Whichever decision you make.
+proofread	Please proofread this document.
+proofread	She proofread the article.
+proofread	He forgot to proofread.
+proofread	The text was proofread carefully.
+proofread	She asked me to proofread.
+proofread	Always proofread your work.
+proofread	The editor proofread the content.
+proofread	He proofread the email.
+proofread	They proofread the report.
+proofread	She proofread everything.
+leverage	We need to leverage our resources.
+leverage	He leveraged his experience.
+leverage	They leveraged technology.
+leverage	She knows how to leverage skills.
+leverage	Leverage your network.
+leverage	They leveraged the opportunity.
+leverage	He leveraged data insights.
+leverage	We leveraged existing tools.
+leverage	She leveraged her strengths.
+leverage	They leveraged partnerships.
+tune in	Tune in to the show tonight.
+tune in	She tuned in to the webinar.
+tune in	He tunes in every morning.
+tune in	Don’t forget to tune in.
+tune in	They tuned in late.
+tune in	Tune in for updates.
+tune in	She tuned in online.
+tune in	He tuned in on time.
+tune in	They tune in regularly.
+tune in	Tune in tomorrow.
+land	He landed a new job.
+land	She landed the deal.
+land	They landed safely.
+land	He hopes to land an interview.
+land	The plane will land soon.
+land	She landed her first client.
+land	They landed the contract.
+land	He finally landed the role.
+land	She landed a promotion.
+land	They landed the project.
+worthwhile	The effort was worthwhile.
+worthwhile	It is worthwhile to learn English.
+worthwhile	The trip was worthwhile.
+worthwhile	She found it worthwhile.
+worthwhile	The investment is worthwhile.
+worthwhile	It was a worthwhile experience.
+worthwhile	He believes it’s worthwhile.
+worthwhile	The risk was worthwhile.
+worthwhile	It proved worthwhile.
+worthwhile	The project is worthwhile.
+career fair	She attended a career fair.
+career fair	The career fair was crowded.
+career fair	They met recruiters at the career fair.
+career fair	He found opportunities at the career fair.
+career fair	The university hosted a career fair.
+career fair	She prepared for the career fair.
+career fair	They promoted jobs at the career fair.
+career fair	He networked at the career fair.
+career fair	The career fair helped students.
+career fair	Many companies joined the career fair.
+entry-level	This is an entry-level position.
+entry-level	She applied for an entry-level job.
+entry-level	Entry-level roles require little experience.
+entry-level	He started in an entry-level role.
+entry-level	The company offers entry-level opportunities.
+entry-level	Most graduates look for entry-level positions.
+entry-level	Entry-level employees receive training.
+entry-level	She accepted an entry-level offer.
+entry-level	Entry-level jobs help build experience.
+entry-level	He was hired for an entry-level position.
+overwhelming	The workload was overwhelming.
+overwhelming	The response was overwhelming.
+overwhelming	It was an overwhelming experience.
+overwhelming	The task felt overwhelming.
+overwhelming	The support was overwhelming.
+overwhelming	The situation became overwhelming.
+overwhelming	The noise was overwhelming.
+overwhelming	The emotion was overwhelming.
+overwhelming	An overwhelming challenge appeared.
+overwhelming	The demand was overwhelming.
+seekers	Job seekers attended the fair.
+seekers	Seekers are looking for opportunities.
+seekers	Many seekers applied online.
+seekers	The platform helps job seekers.
+seekers	Seekers must submit resumes.
+seekers	Job seekers need patience.
+seekers	Seekers gathered at the event.
+seekers	The company supports seekers.
+seekers	Seekers shared experiences.
+seekers	Young seekers joined the program.
+at once	Please respond at once.
+at once	She left at once.
+at once	They acted at once.
+at once	Everything happened at once.
+at once	He understood it at once.
+at once	The issue was solved at once.
+at once	She replied at once.
+at once	They agreed at once.
+at once	He reacted at once.
+at once	The team moved at once.
+so far	So far	 everything is fine.
+so far	I like the job so far.
+so far	So far	 no problems.
+so far	The results are good so far.
+so far	So far	 we agree.
+so far	Nothing has changed so far.
+so far	So far	 the plan works.
+so far	So far	 so good.
+so far	He is satisfied so far.
+so far	So far	 we succeeded.
+on the spot	He was hired on the spot.
+on the spot	She answered on the spot.
+on the spot	They decided on the spot.
+on the spot	He solved the problem on the spot.
+on the spot	She reacted on the spot.
+on the spot	He was fired on the spot.
+on the spot	She improvised on the spot.
+on the spot	The decision was made on the spot.
+on the spot	They agreed on the spot.
+on the spot	He responded on the spot.
+grab someone’s attention	The design grabs attention.
+grab someone’s attention	You need to grab attention fast.
+grab someone’s attention	The headline grabbed attention.
+grab someone’s attention	Colors help grab attention.
+grab someone’s attention	The speech grabbed attention.
+grab someone’s attention	He tried to grab attention.
+grab someone’s attention	This poster grabs attention.
+grab someone’s attention	The intro grabbed attention.
+grab someone’s attention	She knows how to grab attention.
+grab someone’s attention	The booth grabbed attention.
+hook	The intro hooked me.
+hook	That scene really hooks viewers.
+hook	You need a hook in your pitch.
+hook	The story hooked the audience.
+hook	The first line hooks attention.
+hook	Good hooks are memorable.
+hook	The video had a strong hook.
+hook	The hook was effective.
+hook	A good hook keeps interest.
+hook	That hook worked well.
+shaking hands	They were shaking hands.
+shaking hands	Shaking hands is a formal greeting.
+shaking hands	He avoided shaking hands.
+shaking hands	Shaking hands shows respect.
+shaking hands	They greeted by shaking hands.
+shaking hands	Shaking hands is common in meetings.
+shaking hands	She felt nervous shaking hands.
+shaking hands	They started by shaking hands.
+shaking hands	Shaking hands sealed the deal.
+shaking hands	Everyone was shaking hands.
+compensate	The company will compensate employees.
+compensate	He tried to compensate for the delay.
+compensate	Money cannot compensate the loss.
+compensate	The bonus compensates extra work.
+compensate	They compensated the mistake.
+compensate	Time off can compensate overtime.
+compensate	She was compensated fairly.
+compensate	The benefit compensates the effort.
+compensate	They want to compensate damages.
+compensate	The raise compensates inflation.
+internship	She applied for an internship.
+internship	The internship lasts six months.
+internship	He gained experience through an internship.
+internship	Internships help students.
+internship	She completed her internship.
+internship	The company offers internships.
+internship	Internship programs are competitive.
+internship	He learned a lot during the internship.
+internship	Internships build careers.
+internship	She accepted an internship offer.
+booth	The company has a booth at the fair.
+booth	She visited the booth.
+booth	The booth attracted visitors.
+booth	They set up a booth.
+booth	The booth displayed products.
+booth	He worked at the booth.
+booth	The booth was crowded.
+booth	Each company had a booth.
+booth	The booth grabbed attention.
+booth	The booth looked professional.
+follow up	I will follow up tomorrow.
+follow up	She followed up by email.
+follow up	Please follow up with them.
+follow up	He forgot to follow up.
+follow up	Following up is important.
+follow up	She did a follow-up call.
+follow up	Always follow up after interviews.
+follow up	He promised to follow up.
+follow up	They will follow up later.
+follow up	Make sure to follow up.
+availability	Please confirm your availability.
+availability	She has limited availability.
+availability	Availability starts next week.
+availability	He checked her availability.
+availability	The job depends on availability.
+availability	Availability may change.
+availability	She stated her availability.
+availability	They discussed availability.
+availability	Availability is required.
+availability	He asked about availability.
+disability	The company supports people with disabilities.
+disability	She has a physical disability.
+disability	Disability should not limit opportunity.
+disability	The form asks about disability.
+disability	He disclosed a disability.
+disability	Disability laws protect workers.
+disability	They provide disability access.
+disability	Awareness about disability is growing.
+disability	The policy covers disability.
+disability	Disability accommodations are required.
+discriminate against	It is illegal to discriminate against employees.
+discriminate against	They should not discriminate against anyone.
+discriminate against	The law protects people from discrimination.
+discriminate against	You cannot discriminate against candidates.
+discriminate against	The policy forbids discrimination.
+discriminate against	Companies must not discriminate against workers.
+discriminate against	He felt discriminated against.
+discriminate against	Discrimination is unacceptable.
+discriminate against	They fight discrimination.
+discriminate against	Discriminating against others is wrong.
+marital status	The form asks for marital status.
+marital status	Marital status should not matter.
+marital status	He disclosed his marital status.
+marital status	Companies cannot ask about marital status.
+marital status	She updated her marital status.
+marital status	Marital status is personal information.
+marital status	The question about marital status is illegal.
+marital status	They avoid asking marital status.
+marital status	Marital status is protected by law.
+marital status	The policy covers marital status.
+vouch for	I can vouch for his skills.
+vouch for	She vouched for her colleague.
+vouch for	He can vouch for the quality.
+vouch for	They vouched for his honesty.
+vouch for	I vouch for this product.
+vouch for	She vouched for the candidate.
+vouch for	He vouched for her experience.
+vouch for	They can vouch for reliability.
+vouch for	I can vouch for the service.
+vouch for	She vouched for him.
+asset	Experience is an asset.
+asset	Communication is a key asset.
+asset	Skills are valuable assets.
+asset	Teamwork is an asset.
+asset	His attitude is an asset.
+asset	Knowledge is an asset.
+asset	This tool is an asset.
+asset	She became an asset to the team.
+asset	Time is an asset.
+asset	The asset added value.
+cover letter	She wrote a cover letter.
+cover letter	The cover letter was well written.
+cover letter	Attach a cover letter.
+cover letter	He updated his cover letter.
+cover letter	A cover letter explains experience.
+cover letter	Employers read cover letters.
+cover letter	Her cover letter stood out.
+cover letter	Write a clear cover letter.
+cover letter	The cover letter was short.
+cover letter	He sent a cover letter.
+hassle	The paperwork was a hassle.
+hassle	It’s too much hassle.
+hassle	The process is a hassle.
+hassle	Traveling can be a hassle.
+hassle	I don’t want the hassle.
+hassle	It’s not worth the hassle.
+hassle	The setup was a hassle.
+hassle	That sounds like a hassle.
+hassle	Avoid unnecessary hassle.
+hassle	It became a real hassle.
+form letter	She received a form letter.
+form letter	The company sent a form letter.
+form letter	It was clearly a form letter.
+form letter	The reply looked like a form letter.
+form letter	Form letters feel impersonal.
+form letter	He used a form letter.
+form letter	The rejection was a form letter.
+form letter	They rely on form letters.
+form letter	A form letter saves time.
+form letter	She customized the form letter.
+sincerely	The email ended with Sincerely.
+sincerely	He signed the letter Sincerely.
+sincerely	Sincerely is a formal closing.
+sincerely	She wrote Sincerely at the end.
+sincerely	The message closed with Sincerely.
+sincerely	Sincerely sounds professional.
+sincerely	The letter said Sincerely.
+sincerely	Use Sincerely in formal emails.
+sincerely	Sincerely is widely used.
+sincerely	He ended it with Sincerely.
+aware	She is aware of the risks.
+aware	I wasn’t aware of that.
+aware	He became aware of the issue.
+aware	They are fully aware.
+aware	She made him aware.
+aware	Be aware of deadlines.
+aware	He is aware of the rules.
+aware	They weren’t aware.
+aware	Stay aware of changes.
+aware	She is aware now.
+slot	I booked a time slot.
+slot	The slot is available.
+slot	She got the last slot.
+slot	The meeting slot changed.
+slot	We have an open slot.
+slot	The slot was confirmed.
+slot	I need a free slot.
+slot	The slot fits my schedule.
+slot	Choose a time slot.
+slot	The slot is taken.
+if that suits you	We can meet tomorrow	 if that suits you.
+if that suits you	I can reschedule	 if that suits you.
+if that suits you	Let me know if that suits you.
+if that suits you	Friday works	 if that suits you.
+if that suits you	We can call later	 if that suits you.
+if that suits you	I’ll send it today	 if that suits you.
+if that suits you	We can adjust	 if that suits you.
+if that suits you	I can wait	 if that suits you.
+if that suits you	We can proceed	 if that suits you.
+if that suits you	We’ll move forward	 if that suits you.
+find out	I need to find out the truth.
+find out	She found out yesterday.
+find out	Let me find out.
+find out	He tried to find out more.
+find out	They want to find out why.
+find out	I found out online.
+find out	She found out later.
+find out	Find out what happened.
+find out	He found out quickly.
+find out	We’ll find out soon.
+picky	She is very picky.
+picky	He’s picky about food.
+picky	The client is picky.
+picky	Don’t be so picky.
+picky	She’s picky with details.
+picky	He’s picky about quality.
+picky	The boss is picky.
+picky	They are picky buyers.
+picky	Kids can be picky.
+picky	I’m not that picky.
+word of mouth	The news spread by word of mouth.
+word of mouth	They heard it by word of mouth.
+word of mouth	Marketing works by word of mouth.
+word of mouth	It spread through word of mouth.
+word of mouth	Word of mouth is powerful.
+word of mouth	The brand grew by word of mouth.
+word of mouth	They rely on word of mouth.
+word of mouth	Word of mouth builds trust.
+word of mouth	It travels by word of mouth.
+word of mouth	Word of mouth matters.
+advance	We need to advance the schedule.
+advance	Technology continues to advance.
+advance	She advanced her career.
+advance	The project advanced quickly.
+advance	He paid in advance.
+advance	They advanced to the next round.
+advance	Advance planning helps.
+advance	The team advanced together.
+advance	We must advance carefully.
+advance	She asked for an advance.
+knock on wood	So far so good	 knock on wood.
+knock on wood	It hasn’t failed	 knock on wood.
+knock on wood	Everything works	 knock on wood.
+knock on wood	He added knock on wood.
+knock on wood	They laughed and said knock on wood.
+knock on wood	Knock on wood	 no issues.
+knock on wood	She whispered knock on wood.
+knock on wood	Knock on wood	 we’re safe.
+knock on wood	He tapped the desk	 knock on wood.
+knock on wood	Knock on wood	 it lasts.
+catch some rays	Let’s catch some rays.
+catch some rays	They went to catch some rays.
+catch some rays	I want to catch some rays.
+catch some rays	She plans to catch some rays.
+catch some rays	We’ll catch some rays later.
+catch some rays	Time to catch some rays.
+catch some rays	They caught some rays at the beach.
+catch some rays	Go outside and catch some rays.
+catch some rays	He went to catch some rays.
+catch some rays	We caught some rays.
+chill out	You need to chill out.
+chill out	Let’s chill out this weekend.
+chill out	He told her to chill out.
+chill out	She needs to chill out.
+chill out	Chill out and relax.
+chill out	They chilled out at home.
+chill out	He chilled out after work.
+chill out	Just chill out a bit.
+chill out	Music helps me chill out.
+chill out	We should chill out more.
+commute with nature	I commute with nature every day.
+commute with nature	She enjoys commuting with nature.
+commute with nature	Commuting with nature reduces stress.
+commute with nature	He prefers to commute with nature.
+commute with nature	They commute with nature daily.
+commute with nature	She chose to commute with nature.
+commute with nature	Commuting with nature feels peaceful.
+commute with nature	He started commuting with nature.
+commute with nature	It’s nice to commute with nature.
+commute with nature	They love to commute with nature.
+couch potato	He’s a couch potato.
+couch potato	She became a couch potato.
+couch potato	Don’t be a couch potato.
+couch potato	He spent the weekend as a couch potato.
+couch potato	A couch potato avoids exercise.
+couch potato	Too much TV makes you a couch potato.
+couch potato	She jokes about being a couch potato.
+couch potato	He admits he’s a couch potato.
+couch potato	Couch potatoes love streaming.
+couch potato	They turned into couch potatoes.
+concerned	She looks concerned.
+concerned	I’m concerned about the result.
+concerned	He sounded concerned.
+concerned	They are concerned with safety.
+concerned	The manager is concerned.
+concerned	She felt concerned.
+concerned	I’m deeply concerned.
+concerned	Parents are concerned.
+concerned	He became concerned.
+concerned	The team was concerned.
+grin	He gave a big grin.
+grin	She couldn’t hide her grin.
+grin	A grin appeared on his face.
+grin	He smiled with a grin.
+grin	Her grin was contagious.
+grin	The child had a wide grin.
+grin	He answered with a grin.
+grin	A grin showed confidence.
+grin	She flashed a grin.
+grin	The grin said it all.
+wink	She gave him a wink.
+wink	He winked jokingly.
+wink	The wink was friendly.
+wink	She winked at the camera.
+wink	A wink can mean a joke.
+wink	He finished with a wink.
+wink	The wink felt playful.
+wink	She added a wink.
+wink	He sent a wink emoji.
+wink	The wink showed confidence.
+glance	She took a quick glance.
+glance	He glanced at the clock.
+glance	A glance was enough.
+glance	She stole a glance.
+glance	He gave her a glance.
+glance	The glance revealed interest.
+glance	She glanced back.
+glance	He took a brief glance.
+glance	A glance showed concern.
+glance	They exchanged a glance.
+dependable	She is very dependable.
+dependable	He’s a dependable worker.
+dependable	The system is dependable.
+dependable	They need dependable staff.
+dependable	A dependable friend helps.
+dependable	She proved dependable.
+dependable	The service is dependable.
+dependable	He is known as dependable.
+dependable	Dependable people earn trust.
+dependable	The team is dependable.
+foolish	It was a foolish mistake.
+foolish	That sounds foolish.
+foolish	He made a foolish decision.
+foolish	Don’t be foolish.
+foolish	It would be foolish to ignore this.
+foolish	She felt foolish afterward.
+foolish	Foolish choices lead to problems.
+foolish	He acted foolishly.
+foolish	It was foolish of him.
+foolish	A foolish move cost him.
+settled	The issue is settled.
+settled	She felt settled at home.
+settled	The matter was settled quickly.
+settled	They finally settled down.
+settled	The dust has settled.
+settled	He seemed settled.
+settled	The argument is settled.
+settled	She looked settled.
+settled	Everything is settled now.
+settled	They are settled in.
+weapon	The weapon was hidden.
+weapon	He dropped his weapon.
+weapon	The weapon was illegal.
+weapon	She carried a weapon.
+weapon	The weapon caused fear.
+weapon	They found the weapon.
+weapon	The weapon was loaded.
+weapon	He used the weapon.
+weapon	The weapon was seized.
+weapon	A dangerous weapon.
+threaten	He threatened to quit.
+threaten	They threatened action.
+threaten	Don’t threaten people.
+threaten	The storm threatened the coast.
+threaten	She felt threatened.
+threaten	The news threatened stability.
+threaten	He didn’t mean to threaten.
+threaten	Threatening behavior is serious.
+threaten	They threaten change.
+threaten	It could threaten safety.
+burst open	The door burst open.
+burst open	The box burst open.
+burst open	The bag burst open.
+burst open	The room burst open suddenly.
+burst open	The container burst open.
+burst open	The lid burst open.
+burst open	The gate burst open.
+burst open	The seal burst open.
+burst open	The package burst open.
+burst open	The window burst open.
+kidnap	They tried to kidnap him.
+kidnap	The child was kidnapped.
+kidnap	He planned to kidnap her.
+kidnap	The criminals kidnapped someone.
+kidnap	She feared being kidnapped.
+kidnap	The plot involved kidnap.
+kidnap	Police stopped the kidnap.
+kidnap	It was a kidnap attempt.
+kidnap	Kidnapping is a serious crime.
+kidnap	The story involved kidnap.
+growl	The dog began to growl.
+growl	He let out a growl.
+growl	The engine growled.
+growl	A low growl followed.
+growl	The animal growled loudly.
+growl	She heard a growl.
+growl	The growl sounded threatening.
+growl	The dog growled again.
+growl	A warning growl.
+growl	The growl scared him.
+irked	She was irked by the delay.
+irked	He looked irked.
+irked	The comment irked her.
+irked	I felt irked.
+irked	He was clearly irked.
+irked	The noise irked him.
+irked	She sounded irked.
+irked	The situation irked everyone.
+irked	He grew irked.
+irked	I was slightly irked.
+cage	The bird stayed in the cage.
+cage	The animal escaped the cage.
+cage	The cage was locked.
+cage	They cleaned the cage.
+cage	The cage was small.
+cage	The lion paced its cage.
+cage	The cage door opened.
+cage	A metal cage.
+cage	The cage rattled.
+cage	The cage was empty.
+vanish	The magician made it vanish.
+vanish	The pain vanished.
+vanish	He vanished suddenly.
+vanish	The fog vanished.
+vanish	The hope vanished.
+vanish	The figure vanished.
+vanish	She vanished into the crowd.
+vanish	The sound vanished.
+vanish	The fear vanished.
+vanish	It vanished overnight.
+spit	He spit on the ground.
+spit	Don’t spit inside.
+spit	She spit out the drink.
+spit	He tried not to spit.
+spit	The camel can spit.
+spit	Spit that out.
+spit	He spit angrily.
+spit	The word made him spit.
+spit	She almost spit laughing.
+spit	The child spit food.
+pride	She felt pride in her work.
+pride	His pride was hurt.
+pride	Pride can be dangerous.
+pride	He swallowed his pride.
+pride	They take pride in quality.
+pride	Pride filled her heart.
+pride	It was a matter of pride.
+pride	He spoke with pride.
+pride	Pride held him back.
+pride	She showed pride.
+sneak	He tried to sneak out.
+sneak	She sneaked in quietly.
+sneak	They planned to sneak away.
+sneak	He likes to sneak snacks.
+sneak	The cat sneaked up.
+sneak	She sneaked a look.
+sneak	They sneaked past security.
+sneak	He tried to sneak around.
+sneak	A sneak attack.
+sneak	She managed to sneak out.
+here goes nothing	Here goes nothing	 he said.
+here goes nothing	She smiled	 here goes nothing.
+here goes nothing	Here goes nothing before the jump.
+here goes nothing	He whispered here goes nothing.
+here goes nothing	Here goes nothing	 let’s try.
+here goes nothing	They laughed	 here goes nothing.
+here goes nothing	Here goes nothing before calling.
+here goes nothing	He sighed	 here goes nothing.
+here goes nothing	Here goes nothing again.
+here goes nothing	She thought	 here goes nothing.
+startled	She was startled by the noise.
+startled	He looked startled.
+startled	The sound startled him.
+startled	I felt startled.
+startled	The cat was startled.
+startled	They were startled awake.
+startled	A startled reaction.
+startled	He jumped	 startled.
+startled	She seemed startled.
+startled	The sudden move startled her.
+shatter	The glass shattered.
+shatter	The mirror shattered.
+shatter	The dream shattered.
+shatter	The impact shattered it.
+shatter	The window shattered loudly.
+shatter	The fall shattered his confidence.
+shatter	It shattered into pieces.
+shatter	The noise shattered silence.
+shatter	The explosion shattered walls.
+shatter	The cup shattered.
+ankle	She hurt her ankle.
+ankle	His ankle was swollen.
+ankle	He twisted his ankle.
+ankle	The ankle healed slowly.
+ankle	She wore an ankle brace.
+ankle	The injury affected his ankle.
+ankle	He iced his ankle.
+ankle	The ankle was sore.
+ankle	A broken ankle.
+ankle	The ankle hurt badly.
+trapped	They felt trapped.
+trapped	He was trapped inside.
+trapped	The animal was trapped.
+trapped	She felt trapped at work.
+trapped	The car was trapped.
+trapped	They were trapped underground.
+trapped	He remained trapped.
+trapped	The feeling trapped him.
+trapped	A trapped situation.
+trapped	She escaped after being trapped.
+vice	Smoking is a vice.
+vice	Everyone has a vice.
+vice	That habit is his vice.
+vice	He struggled with vice.
+vice	A dangerous vice.
+vice	She avoided vice.
+vice	Vice can control people.
+vice	His vice ruined him.
+vice	Vices are hard to quit.
+vice	That became his vice.
+whisper	She whispered softly.
+whisper	He leaned to whisper.
+whisper	They whispered secrets.
+whisper	A gentle whisper.
+whisper	She heard a whisper.
+whisper	He whispered her name.
+whisper	The wind whispered.
+whisper	They spoke in whispers.
+whisper	A quiet whisper.
+whisper	She whispered back.
+nod	She gave a nod.
+nod	He nodded in agreement.
+nod	A quick nod followed.
+nod	She nodded politely.
+nod	He nodded slowly.
+nod	They exchanged a nod.
+nod	The nod meant yes.
+nod	She nodded back.
+nod	A confident nod.
+nod	He ended with a nod.
+blasted	The building was blasted.
+blasted	The sound blasted through.
+blasted	The area was blasted.
+blasted	The door was blasted open.
+blasted	The rock was blasted apart.
+blasted	The noise blasted my ears.
+blasted	The wall was blasted.
+blasted	The ship was blasted.
+blasted	The city was blasted.
+blasted	The ground was blasted.
+glare	She gave him a glare.
+glare	He glared angrily.
+glare	The glare was intense.
+glare	A cold glare followed.
+glare	She met his glare.
+glare	The sun’s glare hurt.
+glare	He shot a glare.
+glare	The glare said everything.
+glare	She avoided his glare.
+glare	A threatening glare.
+showdown	The final showdown began.
+showdown	They prepared for a showdown.
+showdown	A dramatic showdown followed.
+showdown	The showdown was intense.
+showdown	It ended in a showdown.
+showdown	The movie had a showdown.
+showdown	A political showdown.
+showdown	The showdown decided everything.
+showdown	The showdown was inevitable.
+showdown	A tense showdown.
+murmur	A soft murmur spread.
+murmur	She spoke in a murmur.
+murmur	The crowd murmured.
+murmur	He heard a murmur.
+murmur	A low murmur filled the room.
+murmur	The murmur grew louder.
+murmur	A quiet murmur followed.
+murmur	Voices turned to murmur.
+murmur	A nervous murmur.
+murmur	The murmur faded.
