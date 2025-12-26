@@ -72,8 +72,11 @@ Para que a Action funcione corretamente basta configurar as mesmas variáveis de
 
 ## 📊 Exemplos / Resultados  
 
-### Quiz inicial que o usuário recebe
-<img width="686" height="669" alt="image" src="https://github.com/user-attachments/assets/01c18862-c5ec-461e-b55f-5d9266c7235e" />
+### Quiz que o usuário recebe
+Na demonstração abaixo é possível observar os níveis da perguntas aumentando, começando com traduções simples e passando para completar frases, onde nos primeiros niveis são dadas dicas(definição da palavra e preenchimento da primeira letra) e conforme o nivel de aprendizado da palavra as dicas vão ficando menores.
+
+
+https://github.com/user-attachments/assets/bcc1e839-71c8-4dd2-8ad1-2c55bab9a4f2
 
 
 
