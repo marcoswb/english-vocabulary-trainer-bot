@@ -1,208 +1,86 @@
-# 📚 English Vocabulary Trainer Bot
+# English Vocabulary Trainer Bot
 
-Ferramenta pessoal em Python para aprender vocabulário em inglês utilizando:
-- Telegram Bot
-- Spaced Repetition (SRS)
-- Exercícios intercalados
-- Hints adaptativos
-- Geração automática diária (GitHub Actions)
+[![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)  
+[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
 
----
+🔤 **English Vocabulary Trainer Bot** é uma ferramenta para aprender vocabulário em inglês de forma automatizada, inteligente e baseada em **Spaced Repetition (SRS)**.
 
-# 🎯 Objetivo do Projeto
-Criar um bot que auxilia no aprendizado de vocabulário inglês através de quizzes diários enviados via Telegram, utilizando frases de contexto, typing ativo e repetição espaçada.
-
----
-
-# 🧱 Arquitetura Geral
-```
-Python (Telegram Bot)
-       |
-       |-- SQLite (palavras, frases, streak, SRS)
-       |
-GitHub Actions (job diário automatizado)
-       |
-       |-- executa script que envia quiz do dia via Telegram
-```
+Este projeto combina:
+- 👨‍💻 **Telegram Bot** para interação conversacional
+- 📚 Banco de dados com vocabulário, exemplos e estados de revisão
+- 🧠 Algoritmo SRS para revisar palavras no momento ideal
+- 🗓️ **GitHub Actions** para envio diário de quizzes
 
 ---
 
-# 🗂️ Estrutura do Banco SQLite
+## 📌 Objetivo
 
-## **Tabela: vocabulary**
-Campos:
-- id
-- word (inglês)
-- meaning (português)
-- created_at
-
-## **Tabela: training_state**
-Campos:
-- id
-- vocab_id (FK)
-- streak
-- last_review
-- next_review
-- next_exercise_type
-
-## **Tabela: example_sentences**
-Campos:
-- id
-- vocab_id (FK)
-- sentence (frase em inglês)
+Criar um sistema automatizado que ajude no aprendizado diário de vocabulário em inglês por meio de quizzes, com:
+- frases de contexto relevantes
+- exercícios adaptados ao nível do usuário
+- feedback de acerto/erro
+- programação diária de envio
 
 ---
 
-# 🔁 Sistema de Spaced Repetition (simples e eficiente)
-Regras sugeridas:
-```
-Acertou  → streak += 1
-Errou    → streak = 0
+## 🧱 Estrutura do Projeto
 
-streak 0 → revisar hoje
-streak 1 → +1 dia
-streak 2 → +3 dias
-streak 3 → +7 dias
-streak 4 → +14 dias
-streak 5 → +30 dias (revisão esporádica)
+| Componente          | Descrição                                   |
+|---------------------|---------------------------------------------|
+| `.github/workflows` | Automação de envio diário                   |
+| `data/`             | Arquivos texto de vocabulário / frases      |
+| `resource/`         | Arquivos .sql de estrutura do banco de dados | 
+| `src/`              | Código principal do bot                     |
+| `main.py`           | Inicialização do bot                        |
+
+---
+
+## 📈 Spaced Repetition System (SRS)
+
+Este bot usa uma lógica SRS(assim como os algoritmos dos principais cursos de inglês do mercado) para decidir quando cada palavra deve aparecer novamente para aprendizado, ajustando os dias conforme o desempenho do usuário (streak + confidence), garantindo assim que o usuário só irá para o próximo nível do quiz quando realmente tiver aprendido a nova palavra.
+
+---
+
+## 🛠 Como usar / Setup  
+
+### 1. Clone o repositório  
+```bash
+git clone https://github.com/marcoswb/english-vocabulary-trainer-bot.git
+cd english-vocabulary-trainer-bot
 ```
 
----
-
-# 🎮 Tipos de Exercícios (intercalados por dia)
-Cada palavra só aparece **uma vez por dia**, usando um tipo de exercício adequado ao seu nível (streak).
-
-## **1. Inglês → Português**
-- Mostra frase em inglês
-- Palavra destacada
-- Pergunta: *qual o significado em PT?*
-
-## **2. Português → Inglês**
-- Mostra frase traduzida para PT
-- Palavra ausente
-- Pergunta: *qual a palavra em inglês?*
-
-## **3. Cloze deletion (completar palavra)**
-- Palavra removida da frase
-- Ex: `They want to ______ their skills.`
-
----
-
-# 💡 Hints Adaptativos
-Combinam:
-- definição curta da palavra (em inglês)
-- quantidade de letras
-- opcional: primeira letra
-
-## **Sugestão por streak:**
-| streak | hint | exercício |
-|--------|-------|-----------|
-| 0 | definição + tamanho + primeira letra | inglês → portugês |
-| 1 | definição + tamanho | português → inglês |
-| 2 | definição + tamanho | cloze com hint forte |
-| 3 | apenas definição | cloze com hint leve |
-| 4 | sem hint | cloze puro |
-| 5 | revisão ocasional | qualquer tipo |
-
----
-
-# 🕒 Gatilho Diário com GitHub Actions
-O GitHub Actions executa um script Python diariamente para:
-1. Acessar o banco SQLite
-2. Determinar as palavras do dia
-3. Gerar os exercícios
-4. Enviar via Telegram
-
-Exemplo de workflow:
-```yaml
-name: Daily Quiz
-
-on:
-  schedule:
-    - cron: '0 11 * * *'  # ~08:00 Brasil (ajustar)
-  workflow_dispatch:
-
-jobs:
-  quiz:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: pip install python-telegram-bot requests
-
-      - name: Run quiz script
-        env:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
-        run: python daily_quiz.py
+### 2. Configure variáveis de ambiente  
+Crie um arquivo `.env` na raiz do projeto com as credenciais para envio de mensagens no telegram e de acesso ao banco de dados:  
+```env
+API_ID=<chave do bot(gerado pelo telegram)>
+API_HASH=<hash do bot(gerado pelo telegram)>
+TOKEN_BOT=<token do bot(gerado pelo telegram)>
+DB_HOST=<host do banco de dados>
+DB_DATABASE=<nome do banco de dados>
+DB_USER=<usuario do banco de dados>
+DB_PASSWORD=<senha do banco de dados>
+AUTHORIZED_USER_ID=<id do usuário(no telegram) com quem o bot irá se comunicar>
 ```
 
----
+### 3. Iniciar script com GitHub Actions
+Esse projeto possui o arquivo `daily_bot.yml` que é responsável por executar o scraper via [Github Actions](https://github.com/features/actions), ele está configurado para ser executado manualmente quando o usuário desejar e também via cron(agendador de tarefas) todos os dias as 12:15(horário de Brasília).
 
-# 🔗 APIs para Buscar Frases e Definições
-
-## ⭐ **Lingua Robot API** (frases + definições)
-https://www.linguarobot.com/
-
-Endpoint exemplo:
-```
-GET https://lingua-robot.p.rapidapi.com/language/v1/entries/en_US/<word>
-```
+Para que a Action funcione corretamente basta configurar as mesmas variáveis de ambiente descritas no item 2 como [secrets do projeto github](https://docs.github.com/en/actions/concepts/security/secrets), com isso ela já estará agendada para executar todos os dias e você já pode testar também pois esse fluxo permite a execução manual da Action sempre que necessário.
 
 ---
 
-## ⭐ **WordsAPI**
-https://www.wordsapi.com/
+## 📊 Exemplos / Resultados  
 
-Disponível também via RapidAPI.
+### Quiz inicial que o usuário recebe
+<img width="686" height="669" alt="image" src="https://github.com/user-attachments/assets/01c18862-c5ec-461e-b55f-5d9266c7235e" />
 
----
 
-# 📌 Fluxo Diário do Usuário
-1. Bot envia primeiro exercício do dia
-2. Usuário responde
-3. Bot verifica acerto/erro
-4. atualiza streak + próxima revisão
-5. envia próximo exercício (ou finaliza)
 
 ---
 
-# 🧩 Lógica de Seleção de Exercício por streak
-```
-if streak == 0: ingles→portugues
-elif streak == 1: portugues→ingles
-elif streak == 2: cloze + hint forte
-elif streak == 3: cloze + hint leve
-elif streak >= 4: cloze sem hint
-```
+## 📝 Licença  
 
----
+Este projeto está licenciado sob a [MIT License](LICENSE).  
 
-# 🚀 Próximos Passos de Implementação
-1. Criar estrutura do banco SQLite
-2. Implementar módulo SRS
-3. Criar funções para geração de exercícios
-4. Implementar hints adaptativos
-5. Criar bot do Telegram
-6. Criar script diário (daily_quiz.py)
-7. Configurar GitHub Actions
-
----
-
-# 📦 Objetivo Final
-Criar um sistema totalmente automatizado que envia quizzes diários personalizados baseado na dificuldade e domínio real de cada palavra.
-
----
-
-Caso queira expandir este projeto:
-- suporte a áudio TTS das frases
-- dashboard web simples
-- estatísticas de performance
-- exportação CSV/JSON do vocabulário
 
