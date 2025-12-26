@@ -147,6 +147,9 @@ class Start(BaseHandler):
 
             if len(cls.current_questions) == 0:
                 await cls.save_score(update, context)
+            elif (len(cls.correct_responses) + len(cls.wrong_responses)) >= 10:
+                await cls.save_score(update, context)
+
             await cls.send_question(update, context, cls.current_questions, cls.handle_questions_user)
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
@@ -226,5 +229,8 @@ class Start(BaseHandler):
                     training_model.connect()
 
                 time.sleep(60)
+
+            cls.correct_responses.clear()
+            cls.wrong_responses.clear()
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
