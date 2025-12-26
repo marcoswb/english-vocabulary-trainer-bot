@@ -2,10 +2,12 @@ import sys
 from telegram import Update
 from telegram.ext import ContextTypes
 from src.handlers.base_handler import BaseHandler
+from src.utils.decorator_auth import only_authorized
 
 class MessageResponseHandler(BaseHandler):
 
     @classmethod
+    @only_authorized
     async def response_str(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
         try:
             response = update.message.text
@@ -17,6 +19,7 @@ class MessageResponseHandler(BaseHandler):
             await cls.send_error(update, context, error, sys.exc_info())
 
     @classmethod
+    @only_authorized
     async def response_query(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
         try:
             query = update.callback_query

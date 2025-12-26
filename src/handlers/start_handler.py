@@ -11,6 +11,7 @@ from src.utils.enum_exercise_type import ExerciseType
 from src.utils.functions import get_random_itens
 from src.controllers.question import Question
 from src.controllers.time_questions import TimeQuestions
+from src.utils.decorator_auth import only_authorized
 
 
 class Start(BaseHandler):
@@ -26,6 +27,7 @@ class Start(BaseHandler):
     wrong_responses = []
 
     @classmethod
+    @only_authorized
     async def init(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
         try:
             vocabulary_model = Vocabulary()

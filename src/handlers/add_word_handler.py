@@ -5,10 +5,12 @@ from src.handlers.base_handler import BaseHandler
 from src.database.vocabulary import Vocabulary
 from src.database.example_sentence import ExampleSentence
 from src.database.training_state import TrainingState
+from src.utils.decorator_auth import only_authorized
 
 class AddWord(BaseHandler):
 
     @classmethod
+    @only_authorized
     async def init(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
         try:
             english_word = cls.get_message(update).upper()
