@@ -123,6 +123,7 @@ class Start(BaseHandler):
         try:
             if TimeQuestions.is_finished():
                 await cls.finish(update, context, 'Tempo esgotado, voltamos a nos falar amanhã ;)')
+                await cls.save_score(update, context)
                 return
 
             if TimeQuestions.change_level() or len(cls.current_questions) == 0:
@@ -147,7 +148,7 @@ class Start(BaseHandler):
 
             if len(cls.current_questions) == 0:
                 await cls.save_score(update, context)
-            elif (len(cls.correct_responses) + len(cls.wrong_responses)) >= 10:
+            elif (len(cls.correct_responses) + len(cls.wrong_responses)) >= 5:
                 await cls.save_score(update, context)
 
             await cls.send_question(update, context, cls.current_questions, cls.handle_questions_user)
