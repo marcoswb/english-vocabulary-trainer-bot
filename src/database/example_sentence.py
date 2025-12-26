@@ -35,6 +35,6 @@ class ExampleSentence(Postgres):
         result = {}
         for line in result_db:
             result.setdefault(line.get('vocab_id'), [])
-            result[line.get('vocab_id')].append(line.get('sentence'))
+            result[line.get('vocab_id')].append(str(line.get('sentence')).upper())
 
         return result

@@ -51,7 +51,7 @@ class Start(BaseHandler):
 
             for line in training_words:
                 vocab_id = line.get('vocab_id')
-                word = line.get('word')
+                word = str(line.get('word')).upper()
                 streak = line.get('streak')
                 exercise_type = ExerciseType.get_exercise_by_streak(streak)
 
