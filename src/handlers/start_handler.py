@@ -165,6 +165,7 @@ class Start(BaseHandler):
 
             if cls.total_questions == cls.total_responses:
                 await cls.finish(update, context, 'Quiz finalizou, voltamos a nos falar amanhã ;)')
+                await cls.save_score(update, context)
                 context.application.stop_running()
                 return
 
