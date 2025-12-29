@@ -73,7 +73,11 @@ class Postgres:
             for key_aux, value_aux in dict_line.items():
                 if isinstance(value_aux, str):
                     dict_line[key_aux] = value_aux.upper()
-            dict_result[dict_line.get(key_dict.lower()).upper()] = dict_line
+
+            key_dict_value = dict_line.get(key_dict.lower())
+            if isinstance(key_dict_value, str):
+                key_dict_value = key_dict_value.upper()
+            dict_result[key_dict_value] = dict_line
         return dict_result
 
     def clear_table(self):
