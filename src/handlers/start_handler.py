@@ -25,6 +25,8 @@ class Start(BaseHandler):
     current_level = None
     correct_responses = []
     wrong_responses = []
+    total_questions = 0
+    total_responses = 0
 
     @classmethod
     @only_authorized
@@ -122,6 +124,7 @@ class Start(BaseHandler):
                 cls.current_level = 4
                 cls.current_questions = cls.questions_step_4.copy()
 
+            cls.total_questions = len(cls.questions_step_1) + len(cls.questions_step_2) + len(cls.questions_step_3) + len(cls.questions_step_4)
             await cls.send_question(update, context, cls.current_questions, cls.handle_questions_user)
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
@@ -132,6 +135,7 @@ class Start(BaseHandler):
             if TimeQuestions.is_finished():
                 await cls.finish(update, context, 'Tempo esgotado, voltamos a nos falar amanhã ;)')
                 await cls.save_score(update, context)
+                context.application.stop_running()
                 return
 
             if TimeQuestions.change_level() or len(cls.current_questions) == 0:
@@ -158,6 +162,11 @@ class Start(BaseHandler):
                 await cls.save_score(update, context)
             elif (len(cls.correct_responses) + len(cls.wrong_responses)) >= 5:
                 await cls.save_score(update, context)
+
+            if cls.total_questions == cls.total_responses:
+                await cls.finish(update, context, 'Quiz finalizou, voltamos a nos falar amanhã ;)')
+                context.application.stop_running()
+                return
 
             await cls.send_question(update, context, cls.current_questions, cls.handle_questions_user)
         except Exception as error:
@@ -238,6 +247,9 @@ class Start(BaseHandler):
                     training_model.connect()
 
                 time.sleep(60)
+
+            cls.total_responses += len(cls.correct_responses)
+            cls.total_responses += len(cls.wrong_responses)
 
             cls.correct_responses.clear()
             cls.wrong_responses.clear()
