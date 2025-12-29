@@ -59,6 +59,7 @@ class BaseHandler:
     async def ask_with_options(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str, options: list, callback_func):
         context.user_data['callback_function'] = callback_func
         keyboard = []
+        options.sort()
         for option in options:
             keyboard.append([InlineKeyboardButton(option, callback_data=option)])
         await cls.reply(
