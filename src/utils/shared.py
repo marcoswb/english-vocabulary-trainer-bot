@@ -1,0 +1,1 @@
+dic_irregular_verbs = {}

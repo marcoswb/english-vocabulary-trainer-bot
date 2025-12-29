@@ -70,7 +70,10 @@ class Postgres:
         dict_result = {}
         for line in result_db:
             dict_line = dict(zip(header, line))
-            dict_result[dict_line.get(key_dict.lower())] = dict_line
+            for key_aux, value_aux in dict_line.items():
+                if isinstance(value_aux, str):
+                    dict_line[key_aux] = value_aux.upper()
+            dict_result[dict_line.get(key_dict.lower()).upper()] = dict_line
         return dict_result
 
     def clear_table(self):

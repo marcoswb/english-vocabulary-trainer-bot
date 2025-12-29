@@ -1,3 +1,5 @@
+import src.utils.shared as shared
+
 class Question:
 
     def __init__(self, vocab_id=None, question=None, correct_response=None, hint=None, options=None, first_word=False):
@@ -30,6 +32,13 @@ class Question:
     def remove_word_sentence(self):
         if self.__correct_response not in self.__question:
             self.__correct_response = str(self.__correct_response).split(' ')[0]
+
+        if self.__correct_response not in self.__question and self.__correct_response in shared.dic_irregular_verbs:
+            aux_verb = shared.dic_irregular_verbs.get(self.__correct_response)
+            if aux_verb.get('past_simple') in self.__question:
+                self.__correct_response = aux_verb.get('past_simple')
+            elif aux_verb.get('past_participle') in self.__question:
+                self.__correct_response = aux_verb.get('past_participle')
 
         if self.__correct_response in self.__question:
             aux_pos = self.__question.find(self.__correct_response)

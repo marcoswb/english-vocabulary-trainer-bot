@@ -7,11 +7,13 @@ from src.handlers.base_handler import BaseHandler
 from src.database.training_state import TrainingState
 from src.database.vocabulary import Vocabulary
 from src.database.example_sentence import ExampleSentence
+from src.database.irregular_verbs import IrregularVerbs
 from src.utils.enum_exercise_type import ExerciseType
 from src.utils.functions import get_random_itens
 from src.controllers.question import Question
 from src.controllers.time_questions import TimeQuestions
 from src.utils.decorator_auth import only_authorized
+import src.utils.shared as shared
 
 
 class Start(BaseHandler):
@@ -41,8 +43,13 @@ class Start(BaseHandler):
             sentence_model = ExampleSentence()
             sentence_model.connect()
 
+            irregular_verbs_model = IrregularVerbs()
+            irregular_verbs_model.connect()
+
             english_words = vocabulary_model.get_all_english_words()
             portuguese_words = vocabulary_model.get_all_portuguese_words()
+
+            shared.dic_irregular_verbs = irregular_verbs_model.get_all_verbs()
 
             vocabs_to_learn = []
             training_words = training_model.get_vocabs_to_training()
