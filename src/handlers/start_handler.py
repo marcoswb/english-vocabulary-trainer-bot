@@ -235,6 +235,10 @@ class Start(BaseHandler):
                 else:
                     decrease_confidence.append(str(vocab_id))
 
+
+            cls.total_responses += len(cls.correct_responses)
+            cls.total_responses += len(cls.wrong_responses)
+
             count = 0
             while count < 5:
                 count += 1
@@ -246,7 +250,7 @@ class Start(BaseHandler):
                     training_model.change_streak(decrease_streak, decrease=True)
 
                     training_model.update_last_review(update_last_review)
-                    await cls.send_message(update, context, 'SALVOU TUDO!')
+                    await cls.send_message(update, context, f'SALVOU TUDO! {cls.total_responses}/{cls.total_questions}')
                     break
                 except Exception as error:
                     await cls.send_error(update, context, error, sys.exc_info())
@@ -255,9 +259,6 @@ class Start(BaseHandler):
                     training_model.connect()
 
                 time.sleep(60)
-
-            cls.total_responses += len(cls.correct_responses)
-            cls.total_responses += len(cls.wrong_responses)
 
             cls.correct_responses.clear()
             cls.wrong_responses.clear()
