@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS english_trainer.training_state
         ON DELETE NO ACTION
         NOT VALID,
     CONSTRAINT chk_streak CHECK (streak >= 0 AND streak <= 5),
-    CONSTRAINT chk_confidence CHECK (confidence >= 0 AND confidence <= 2)
+    CONSTRAINT chk_confidence CHECK (confidence >= 0 AND confidence <= 3)
 )
 
 TABLESPACE pg_default;
