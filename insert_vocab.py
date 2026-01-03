@@ -27,19 +27,19 @@ def load_vocabulary(cursor):
 
 
 def load_training_state(cursor):
-    with open(f'{BASE_PATH}/training_state.txt', encoding='utf-8') as f:
+    with open(f'{BASE_PATH}/vocabulary.txt', encoding='utf-8') as f:
         for line in f:
-            word, streak, last_review, next_review, confidence = line.strip().split('\t')
+            word, _, _ = line.strip().split('\t')
 
             cursor.execute(
                 """
                 INSERT INTO english_trainer.training_state
                 (vocab_id, streak, last_review, next_review, confidence)
-                SELECT id, %s, CURRENT_DATE, CURRENT_DATE, %s
+                SELECT id, 0, CURRENT_DATE, CURRENT_DATE, 0
                 FROM english_trainer.vocabulary
                 WHERE word = %s
                 """,
-                (int(streak), int(confidence), word)
+                (word, )
             )
 
 
@@ -62,6 +62,7 @@ def load_example_sentences(cursor):
 def main():
     conn = psycopg2.connect(**DB_CONFIG)
     try:
+        print('Carregando dados.')
         with conn:
             with conn.cursor() as cursor:
                 load_vocabulary(cursor)
