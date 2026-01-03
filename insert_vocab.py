@@ -59,17 +59,38 @@ def load_example_sentences(cursor):
             )
 
 
+def save_table(name_table, cursor):
+    with open(f'./resource/data_{name_table}.txt', 'w', encoding='utf-8') as f:
+        cursor.execute(f'SELECT * FROM english_trainer.{name_table} ORDER BY 1')
+        result_db = cursor.fetchall()
+
+        f.write('\t'.join([desc[0].lower() for desc in cursor.description]))
+        f.write('\n')
+        for line in result_db:
+            f.write('\t'.join([str(column) for column in line]))
+            f.write('\n')
+
+
 def main():
     conn = psycopg2.connect(**DB_CONFIG)
     try:
-        print('Carregando dados.')
         with conn:
             with conn.cursor() as cursor:
+                print('Carregando dados.')
+
                 load_vocabulary(cursor)
                 load_training_state(cursor)
                 load_example_sentences(cursor)
 
-        print('Dados carregados com sucesso.')
+                print('Dados carregados com sucesso.')
+
+                print('Realizando backup dos dados.')
+
+                save_table('vocabulary', cursor)
+                save_table('training_state', cursor)
+                save_table('example_sentences', cursor)
+
+                print('Backup realizado com sucesso.')
 
     except Exception as e:
         conn.rollback()

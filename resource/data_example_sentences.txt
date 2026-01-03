@@ -1,0 +1,2651 @@
+id	vocab_id	sentence
+34	34	She aims to become a software engineer.
+35	34	We should aim higher this year.
+36	34	The project aims to reduce costs.
+37	34	He aimed the camera carefully.
+38	34	They aim for quality over speed.
+39	34	The policy aims at fairness.
+40	34	She is aiming for a promotion.
+41	34	The program aims to help beginners.
+42	34	He aimed his efforts at learning English.
+43	34	We aim to finish the project early.
+44	35	It is imperative to follow the rules.
+45	35	Communication is imperative in a team.
+46	35	Sleep is imperative for health.
+47	35	It is imperative that we act now.
+48	35	Security is imperative in this system.
+49	35	Clear documentation is imperative.
+50	35	Training is imperative for success.
+51	35	Safety measures are imperative.
+52	35	Time management is imperative.
+53	35	It became imperative to fix the issue.
+54	36	They postponed the meeting.
+55	36	We had to postpone the release.
+56	36	The event was postponed due to rain.
+57	36	He postponed his vacation.
+58	36	Let’s not postpone the decision.
+59	36	The launch was postponed again.
+60	36	She postponed the call.
+61	36	They postponed the deadline.
+62	36	The trip was postponed indefinitely.
+63	36	He decided to postpone the task.
+64	37	He was behind schedule.
+65	37	She stayed behind after class.
+66	37	The car behind us was speeding.
+67	37	We are behind in our work.
+68	37	He hid behind the door.
+69	37	The team is behind on tasks.
+70	37	She left everything behind.
+71	37	He fell behind in school.
+72	37	The house is behind the park.
+73	37	They are behind the project.
+74	38	First off, let me explain the rules.
+75	38	First off, thank you for coming.
+76	38	First off, we need a plan.
+77	38	First off, I disagree.
+78	38	First off, check your email.
+79	38	First off, we must define goals.
+80	38	First off, I want to clarify something.
+81	38	First off, this is not acceptable.
+82	38	First off, let’s review the basics.
+83	38	First off, welcome everyone.
+84	39	Let’s go over the report.
+85	39	We need to go over the details.
+86	39	The teacher went over the lesson.
+87	39	Can we go over this once more?
+88	39	He went over the plan carefully.
+89	39	She went over her notes.
+90	39	Let’s go over the requirements.
+91	39	They went over the contract.
+92	39	I want to go over the rules.
+93	39	We should go over everything.
+94	40	Please say that once more.
+95	40	Let’s try once more.
+96	40	He checked the data once more.
+97	40	She asked once more for help.
+98	40	We failed once more.
+99	40	He read the email once more.
+100	40	Try once more tomorrow.
+101	40	They met once more.
+102	40	He knocked once more.
+103	40	Let’s review this once more.
+104	41	Follow the correct procedure.
+105	41	The procedure is clearly defined.
+106	41	This procedure takes time.
+107	41	Safety procedure must be followed.
+108	41	The procedure was updated.
+109	41	They explained the procedure.
+110	41	It’s a standard procedure.
+111	41	The procedure failed.
+112	41	We reviewed the procedure.
+113	41	The procedure is mandatory.
+114	42	He stated his opinion clearly.
+115	42	Please state your name.
+116	42	She stated the facts.
+117	42	The law states that clearly.
+118	42	He stated his position.
+119	42	The report states the problem.
+120	42	She stated her concerns.
+121	42	The document states the rules.
+122	42	He stated the objective.
+123	42	Please state your reason.
+124	43	Clean the room thoroughly.
+125	43	He explained the topic thoroughly.
+126	43	She reviewed the code thoroughly.
+127	43	They enjoyed the trip thoroughly.
+128	43	The system was thoroughly tested.
+129	43	Read the document thoroughly.
+130	43	He checked everything thoroughly.
+131	43	The issue was thoroughly analyzed.
+132	43	She washed her hands thoroughly.
+133	43	The process was thoroughly reviewed.
+134	44	They organized a farewell party.
+135	44	We had a farewell party at work.
+136	44	The farewell party was emotional.
+137	44	She invited everyone to her farewell party.
+138	44	The team planned a farewell party.
+139	44	They held a farewell party on Friday.
+140	44	It was a surprise farewell party.
+141	44	He gave a speech at the farewell party.
+142	44	The farewell party was unforgettable.
+143	44	We attended a farewell party.
+144	45	They organized a collection for the farewell party.
+145	45	We made a collection to buy her a gift.
+146	45	The collection raised enough money.
+147	45	Everyone contributed to the collection.
+148	45	The office collection was a success.
+149	45	They started a collection for charity.
+150	45	The collection helped pay for the present.
+151	45	She managed the collection.
+152	45	A small collection was made among friends.
+153	45	The team agreed to do a collection.
+154	46	I am looking forward to the trip.
+155	46	She is looking forward to the meeting.
+156	46	They are looking forward to the results.
+157	46	He is looking forward to the weekend.
+158	46	We are looking forward to working together.
+159	46	She said she is looking forward to it.
+160	46	I am really looking forward to it.
+161	46	They are looking forward to the launch.
+162	46	He is looking forward to retirement.
+163	46	We are looking forward to your reply.
+164	47	She loves her grandchildren.
+165	47	They visit their grandchildren often.
+166	47	His grandchildren live nearby.
+167	47	The grandchildren are playing outside.
+168	47	She babysits her grandchildren.
+169	47	He is proud of his grandchildren.
+170	47	They took pictures of their grandchildren.
+171	47	The grandchildren came to visit.
+172	47	She talks about her grandchildren often.
+173	47	They enjoy time with their grandchildren.
+174	48	He feels stuck in a dead-end job.
+175	48	She quit her dead-end job.
+176	48	Nobody wants a dead-end job.
+177	48	He escaped a dead-end job.
+178	48	She was tired of her dead-end job.
+179	48	It felt like a dead-end job.
+180	48	He described it as a dead-end job.
+181	48	They discussed leaving their dead-end job.
+182	48	She stayed too long in a dead-end job.
+183	48	He wanted more than a dead-end job.
+184	49	I commute to work every day.
+185	49	She has a long commute.
+186	49	His commute takes an hour.
+187	49	They commute by train.
+188	49	The commute is exhausting.
+189	49	She hates her commute.
+190	49	He shortened his commute.
+191	49	Many people commute daily.
+192	49	The commute was delayed.
+193	49	He changed jobs to reduce his commute.
+194	50	They talked out their problems.
+195	50	Let’s talk it out.
+196	50	They talked out the issue calmly.
+197	50	He suggested talking it out.
+198	50	They managed to talk it out.
+199	50	We should talk this out.
+200	50	She talked it out with him.
+201	50	They talked out their differences.
+202	50	Let’s talk it out before deciding.
+203	50	They talked it out peacefully.
+204	51	I need to figure out the problem.
+205	51	She figured out the answer.
+206	51	I need to figure out the best solution for this problem.
+207	51	They figured out the solution.
+208	51	She’s trying to figure out why the system is failing.
+209	51	We must figure out how to improve performance.
+210	51	He finally figured out the correct answer.
+211	51	Can you figure out what this error means?
+212	51	They figured out how it works.
+213	51	They are working to figure out a way to reduce costs.
+214	52	I am rusty at speaking English.
+215	52	He feels rusty after years away.
+216	52	My math skills are rusty.
+217	52	She is a bit rusty.
+218	52	He sounded rusty at first.
+219	52	I am rusty but improving.
+220	52	They were rusty in the beginning.
+221	52	His skills are rusty.
+222	52	I feel rusty today.
+223	52	She was rusty after the break.
+224	53	His behavior was unacceptable.
+225	53	Good behavior is rewarded.
+226	53	She studied animal behavior.
+227	53	The behavior changed over time.
+228	53	His behavior improved.
+229	53	They discussed his behavior.
+230	53	Behavior matters in the workplace.
+231	53	The child showed good behavior.
+232	53	They analyzed user behavior.
+233	53	Behavior reflects values.
+234	54	The company will deliver the package tomorrow.
+235	54	She delivered an excellent presentation.
+236	54	We need to deliver results.
+237	54	He failed to deliver on time.
+238	54	They deliver quality services.
+239	54	The system delivers accurate data.
+240	54	She always delivers what she promises.
+241	54	The courier delivered the documents.
+242	54	He managed to deliver under pressure.
+243	54	The team delivered a great product.
+244	55	Communication is one of his key strengths.
+245	55	She highlighted her key strengths.
+246	55	Teamwork is among my key strengths.
+247	55	Understanding your key strengths is important.
+248	55	They discussed the candidate’s key strengths.
+249	55	One of his key strengths is the ability to solve complex problems quickly.
+250	55	The report outlines key strengths.
+251	55	He knows his key strengths well.
+252	55	Leadership is one of her key strengths.
+253	55	They focused on their key strengths.
+254	56	I go to the gym every other day.
+255	56	She works from home every other day.
+256	56	We have meetings every other day.
+257	56	He takes the bus every other day.
+258	56	They practice English every other day.
+259	56	The medication is taken every other day.
+260	56	She calls her parents every other day.
+261	56	He studies late every other day.
+262	56	They clean the office every other day.
+263	56	I cook at home every other day.
+264	57	She has strong managerial skills.
+265	57	He applied for a managerial position.
+266	57	Managerial decisions affect the team.
+267	57	She lacks managerial experience.
+268	57	The role requires managerial responsibility.
+269	57	He is developing managerial abilities.
+270	57	Managerial tasks can be challenging.
+271	57	The course focuses on managerial training.
+272	57	She moved into a managerial role.
+273	57	Managerial support is essential.
+274	58	Stealing is against the law.
+275	58	He was caught stealing.
+276	58	Stealing damages trust.
+277	58	They accused him of stealing.
+278	58	Stealing from colleagues is unacceptable.
+279	58	She admitted to stealing.
+280	58	Stealing can have serious consequences.
+281	58	The company fired him for stealing.
+282	58	He was punished for stealing.
+283	58	Stealing is morally wrong.
+284	59	Let’s bounce some ideas off each other.
+285	59	She bounced the idea off her manager.
+286	59	He likes to bounce ideas off the team.
+287	59	We bounced ideas off during the meeting.
+288	59	She bounced her thoughts off me.
+289	59	They bounced solutions off one another.
+290	59	I need to bounce this idea off you.
+291	59	He bounced ideas off his colleagues.
+292	59	They bounced concepts off the group.
+293	59	Let’s bounce ideas off before deciding.
+294	60	He is looking for employment.
+295	60	The company offers stable employment.
+296	60	Employment opportunities are growing.
+297	60	She found employment quickly.
+298	60	They discussed terms of employment.
+299	60	Employment rates are improving.
+300	60	He lost his employment.
+301	60	The contract defines employment conditions.
+302	60	She returned to employment.
+303	60	Employment benefits vary.
+304	61	It is my duty to help.
+305	61	He takes his duty seriously.
+306	61	She was on duty last night.
+307	61	Duty comes before pleasure.
+308	61	They fulfilled their duty.
+309	61	He neglected his duty.
+310	61	Duty requires commitment.
+311	61	She feels a sense of duty.
+312	61	It’s your duty to report it.
+313	61	They understand their duty.
+314	62	The decision was fair.
+315	62	Everyone deserves a fair chance.
+316	62	That seems fair to me.
+317	62	They want fair treatment.
+318	62	The rules are fair.
+319	62	She believes in fair competition.
+320	62	The judge made a fair ruling.
+321	62	We want a fair solution.
+322	62	The deal was fair.
+323	62	He played fair.
+324	63	Take it easy and relax.
+325	63	He told me to take it easy.
+326	63	Take it easy after surgery.
+327	63	She decided to take it easy today.
+328	63	Just take it easy for now.
+329	63	He needs to take it easy.
+330	63	Take it easy on yourself.
+331	63	The doctor said to take it easy.
+332	63	Let’s take it easy tonight.
+333	63	She tries to take it easy.
+334	64	At least we tried.
+335	64	He should arrive at least by noon.
+336	64	It will take at least an hour.
+337	64	At least she called.
+338	64	You need at least two years of experience.
+339	64	At least tell me the truth.
+340	64	He earns at least that much.
+341	64	At least one option worked.
+342	64	We need at least five people.
+343	64	At least they apologized.
+344	65	His duties include managing the team.
+345	65	She knows her duties well.
+346	65	They outlined their duties.
+347	65	The job duties are clear.
+348	65	He failed to perform his duties.
+349	65	Her duties changed recently.
+350	65	They share their duties.
+351	65	The contract defines duties.
+352	65	Duties must be respected.
+353	65	She accepted new duties.
+354	66	We tailored the solution to the client.
+355	66	She tailored her resume.
+356	66	The course is tailored for beginners.
+357	66	They tailored the service.
+358	66	He tailored his approach.
+359	66	The plan was tailored to our needs.
+360	66	She tailored the presentation.
+361	66	The program is tailored specifically.
+362	66	They tailor products for customers.
+363	66	He tailored the message.
+364	67	Choose whichever option you like.
+365	67	Whichever you prefer is fine.
+366	67	You can take whichever seat.
+367	67	Whichever comes first wins.
+368	67	Pick whichever works best.
+369	67	Whichever path you choose.
+370	67	Whichever answer is correct.
+371	67	Use whichever tool you need.
+372	67	Whichever solution fits.
+373	67	Whichever decision you make.
+374	68	Please proofread this document.
+375	68	She proofread the article.
+376	68	He forgot to proofread.
+377	68	The text was proofread carefully.
+378	68	She asked me to proofread.
+379	68	Always proofread your work.
+380	68	The editor proofread the content.
+381	68	He proofread the email.
+382	68	They proofread the report.
+383	68	She proofread everything.
+384	69	We need to leverage our resources.
+385	69	He leveraged his experience.
+386	69	They leveraged technology.
+387	69	She knows how to leverage skills.
+388	69	Leverage your network.
+389	69	They leveraged the opportunity.
+390	69	He leveraged data insights.
+391	69	We leveraged existing tools.
+392	69	She leveraged her strengths.
+393	69	They leveraged partnerships.
+394	70	Tune in to the show tonight.
+395	70	She tuned in to the webinar.
+396	70	He tunes in every morning.
+397	70	Don’t forget to tune in.
+398	70	They tuned in late.
+399	70	Tune in for updates.
+400	70	She tuned in online.
+401	70	He tuned in on time.
+402	70	They tune in regularly.
+403	70	Tune in tomorrow.
+404	71	He landed a new job.
+405	71	She landed the deal.
+406	71	They landed safely.
+407	71	He hopes to land an interview.
+408	71	The plane will land soon.
+409	71	She landed her first client.
+410	71	They landed the contract.
+411	71	He finally landed the role.
+412	71	She landed a promotion.
+413	71	They landed the project.
+414	72	The effort was worthwhile.
+415	72	It is worthwhile to learn English.
+416	72	The trip was worthwhile.
+417	72	She found it worthwhile.
+418	72	The investment is worthwhile.
+419	72	It was a worthwhile experience.
+420	72	He believes it’s worthwhile.
+421	72	The risk was worthwhile.
+422	72	It proved worthwhile.
+423	72	The project is worthwhile.
+424	73	She attended a career fair.
+425	73	The career fair was crowded.
+426	73	They met recruiters at the career fair.
+427	73	He found opportunities at the career fair.
+428	73	The university hosted a career fair.
+429	73	She prepared for the career fair.
+430	73	They promoted jobs at the career fair.
+431	73	He networked at the career fair.
+432	73	The career fair helped students.
+433	73	Many companies joined the career fair.
+434	79	This is an entry-level position.
+435	79	She applied for an entry-level job.
+436	79	Entry-level roles require little experience.
+437	79	He started in an entry-level role.
+438	79	The company offers entry-level opportunities.
+439	79	Most graduates look for entry-level positions.
+440	79	Entry-level employees receive training.
+441	79	She accepted an entry-level offer.
+442	79	Entry-level jobs help build experience.
+443	79	He was hired for an entry-level position.
+444	80	The workload was overwhelming.
+445	80	The response was overwhelming.
+446	80	It was an overwhelming experience.
+447	80	The task felt overwhelming.
+448	80	The support was overwhelming.
+449	80	The situation became overwhelming.
+450	80	The noise was overwhelming.
+451	80	The emotion was overwhelming.
+452	80	An overwhelming challenge appeared.
+453	80	The demand was overwhelming.
+454	81	Job seekers attended the fair.
+455	81	Seekers are looking for opportunities.
+456	81	Many seekers applied online.
+457	81	The platform helps job seekers.
+458	81	Seekers must submit resumes.
+459	81	Job seekers need patience.
+460	81	Seekers gathered at the event.
+461	81	The company supports seekers.
+462	81	Seekers shared experiences.
+463	81	Young seekers joined the program.
+464	82	Please respond at once.
+465	82	She left at once.
+466	82	They acted at once.
+467	82	Everything happened at once.
+468	82	He understood it at once.
+469	82	The issue was solved at once.
+470	82	She replied at once.
+471	82	They agreed at once.
+472	82	He reacted at once.
+473	82	The team moved at once.
+474	83	So far, everything is fine.
+475	83	I like the job so far.
+476	83	So far, no problems.
+477	83	The results are good so far.
+478	83	So far, we agree.
+479	83	Nothing has changed so far.
+480	83	So far, the plan works.
+481	83	So far, so good.
+482	83	He is satisfied so far.
+483	83	So far, we succeeded.
+484	84	He was hired on the spot.
+485	84	She answered on the spot.
+486	84	They decided on the spot.
+487	84	He solved the problem on the spot.
+488	84	She reacted on the spot.
+489	84	He was fired on the spot.
+490	84	She improvised on the spot.
+491	84	The decision was made on the spot.
+492	84	They agreed on the spot.
+493	84	He responded on the spot.
+494	85	The design grabs attention.
+495	85	You need to grab attention fast.
+496	85	The headline grabbed attention.
+497	85	Colors help grab attention.
+498	85	The speech grabbed attention.
+499	85	He tried to grab attention.
+500	85	This poster grabs attention.
+501	85	The intro grabbed attention.
+502	85	She knows how to grab attention.
+503	85	The booth grabbed attention.
+504	86	The intro hooked me.
+505	86	That scene really hooks viewers.
+506	86	You need a hook in your pitch.
+507	86	The story hooked the audience.
+508	86	The first line hooks attention.
+509	86	Good hooks are memorable.
+510	86	The video had a strong hook.
+511	86	The hook was effective.
+512	86	A good hook keeps interest.
+513	86	That hook worked well.
+514	87	They were shaking hands.
+515	87	Shaking hands is a formal greeting.
+516	87	He avoided shaking hands.
+517	87	Shaking hands shows respect.
+518	87	They greeted by shaking hands.
+519	87	Shaking hands is common in meetings.
+520	87	She felt nervous shaking hands.
+521	87	They started by shaking hands.
+522	87	Shaking hands sealed the deal.
+523	87	Everyone was shaking hands.
+524	88	The company will compensate employees.
+525	88	He tried to compensate for the delay.
+526	88	Money cannot compensate the loss.
+527	88	The bonus compensates extra work.
+528	88	They compensated the mistake.
+529	88	Time off can compensate overtime.
+530	88	She was compensated fairly.
+531	88	The benefit compensates the effort.
+532	88	They want to compensate damages.
+533	88	The raise compensates inflation.
+534	89	She applied for an internship.
+535	89	The internship lasts six months.
+536	89	He gained experience through an internship.
+537	89	Internships help students.
+538	89	She completed her internship.
+539	89	The company offers internships.
+540	89	Internship programs are competitive.
+541	89	He learned a lot during the internship.
+542	89	Internships build careers.
+543	89	She accepted an internship offer.
+544	90	The company has a booth at the fair.
+545	90	She visited the booth.
+546	90	The booth attracted visitors.
+547	90	They set up a booth.
+548	90	The booth displayed products.
+549	90	He worked at the booth.
+550	90	The booth was crowded.
+551	90	Each company had a booth.
+552	90	The booth grabbed attention.
+553	90	The booth looked professional.
+554	91	I will follow up tomorrow.
+555	91	She followed up by email.
+556	91	Please follow up with them.
+557	91	He forgot to follow up.
+558	91	Following up is important.
+559	91	She did a follow up call.
+560	91	Always follow up after interviews.
+561	91	He promised to follow up.
+562	91	They will follow up later.
+563	91	Make sure to follow up.
+564	92	Please confirm your availability.
+565	92	She has limited availability.
+566	92	Availability starts next week.
+567	92	He checked her availability.
+568	92	The job depends on availability.
+569	92	Availability may change.
+570	92	She stated her availability.
+571	92	They discussed availability.
+572	92	Availability is required.
+573	92	He asked about availability.
+574	93	The company supports people with disabilities.
+575	93	She has a physical disability.
+576	93	Disability should not limit opportunity.
+577	93	The form asks about disability.
+578	93	He disclosed a disability.
+579	93	Disability laws protect workers.
+580	93	They provide disability access.
+581	93	Awareness about disability is growing.
+582	93	The policy covers disability.
+583	93	Disability accommodations are required.
+584	94	It is illegal to discriminate against employees.
+585	94	They should not discriminate against anyone.
+586	94	The law protects people from discrimination.
+587	94	You cannot discriminate against candidates.
+588	94	The policy forbids discrimination.
+589	94	Companies must not discriminate against workers.
+590	94	He felt discriminated against.
+591	94	Discrimination is unacceptable.
+592	94	They fight discrimination.
+593	94	Discriminating against others is wrong.
+594	95	The form asks for marital status.
+595	95	Marital status should not matter.
+596	95	He disclosed his marital status.
+597	95	Companies cannot ask about marital status.
+598	95	She updated her marital status.
+599	95	Marital status is personal information.
+600	95	The question about marital status is illegal.
+601	95	They avoid asking marital status.
+602	95	Marital status is protected by law.
+603	95	The policy covers marital status.
+604	96	I can vouch for his skills.
+605	96	She vouched for her colleague.
+606	96	He can vouch for the quality.
+607	96	They vouched for his honesty.
+608	96	I vouch for this product.
+609	96	She vouched for the candidate.
+610	96	He vouched for her experience.
+611	96	They can vouch for reliability.
+612	96	I can vouch for the service.
+613	96	She vouched for him.
+614	97	Experience is an asset.
+615	97	Communication is a key asset.
+616	97	Skills are valuable assets.
+617	97	Teamwork is an asset.
+618	97	His attitude is an asset.
+619	97	Knowledge is an asset.
+620	97	This tool is an asset.
+621	97	She became an asset to the team.
+622	97	Time is an asset.
+623	97	The asset added value.
+624	98	She wrote a cover letter.
+625	98	The cover letter was well written.
+626	98	Attach a cover letter.
+627	98	He updated his cover letter.
+628	98	A cover letter explains experience.
+629	98	Employers read cover letters.
+630	98	Her cover letter stood out.
+631	98	Write a clear cover letter.
+632	98	The cover letter was short.
+633	98	He sent a cover letter.
+634	99	The paperwork was a hassle.
+635	99	It’s too much hassle.
+636	99	The process is a hassle.
+637	99	Traveling can be a hassle.
+638	99	I don’t want the hassle.
+639	99	It’s not worth the hassle.
+640	99	The setup was a hassle.
+641	99	That sounds like a hassle.
+642	99	Avoid unnecessary hassle.
+643	99	It became a real hassle.
+644	100	She received a form letter.
+645	100	The company sent a form letter.
+646	100	It was clearly a form letter.
+647	100	The reply looked like a form letter.
+648	100	Form letters feel impersonal.
+649	100	He used a form letter.
+650	100	The rejection was a form letter.
+651	100	They rely on form letters.
+652	100	A form letter saves time.
+653	100	She customized the form letter.
+654	101	The email ended with Sincerely.
+655	101	He signed the letter Sincerely.
+656	101	Sincerely is a formal closing.
+657	101	She wrote Sincerely at the end.
+658	101	The message closed with Sincerely.
+659	101	Sincerely sounds professional.
+660	101	The letter said Sincerely.
+661	101	Use Sincerely in formal emails.
+662	101	Sincerely is widely used.
+663	101	He ended it with Sincerely.
+664	102	She is aware of the risks.
+665	102	I wasn’t aware of that.
+666	102	He became aware of the issue.
+667	102	They are fully aware.
+668	102	She made him aware.
+669	102	Be aware of deadlines.
+670	102	He is aware of the rules.
+671	102	They weren’t aware.
+672	102	Stay aware of changes.
+673	102	She is aware now.
+674	103	I booked a time slot.
+675	103	The slot is available.
+676	103	She got the last slot.
+677	103	The meeting slot changed.
+678	103	We have an open slot.
+679	103	The slot was confirmed.
+680	103	I need a free slot.
+681	103	The slot fits my schedule.
+682	103	Choose a time slot.
+683	103	The slot is taken.
+684	104	We can meet tomorrow, if that suits you.
+685	104	I can reschedule, if that suits you.
+686	104	Let me know if that suits you.
+687	104	Friday works, if that suits you.
+688	104	We can call later, if that suits you.
+689	104	I’ll send it today, if that suits you.
+690	104	We can adjust, if that suits you.
+691	104	I can wait, if that suits you.
+692	104	We can proceed, if that suits you.
+693	104	We’ll move forward, if that suits you.
+694	105	I need to find out the truth.
+695	105	She found out yesterday.
+696	105	Let me find out.
+697	105	He tried to find out more.
+698	105	They want to find out why.
+699	105	I found out online.
+700	105	She found out later.
+701	105	Find out what happened.
+702	105	He found out quickly.
+703	105	We’ll find out soon.
+704	106	She is very picky.
+705	106	He’s picky about food.
+706	106	The client is picky.
+707	106	Don’t be so picky.
+708	106	She’s picky with details.
+709	106	He’s picky about quality.
+710	106	The boss is picky.
+711	106	They are picky buyers.
+712	106	Kids can be picky.
+713	106	I’m not that picky.
+714	107	The news spread by word of mouth.
+715	107	They heard it by word of mouth.
+716	107	Marketing works by word of mouth.
+717	107	It spread through word of mouth.
+718	107	Word of mouth is powerful.
+719	107	The brand grew by word of mouth.
+720	107	They rely on word of mouth.
+721	107	Word of mouth builds trust.
+722	107	It travels by word of mouth.
+723	107	Word of mouth matters.
+724	108	We need to advance the schedule.
+725	108	Technology continues to advance.
+726	108	She advanced her career.
+727	108	The project advanced quickly.
+728	108	He paid in advance.
+729	108	They advanced to the next round.
+730	108	Advance planning helps.
+731	108	The team advanced together.
+732	108	We must advance carefully.
+733	108	She asked for an advance.
+734	109	So far so good, knock on wood.
+735	109	It hasn’t failed, knock on wood.
+736	109	Everything works, knock on wood.
+737	109	He added knock on wood.
+738	109	They laughed and said knock on wood.
+739	109	Knock on wood, no issues.
+740	109	She whispered knock on wood.
+741	109	Knock on wood, we’re safe.
+742	109	He tapped the desk, knock on wood.
+743	109	Knock on wood, it lasts.
+744	110	Let’s catch some rays.
+745	110	They went to catch some rays.
+746	110	I want to catch some rays.
+747	110	She plans to catch some rays.
+748	110	We’ll catch some rays later.
+749	110	Time to catch some rays.
+750	110	They caught some rays at the beach.
+751	110	Go outside and catch some rays.
+752	110	He went to catch some rays.
+753	110	We caught some rays.
+754	111	You need to chill out.
+755	111	Let’s chill out this weekend.
+756	111	He told her to chill out.
+757	111	She needs to chill out.
+758	111	Chill out and relax.
+759	111	They chilled out at home.
+760	111	He chilled out after work.
+761	111	Just chill out a bit.
+762	111	Music helps me chill out.
+763	111	We should chill out more.
+764	112	I commute with nature every day.
+765	112	She enjoys commuting with nature.
+766	112	Commuting with nature reduces stress.
+767	112	He prefers to commute with nature.
+768	112	They commute with nature daily.
+769	112	She chose to commute with nature.
+770	112	Commuting with nature feels peaceful.
+771	112	He started commuting with nature.
+772	112	It’s nice to commute with nature.
+773	112	They love to commute with nature.
+774	113	He’s a couch potato.
+775	113	She became a couch potato.
+776	113	Don’t be a couch potato.
+777	113	He spent the weekend as a couch potato.
+778	113	A couch potato avoids exercise.
+779	113	Too much TV makes you a couch potato.
+780	113	She jokes about being a couch potato.
+781	113	He admits he’s a couch potato.
+782	113	Couch potatoes love streaming.
+783	113	They turned into couch potatoes.
+784	114	She looks concerned.
+785	114	I’m concerned about the result.
+786	114	He sounded concerned.
+787	114	They are concerned with safety.
+788	114	The manager is concerned.
+789	114	She felt concerned.
+790	114	I’m deeply concerned.
+791	114	Parents are concerned.
+792	114	He became concerned.
+793	114	The team was concerned.
+794	115	He gave a big grin.
+795	115	She couldn’t hide her grin.
+796	115	A grin appeared on his face.
+797	115	He smiled with a grin.
+798	115	Her grin was contagious.
+799	115	The child had a wide grin.
+800	115	He answered with a grin.
+801	115	A grin showed confidence.
+802	115	She flashed a grin.
+803	115	The grin said it all.
+804	116	She gave him a wink.
+805	116	He winked jokingly.
+806	116	The wink was friendly.
+807	116	She winked at the camera.
+808	116	A wink can mean a joke.
+809	116	He finished with a wink.
+810	116	The wink felt playful.
+811	116	She added a wink.
+812	116	He sent a wink emoji.
+813	116	The wink showed confidence.
+814	117	She took a quick glance.
+815	117	He glanced at the clock.
+816	117	A glance was enough.
+817	117	She stole a glance.
+818	117	He gave her a glance.
+819	117	The glance revealed interest.
+820	117	She glanced back.
+821	117	He took a brief glance.
+822	117	A glance showed concern.
+823	117	They exchanged a glance.
+824	118	She is very dependable.
+825	118	He’s a dependable worker.
+826	118	The system is dependable.
+827	118	They need dependable staff.
+828	118	A dependable friend helps.
+829	118	She proved dependable.
+830	118	The service is dependable.
+831	118	He is known as dependable.
+832	118	Dependable people earn trust.
+833	118	The team is dependable.
+834	119	It was a foolish mistake.
+835	119	That sounds foolish.
+836	119	He made a foolish decision.
+837	119	Don’t be foolish.
+838	119	It would be foolish to ignore this.
+839	119	She felt foolish afterward.
+840	119	Foolish choices lead to problems.
+841	119	He acted foolishly.
+842	119	It was foolish of him.
+843	119	A foolish move cost him.
+844	120	The issue is settled.
+845	120	She felt settled at home.
+846	120	The matter was settled quickly.
+847	120	They finally settled down.
+848	120	The dust has settled.
+849	120	He seemed settled.
+850	120	The argument is settled.
+851	120	She looked settled.
+852	120	Everything is settled now.
+853	120	They are settled in.
+854	121	The weapon was hidden.
+855	121	He dropped his weapon.
+856	121	The weapon was illegal.
+857	121	She carried a weapon.
+858	121	The weapon caused fear.
+859	121	They found the weapon.
+860	121	The weapon was loaded.
+861	121	He used the weapon.
+862	121	The weapon was seized.
+863	121	A dangerous weapon.
+864	122	He threatened to quit.
+865	122	They threatened action.
+866	122	Don’t threaten people.
+867	122	The storm threatened the coast.
+868	122	She felt threatened.
+869	122	The news threatened stability.
+870	122	He didn’t mean to threaten.
+871	122	Threatening behavior is serious.
+872	122	They threaten change.
+873	122	It could threaten safety.
+874	123	The door burst open.
+875	123	The box burst open.
+876	123	The bag burst open.
+877	123	The room burst open suddenly.
+878	123	The container burst open.
+879	123	The lid burst open.
+880	123	The gate burst open.
+881	123	The seal burst open.
+882	123	The package burst open.
+883	123	The window burst open.
+884	124	They tried to kidnap him.
+885	124	The child was kidnapped.
+886	124	He planned to kidnap her.
+887	124	The criminals kidnapped someone.
+888	124	She feared being kidnapped.
+889	124	The plot involved kidnap.
+890	124	Police stopped the kidnap.
+891	124	It was a kidnap attempt.
+892	124	Kidnapping is a serious crime.
+893	124	The story involved kidnap.
+894	125	The dog began to growl.
+895	125	He let out a growl.
+896	125	The engine growled.
+897	125	A low growl followed.
+898	125	The animal growled loudly.
+899	125	She heard a growl.
+900	125	The growl sounded threatening.
+901	125	The dog growled again.
+902	125	A warning growl.
+903	125	The growl scared him.
+904	126	She was irked by the delay.
+905	126	He looked irked.
+906	126	The comment irked her.
+907	126	I felt irked.
+908	126	He was clearly irked.
+909	126	The noise irked him.
+910	126	She sounded irked.
+911	126	The situation irked everyone.
+912	126	He grew irked.
+913	126	I was slightly irked.
+914	127	The bird stayed in the cage.
+915	127	The animal escaped the cage.
+916	127	The cage was locked.
+917	127	They cleaned the cage.
+918	127	The cage was small.
+919	127	The lion paced its cage.
+920	127	The cage door opened.
+921	127	A metal cage.
+922	127	The cage rattled.
+923	127	The cage was empty.
+924	128	The magician made it vanish.
+925	128	The pain vanished.
+926	128	He vanished suddenly.
+927	128	The fog vanished.
+928	128	The hope vanished.
+929	128	The figure vanished.
+930	128	She vanished into the crowd.
+931	128	The sound vanished.
+932	128	The fear vanished.
+933	128	It vanished overnight.
+934	129	He spit on the ground.
+935	129	Don’t spit inside.
+936	129	She spit out the drink.
+937	129	He tried not to spit.
+938	129	The camel can spit.
+939	129	Spit that out.
+940	129	He spit angrily.
+941	129	The word made him spit.
+942	129	She almost spit laughing.
+943	129	The child spit food.
+944	130	She felt pride in her work.
+945	130	His pride was hurt.
+946	130	Pride can be dangerous.
+947	130	He swallowed his pride.
+948	130	They take pride in quality.
+949	130	Pride filled her heart.
+950	130	It was a matter of pride.
+951	130	He spoke with pride.
+952	130	Pride held him back.
+953	130	She showed pride.
+954	131	He tried to sneak out.
+955	131	She sneaked in quietly.
+956	131	They planned to sneak away.
+957	131	He likes to sneak snacks.
+958	131	The cat sneaked up.
+959	131	She sneaked a look.
+960	131	They sneaked past security.
+961	131	He tried to sneak around.
+962	131	A sneak attack.
+963	131	She managed to sneak out.
+964	132	Here goes nothing, he said.
+965	132	She smiled, here goes nothing.
+966	132	Here goes nothing before the jump.
+967	132	He whispered here goes nothing.
+968	132	Here goes nothing, let’s try.
+969	132	They laughed, here goes nothing.
+970	132	Here goes nothing before calling.
+971	132	He sighed, here goes nothing.
+972	132	Here goes nothing again.
+973	132	She thought, here goes nothing.
+974	133	She was startled by the noise.
+975	133	He looked startled.
+976	133	The sound startled him.
+977	133	I felt startled.
+978	133	The cat was startled.
+979	133	They were startled awake.
+980	133	A startled reaction.
+981	133	He jumped, startled.
+982	133	She seemed startled.
+983	133	The sudden move startled her.
+984	134	The glass shattered.
+985	134	The mirror shattered.
+986	134	The dream shattered.
+987	134	The impact shattered it.
+988	134	The window shattered loudly.
+989	134	The fall shattered his confidence.
+990	134	It shattered into pieces.
+991	134	The noise shattered silence.
+992	134	The explosion shattered walls.
+993	134	The cup shattered.
+994	135	She hurt her ankle.
+995	135	His ankle was swollen.
+996	135	He twisted his ankle.
+997	135	The ankle healed slowly.
+998	135	She wore an ankle brace.
+999	135	The injury affected his ankle.
+1000	135	He iced his ankle.
+1001	135	The ankle was sore.
+1002	135	A broken ankle.
+1003	135	The ankle hurt badly.
+1004	136	They felt trapped.
+1005	136	He was trapped inside.
+1006	136	The animal was trapped.
+1007	136	She felt trapped at work.
+1008	136	The car was trapped.
+1009	136	They were trapped underground.
+1010	136	He remained trapped.
+1011	136	The feeling trapped him.
+1012	136	A trapped situation.
+1013	136	She escaped after being trapped.
+1014	137	Smoking is a vice.
+1015	137	Everyone has a vice.
+1016	137	That habit is his vice.
+1017	137	He struggled with vice.
+1018	137	A dangerous vice.
+1019	137	She avoided vice.
+1020	137	Vice can control people.
+1021	137	His vice ruined him.
+1022	137	Vices are hard to quit.
+1023	137	That became his vice.
+1034	139	She gave a nod.
+1035	139	He nodded in agreement.
+1036	139	A quick nod followed.
+1037	139	She nodded politely.
+1038	139	He nodded slowly.
+1039	139	They exchanged a nod.
+1040	139	The nod meant yes.
+1041	139	She nodded back.
+1042	139	A confident nod.
+1043	139	He ended with a nod.
+1044	140	The building was blasted.
+1045	140	The sound blasted through.
+1046	140	The area was blasted.
+1047	140	The door was blasted open.
+1048	140	The rock was blasted apart.
+1049	140	The noise blasted my ears.
+1050	140	The wall was blasted.
+1051	140	The ship was blasted.
+1052	140	The city was blasted.
+1053	140	The ground was blasted.
+1054	141	She gave him a glare.
+1055	141	He glared angrily.
+1056	141	The glare was intense.
+1057	141	A cold glare followed.
+1058	141	She met his glare.
+1059	141	The sun’s glare hurt.
+1060	141	He shot a glare.
+1061	141	The glare said everything.
+1062	141	She avoided his glare.
+1063	141	A threatening glare.
+1064	142	The final showdown began.
+1065	142	They prepared for a showdown.
+1066	142	A dramatic showdown followed.
+1067	142	The showdown was intense.
+1068	142	It ended in a showdown.
+1069	142	The movie had a showdown.
+1070	142	A political showdown.
+1071	142	The showdown decided everything.
+1072	142	The showdown was inevitable.
+1073	142	A tense showdown.
+1074	143	A soft murmur spread.
+1075	143	She spoke in a murmur.
+1076	143	The crowd murmured.
+1077	143	He heard a murmur.
+1078	143	A low murmur filled the room.
+1079	143	The murmur grew louder.
+1080	143	A quiet murmur followed.
+1081	143	Voices turned to murmur.
+1082	143	A nervous murmur.
+1083	143	The murmur faded.
+1084	144	The story has a surprising twist at the end.
+1085	144	He added a twist to the classic recipe.
+1086	144	The movie includes an unexpected plot twist.
+1087	144	She gave the problem a creative twist.
+1088	144	A sudden twist changed the entire plan.
+1089	144	The road takes a sharp twist ahead.
+1090	144	The joke ends with a clever twist.
+1091	144	History took a strange twist that year.
+1092	144	He twisted the truth with a small twist.
+1093	144	The game adds a twist to keep players engaged.
+1094	145	The plant has spiky leaves.
+1095	145	He styled his hair in a spiky way.
+1096	145	The surface feels spiky to the touch.
+1097	145	The cactus is small but very spiky.
+1098	145	The tone of the email was spiky.
+1099	145	The hedgehog looks spiky when scared.
+1100	145	The graph shows spiky fluctuations.
+1101	145	The fence has spiky edges.
+1102	145	The virus has spiky proteins.
+1103	145	The design uses spiky shapes.
+1104	146	Everyone says he is boyfriend material.
+1105	146	Kindness is what makes someone boyfriend material.
+1106	146	She thinks reliability defines boyfriend material.
+1107	146	Being honest helps you look like boyfriend material.
+1108	146	He proved he is boyfriend material over time.
+1109	146	Respect is essential to be boyfriend material.
+1110	146	Humor can make someone boyfriend material.
+1111	146	He acts like real boyfriend material.
+1112	146	Maturity is a sign of boyfriend material.
+1113	146	Trust is key for boyfriend material.
+1114	147	They argue about politics often.
+1115	147	I don’t want to argue today.
+1116	147	She argued her point clearly.
+1117	147	He tends to argue over small things.
+1118	147	They argue when stressed.
+1119	147	Lawyers argue cases in court.
+1120	147	We shouldn’t argue at work.
+1121	147	She argued against the proposal.
+1122	147	They argue but still respect each other.
+1123	147	He argued for better conditions.
+1124	148	The pace of work increased.
+1125	148	He walks at a fast pace.
+1126	148	The story keeps a steady pace.
+1127	148	Slow the pace to avoid mistakes.
+1128	148	The pace of learning varies.
+1129	148	The runner set a strong pace.
+1130	148	The meeting moved at a good pace.
+1131	148	Technology changes at a rapid pace.
+1132	148	She struggled to keep pace.
+1133	148	The pace affects productivity.
+1134	149	My folks live in the countryside.
+1135	149	The folks at work are friendly.
+1136	149	Older folks prefer simple tools.
+1137	149	The folks here are helpful.
+1138	149	Young folks adapt quickly.
+1139	149	Those folks know the area well.
+1140	149	Folks often forget small details.
+1141	149	The folks at home support me.
+1142	149	Folks enjoy clear communication.
+1143	149	Many folks work remotely now.
+1144	150	He tried to interject during the meeting.
+1145	150	Please don’t interject unnecessarily.
+1146	150	She interjected with a quick comment.
+1147	150	The manager interjected politely.
+1148	150	He interjected to clarify the point.
+1149	150	She interjects humor sometimes.
+1150	150	It’s rude to interject constantly.
+1151	150	He interjected with a question.
+1152	150	The lawyer interjected immediately.
+1153	150	She interjected to correct the data.
+1154	151	We hang out after work.
+1155	151	They hang out on weekends.
+1156	151	I like to hang out with friends.
+1157	151	Let’s hang out later.
+1158	151	They hang out at the park.
+1159	151	We hang out online sometimes.
+1160	151	He hangs out with coworkers.
+1161	151	She hangs out at cafés.
+1162	151	They hang out to relax.
+1163	151	We hang out to talk.
+1164	106	She is picky about food.
+1166	106	He’s picky with details.
+1168	106	The client is very picky.
+1170	106	I’m picky when buying tools.
+1172	106	Kids can be picky eaters.
+1174	106	She’s picky about quality.
+1176	106	He became picky over time.
+1178	106	The manager is picky.
+1180	106	I’m not picky at all.
+1182	106	Picky habits slow decisions.
+1184	153	It’s not a big deal.
+1185	153	They made a big deal out of it.
+1186	153	This launch is a big deal.
+1187	153	Why is this a big deal?
+1188	153	He thinks it’s a big deal.
+1189	153	It became a big deal quickly.
+1190	153	That mistake is no big deal.
+1191	153	The promotion is a big deal.
+1192	153	They treat it as a big deal.
+1193	153	It’s a bigger deal than expected.
+1194	154	He was naive about risks.
+1195	154	She sounds naive sometimes.
+1196	154	Naive ideas can fail.
+1197	154	He felt naive afterward.
+1198	154	The plan was naive.
+1199	154	She seemed naive at first.
+1200	154	Naive trust can be dangerous.
+1201	154	He isn’t naive anymore.
+1202	154	They were naive to believe it.
+1203	154	Naive optimism faded.
+1204	155	He spoke snidely about the plan.
+1205	155	She smiled snidely.
+1206	155	He answered snidely.
+1207	155	The comment was snidely delivered.
+1208	155	She laughed snidely.
+1209	155	He remarked snidely.
+1210	155	The tone sounded snidely critical.
+1211	155	She responded snidely.
+1212	155	He looked snidely amused.
+1213	155	The joke came off snidely.
+1214	156	Her GPA improved this year.
+1215	156	His GPA meets the requirement.
+1216	156	They calculate GPA each term.
+1217	156	A high GPA helps scholarships.
+1218	156	She tracks her GPA closely.
+1219	156	His GPA dropped slightly.
+1220	156	The program requires a GPA.
+1221	156	GPA reflects academic performance.
+1222	156	Students worry about GPA.
+1223	156	GPA matters for applications.
+1224	157	You deserve respect.
+1225	157	She deserves a promotion.
+1226	157	They deserve credit.
+1227	157	He deserves another chance.
+1228	157	We deserve better tools.
+1229	157	She deserves recognition.
+1230	157	They deserve honesty.
+1231	157	You deserve success.
+1232	157	He deserves support.
+1233	157	They deserve fairness.
+1234	158	I swear this is true.
+1235	158	He doesn’t swear at work.
+1236	158	She swore to help.
+1237	158	They swear too much.
+1238	158	He swore an oath.
+1239	158	I swear by this method.
+1240	158	She tried not to swear.
+1241	158	He swore loudly.
+1242	158	They swear under pressure.
+1243	158	I swear I tried.
+1244	159	Please back off.
+1245	159	He told them to back off.
+1246	159	The manager asked to back off.
+1247	159	She backed off calmly.
+1248	159	They need to back off.
+1249	159	He backed off the idea.
+1250	159	She refused to back off.
+1251	159	The pressure made him back off.
+1252	159	They finally backed off.
+1253	159	He won’t back off easily.
+1254	160	The dog followed the scent.
+1255	160	The scent is pleasant.
+1256	160	Flowers have a strong scent.
+1257	160	The scent filled the room.
+1258	160	She noticed a strange scent.
+1259	160	The scent attracts insects.
+1260	160	This candle has a soft scent.
+1261	160	The scent lingered.
+1262	160	Perfume leaves a scent.
+1263	160	The scent faded quickly.
+1265	161	She began to whisper.
+1267	161	He whispered a secret.
+1269	161	They whisper in class.
+1271	161	I heard a whisper.
+1273	161	She whispered softly.
+1275	161	He leaned in to whisper.
+1277	161	The wind whispered.
+1279	161	They whispered nervously.
+1281	161	A quiet whisper followed.
+1283	161	She whispered goodbye.
+1284	162	He let out a yawn.
+1285	162	She tried not to yawn.
+1286	162	A big yawn escaped.
+1287	162	They yawn during meetings.
+1288	162	The baby began to yawn.
+1289	162	I had to yawn.
+1290	162	A yawn shows tiredness.
+1291	162	He stifled a yawn.
+1292	162	She yawned loudly.
+1293	162	The long day caused a yawn.
+1294	163	The wolf began to howl.
+1295	163	The wind howled at night.
+1296	163	He let out a howl.
+1297	163	Dogs howl together.
+1298	163	The crowd howled with laughter.
+1299	163	The storm howled outside.
+1300	163	She heard a distant howl.
+1301	163	The pain made him howl.
+1302	163	The siren caused a howl.
+1303	163	The forest echoed with a howl.
+1304	164	I doubt the results.
+1305	164	She has no doubt.
+1306	164	He doubts the plan.
+1307	164	Doubt slows decisions.
+1308	164	I doubt that’s true.
+1309	164	They doubt his story.
+1310	164	There is some doubt.
+1311	164	Doubt creates hesitation.
+1312	164	She doubts herself.
+1313	164	He expressed doubt.
+1314	165	They struggle with time.
+1315	165	He struggles to focus.
+1316	165	We struggle every day.
+1317	165	The team struggled early.
+1318	165	She struggled to learn.
+1319	165	They struggle financially.
+1320	165	He struggled but succeeded.
+1321	165	Many struggle silently.
+1322	165	The system struggles under load.
+1323	165	I struggle sometimes.
+1324	166	The job prospect looks good.
+1325	166	They discussed future prospects.
+1326	166	It’s an exciting prospect.
+1327	166	The prospect motivated her.
+1328	166	He considered the prospect.
+1329	166	The prospect seems uncertain.
+1330	166	New prospects emerged.
+1331	166	The prospect of change helps.
+1332	166	It remains a prospect.
+1333	166	The prospect worries them.
+1334	167	We meet on a regular basis.
+1335	167	She trains on a regular basis.
+1336	167	They check logs on a regular basis.
+1337	167	I practice on a regular basis.
+1338	167	The system updates on a regular basis.
+1339	167	He reviews data on a regular basis.
+1340	167	We communicate on a regular basis.
+1341	167	She studies on a regular basis.
+1342	167	They test on a regular basis.
+1343	167	I exercise on a regular basis.
+1344	168	He must face the music.
+1345	168	They decided to face the music.
+1346	168	It’s time to face the music.
+1347	168	She faced the music bravely.
+1348	168	He refuses to face the music.
+1349	168	We had to face the music.
+1350	168	Eventually you face the music.
+1351	168	They finally faced the music.
+1352	168	He told her to face the music.
+1353	168	Facing the music is hard.
+1354	169	You’d be better of waiting.
+1355	169	She would be better of leaving early.
+1356	169	They are better of prepared.
+1357	169	He’d be better of studying.
+1358	169	We’re better of together.
+1359	169	She felt better of after rest.
+1360	169	They’d be better of planning.
+1361	169	He is better of now.
+1362	169	We are better of informed.
+1363	169	You’ll be better of soon.
+1364	170	It helps in the long run.
+1365	170	Saving pays off in the long run.
+1366	170	Health matters in the long run.
+1367	170	This decision helps in the long run.
+1368	170	Patience wins in the long run.
+1369	170	Costs drop in the long run.
+1370	170	It works in the long run.
+1371	170	Skills matter in the long run.
+1372	170	Effort pays in the long run.
+1373	170	It benefits us in the long run.
+1374	171	The attorney reviewed the case.
+1375	171	She hired an attorney.
+1376	171	The attorney advised caution.
+1377	171	He consulted an attorney.
+1378	171	The attorney filed papers.
+1379	171	They trust their attorney.
+1380	171	The attorney spoke clearly.
+1381	171	An attorney represents clients.
+1382	171	The attorney negotiated terms.
+1383	171	She became an attorney.
+1384	172	Her help was invaluable.
+1385	172	This data is invaluable.
+1386	172	Experience is invaluable.
+1387	172	The tool proved invaluable.
+1388	172	His advice was invaluable.
+1389	172	Time is invaluable.
+1390	172	Support is invaluable.
+1391	172	The feedback was invaluable.
+1392	172	Knowledge is invaluable.
+1393	172	The mentor was invaluable.
+1394	173	The noise annoys me.
+1395	173	This bug annoys users.
+1396	173	He annoys his sister.
+1397	173	The delay annoys everyone.
+1398	173	It annoys him deeply.
+1399	173	The habit annoys coworkers.
+1400	173	The message annoys clients.
+1401	173	It annoys me sometimes.
+1402	173	The tone annoys readers.
+1403	173	The pop-up annoys users.
+1404	174	I like it though.
+1405	174	It’s expensive though.
+1406	174	He agreed though.
+1407	174	She smiled though.
+1408	174	The task is hard though.
+1409	174	It works though.
+1410	174	I understand though.
+1411	174	He tried though.
+1412	174	The plan failed though.
+1413	174	It helps though.
+1414	175	I am tired today.
+1415	175	She was very happy yesterday.
+1416	175	They have been friends for years.
+1417	175	It is important to study every day.
+1418	175	He was late to the meeting.
+1419	175	We are ready now.
+1420	175	The house has been empty for months.
+1421	175	She is being honest.
+1422	175	I was there last night.
+1423	175	Everything has been fine.
+1424	176	I have a car.
+1425	176	She had a problem yesterday.
+1426	176	We have had enough time.
+1427	176	He has a good job.
+1428	176	They had dinner early.
+1429	176	I have never had this before.
+1430	176	She has had many opportunities.
+1431	176	We had a long day.
+1432	176	He has a question.
+1433	176	I had no idea.
+1434	177	I do my homework every night.
+1435	177	She did her best.
+1436	177	They have done the work already.
+1437	177	He does everything fast.
+1438	177	I did not understand.
+1439	177	We have done this before.
+1440	177	She did the right thing.
+1441	177	He does his job well.
+1442	177	I have done my part.
+1443	177	They did nothing wrong.
+1444	178	I say the truth.
+1445	178	She said she was tired.
+1446	178	They have said that before.
+1447	178	He says hello every morning.
+1448	178	I said nothing.
+1449	178	She has said enough.
+1450	178	We said goodbye.
+1451	178	He says it clearly.
+1452	178	I have said yes.
+1453	178	They said the same thing.
+1454	179	I go to work every day.
+1455	179	She went home early.
+1456	179	They have gone already.
+1457	179	He goes to the gym often.
+1458	179	I went there last year.
+1459	179	We have gone too far.
+1460	179	She goes by bus.
+1461	179	He went alone.
+1462	179	I have gone through this.
+1463	179	They went shopping.
+1464	180	I get tired easily.
+1465	180	She got angry yesterday.
+1466	180	They have gotten better.
+1467	180	He gets good results.
+1468	180	I got a gift.
+1469	180	We have got enough money.
+1470	180	She gets nervous.
+1471	180	He got lost.
+1472	180	I have gotten used to it.
+1473	180	They got the job.
+1474	181	I make coffee every morning.
+1475	181	She made a mistake.
+1476	181	They have made progress.
+1477	181	He makes good decisions.
+1478	181	I made this myself.
+1479	181	We have made plans.
+1480	181	She makes people laugh.
+1481	181	He made dinner.
+1482	181	I have made peace with it.
+1483	181	They made a deal.
+1484	182	I know the answer.
+1485	182	She knew him well.
+1486	182	They have known each other for years.
+1487	182	He knows the rules.
+1488	182	I knew it was wrong.
+1489	182	We have known this place.
+1490	182	She knows what to do.
+1491	182	He knew nothing.
+1492	182	I have known better days.
+1493	182	They knew the truth.
+1494	183	I think you are right.
+1495	183	She thought about it.
+1496	183	They have thought a lot.
+1497	183	He thinks differently.
+1498	183	I thought it was easy.
+1499	183	We have thought the same.
+1500	183	She thinks fast.
+1501	183	He thought he was late.
+1502	183	I have thought about quitting.
+1503	183	They thought it was funny.
+1504	184	I take the bus every day.
+1505	184	She took my phone.
+1506	184	They have taken action.
+1507	184	He takes responsibility.
+1508	184	I took a break.
+1509	184	We have taken this seriously.
+1510	184	She takes her time.
+1511	184	He took the wrong turn.
+1512	184	I have taken notes.
+1513	184	They took the opportunity.
+1514	185	I see the problem.
+1515	185	She saw him yesterday.
+1516	185	They have seen this movie.
+1517	185	He sees everything.
+1518	185	I saw the result.
+1519	185	We have seen worse.
+1520	185	She sees the difference.
+1521	185	He saw the accident.
+1522	185	I have seen enough.
+1523	185	They saw the truth.
+1524	186	I come here often.
+1525	186	She came late.
+1526	186	They have come a long way.
+1527	186	He comes from Brazil.
+1528	186	I came alone.
+1529	186	We have come prepared.
+1530	186	She comes every week.
+1531	186	He came back early.
+1532	186	I have come to help.
+1533	186	They came together.
+1534	187	I give my best.
+1535	187	She gave me advice.
+1536	187	They have given permission.
+1537	187	He gives great explanations.
+1538	187	I gave him a chance.
+1539	187	We have given enough.
+1540	187	She gives hope.
+1541	187	He gave a gift.
+1542	187	I have given up.
+1543	187	They gave support.
+1544	188	I find this interesting.
+1545	188	She found the answer.
+1546	188	They have found a solution.
+1547	188	He finds it hard.
+1548	188	I found my keys.
+1549	188	We have found peace.
+1550	188	She finds joy in work.
+1551	188	He found a mistake.
+1552	188	I have found what I need.
+1553	188	They found the place.
+1554	189	I tell the truth.
+1555	189	She told me everything.
+1556	189	They have told the story.
+1557	189	He tells good jokes.
+1558	189	I told him yesterday.
+1559	189	We have told you before.
+1560	189	She tells the difference.
+1561	189	He told the truth.
+1562	189	I have told enough.
+1563	189	They told me so.
+1564	190	I feel better now.
+1565	190	She felt sick yesterday.
+1566	190	They have felt this before.
+1567	190	He feels confident.
+1568	190	I felt the pain.
+1569	190	We have felt proud.
+1570	190	She feels safe.
+1571	190	He felt lost.
+1572	190	I have felt worse.
+1573	190	They felt relieved.
+1574	191	I leave early.
+1575	191	She left the room.
+1576	191	They have left already.
+1577	191	He leaves work late.
+1578	191	I left my bag.
+1579	191	We have left nothing behind.
+1580	191	She leaves tomorrow.
+1581	191	He left in a hurry.
+1582	191	I have left a message.
+1583	191	They left together.
+1584	192	I become tired easily.
+1585	192	She became famous.
+1586	192	They have become friends.
+1587	192	He becomes angry fast.
+1588	192	I became aware.
+1589	192	We have become stronger.
+1590	192	She becomes happier.
+1591	192	He became a leader.
+1592	192	I have become better.
+1593	192	They became successful.
+1594	193	I bring my lunch.
+1595	193	She brought good news.
+1596	193	They have brought gifts.
+1597	193	He brings energy.
+1598	193	I brought my laptop.
+1599	193	We have brought enough.
+1600	193	She brings joy.
+1601	193	He brought the documents.
+1602	193	I have brought help.
+1603	193	They brought food.
+1604	194	I begin work at eight.
+1605	194	She began to cry.
+1606	194	They have begun the project.
+1607	194	He begins early.
+1608	194	I began learning English.
+1609	194	We have begun already.
+1610	194	She begins tomorrow.
+1611	194	He began the process.
+1612	194	I have begun to understand.
+1613	194	They began together.
+1614	195	I keep my promises.
+1615	195	She kept the secret.
+1616	195	They have kept in touch.
+1617	195	He keeps trying.
+1618	195	I kept the receipt.
+1619	195	We have kept calm.
+1620	195	She keeps smiling.
+1621	195	He kept quiet.
+1622	195	I have kept this safe.
+1623	195	They kept going.
+1624	196	I hold the door.
+1625	196	She held my hand.
+1626	196	They have held meetings.
+1627	196	He holds the record.
+1628	196	I held the position.
+1629	196	We have held on.
+1630	196	She holds strong beliefs.
+1631	196	He held the line.
+1632	196	I have held this before.
+1633	196	They held the event.
+1634	197	I hear a noise.
+1635	197	She heard the news.
+1636	197	They have heard this song.
+1637	197	He hears well.
+1638	197	I heard a voice.
+1639	197	We have heard enough.
+1640	197	She hears everything.
+1641	197	He heard a scream.
+1642	197	I have heard better excuses.
+1643	197	They heard the truth.
+1644	198	I write every day.
+1645	198	She wrote a letter.
+1646	198	They have written reports.
+1647	198	He writes clearly.
+1648	198	I wrote an email.
+1649	198	We have written this already.
+1650	198	She writes fast.
+1651	198	He wrote the code.
+1652	198	I have written notes.
+1653	198	They wrote a book.
+1654	199	I understand the problem.
+1655	199	She understood everything.
+1656	199	They have understood the rules.
+1657	199	He understands quickly.
+1658	199	I understood later.
+1659	199	We have understood the risk.
+1660	199	She understands English.
+1661	199	He understood the task.
+1662	199	I have understood now.
+1663	199	They understood each other.
+1664	200	I abide every day.
+1665	200	She abode yesterday.
+1666	200	They have abode already.
+1667	200	He usually abides at work.
+1668	200	I abode it last night.
+1669	200	We have abode many times.
+1670	200	She always abides carefully.
+1671	200	He abode without hesitation.
+1672	200	I have abode before.
+1673	200	They will abide again.
+1674	201	I arise every day.
+1675	201	She arose yesterday.
+1676	201	They have arisen already.
+1677	201	He usually arises at work.
+1678	201	I arose it last night.
+1679	201	We have arisen many times.
+1680	201	She always arises carefully.
+1681	201	He arose without hesitation.
+1682	201	I have arisen before.
+1683	201	They will arise again.
+1684	202	I awake every day.
+1685	202	She awoke yesterday.
+1686	202	They have awoken already.
+1687	202	He usually awakes at work.
+1688	202	I awoke it last night.
+1689	202	We have awoken many times.
+1690	202	She always awakes carefully.
+1691	202	He awoke without hesitation.
+1692	202	I have awoken before.
+1693	202	They will awake again.
+1694	203	I beat every day.
+1695	203	She beat yesterday.
+1696	203	They have beaten already.
+1697	203	He usually beats at work.
+1698	203	I beat it last night.
+1699	203	We have beaten many times.
+1700	203	She always beats carefully.
+1701	203	He beat without hesitation.
+1702	203	I have beaten before.
+1703	203	They will beat again.
+1704	204	I bear every day.
+1705	204	She bore yesterday.
+1706	204	They have borne already.
+1707	204	He usually bears at work.
+1708	204	I bore it last night.
+1709	204	We have borne many times.
+1710	204	She always bears carefully.
+1711	204	He bore without hesitation.
+1712	204	I have borne before.
+1713	204	They will bear again.
+1714	205	I bend every day.
+1715	205	She bent yesterday.
+1716	205	They have bent already.
+1717	205	He usually bends at work.
+1718	205	I bent it last night.
+1719	205	We have bent many times.
+1720	205	She always bends carefully.
+1721	205	He bent without hesitation.
+1722	205	I have bent before.
+1723	205	They will bend again.
+1724	206	I bind every day.
+1725	206	She bound yesterday.
+1726	206	They have bound already.
+1727	206	He usually binds at work.
+1728	206	I bound it last night.
+1729	206	We have bound many times.
+1730	206	She always binds carefully.
+1731	206	He bound without hesitation.
+1732	206	I have bound before.
+1733	206	They will bind again.
+1734	207	I bite every day.
+1735	207	She bit yesterday.
+1736	207	They have bitten already.
+1737	207	He usually bites at work.
+1738	207	I bit it last night.
+1739	207	We have bitten many times.
+1740	207	She always bites carefully.
+1741	207	He bit without hesitation.
+1742	207	I have bitten before.
+1743	207	They will bite again.
+1744	208	I bleed every day.
+1745	208	She bled yesterday.
+1746	208	They have bled already.
+1747	208	He usually bleeds at work.
+1748	208	I bled it last night.
+1749	208	We have bled many times.
+1750	208	She always bleeds carefully.
+1751	208	He bled without hesitation.
+1752	208	I have bled before.
+1753	208	They will bleed again.
+1754	209	I blow every day.
+1755	209	She blew yesterday.
+1756	209	They have blown already.
+1757	209	He usually blows at work.
+1758	209	I blew it last night.
+1759	209	We have blown many times.
+1760	209	She always blows carefully.
+1761	209	He blew without hesitation.
+1762	209	I have blown before.
+1763	209	They will blow again.
+1764	210	I break every day.
+1765	210	She broke yesterday.
+1766	210	They have broken already.
+1767	210	He usually breaks at work.
+1768	210	I broke it last night.
+1769	210	We have broken many times.
+1770	210	She always breaks carefully.
+1771	210	He broke without hesitation.
+1772	210	I have broken before.
+1773	210	They will break again.
+1774	211	I build every day.
+1775	211	She built yesterday.
+1776	211	They have built already.
+1777	211	He usually builds at work.
+1778	211	I built it last night.
+1779	211	We have built many times.
+1780	211	She always builds carefully.
+1781	211	He built without hesitation.
+1782	211	I have built before.
+1783	211	They will build again.
+1784	212	I burn every day.
+1785	212	She burned yesterday.
+1786	212	They have burned already.
+1787	212	He usually burns at work.
+1788	212	I burned it last night.
+1789	212	We have burned many times.
+1790	212	She always burns carefully.
+1791	212	He burned without hesitation.
+1792	212	I have burned before.
+1793	212	They will burn again.
+1794	213	I buy every day.
+1795	213	She bought yesterday.
+1796	213	They have bought already.
+1797	213	He usually buys at work.
+1798	213	I bought it last night.
+1799	213	We have bought many times.
+1800	213	She always buys carefully.
+1801	213	He bought without hesitation.
+1802	213	I have bought before.
+1803	213	They will buy again.
+1804	214	I catch every day.
+1805	214	She caught yesterday.
+1806	214	They have caught already.
+1807	214	He usually catchs at work.
+1808	214	I caught it last night.
+1809	214	We have caught many times.
+1810	214	She always catchs carefully.
+1811	214	He caught without hesitation.
+1812	214	I have caught before.
+1813	214	They will catch again.
+1814	215	I choose every day.
+1815	215	She chose yesterday.
+1816	215	They have chosen already.
+1817	215	He usually chooses at work.
+1818	215	I chose it last night.
+1819	215	We have chosen many times.
+1820	215	She always chooses carefully.
+1821	215	He chose without hesitation.
+1822	215	I have chosen before.
+1823	215	They will choose again.
+1824	216	I cling every day.
+1825	216	She clung yesterday.
+1826	216	They have clung already.
+1827	216	He usually clings at work.
+1828	216	I clung it last night.
+1829	216	We have clung many times.
+1830	216	She always clings carefully.
+1831	216	He clung without hesitation.
+1832	216	I have clung before.
+1833	216	They will cling again.
+1834	217	I creep every day.
+1835	217	She crept yesterday.
+1836	217	They have crept already.
+1837	217	He usually creeps at work.
+1838	217	I crept it last night.
+1839	217	We have crept many times.
+1840	217	She always creeps carefully.
+1841	217	He crept without hesitation.
+1842	217	I have crept before.
+1843	217	They will creep again.
+1844	218	I deal every day.
+1845	218	She dealt yesterday.
+1846	218	They have dealt already.
+1847	218	He usually deals at work.
+1848	218	I dealt it last night.
+1849	218	We have dealt many times.
+1850	218	She always deals carefully.
+1851	218	He dealt without hesitation.
+1852	218	I have dealt before.
+1853	218	They will deal again.
+1854	222	I drink every day.
+1855	222	She drank yesterday.
+1856	222	They have drunk already.
+1857	222	He usually drinks at work.
+1858	222	I drank it last night.
+1859	222	We have drunk many times.
+1860	222	She always drinks carefully.
+1861	222	He drank without hesitation.
+1862	222	I have drunk before.
+1863	222	They will drink again.
+1864	223	I drive every day.
+1865	223	She drove yesterday.
+1866	223	They have driven already.
+1867	223	He usually drives at work.
+1868	223	I drove it last night.
+1869	223	We have driven many times.
+1870	223	She always drives carefully.
+1871	223	He drove without hesitation.
+1872	223	I have driven before.
+1873	223	They will drive again.
+1874	224	I eat every day.
+1875	224	She ate yesterday.
+1876	224	They have eaten already.
+1877	224	He usually eats at work.
+1878	224	I ate it last night.
+1879	224	We have eaten many times.
+1880	224	She always eats carefully.
+1881	224	He ate without hesitation.
+1882	224	I have eaten before.
+1883	224	They will eat again.
+1884	225	I fall every day.
+1885	225	She fell yesterday.
+1886	225	They have fallen already.
+1887	225	He usually falls at work.
+1888	225	I fell it last night.
+1889	225	We have fallen many times.
+1890	225	She always falls carefully.
+1891	225	He fell without hesitation.
+1892	225	I have fallen before.
+1893	225	They will fall again.
+1894	226	I feed every day.
+1895	226	She fed yesterday.
+1896	226	They have fed already.
+1897	226	He usually feeds at work.
+1898	226	I fed it last night.
+1899	226	We have fed many times.
+1900	226	She always feeds carefully.
+1901	226	He fed without hesitation.
+1902	226	I have fed before.
+1903	226	They will feed again.
+1904	227	I fight every day.
+1905	227	She fought yesterday.
+1906	227	They have fought already.
+1907	227	He usually fights at work.
+1908	227	I fought it last night.
+1909	227	We have fought many times.
+1910	227	She always fights carefully.
+1911	227	He fought without hesitation.
+1912	227	I have fought before.
+1913	227	They will fight again.
+1914	228	I flee every day.
+1915	228	She fled yesterday.
+1916	228	They have fled already.
+1917	228	He usually flees at work.
+1918	228	I fled it last night.
+1919	228	We have fled many times.
+1920	228	She always flees carefully.
+1921	228	He fled without hesitation.
+1922	228	I have fled before.
+1923	228	They will flee again.
+1924	229	I fly every day.
+1925	229	She flew yesterday.
+1926	229	They have flown already.
+1927	229	He usually flys at work.
+1928	229	I flew it last night.
+1929	229	We have flown many times.
+1930	229	She always flys carefully.
+1931	229	He flew without hesitation.
+1932	229	I have flown before.
+1933	229	They will fly again.
+1934	231	I forget every day.
+1935	231	She forgot yesterday.
+1936	231	They have forgotten already.
+1937	231	He usually forgets at work.
+1938	231	I forgot it last night.
+1939	231	We have forgotten many times.
+1940	231	She always forgets carefully.
+1941	231	He forgot without hesitation.
+1942	231	I have forgotten before.
+1943	231	They will forget again.
+1944	232	I forgive every day.
+1945	232	She forgave yesterday.
+1946	232	They have forgiven already.
+1947	232	He usually forgives at work.
+1948	232	I forgave it last night.
+1949	232	We have forgiven many times.
+1950	232	She always forgives carefully.
+1951	232	He forgave without hesitation.
+1952	232	I have forgiven before.
+1953	232	They will forgive again.
+1954	233	I freeze every day.
+1955	233	She froze yesterday.
+1956	233	They have frozen already.
+1957	233	He usually freezes at work.
+1958	233	I froze it last night.
+1959	233	We have frozen many times.
+1960	233	She always freezes carefully.
+1961	233	He froze without hesitation.
+1962	233	I have frozen before.
+1963	233	They will freeze again.
+1964	234	I grow every day.
+1965	234	She grew yesterday.
+1966	234	They have grown already.
+1967	234	He usually grows at work.
+1968	234	I grew it last night.
+1969	234	We have grown many times.
+1970	234	She always grows carefully.
+1971	234	He grew without hesitation.
+1972	234	I have grown before.
+1973	234	They will grow again.
+1974	235	I hang every day.
+1975	235	She hung yesterday.
+1976	235	They have hung already.
+1977	235	He usually hangs at work.
+1978	235	I hung it last night.
+1979	235	We have hung many times.
+1980	235	She always hangs carefully.
+1981	235	He hung without hesitation.
+1982	235	I have hung before.
+1983	235	They will hang again.
+1984	236	I hide every day.
+1985	236	She hid yesterday.
+1986	236	They have hidden already.
+1987	236	He usually hides at work.
+1988	236	I hid it last night.
+1989	236	We have hidden many times.
+1990	236	She always hides carefully.
+1991	236	He hid without hesitation.
+1992	236	I have hidden before.
+1993	236	They will hide again.
+1994	237	I hit every day.
+1995	237	She hit yesterday.
+1996	237	They have hit already.
+1997	237	He usually hits at work.
+1998	237	I hit it last night.
+1999	237	We have hit many times.
+2000	237	She always hits carefully.
+2001	237	He hit without hesitation.
+2002	237	I have hit before.
+2003	237	They will hit again.
+2004	238	I hurt every day.
+2005	238	She hurt yesterday.
+2006	238	They have hurt already.
+2007	238	He usually hurts at work.
+2008	238	I hurt it last night.
+2009	238	We have hurt many times.
+2010	238	She always hurts carefully.
+2011	238	He hurt without hesitation.
+2012	238	I have hurt before.
+2013	238	They will hurt again.
+2014	240	I kneel every day.
+2015	240	She knelt yesterday.
+2016	240	They have knelt already.
+2017	240	He usually kneels at work.
+2018	240	I knelt it last night.
+2019	240	We have knelt many times.
+2020	240	She always kneels carefully.
+2021	240	He knelt without hesitation.
+2022	240	I have knelt before.
+2023	240	They will kneel again.
+2024	242	I lay every day.
+2025	242	She laid yesterday.
+2026	242	They have laid already.
+2027	242	He usually lays at work.
+2028	242	I laid it last night.
+2029	242	We have laid many times.
+2030	242	She always lays carefully.
+2031	242	He laid without hesitation.
+2032	242	I have laid before.
+2033	242	They will lay again.
+2034	243	I lead every day.
+2035	243	She led yesterday.
+2036	243	They have led already.
+2037	243	He usually leads at work.
+2038	243	I led it last night.
+2039	243	We have led many times.
+2040	243	She always leads carefully.
+2041	243	He led without hesitation.
+2042	243	I have led before.
+2043	243	They will lead again.
+2044	244	I lend every day.
+2045	244	She lent yesterday.
+2046	244	They have lent already.
+2047	244	He usually lends at work.
+2048	244	I lent it last night.
+2049	244	We have lent many times.
+2050	244	She always lends carefully.
+2051	244	He lent without hesitation.
+2052	244	I have lent before.
+2053	244	They will lend again.
+2054	245	I let every day.
+2055	245	She let yesterday.
+2056	245	They have let already.
+2057	245	He usually lets at work.
+2058	245	I let it last night.
+2059	245	We have let many times.
+2060	245	She always lets carefully.
+2061	245	He let without hesitation.
+2062	245	I have let before.
+2063	245	They will let again.
+2064	246	I lie every day.
+2065	246	She lay yesterday.
+2066	246	They have lain already.
+2067	246	He usually lies at work.
+2068	246	I lay it last night.
+2069	246	We have lain many times.
+2070	246	She always lies carefully.
+2071	246	He lay without hesitation.
+2072	246	I have lain before.
+2073	246	They will lie again.
+2074	247	I lose every day.
+2075	247	She lost yesterday.
+2076	247	They have lost already.
+2077	247	He usually loses at work.
+2078	247	I lost it last night.
+2079	247	We have lost many times.
+2080	247	She always loses carefully.
+2081	247	He lost without hesitation.
+2082	247	I have lost before.
+2083	247	They will lose again.
+2084	248	I mean every day.
+2085	248	She meant yesterday.
+2086	248	They have meant already.
+2087	248	He usually means at work.
+2088	248	I meant it last night.
+2089	248	We have meant many times.
+2090	248	She always means carefully.
+2091	248	He meant without hesitation.
+2092	248	I have meant before.
+2093	248	They will mean again.
+2094	249	I meet every day.
+2095	249	She met yesterday.
+2096	249	They have met already.
+2097	249	He usually meets at work.
+2098	249	I met it last night.
+2099	249	We have met many times.
+2100	249	She always meets carefully.
+2101	249	He met without hesitation.
+2102	249	I have met before.
+2103	249	They will meet again.
+2104	250	I pay every day.
+2105	250	She paid yesterday.
+2106	250	They have paid already.
+2107	250	He usually pays at work.
+2108	250	I paid it last night.
+2109	250	We have paid many times.
+2110	250	She always pays carefully.
+2111	250	He paid without hesitation.
+2112	250	I have paid before.
+2113	250	They will pay again.
+2114	251	I prove every day.
+2115	251	She proved yesterday.
+2116	251	They have proven already.
+2117	251	He usually proves at work.
+2118	251	I proved it last night.
+2119	251	We have proven many times.
+2120	251	She always proves carefully.
+2121	251	He proved without hesitation.
+2122	251	I have proven before.
+2123	251	They will prove again.
+2124	252	I read every day.
+2125	252	She read yesterday.
+2126	252	They have read already.
+2127	252	He usually reads at work.
+2128	252	I read it last night.
+2129	252	We have read many times.
+2130	252	She always reads carefully.
+2131	252	He read without hesitation.
+2132	252	I have read before.
+2133	252	They will read again.
+2134	253	I ride every day.
+2135	253	She rode yesterday.
+2136	253	They have ridden already.
+2137	253	He usually rides at work.
+2138	253	I rode it last night.
+2139	253	We have ridden many times.
+2140	253	She always rides carefully.
+2141	253	He rode without hesitation.
+2142	253	I have ridden before.
+2143	253	They will ride again.
+2144	254	I ring every day.
+2145	254	She rang yesterday.
+2146	254	They have rung already.
+2147	254	He usually rings at work.
+2148	254	I rang it last night.
+2149	254	We have rung many times.
+2150	254	She always rings carefully.
+2151	254	He rang without hesitation.
+2152	254	I have rung before.
+2153	254	They will ring again.
+2154	255	I rise every day.
+2155	255	She rose yesterday.
+2156	255	They have risen already.
+2157	255	He usually rises at work.
+2158	255	I rose it last night.
+2159	255	We have risen many times.
+2160	255	She always rises carefully.
+2161	255	He rose without hesitation.
+2162	255	I have risen before.
+2163	255	They will rise again.
+2164	256	I run every day.
+2165	256	She ran yesterday.
+2166	256	They have run already.
+2167	256	He usually runs at work.
+2168	256	I ran it last night.
+2169	256	We have run many times.
+2170	256	She always runs carefully.
+2171	256	He ran without hesitation.
+2172	256	I have run before.
+2173	256	They will run again.
+2174	257	I seek every day.
+2175	257	She sought yesterday.
+2176	257	They have sought already.
+2177	257	He usually seeks at work.
+2178	257	I sought it last night.
+2179	257	We have sought many times.
+2180	257	She always seeks carefully.
+2181	257	He sought without hesitation.
+2182	257	I have sought before.
+2183	257	They will seek again.
+2184	258	I sell every day.
+2185	258	She sold yesterday.
+2186	258	They have sold already.
+2187	258	He usually sells at work.
+2188	258	I sold it last night.
+2189	258	We have sold many times.
+2190	258	She always sells carefully.
+2191	258	He sold without hesitation.
+2192	258	I have sold before.
+2193	258	They will sell again.
+2194	259	I send every day.
+2195	259	She sent yesterday.
+2196	259	They have sent already.
+2197	259	He usually sends at work.
+2198	259	I sent it last night.
+2199	259	We have sent many times.
+2200	259	She always sends carefully.
+2201	259	He sent without hesitation.
+2202	259	I have sent before.
+2203	259	They will send again.
+2204	260	I set every day.
+2205	260	She set yesterday.
+2206	260	They have set already.
+2207	260	He usually sets at work.
+2208	260	I set it last night.
+2209	260	We have set many times.
+2210	260	She always sets carefully.
+2211	260	He set without hesitation.
+2212	260	I have set before.
+2213	260	They will set again.
+2214	261	I shake every day.
+2215	261	She shook yesterday.
+2216	261	They have shaken already.
+2217	261	He usually shakes at work.
+2218	261	I shook it last night.
+2219	261	We have shaken many times.
+2220	261	She always shakes carefully.
+2221	261	He shook without hesitation.
+2222	261	I have shaken before.
+2223	261	They will shake again.
+2224	262	I shine every day.
+2225	262	She shone yesterday.
+2226	262	They have shone already.
+2227	262	He usually shines at work.
+2228	262	I shone it last night.
+2229	262	We have shone many times.
+2230	262	She always shines carefully.
+2231	262	He shone without hesitation.
+2232	262	I have shone before.
+2233	262	They will shine again.
+2234	263	I shoot every day.
+2235	263	She shot yesterday.
+2236	263	They have shot already.
+2237	263	He usually shoots at work.
+2238	263	I shot it last night.
+2239	263	We have shot many times.
+2240	263	She always shoots carefully.
+2241	263	He shot without hesitation.
+2242	263	I have shot before.
+2243	263	They will shoot again.
+2244	264	I show every day.
+2245	264	She showed yesterday.
+2246	264	They have shown already.
+2247	264	He usually shows at work.
+2248	264	I showed it last night.
+2249	264	We have shown many times.
+2250	264	She always shows carefully.
+2251	264	He showed without hesitation.
+2252	264	I have shown before.
+2253	264	They will show again.
+2254	265	I shrink every day.
+2255	265	She shrank yesterday.
+2256	265	They have shrunk already.
+2257	265	He usually shrinks at work.
+2258	265	I shrank it last night.
+2259	265	We have shrunk many times.
+2260	265	She always shrinks carefully.
+2261	265	He shrank without hesitation.
+2262	265	I have shrunk before.
+2263	265	They will shrink again.
+2264	266	I shut every day.
+2265	266	She shut yesterday.
+2266	266	They have shut already.
+2267	266	He usually shuts at work.
+2268	266	I shut it last night.
+2269	266	We have shut many times.
+2270	266	She always shuts carefully.
+2271	266	He shut without hesitation.
+2272	266	I have shut before.
+2273	266	They will shut again.
+2274	267	I sing every day.
+2275	267	She sang yesterday.
+2276	267	They have sung already.
+2277	267	He usually sings at work.
+2278	267	I sang it last night.
+2279	267	We have sung many times.
+2280	267	She always sings carefully.
+2281	267	He sang without hesitation.
+2282	267	I have sung before.
+2283	267	They will sing again.
+2284	268	I sink every day.
+2285	268	She sank yesterday.
+2286	268	They have sunk already.
+2287	268	He usually sinks at work.
+2288	268	I sank it last night.
+2289	268	We have sunk many times.
+2290	268	She always sinks carefully.
+2291	268	He sank without hesitation.
+2292	268	I have sunk before.
+2293	268	They will sink again.
+2294	269	I sit every day.
+2295	269	She sat yesterday.
+2296	269	They have sat already.
+2297	269	He usually sits at work.
+2298	269	I sat it last night.
+2299	269	We have sat many times.
+2300	269	She always sits carefully.
+2301	269	He sat without hesitation.
+2302	269	I have sat before.
+2303	269	They will sit again.
+2304	270	I sleep every day.
+2305	270	She slept yesterday.
+2306	270	They have slept already.
+2307	270	He usually sleeps at work.
+2308	270	I slept it last night.
+2309	270	We have slept many times.
+2310	270	She always sleeps carefully.
+2311	270	He slept without hesitation.
+2312	270	I have slept before.
+2313	270	They will sleep again.
+2314	271	I slide every day.
+2315	271	She slid yesterday.
+2316	271	They have slid already.
+2317	271	He usually slides at work.
+2318	271	I slid it last night.
+2319	271	We have slid many times.
+2320	271	She always slides carefully.
+2321	271	He slid without hesitation.
+2322	271	I have slid before.
+2323	271	They will slide again.
+2324	272	I speak every day.
+2325	272	She spoke yesterday.
+2326	272	They have spoken already.
+2327	272	He usually speaks at work.
+2328	272	I spoke it last night.
+2329	272	We have spoken many times.
+2330	272	She always speaks carefully.
+2331	272	He spoke without hesitation.
+2332	272	I have spoken before.
+2333	272	They will speak again.
+2334	273	I spend every day.
+2335	273	She spent yesterday.
+2336	273	They have spent already.
+2337	273	He usually spends at work.
+2338	273	I spent it last night.
+2339	273	We have spent many times.
+2340	273	She always spends carefully.
+2341	273	He spent without hesitation.
+2342	273	I have spent before.
+2343	273	They will spend again.
+2344	274	I spin every day.
+2345	274	She spun yesterday.
+2346	274	They have spun already.
+2347	274	He usually spins at work.
+2348	274	I spun it last night.
+2349	274	We have spun many times.
+2350	274	She always spins carefully.
+2351	274	He spun without hesitation.
+2352	274	I have spun before.
+2353	274	They will spin again.
+2354	275	I stand every day.
+2355	275	She stood yesterday.
+2356	275	They have stood already.
+2357	275	He usually stands at work.
+2358	275	I stood it last night.
+2359	275	We have stood many times.
+2360	275	She always stands carefully.
+2361	275	He stood without hesitation.
+2362	275	I have stood before.
+2363	275	They will stand again.
+2364	276	I stick every day.
+2365	276	She stuck yesterday.
+2366	276	They have stuck already.
+2367	276	He usually sticks at work.
+2368	276	I stuck it last night.
+2369	276	We have stuck many times.
+2370	276	She always sticks carefully.
+2371	276	He stuck without hesitation.
+2372	276	I have stuck before.
+2373	276	They will stick again.
+2374	277	I sting every day.
+2375	277	She stung yesterday.
+2376	277	They have stung already.
+2377	277	He usually stings at work.
+2378	277	I stung it last night.
+2379	277	We have stung many times.
+2380	277	She always stings carefully.
+2381	277	He stung without hesitation.
+2382	277	I have stung before.
+2383	277	They will sting again.
+2384	278	I strike every day.
+2385	278	She struck yesterday.
+2386	278	They have struck already.
+2387	278	He usually strikes at work.
+2388	278	I struck it last night.
+2389	278	We have struck many times.
+2390	278	She always strikes carefully.
+2391	278	He struck without hesitation.
+2392	278	I have struck before.
+2393	278	They will strike again.
+2394	158	I swear every day.
+2396	158	She swore yesterday.
+2398	158	They have sworn already.
+2400	158	He usually swears at work.
+2402	158	I swore it last night.
+2404	158	We have sworn many times.
+2406	158	She always swears carefully.
+2408	158	He swore without hesitation.
+2410	158	I have sworn before.
+2412	158	They will swear again.
+2414	280	I sweep every day.
+2415	280	She swept yesterday.
+2416	280	They have swept already.
+2417	280	He usually sweeps at work.
+2418	280	I swept it last night.
+2419	280	We have swept many times.
+2420	280	She always sweeps carefully.
+2421	280	He swept without hesitation.
+2422	280	I have swept before.
+2423	280	They will sweep again.
+2424	281	I swim every day.
+2425	281	She swam yesterday.
+2426	281	They have swum already.
+2427	281	He usually swims at work.
+2428	281	I swam it last night.
+2429	281	We have swum many times.
+2430	281	She always swims carefully.
+2431	281	He swam without hesitation.
+2432	281	I have swum before.
+2433	281	They will swim again.
+2434	282	I teach every day.
+2435	282	She taught yesterday.
+2436	282	They have taught already.
+2437	282	He usually teachs at work.
+2438	282	I taught it last night.
+2439	282	We have taught many times.
+2440	282	She always teachs carefully.
+2441	282	He taught without hesitation.
+2442	282	I have taught before.
+2443	282	They will teach again.
+2444	283	I tear every day.
+2445	283	She tore yesterday.
+2446	283	They have torn already.
+2447	283	He usually tears at work.
+2448	283	I tore it last night.
+2449	283	We have torn many times.
+2450	283	She always tears carefully.
+2451	283	He tore without hesitation.
+2452	283	I have torn before.
+2453	283	They will tear again.
+2454	284	I throw every day.
+2455	284	She threw yesterday.
+2456	284	They have thrown already.
+2457	284	He usually throws at work.
+2458	284	I threw it last night.
+2459	284	We have thrown many times.
+2460	284	She always throws carefully.
+2461	284	He threw without hesitation.
+2462	284	I have thrown before.
+2463	284	They will throw again.
+2464	285	I wake every day.
+2465	285	She woke yesterday.
+2466	285	They have woken already.
+2467	285	He usually wakes at work.
+2468	285	I woke it last night.
+2469	285	We have woken many times.
+2470	285	She always wakes carefully.
+2471	285	He woke without hesitation.
+2472	285	I have woken before.
+2473	285	They will wake again.
+2474	286	I wear every day.
+2475	286	She wore yesterday.
+2476	286	They have worn already.
+2477	286	He usually wears at work.
+2478	286	I wore it last night.
+2479	286	We have worn many times.
+2480	286	She always wears carefully.
+2481	286	He wore without hesitation.
+2482	286	I have worn before.
+2483	286	They will wear again.
+2484	287	I win every day.
+2485	287	She won yesterday.
+2486	287	They have won already.
+2487	287	He usually wins at work.
+2488	287	I won it last night.
+2489	287	We have won many times.
+2490	287	She always wins carefully.
+2491	287	He won without hesitation.
+2492	287	I have won before.
+2493	287	They will win again.
+2494	198	I write every day.
+2496	198	She wrote yesterday.
+2498	198	They have written already.
+2500	198	He usually writes at work.
+2502	198	I wrote it last night.
+2504	198	We have written many times.
+2506	198	She always writes carefully.
+2508	198	He wrote without hesitation.
+2510	198	I have written before.
+2512	198	They will write again.
+2514	202	I awake early on weekdays.
+2515	202	She awoke suddenly at night.
+2516	202	They have awoken to the noise.
+2517	202	He awakes at six every day.
+2518	202	I awoke from a strange dream.
+2519	202	We have awoken late before.
+2520	202	She awoke feeling scared.
+2521	202	He awakes easily.
+2522	202	I have awoken refreshed.
+2523	202	They awoke to reality.
+2524	262	I shine at my job.
+2525	262	She shone brightly.
+2526	262	They have shone before.
+2527	262	He shines under pressure.
+2528	262	I shone in the interview.
+2529	262	We have shone together.
+2530	262	She shines every time.
+2531	262	He shone like a star.
+2532	262	I have shone in hard times.
+2533	262	They shone on stage.
+2534	235	I hang my coat here.
+2535	235	She hung the picture.
+2536	235	They have hung the lights.
+2537	235	He hangs his jacket there.
+2538	235	I hung the clothes outside.
+2539	235	We have hung this before.
+2540	235	She hangs the keys by the door.
+2541	235	He hung the painting carefully.
+2542	235	I have hung everything already.
+2543	235	They hung the banner.
+2544	289	We run safety drills every month.
+2545	289	The coach scheduled extra drills.
+2546	289	Fire drills are mandatory.
+2547	289	They practiced drills before the test.
+2548	289	The team repeated the drills.
+2549	289	Emergency drills save lives.
+2550	289	She hates repetitive drills.
+2551	289	The company conducts drills regularly.
+2552	289	Training drills improved performance.
+2553	289	The class started with warm-up drills.
+2554	290	The project seemed doomed from the start.
+2555	290	Without help, the plan was doomed.
+2556	290	He felt the mission was doomed.
+2557	290	The team thought they were doomed.
+2558	290	The old system was doomed to fail.
+2559	290	Their chances looked doomed.
+2560	290	The relationship felt doomed.
+2561	290	The attempt was doomed by errors.
+2562	290	The ship was doomed after the damage.
+2563	290	Everyone believed it was doomed.
+2564	291	The search was fruitless.
+2565	291	Their efforts proved fruitless.
+2566	291	The meeting was fruitless.
+2567	291	Negotiations ended fruitless.
+2568	291	Hours of work were fruitless.
+2569	291	The investigation was fruitless.
+2570	291	The discussion felt fruitless.
+2571	291	The attempt was fruitless.
+2572	291	Research became fruitless.
+2573	291	The argument was fruitless.
+2574	292	The street is narrow.
+2575	292	He has a narrow view.
+2576	292	The path became narrow.
+2577	292	The margin was narrow.
+2578	292	They escaped by a narrow chance.
+2579	292	The bridge is narrow.
+2580	292	The room felt narrow.
+2581	292	A narrow focus can limit growth.
+2582	292	The gap is narrow.
+2583	292	The victory was narrow.
+2584	293	She is an accomplished professional.
+2585	293	He felt accomplished after finishing.
+2586	293	The task was accomplished.
+2587	293	They accomplished their goals.
+2588	293	She is highly accomplished.
+2589	293	The mission was accomplished.
+2590	293	He became an accomplished writer.
+2591	293	Everything was accomplished on time.
+2592	293	She looked calm and accomplished.
+2593	293	The project was successfully accomplished.
+2594	294	The pillow is very soft.
+2595	294	She hugged her pillow.
+2596	294	I need a new pillow.
+2597	294	The pillow supports the neck.
+2598	294	He adjusted the pillow.
+2599	294	The pillow fell off the bed.
+2600	294	This pillow is too high.
+2601	294	She sleeps without a pillow.
+2602	294	The pillow smells clean.
+2603	294	A pillow improves sleep.
+2604	295	He ate a bagel for breakfast.
+2605	295	The bagel was freshly baked.
+2606	295	She ordered a bagel with cheese.
+2607	295	I like a toasted bagel.
+2608	295	The café sells bagel varieties.
+2609	295	He sliced the bagel.
+2610	295	The bagel tasted great.
+2611	295	She prefers a plain bagel.
+2612	295	A bagel pairs well with coffee.
+2613	295	The bagel was still warm.
+2614	296	The hotel offers a continental breakfast.
+2615	296	We had a continental breakfast.
+2616	296	The continental breakfast included bread.
+2617	296	Guests enjoy the continental breakfast.
+2618	296	The continental breakfast was simple.
+2619	296	A continental breakfast is light.
+2620	296	They serve continental breakfast daily.
+2621	296	I chose the continental breakfast.
+2622	296	The continental breakfast was included.
+2623	296	She prefers continental breakfast.
+2624	297	She spread jam on toast.
+2625	297	I like strawberry jam.
+2626	297	The jar of jam is open.
+2627	297	He bought homemade jam.
+2628	297	The jam is sweet.
+2629	297	Jam goes well with bread.
+2630	297	She spilled jam on the table.
+2631	297	This jam tastes natural.
+2632	297	The jam was delicious.
+2633	297	They make jam at home.
+2634	298	The waiter brought the menu.
+2635	298	The waiter was polite.
+2636	298	She called the waiter.
+2637	298	The waiter took our order.
+2638	298	He works as a waiter.
+2639	298	The waiter spilled water.
+2640	298	The waiter smiled.
+2641	298	They thanked the waiter.
+2642	298	The waiter returned quickly.
+2643	298	The waiter recommended a dish.
+2644	299	The hen laid an egg.
+2645	299	The farmer fed the hen.
+2646	299	A hen protects her chicks.
+2647	299	The hen walked around the yard.
+2648	299	They keep a hen at home.
+2649	299	The hen clucked loudly.
+2650	299	The hen stayed near the coop.
+2651	299	The hen looked healthy.
+2652	299	A hen can lay eggs daily.
+2653	299	The hen ran away.
+2654	300	She comes from a wealthy family.
+2655	300	He became wealthy through hard work.
+2656	300	The area is known for wealthy residents.
+2657	300	They are wealthy but humble.
+2658	300	A wealthy investor funded the project.
+2659	300	Wealthy people often invest early.
+2660	300	The country grew wealthy over time.
+2661	300	She married a wealthy businessman.
+2662	300	The company made him wealthy.
+2663	300	Wealthy individuals pay more taxes.
+2664	301	The police seized the documents.
+2665	301	He seized the opportunity.
+2666	301	The assets were seized by authorities.
+2667	301	She seized control of the project.
+2668	301	The company was seized by the state.
+2669	301	They seized illegal goods.
+2670	301	He seized the moment.
+2671	301	The computer was seized as evidence.
+2672	301	She seized the chance to speak.
+2673	301	The shipment was seized at customs.
+2674	302	The speech was stoking fear.
+2675	302	He kept stoking the fire.
+2676	302	The news is stoking panic.
+2677	302	She is stoking excitement.
+2678	302	The comment was stoking anger.
+2679	302	They accused him of stoking conflict.
+2680	302	The leader was stoking division.
+2681	302	The report is stoking concern.
+2682	302	He enjoys stoking debate.
+2683	302	The media is stoking rumors.
+2684	303	Water is the best beverage.
+2685	303	She ordered a cold beverage.
+2686	303	The beverage menu is long.
+2687	303	This beverage contains sugar.
+2688	303	He spilled his beverage.
+2689	303	They serve hot beverages.
+2690	303	The beverage was refreshing.
+2691	303	Coffee is a popular beverage.
+2692	303	The beverage was included.
+2693	303	Choose your favorite beverage.
+2694	304	The smell was disgusting.
+2695	304	That behavior is disgusting.
+2696	304	The food tasted disgusting.
+2697	304	He found the mess disgusting.
+2698	304	The image was disgusting.
+2699	304	This habit is disgusting.
+2700	304	The bathroom was disgusting.
+2701	304	She called the joke disgusting.
+2702	304	The odor is disgusting.
+2703	304	They saw something disgusting.
+2704	305	The room is a mess.
+2705	305	He made a big mess.
+2706	305	The kitchen was a mess.
+2707	305	Her desk is always a mess.
+2708	305	The system is a mess.
+2709	305	Clean up this mess.
+2710	305	The situation turned into a mess.
+2711	305	He left a mess behind.
+2712	305	The files are a mess.
+2713	305	The project became a mess.
+2714	306	The bread is stale.
+2715	306	The joke feels stale.
+2716	306	The air was stale.
+2717	306	The idea became stale.
+2718	306	The chips taste stale.
+2719	306	The content sounds stale.
+2720	306	The smell is stale.
+2721	306	The routine feels stale.
+2722	306	The bread went stale.
+2723	306	The conversation turned stale.
+2724	307	The animal is endangered.
+2725	307	Many species are endangered.
+2726	307	The law protects endangered animals.
+2727	307	Endangered species need protection.
+2728	307	The habitat shelters endangered birds.
+2729	307	Endangered animals face extinction.
+2730	307	The project helps endangered wildlife.
+2731	307	The forest supports endangered species.
+2732	307	Endangered plants are rare.
+2733	307	Climate change threatens endangered animals.

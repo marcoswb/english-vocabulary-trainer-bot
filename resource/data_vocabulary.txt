@@ -1,0 +1,264 @@
+id	word	meaning	hint
+34	aim	objetivo	to direct a goal or intention
+35	imperative	essencial	extremely important or necessary
+36	postpone	adiar	to delay something
+37	behind	atrás	at or to the far side of
+38	first off	começar	to begin with
+39	go over	revisar	to review or examine
+40	once more	repetir	an extra time, again
+41	procedure	procedimento	an established way of doing something
+42	state	afirmar	to say something clearly
+43	thoroughly	minuciosamente	in a detailed way
+44	farewell party	festa de despedida	a party to say goodbye
+45	collection	vaquinha	money given by different people, often used to buy a gift or help someone
+46	looking forward	ansioso	excited about something in the future
+47	grandchildren	netos	children of your children
+48	dead-end job	emprego sem futuro	a job with no growth
+49	commute	deslocamento	travel regularly to work
+50	talk out	conversar até resolver	to speak someone with to come up with answers to a question or to work through a problem
+51	figure out	descobrir	to understand or solve
+52	rusty	enferrujado	lacking skill due to lack of practice
+53	behavior	comportamento	the way someone acts
+54	deliver	entregar	to bring or provide something
+55	key strengths	pontos fortes	main abilities or advantages
+56	every other day	dia sim, dia não	on alternate days
+57	managerial	gerencial	related to management
+58	stealing	roubo	taking something illegally
+59	bounce off	trocar ideias	to share ideas informally
+60	employment	emprego	work or job
+61	duty	dever	a responsibility or task
+62	fair	justo	reasonable or equitable
+63	take it easy	relaxar	relax or do not worry
+64	at least	pelo menos	not less than
+65	duties	responsabilidades	tasks or responsibilities
+66	tailor	adaptar	to customize for a purpose
+67	whichever	qualquer que seja	no matter which
+68	proofread	revisar texto	to check text for errors
+69	leverage	aproveitar	to use something to maximum advantage
+70	tune in	acompanhar	to pay attention or watch/listen
+71	land	conseguir	to obtain or arrive
+72	worthwhile	que vale a pena	worth the effort
+73	career fair	feira de carreiras	event for job opportunities
+79	entry-level	nível inicial	position suitable for beginners
+80	overwhelming	avassalador	very strong or intense
+81	seekers	recrutadores	people looking for something
+82	at once	de uma vez	right away or simultaneously
+83	so far	até agora	until this moment
+84	on the spot	imediatamente	immediately or in public
+85	grab attention	chamar a atenção de alguém	make someone notice
+86	hook	chamar atenção	attract or catch interest
+87	shaking hands	aperto de mãos	formal greeting gesture
+88	compensate	pagamento	to pay someone for work done
+89	internship	estágio	a job, often unpaid, that gives someone work experiences
+90	booth	estande	a small area, sometimes a table, that has things for sale or provide information
+91	follow up	acompanhar	to ask for additional information, to plan to continue a discussion at a later date
+92	availability	disponibilidade	the dates and times a person is able to work
+93	disability	deficiência	physical or mental limitation
+94	discriminate against	discriminar	treat unfairly
+95	marital status	estado civil	marriage condition
+96	vouch for	garantir	say someone is trustworthy
+97	asset	qualidade	 a useful person or quality
+98	cover letter	carta de apresentação	 a letter that you send in addition to your résumé and provides extra information about you
+99	hassle	incômodo	something annoying or inconvenient
+100	form letter	carta	a letter that is copied and sent to many people
+101	sincerely	atenciosamente	formal email closing
+102	aware	consciente	knowing that something is true, or that something exists
+103	slot	vaga	tan opening for something, such as appointment
+104	if that suits you	se for conveniente para você	if that is acceptable to you, more formal way to say “if that is okay with you”
+105	find out	ficar sabendo	to learn or discovery
+106	picky	exigente	liking things a particular way, only liking certain things, hard to please
+107	word of mouth	boca a boca	information shared verbally
+108	advance	avanço	 move forward, move to a higher level
+109	knock on wood	bater na madeira	a phrase one says(while knowing a wood, if possible) for good luck after mentioning a hope - “bater na madeira”
+110	catch some rays	pegar um sol	spend time in the sun
+111	chill out	relaxar	relax and calm down
+112	commute with nature	contato com a natureza	travel surrounded by nature
+113	couch potato	sedentário	person who watches a lot of TV
+114	concerned	preocupado	worried or anxious
+115	grin	sorrir	to give a big smile
+116	wink	piscar	often signal or joke
+117	glance	olhar rapidamente	quick look
+118	dependable	confiável	can be trusted
+119	foolish	tolo	showing lack of good sense
+120	settled	resolvido	decided or calm
+121	weapon	arma	something that is used for fighting, such as a gun or a knife
+122	threaten	ameaçar	 to say that someone will be harmed or hurt, especially if they do not do something
+123	burst open	abrir de repente	open suddenly and forcefully
+124	kidnap	sequestrar	take someone by force
+125	growl	rosnar	if a person growls, he or she talks is a deep voice, often because he or she is angry
+126	irked	incomodado	annoyed or bothered by something
+127	cage	gaiola	a box or an area with bars around it for keeping animals in
+128	vanish	desaparecer	disappear suddenly
+129	spit	cuspir	force liquid from mouth
+130	pride	orgulho	a feeling of pleasure because you have achieve something
+131	sneak	esgueirar-se	move quietly and secretly
+132	here goes nothing	lá vou eu	said before trying something risky
+133	startled	assustado	suddenly surprised
+134	shatter	estilhaçar	break into many pieces
+135	ankle	tornozelo	joint of the foot
+136	trapped	preso	unable to escape
+137	vice	vício	bad habit
+139	nod	acenar com a cabeça	move head up and down
+140	blasted	destruído	an old expression to show anger or dislike
+141	glare	olhar com raiva	to look at someone in a way that shows you are very angry
+142	showdown	confronto final	final decisive conflict
+143	murmur	murmurar	speak quietly and unclearly
+144	twist	reviravolta	to turn something or change direction; an unexpected change in a situation
+145	spiky	pontiagudo	having sharp points or spikes
+146	boyfriend material	material para namorado	someone who has qualities that make them suitable for a long-term relationship
+147	argue	discutir	to speak angrily or disagree with someone
+148	pace	ritmo	the speed at which something happens or someone moves
+149	folks	pessoas	people, especially family or parents
+150	interject	interromper (com comentário)	to interrupt a conversation with a remark
+151	hang out	passar tempo juntos	to spend time relaxing or socializing
+153	big deal	algo importante	something considered important or significant
+154	naive	ingênuo	lacking experience or understanding of the real world
+155	snidely	ironicamente	in a mocking or contemptuous way
+156	GPA	média de notas (Grade Point Average)	a numerical average of a student’s academic grades
+157	deserve	merecer	to be worthy of something
+158	swear	jurar/xingar	to make a serious promise or use offensive languageswear
+159	back off	recuar	to move away or stop interfering
+160	scent	aroma	a distinctive smell
+161	whisper	sussurrar	to speak very softly
+162	yawn	bocejar	to open the mouth wide due to tiredness or boredom
+163	howl	uivar	to make a long loud cry
+164	doubt	duvidar	to feel uncertain about something
+165	struggle	lutar	to make a great effort despite difficulty
+166	prospect	possibilidade	a potential opportunity or future chance
+167	on a regular basis	regularmente	happening repeatedly at consistent intervals
+168	face the music	enfrentar as consequências	to accept the unpleasant results of one’s actions
+169	be better of	estar em melhor situação	to be in a more advantageous or improved condition
+170	in the long run	a longo prazo	over a long period of time
+171	attorney	advogado	a person legally qualified to represent others in court
+172	invaluable	inestimável	extremely useful or important
+173	annoys	irrita	causes slight anger or discomfort
+174	though	embora	used to introduce a contrast or concession
+175	be	ser / estar	to exist or be in a state
+176	have	ter	to possess or own
+177	do	fazer	to perform an action
+178	say	dizer	to express words verbally
+179	go	ir	to move to another place
+180	get	obter / ficar	to receive or become
+181	make	fazer / criar	to create or produce
+182	know	saber / conhecer	to have information or familiarity
+183	think	pensar / achar	to have an opinion or idea
+184	take	pegar / levar	to grab or carry
+185	see	ver	to perceive with the eyes
+186	come	vir	to move toward the speaker
+187	give	dar	to provide to someone
+188	find	encontrar	to discover or locate
+189	tell	contar / dizer	to inform or narrate
+190	feel	sentir	to experience an emotion or sensation
+191	leave	sair / deixar	to go away or abandon
+192	become	tornar-se	to start being something
+193	bring	trazer	to carry to a place
+194	begin	começar	to start something
+195	keep	manter	to continue having or holding
+196	hold	segurar	to keep in the hand
+197	hear	ouvir	to perceive sound
+198	write	escrever	to form words in text
+199	understand	entender	to comprehend meaning
+200	abide	permanecer / cumprir	to remain or follow a rule
+201	arise	surgir	to appear or begin
+202	awake	acordar	to stop sleeping
+203	beat	bater / derrotar	to hit repeatedly
+204	bear	suportar / dar à luz	to carry or tolerate
+205	bend	dobrar	to curve something
+206	bind	atar / ligar	to tie together
+207	bite	morder	to use teeth
+208	bleed	sangrar	to lose blood
+209	blow	soprar	to move air
+210	break	quebrar	to damage into pieces
+211	build	construir	to make something
+212	burn	queimar	to be on fire
+213	buy	comprar	to pay money for something
+214	catch	pegar / capturar	to grab or capture
+215	choose	escolher	to select an option
+216	cling	agarrar-se	to hold tightly
+217	creep	rastejar	to move slowly
+218	deal	lidar / negociar	to manage or distribute
+219	dig	cavar	to make a hole
+220	draw	desenhar / puxar	to make a picture or pull
+221	dream	sonhar	to experience dreams
+222	drink	beber	to consume liquid
+223	drive	dirigir	to control a vehicle
+224	eat	comer	to consume food
+225	fall	cair	to move downward
+226	feed	alimentar	to give food
+227	fight	lutar	to battle
+228	flee	fugir	to run away
+229	fly	voar	to move through air
+230	forbid	proibir	to not allow
+231	forget	esquecer	to fail to remember
+232	forgive	perdoar	to stop feeling anger
+233	freeze	congelar	to become ice
+234	grow	crescer	to increase in size
+235	hang	pendurar	to suspend
+236	hide	esconder	to keep out of sight
+237	hit	acertar	to strike
+238	hurt	machucar	to cause pain
+240	kneel	ajoelhar	to rest on knees
+242	lay	colocar	to put something down
+243	lead	liderar	to guide
+244	lend	emprestar	to give temporarily
+245	let	deixar	to allow
+246	lie	deitar	to rest flat
+247	lose	perder	to fail to keep
+248	mean	significar	to express meaning
+249	meet	encontrar-se	to see someone
+250	pay	pagar	to give money
+251	prove	provar	to show truth
+252	read	ler	to understand text
+253	ride	andar (bike/cavalo)	to sit and control movement
+254	ring	tocar (telefone)	to produce sound
+255	rise	erguer-se	to go up
+256	run	correr	to move fast
+257	seek	procurar	to try to find
+258	sell	vender	to exchange for money
+259	send	enviar	to cause to go somewhere
+260	set	colocar / ajustar	to put or adjust
+261	shake	tremer	to move violently
+262	shine	brilhar	to give light
+263	shoot	atirar	to fire a weapon
+264	show	mostrar	to display
+265	shrink	encolher	to become smaller
+266	shut	fechar	to close
+267	sing	cantar	to make music
+268	sink	afundar	to go underwater
+269	sit	sentar	to rest on chair
+270	sleep	dormir	to rest
+271	slide	escorregar	to move smoothly
+272	speak	falar	to talk
+273	spend	gastar	to use money or time
+274	spin	girar	to rotate
+275	stand	ficar em pé	to be upright
+276	stick	grudar	to attach
+277	sting	picar	to injure with a sting
+278	strike	atingir	to hit forcefully
+280	sweep	varrer	to clean floor
+281	swim	nadar	to move in water
+282	teach	ensinar	to help learn
+283	tear	rasgar	to rip
+284	throw	jogar / arremessar	to toss
+285	wake	acordar	to stop sleeping
+286	wear	vestir	to have clothes on
+287	win	ganhar	to achieve victory
+289	drills	treinamentos repetitivos	repeated practice activities designed to train skills or prepare for emergencies
+290	doomed	condenado	certain to fail or have a bad outcome
+291	fruitless	sem resultados	producing no useful results or success
+292	narrow	limitado	having little width or limited scope
+293	accomplished	bem-sucedido	having achieved a lot or completed something successfully
+294	pillow	travesseiro	a soft object used to support the head while sleeping
+295	bagel	bagel (tipo de pão)	a round bread roll with a hole in the middle
+296	continental breakfast	café da manhã continental	a light breakfast with bread, butter, jam, and coffee or juice
+297	jam	geleia	a sweet spread made from fruit and sugar
+298	waiter	garçom	a person whose job is to serve food in a restaurant
+299	hen	galinha	a female chicken kept for eggs or meat
+300	wealthy	rico(informal)	having a lot of money or valuable assets
+301	seized	apreendido	taken suddenly or with legal authority
+302	stoking	alimentando	adding fuel or effort to make something stronger or more intense
+303	beverage	bebida	a drink of any kind, except usually water
+304	disgusting	repugnante	causing strong dislike or revulsion
+305	mess	bagunça	a dirty or disorganized state or situation
+306	stale	velho/amanhecido	no longer fresh, interesting, or effective
+307	endangered	em perigo de extinção	at risk of disappearing or becoming extinct
