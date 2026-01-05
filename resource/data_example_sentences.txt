@@ -2649,3 +2649,63 @@ id	vocab_id	sentence
 2731	307	The forest supports endangered species.
 2732	307	Endangered plants are rare.
 2733	307	Climate change threatens endangered animals.
+2734	308	She is loyal to her friends.
+2735	308	He remained loyal to the company.
+2736	308	Dogs are loyal animals.
+2737	308	A loyal employee is valuable.
+2738	308	They stayed loyal during hard times.
+2739	308	He is loyal to his principles.
+2740	308	Loyal customers returned.
+2741	308	She proved loyal over time.
+2742	308	The team is loyal to the leader.
+2743	308	Loyal support matters.
+2744	309	We ordered an appetizer first.
+2745	309	The appetizer was delicious.
+2746	309	She chose a light appetizer.
+2747	309	The menu lists several appetizers.
+2748	309	They shared an appetizer.
+2749	309	The appetizer arrived quickly.
+2750	309	Soup can be an appetizer.
+2751	309	The appetizer set the mood.
+2752	309	He skipped the appetizer.
+2753	309	The appetizer was well prepared.
+2754	310	She walked down the aisle.
+2755	310	The aisle was crowded.
+2756	310	He sat near the aisle.
+2757	310	Please keep the aisle clear.
+2758	310	The cart blocked the aisle.
+2759	310	They stood in the aisle.
+2760	310	I prefer an aisle seat.
+2761	310	The aisle leads to the exit.
+2762	310	Kids ran through the aisle.
+2763	310	The aisle was narrow.
+2764	311	We have a long layover.
+2765	311	The layover lasts two hours.
+2766	311	She slept during the layover.
+2767	311	The layover was in Miami.
+2768	311	They booked a short layover.
+2769	311	A layover can be tiring.
+2770	311	The layover delayed us.
+2771	311	He left the airport during the layover.
+2772	311	The layover gave time to eat.
+2773	311	The flight includes a layover.
+2774	312	My checked luggage was heavy.
+2775	312	They lost my checked luggage.
+2776	312	I paid for checked luggage.
+2777	312	The airline damaged my checked luggage.
+2778	312	Checked luggage goes in the cargo hold.
+2779	312	She packed liquids in checked luggage.
+2780	312	My checked luggage arrived late.
+2781	312	He avoids checked luggage.
+2782	312	The tag was on my checked luggage.
+2783	312	Checked luggage costs extra.
+2784	313	The takeoff was smooth.
+2785	313	Phones must be off during takeoff.
+2786	313	The plane delayed takeoff.
+2787	313	He felt nervous at takeoff.
+2788	313	Takeoff happened on time.
+2789	313	The weather affected takeoff.
+2790	313	The engine roared at takeoff.
+2791	313	She watched the takeoff.
+2792	313	Takeoff requires focus.
+2793	313	The pilot announced takeoff.
