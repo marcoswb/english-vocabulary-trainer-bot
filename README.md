@@ -8,9 +8,9 @@
 
 Este projeto combina:
 - 👨‍💻 **Telegram Bot** para interação conversacional
-- 📚 Banco de dados com vocabulário, exemplos e estados de revisão
-- 🧠 Algoritmo SRS para revisar palavras no momento ideal
-- 🗓️ **GitHub Actions** para envio diário de quizzes
+- 📚 **Banco de dados** com vocabulário, exemplos e estados de revisão
+- 🧠 **Algoritmo SRS** para revisar palavras no momento ideal
+- 🗓️ **GitHub Actions** para envio diário do quiz de perguntas
 
 ---
 
@@ -26,19 +26,26 @@ Criar um sistema automatizado que ajude no aprendizado diário de vocabulário e
 
 ## 🧱 Estrutura do Projeto
 
-| Componente          | Descrição                                   |
-|---------------------|---------------------------------------------|
-| `.github/workflows` | Automação de envio diário                   |
-| `data/`             | Arquivos texto de vocabulário / frases      |
-| `resource/`         | Arquivos .sql de estrutura do banco de dados | 
-| `src/`              | Código principal do bot                     |
-| `main.py`           | Inicialização do bot                        |
+| Componente          | Descrição                                                            |
+|---------------------|----------------------------------------------------------------------|
+| `.github/workflows` | Automação de envio diário                                            |
+| `data/`             | Arquivos texto de vocabulário / frases para upload no banco de dados |
+| `resource/`         | Arquivos .sql de estrutura do banco de dados e dados já salvos       | 
+| `src/`              | Código principal do bot                                              |
+| `main.py`           | Inicialização do bot                                                 |
+| `insert_vocab.py`   | Script para inserção de vocabulários no banco de dados               |
 
 ---
 
 ## 📈 Spaced Repetition System (SRS)
 
-Este bot usa uma lógica SRS(assim como os algoritmos dos principais cursos de inglês do mercado) para decidir quando cada palavra deve aparecer novamente para aprendizado, ajustando os dias conforme o desempenho do usuário (streak + confidence), garantindo assim que o usuário só irá para o próximo nível do quiz quando realmente tiver aprendido a nova palavra.
+Este bot usa uma lógica SRS(assim como os algoritmos dos principais cursos de inglês do mercado) para decidir quando cada palavra deve aparecer novamente para aprendizado, ajustando o próximo dia de revisão conforme o desempenho do usuário (streak + confidence), garantindo assim que o usuário só irá para o próximo nível quando realmente tiver aprendido a nova palavra.
+
+---
+
+## 📈 Variações verbais e verbos irregulares
+
+Esse projeto conta com um algoritmo para aprendizado completo de verbos em diferentes tempos verbais, inclusive verbos irregulares. É possível adicionar o verbo na sua forma infinitiva para aprendizado e cadastrar frases de exemplo com simple past ou past continuous que a resposta esperada pelo bot será o verbo no tempo verbal correto conforme está na frase. 
 
 ---
 
@@ -64,7 +71,7 @@ AUTHORIZED_USER_ID=<id do usuário(no telegram) com quem o bot irá se comunicar
 ```
 
 ### 3. Iniciar script com GitHub Actions
-Esse projeto possui o arquivo `daily_bot.yml` que é responsável por executar o scraper via [Github Actions](https://github.com/features/actions), ele está configurado para ser executado manualmente quando o usuário desejar e também via cron(agendador de tarefas) todos os dias as 12:15(horário de Brasília).
+Esse projeto possui o arquivo `daily_bot.yml` que é responsável por executar o scraper via [Github Actions](https://github.com/features/actions), ele está configurado para ser executado manualmente quando o usuário desejar e também via cron(agendador de tarefas) todos os dias as 12:30(horário de Brasília).
 
 Para que a Action funcione corretamente basta configurar as mesmas variáveis de ambiente descritas no item 2 como [secrets do projeto github](https://docs.github.com/en/actions/concepts/security/secrets), com isso ela já estará agendada para executar todos os dias e você já pode testar também pois esse fluxo permite a execução manual da Action sempre que necessário.
 
