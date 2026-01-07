@@ -70,10 +70,10 @@ class BaseHandler:
         )
 
         if voice_mp3:
-            await context.bot.send_voice(chat_id=update.effective_chat.id, voice=open(voice_mp3, 'rb'))
+            await cls.send_audio(update, context, voice_mp3)
 
     @classmethod
-    async def mark_response(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, is_correct: bool, correct_response: str):
+    async def mark_response(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, is_correct: bool, correct_response: str, voice_mp3=None):
         await context.bot.send_message(chat_id=update.effective_chat.id, text=(
                 f'<b>Resposta correta!</b> 🎉'
                 if is_correct else
@@ -82,10 +82,17 @@ class BaseHandler:
             ),
            parse_mode="HTML")
 
+        if voice_mp3:
+            await cls.send_audio(update, context, voice_mp3)
+
     @classmethod
     async def finish(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str):
         context.user_data.clear()
         await cls.send_message(update, context, message)
+
+    @classmethod
+    async def send_audio(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, audio_file: str):
+        await context.bot.send_voice(chat_id=update.effective_chat.id, voice=open(audio_file, 'rb'))
 
     @classmethod
     async def reply(cls, update: Update, text: str, **kwargs):

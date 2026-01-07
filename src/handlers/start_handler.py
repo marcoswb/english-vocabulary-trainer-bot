@@ -70,7 +70,8 @@ class Start(BaseHandler):
                         question=f"Qual a tradução da palavra/expressão '<strong>{word}</strong>' para português?",
                         english_word=word,
                         correct_response=line.get('meaning'),
-                        options=get_random_itens(portuguese_words, 3, word=line.get('meaning'))
+                        options=get_random_itens(portuguese_words, 3, word=line.get('meaning')),
+                        send_mp3_with_question=True
                     ))
                 elif exercise_type == ExerciseType.PT_TRANSLATION:
                     cls.questions_step_1.append(Question(
@@ -164,11 +165,16 @@ class Start(BaseHandler):
                 elif cls.current_level == 4:
                     await cls.finish(update, context, 'As perguntas terminaram, voltamos a nos falar amanhã ;)')
 
+
+            voice_mp3 = None
+            if not cls.current_question.send_mp3_with_question():
+                voice_mp3 = get_audio_word(cls.current_question.get_english_word())
+
             if cls.current_question.get_response().upper() == response.upper():
-                await cls.mark_response(update, context, True, cls.current_question.get_response().upper())
+                await cls.mark_response(update, context, True, cls.current_question.get_response().upper(), voice_mp3)
                 cls.correct_responses.append(cls.current_question.get_vocab_id())
             else:
-                await cls.mark_response(update, context, False, cls.current_question.get_response().upper())
+                await cls.mark_response(update, context, False, cls.current_question.get_response().upper(), voice_mp3)
                 cls.wrong_responses.append(cls.current_question.get_vocab_id())
 
             if len(cls.current_questions) == 0:
@@ -198,7 +204,10 @@ class Start(BaseHandler):
                 hint= question_obj.get_hint()
                 if options:
                     options.append(question_obj.get_response())
-                    voice_mp3 = get_audio_word(question_obj.get_english_word())
+
+                    voice_mp3 = None
+                    if question_obj.send_mp3_with_question():
+                        voice_mp3 = get_audio_word(question_obj.get_english_word())
 
                     await cls.ask_with_options(update, context, question_obj.get_question(), options, callback_func, voice_mp3=voice_mp3)
                 elif hint:
