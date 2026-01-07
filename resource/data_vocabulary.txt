@@ -268,3 +268,17 @@ id	word	meaning	hint
 311	layover	conexão; escala (voo)	a short stay at an airport between flights
 312	checked luggage	bagagem despachada	bags given to the airline to be carried in the cargo hold
 313	takeoff	decolagem	the moment when an aircraft leaves the ground
+314	honeymoon	lua de mel	a vacation taken by a couple after getting married
+315	kindness	gentileza	the quality of being friendly, generous, and considerate
+316	flavors	sabores	distinct tastes of food or drink
+317	instead	em vez disso	as an alternative or replacement
+318	salad dressing	molho para salada	a sauce added to salad for flavor
+319	soft drink	bebida não alcoólica	a sweet, non-alcoholic carbonated drink
+320	glad	feliz	feeling happy or pleased
+321	roast	assar	to cook food using dry heat or food that is cooked this way
+322	sweeten	adoçar	to make something sweeter
+323	as well	também; além disso	in addition; too
+324	also	também	used to add information
+325	blossom	 florescer; flor	to develop or grow successfully; a flower
+326	shame	vergonha; pena	a feeling of guilt, embarrassment, or regret
+327	whose	cujo(a)	used to ask or show possession

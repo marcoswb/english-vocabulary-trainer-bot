@@ -2709,3 +2709,143 @@ id	vocab_id	sentence
 2791	313	She watched the takeoff.
 2792	313	Takeoff requires focus.
 2793	313	The pilot announced takeoff.
+2794	314	They went to Italy for their honeymoon.
+2795	314	The honeymoon lasted two weeks.
+2796	314	She planned the honeymoon carefully.
+2797	314	The honeymoon was unforgettable.
+2798	314	They saved money for the honeymoon.
+2799	314	The honeymoon destination was tropical.
+2800	314	He shared honeymoon photos.
+2801	314	The honeymoon started right after the wedding.
+2802	314	They enjoyed a relaxing honeymoon.
+2803	314	The honeymoon ended too soon.
+2804	315	Her kindness impressed everyone.
+2805	315	Small acts of kindness matter.
+2806	315	He showed kindness to strangers.
+2807	315	Kindness builds trust.
+2808	315	They thanked her for her kindness.
+2809	315	Kindness can change lives.
+2810	315	She values kindness.
+2811	315	Kindness costs nothing.
+2812	315	He responded with kindness.
+2813	315	Kindness creates connection.
+2814	316	The ice cream has many flavors.
+2815	316	She enjoys strong flavors.
+2816	316	The chef mixed flavors well.
+2817	316	They tested new flavors.
+2818	316	The soup has rich flavors.
+2819	316	Flavors vary by region.
+2820	316	He prefers mild flavors.
+2821	316	The drink combines citrus flavors.
+2822	316	Different flavors appeal to people.
+2823	316	The menu lists seasonal flavors.
+2824	317	I chose tea instead.
+2825	317	She stayed home instead.
+2826	317	Use this method instead.
+2827	317	He called instead of texting.
+2828	317	They walked instead.
+2829	317	Try a salad instead.
+2830	317	She waited instead.
+2831	317	He apologized instead.
+2832	317	We rested instead.
+2833	317	Choose quality instead.
+2834	318	Add salad dressing to taste.
+2835	318	She prefers olive oil salad dressing.
+2836	318	The salad dressing was homemade.
+2837	318	I like creamy salad dressing.
+2838	318	They bought low-fat salad dressing.
+2839	318	The salad dressing was too salty.
+2840	318	He poured salad dressing slowly.
+2841	318	This salad dressing is fresh.
+2842	318	Salad dressing adds flavor.
+2843	318	She skipped the salad dressing.
+2844	319	He ordered a soft drink.
+2845	319	Soft drinks contain sugar.
+2846	319	She avoids soft drinks.
+2847	319	The soft drink was cold.
+2848	319	They sell soft drinks here.
+2849	319	A soft drink came with the meal.
+2850	319	He spilled his soft drink.
+2851	319	Soft drinks are popular.
+2852	319	The soft drink was refreshing.
+2853	319	Choose any soft drink.
+2854	320	I’m glad you came.
+2855	320	She was glad to help.
+2856	320	He felt glad afterward.
+2857	320	They are glad it worked.
+2858	320	I’m glad to hear that.
+2859	320	She looked glad.
+2860	320	He was glad about the news.
+2861	320	We’re glad you’re here.
+2862	320	I’m glad it’s over.
+2863	320	She said she was glad.
+2864	321	They plan to roast chicken.
+2865	321	The roast smells great.
+2866	321	She learned how to roast vegetables.
+2867	321	The roast took two hours.
+2868	321	He prepared a Sunday roast.
+2869	321	Roast the meat slowly.
+2870	321	The roast was tender.
+2871	321	They served a beef roast.
+2872	321	Roast adds deep flavor.
+2873	321	She prefers roast coffee.
+2874	322	She tried to sweeten the tea.
+2875	322	Use honey to sweeten it.
+2876	322	He added sugar to sweeten the sauce.
+2877	322	Sweeten the deal with a bonus.
+2878	322	They sweetened the offer.
+2879	322	She doesn’t sweeten her coffee.
+2880	322	Add fruit to sweeten naturally.
+2881	322	He sweetened the dessert.
+2882	322	Sweeten to taste.
+2883	322	The recipe tells how to sweeten.
+2884	323	She is coming as well.
+2885	323	I want dessert as well.
+2886	323	He helped as well.
+2887	323	They agreed as well.
+2888	323	Bring your ID as well.
+2889	323	She called as well.
+2890	323	He apologized as well.
+2891	323	We’ll attend as well.
+2892	323	The kids came as well.
+2893	323	I was invited as well.
+2894	324	She also joined the team.
+2895	324	I also agree.
+2896	324	He also tried.
+2897	324	They also know the answer.
+2898	324	She also mentioned it.
+2899	324	I also think so.
+2900	324	He also helped.
+2901	324	We also learned a lot.
+2902	324	The plan also failed.
+2903	324	She also smiled.
+2904	325	The flowers blossom in spring.
+2905	325	Her talent began to blossom.
+2906	325	The tree will blossom soon.
+2907	325	Their friendship blossomed.
+2908	325	The garden started to blossom.
+2909	325	Ideas blossom with time.
+2910	325	The plant failed to blossom.
+2911	325	She watched the buds blossom.
+2912	325	The business began to blossom.
+2913	325	Hope blossomed again.
+2914	326	It’s a shame you can’t come.
+2915	326	She felt shame after lying.
+2916	326	He spoke without shame.
+2917	326	They experienced deep shame.
+2918	326	It’s a real shame.
+2919	326	She expressed shame.
+2920	326	There is no shame in trying.
+2921	326	He carried shame for years.
+2922	326	The mistake caused shame.
+2923	326	She hid her shame.
+2924	327	Whose book is this?
+2925	327	I know whose idea it was.
+2926	327	Whose turn is it?
+2927	327	She asked whose bag it was.
+2928	327	Whose phone is ringing?
+2929	327	They wondered whose fault it was.
+2930	327	He forgot whose keys those were.
+2931	327	Do you know whose car that is?
+2932	327	She recognized whose voice it was.
+2933	327	Whose name is on the list?
