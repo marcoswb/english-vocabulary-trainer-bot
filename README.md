@@ -1,96 +1,152 @@
 # English Vocabulary Trainer Bot
 
-[![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)  
-[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
+[![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
+[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-🔤 **English Vocabulary Trainer Bot** é uma ferramenta para aprender vocabulário em inglês de forma automatizada, inteligente e baseada em **Spaced Repetition (SRS)**.
+🔤 **English Vocabulary Trainer Bot** é um bot do Telegram focado no aprendizado contínuo de vocabulário em inglês, combinando **Spaced Repetition (SRS)**, quizzes progressivos e **suporte a áudio (TTS)** para treino de pronúncia.
 
-Este projeto combina:
-- 👨‍💻 **Telegram Bot** para interação conversacional
-- 📚 **Banco de dados** com vocabulário, exemplos e estados de revisão
-- 🧠 **Algoritmo SRS** para revisar palavras no momento ideal
-- 🗓️ **GitHub Actions** para envio diário do quiz de perguntas
+O projeto foi pensado para simular a experiência de aplicativos profissionais de idiomas, mas de forma open-source e extensível.
 
 ---
 
-## 📌 Objetivo
+## ✨ Principais funcionalidades
 
-Criar um sistema automatizado que ajude no aprendizado diário de vocabulário em inglês por meio de quizzes, com:
-- frases de contexto relevantes
+- 🤖 Bot do Telegram para estudo diário
+- 🧠 Algoritmo de **Spaced Repetition (SRS)**
+- 🔊 **Text-to-Speech (TTS)** para treino de pronúncia
+- 📚 Banco de dados com palavras, frases e estados de aprendizado
+- 📊 Dificuldade progressiva baseada no desempenho do usuário
+- ⏰ Envio automático diário via **GitHub Actions**
+- 🔁 Suporte a verbos irregulares e variações verbais
+
+---
+
+## 🎯 Objetivo
+
+Ajudar no aprendizado diário de vocabulário em inglês através de quizzes inteligentes, com:
+
+- traduções e frases contextualizadas
 - exercícios adaptados ao nível do usuário
-- feedback de acerto/erro
-- programação diária de envio
+- feedback imediato de acerto ou erro
+- reforço auditivo com pronúncia correta
+- agendamento automático de revisões
+
+---
+
+## 🔊 Suporte a TTS (Text-to-Speech)
+
+O bot possui suporte a **TTS (Text-to-Speech)** para reforçar o aprendizado da **pronúncia correta das palavras em inglês**.
+
+O comportamento do áudio varia conforme o tipo de pergunta:
+
+### 🟢 Inglês → Português
+Quando a pergunta solicita a tradução de uma palavra do **inglês para o português**:
+
+- o bot envia automaticamente o **áudio da palavra em inglês**
+- em seguida, apresenta a pergunta com as alternativas
+
+👉 O usuário **ouve a palavra antes de responder**, treinando compreensão auditiva (*listening*).
+
+### 🔵 Outros tipos de pergunta (ex: Português → Inglês)
+Quando a pergunta não exige escuta prévia:
+
+- o bot envia apenas a pergunta inicialmente
+- **após o usuário responder**, o áudio TTS da palavra correta é enviado
+
+👉 O áudio atua como **reforço de aprendizado**, mesmo após a resposta.
+
+### 🎧 Benefícios pedagógicos
+
+- melhora da pronúncia
+- associação entre escrita e som
+- desenvolvimento de escuta ativa
+- maior retenção de vocabulário
 
 ---
 
 ## 🧱 Estrutura do Projeto
 
-| Componente          | Descrição                                                            |
-|---------------------|----------------------------------------------------------------------|
-| `.github/workflows` | Automação de envio diário                                            |
-| `data/`             | Arquivos texto de vocabulário / frases para upload no banco de dados |
-| `resource/`         | Arquivos .sql de estrutura do banco de dados e dados já salvos       | 
-| `src/`              | Código principal do bot                                              |
-| `main.py`           | Inicialização do bot                                                 |
-| `insert_vocab.py`   | Script para inserção de vocabulários no banco de dados               |
+| Componente            | Descrição                                                            |
+|----------------------|----------------------------------------------------------------------|
+| `.github/workflows`  | Automação de envio diário (GitHub Actions)                           |
+| `data/`              | Arquivos de vocabulário e frases para carga no banco                 |
+| `resource/`          | Scripts SQL de estrutura e dados iniciais                            |
+| `src/`               | Código-fonte principal do bot                                        |
+| `main.py`            | Inicialização do bot                                                 |
+| `insert_vocab.py`    | Script para inserção de vocabulários no banco                        |
 
 ---
 
 ## 📈 Spaced Repetition System (SRS)
 
-Este bot usa uma lógica SRS(assim como os algoritmos dos principais cursos de inglês do mercado) para decidir quando cada palavra deve aparecer novamente para aprendizado, ajustando o próximo dia de revisão conforme o desempenho do usuário (streak + confidence), garantindo assim que o usuário só irá para o próximo nível quando realmente tiver aprendido a nova palavra.
+O bot utiliza um algoritmo de **Spaced Repetition**, semelhante aos usados em plataformas profissionais de ensino de idiomas.
+
+Com base no desempenho do usuário (acertos, erros, streak e confiança), o sistema define quando cada palavra deve ser revisada novamente, garantindo que o aprendizado avance apenas quando o conteúdo foi realmente assimilado.
 
 ---
 
-## 📈 Variações verbais e verbos irregulares
+## 🔁 Verbos irregulares e variações verbais
 
-Esse projeto conta com um algoritmo para aprendizado completo de verbos em diferentes tempos verbais, inclusive verbos irregulares. É possível adicionar o verbo na sua forma infinitiva para aprendizado e cadastrar frases de exemplo com simple past ou past continuous que a resposta esperada pelo bot será o verbo no tempo verbal correto conforme está na frase. 
+O projeto conta com um algoritmo específico para aprendizado completo de verbos, incluindo:
+
+- verbos regulares e irregulares
+- diferentes tempos verbais (ex: infinitive, simple past, past continuous)
+- frases contextualizadas
+
+O usuário pode cadastrar o verbo na forma infinitiva e o bot espera automaticamente a forma verbal correta com base no contexto da frase apresentada.
 
 ---
 
-## 🛠 Como usar / Setup  
+## 🛠️ Como usar / Setup
 
-### 1. Clone o repositório  
+### 1. Clonar o repositório
 ```bash
 git clone https://github.com/marcoswb/english-vocabulary-trainer-bot.git
 cd english-vocabulary-trainer-bot
 ```
 
-### 2. Configure variáveis de ambiente  
-Crie um arquivo `.env` na raiz do projeto com as credenciais para envio de mensagens no telegram e de acesso ao banco de dados:  
+### 2. Configurar variáveis de ambiente
+Crie um arquivo `.env` na raiz do projeto:
+
 ```env
-API_ID=<chave do bot(gerado pelo telegram)>
-API_HASH=<hash do bot(gerado pelo telegram)>
-TOKEN_BOT=<token do bot(gerado pelo telegram)>
-DB_HOST=<host do banco de dados>
-DB_DATABASE=<nome do banco de dados>
-DB_USER=<usuario do banco de dados>
-DB_PASSWORD=<senha do banco de dados>
-AUTHORIZED_USER_ID=<id do usuário(no telegram) com quem o bot irá se comunicar>
+API_ID=<api_id do Telegram>
+API_HASH=<api_hash do Telegram>
+TOKEN_BOT=<token do bot>
+DB_HOST=<host do banco>
+DB_DATABASE=<nome do banco>
+DB_USER=<usuario do banco>
+DB_PASSWORD=<senha do banco>
+AUTHORIZED_USER_ID=<id do usuário autorizado no Telegram>
 ```
 
-### 3. Iniciar script com GitHub Actions
-Esse projeto possui o arquivo `daily_bot.yml` que é responsável por executar o scraper via [Github Actions](https://github.com/features/actions), ele está configurado para ser executado manualmente quando o usuário desejar e também via cron(agendador de tarefas) todos os dias as 12:30(horário de Brasília).
+### 3. Execução via GitHub Actions
 
-Para que a Action funcione corretamente basta configurar as mesmas variáveis de ambiente descritas no item 2 como [secrets do projeto github](https://docs.github.com/en/actions/concepts/security/secrets), com isso ela já estará agendada para executar todos os dias e você já pode testar também pois esse fluxo permite a execução manual da Action sempre que necessário.
+O workflow `daily_bot.yml` é responsável pelo envio automático do quiz.
+
+- pode ser executado manualmente
+- roda automaticamente todos os dias às **12:30 (horário de Brasília)**
+
+Para funcionar corretamente, basta configurar as mesmas variáveis do `.env` como **Secrets do repositório no GitHub**.
 
 ---
 
-## 📊 Exemplos / Resultados  
+## 📊 Exemplos
 
-### Quiz que o usuário recebe
-Na demonstração abaixo é possível observar os níveis da perguntas aumentando, começando com traduções simples e passando para completar frases, onde nos primeiros niveis são dadas dicas(definição da palavra e preenchimento da primeira letra) e conforme o nivel de aprendizado da palavra as dicas vão ficando menores.
+### Quiz enviado ao usuário
 
+O quiz evolui conforme o nível de aprendizado:
+- inicia com traduções simples
+- avança para completar frases
+- dicas são fornecidas nos níveis iniciais
+- conforme o domínio aumenta, as dicas diminuem
+
+Vídeo de demonstração:
 
 https://github.com/user-attachments/assets/bcc1e839-71c8-4dd2-8ad1-2c55bab9a4f2
 
-
-
 ---
 
-## 📝 Licença  
+## 📝 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).  
-
-
+Este projeto está licenciado sob a [MIT License](LICENSE).
