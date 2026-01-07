@@ -63,6 +63,7 @@ class Question:
             else:
                 self.__question = str(self.__question).replace(self.__correct_response, '_' * (len(self.__correct_response)))
 
+        self.__english_word = str(self.__correct_response)
 
     def __str__(self):
         print_obj = {
