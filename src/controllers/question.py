@@ -2,12 +2,13 @@ import src.utils.shared as shared
 
 class Question:
 
-    def __init__(self, vocab_id=None, question=None, correct_response=None, hint=None, options=None, first_word=False):
+    def __init__(self, vocab_id=None, question=None, correct_response=None, hint=None, options=None, first_word=False, english_word=None):
         self.__vocab_id = vocab_id
         self.__question: str = question
         self.__correct_response = str(correct_response).upper()
         self.__hint: str = hint
         self.__first_word: bool = first_word
+        self.__english_word: str = english_word
         self.__options: list = None
         if options:
             self.__options = [str(item).upper() for item in options]
@@ -16,6 +17,9 @@ class Question:
 
     def get_question(self):
         return self.__question
+
+    def get_english_word(self):
+        return self.__english_word
 
     def get_response(self):
         return self.__correct_response

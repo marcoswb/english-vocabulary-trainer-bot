@@ -56,7 +56,7 @@ class BaseHandler:
         )
 
     @classmethod
-    async def ask_with_options(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str, options: list, callback_func):
+    async def ask_with_options(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str, options: list, callback_func, voice_mp3=None):
         context.user_data['callback_function'] = callback_func
         keyboard = []
         options.sort()
@@ -68,6 +68,9 @@ class BaseHandler:
             reply_markup=InlineKeyboardMarkup(keyboard),
             parse_mode="HTML"
         )
+
+        if voice_mp3:
+            await context.bot.send_voice(chat_id=update.effective_chat.id, voice=open(voice_mp3, 'rb'))
 
     @classmethod
     async def mark_response(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, is_correct: bool, correct_response: str):

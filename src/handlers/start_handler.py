@@ -9,7 +9,7 @@ from src.database.vocabulary import Vocabulary
 from src.database.example_sentence import ExampleSentence
 from src.database.irregular_verbs import IrregularVerbs
 from src.utils.enum_exercise_type import ExerciseType
-from src.utils.functions import get_random_itens
+from src.utils.functions import get_random_itens, get_audio_word
 from src.controllers.question import Question
 from src.controllers.time_questions import TimeQuestions
 from src.utils.decorator_auth import only_authorized
@@ -67,7 +67,8 @@ class Start(BaseHandler):
                 if exercise_type == ExerciseType.EN_TRANSLATION:
                     cls.questions_step_1.append(Question(
                         vocab_id=vocab_id,
-                        question=f"Qual a tradução da palavra/expressão '<strong>{line.get('word').upper()}</strong>' para português?",
+                        question=f"Qual a tradução da palavra/expressão '<strong>{word}</strong>' para português?",
+                        english_word=word,
                         correct_response=line.get('meaning'),
                         options=get_random_itens(portuguese_words, 3, word=line.get('meaning'))
                     ))
@@ -75,14 +76,16 @@ class Start(BaseHandler):
                     cls.questions_step_1.append(Question(
                         vocab_id=vocab_id,
                         question=f"Qual a tradução da palavra/expressão '<strong>{line.get('meaning').upper()}</strong>' para inglês?",
-                        correct_response=line.get('word'),
-                        options=get_random_itens(english_words, 3, word=line.get('word'))
+                        english_word=word,
+                        correct_response=word,
+                        options=get_random_itens(english_words, 3, word=word)
                     ))
                 elif exercise_type == ExerciseType.CLOZE_WITH_HINT_AND_FIRST_WORD:
                     for sentence in get_random_itens(sentences.get(vocab_id, []), 1):
                         cls.questions_step_2.append(Question(
                             vocab_id=vocab_id,
                             question=sentence,
+                            english_word=word,
                             correct_response=word,
                             hint=line.get('hint'),
                             first_word=True
@@ -92,6 +95,7 @@ class Start(BaseHandler):
                         cls.questions_step_2.append(Question(
                             vocab_id=vocab_id,
                             question=sentence,
+                            english_word=word,
                             correct_response=word,
                             hint=line.get('hint')
                         ))
@@ -100,6 +104,7 @@ class Start(BaseHandler):
                         cls.questions_step_3.append(Question(
                             vocab_id=vocab_id,
                             question=sentence,
+                            english_word=word,
                             correct_response=word
                         ))
                 elif exercise_type == ExerciseType.LEARNEAD:
@@ -107,6 +112,7 @@ class Start(BaseHandler):
                         cls.questions_step_4.append(Question(
                             vocab_id=vocab_id,
                             question=sentence,
+                            english_word=word,
                             correct_response=word
                         ))
                 else:
@@ -192,7 +198,9 @@ class Start(BaseHandler):
                 hint= question_obj.get_hint()
                 if options:
                     options.append(question_obj.get_response())
-                    await cls.ask_with_options(update, context, question_obj.get_question(), options, callback_func)
+                    voice_mp3 = get_audio_word(question_obj.get_english_word())
+
+                    await cls.ask_with_options(update, context, question_obj.get_question(), options, callback_func, voice_mp3=voice_mp3)
                 elif hint:
                     message = question_obj.get_question()
                     message += f'\n\n<strong>HINT:</strong> <em>{hint}</em>'

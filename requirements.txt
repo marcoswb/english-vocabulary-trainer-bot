@@ -1,3 +1,5 @@
 python-telegram-bot
 dotenv
 psycopg2
+python-dotenv
+gTTS
