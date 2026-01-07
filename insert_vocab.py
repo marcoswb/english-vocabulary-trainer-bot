@@ -89,6 +89,7 @@ def main():
                 save_table('vocabulary', cursor)
                 save_table('training_state', cursor)
                 save_table('example_sentences', cursor)
+                save_table('irregular_verbs', cursor)
 
                 print('Backup realizado com sucesso.')
 
