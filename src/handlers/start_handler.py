@@ -89,7 +89,8 @@ class Start(BaseHandler):
                             english_word=word,
                             correct_response=word,
                             hint=line.get('hint'),
-                            first_word=True
+                            first_word=True,
+                            send_mp3_with_question=True
                         ))
                 elif exercise_type == ExerciseType.CLOZE_WITH_HINT:
                     for sentence in get_random_itens(sentences.get(vocab_id, []), 1):
@@ -98,7 +99,8 @@ class Start(BaseHandler):
                             question=sentence,
                             english_word=word,
                             correct_response=word,
-                            hint=line.get('hint')
+                            hint=line.get('hint'),
+                            send_mp3_with_question=True
                         ))
                 elif exercise_type == ExerciseType.CLOZE_WITHOUT_HINT:
                     for sentence in get_random_itens(sentences.get(vocab_id, []), 1):
