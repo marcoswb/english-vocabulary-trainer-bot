@@ -143,7 +143,8 @@ O quiz evolui conforme o nível de aprendizado:
 
 Vídeo de demonstração:
 
-https://github.com/user-attachments/assets/bcc1e839-71c8-4dd2-8ad1-2c55bab9a4f2
+https://github.com/user-attachments/assets/8361bd09-4f66-4b02-b332-fe932c836803
+
 
 ---
 
