@@ -204,20 +204,20 @@ class Start(BaseHandler):
 
                 options = question_obj.get_options()
                 hint= question_obj.get_hint()
+
+                voice_mp3 = None
+                if question_obj.send_mp3_with_question():
+                    voice_mp3 = get_audio_word(question_obj.get_english_word())
+
                 if options:
                     options.append(question_obj.get_response())
-
-                    voice_mp3 = None
-                    if question_obj.send_mp3_with_question():
-                        voice_mp3 = get_audio_word(question_obj.get_english_word())
-
                     await cls.ask_with_options(update, context, question_obj.get_question(), options, callback_func, voice_mp3=voice_mp3)
                 elif hint:
                     message = question_obj.get_question()
                     message += f'\n\n<strong>HINT:</strong> <em>{hint}</em>'
-                    await cls.question_message(update, context, message, callback_func)
+                    await cls.question_message(update, context, message, callback_func, voice_mp3=voice_mp3)
                 else:
-                    await cls.question_message(update, context, question_obj.get_question(), callback_func)
+                    await cls.question_message(update, context, question_obj.get_question(), callback_func, voice_mp3=voice_mp3)
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
 

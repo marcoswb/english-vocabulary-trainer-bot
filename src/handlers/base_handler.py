@@ -22,9 +22,12 @@ class BaseHandler:
         await context.bot.send_message(chat_id=update.effective_chat.id, text=f'Arquivo: {filename}: {line_number} - "{error}"', parse_mode="HTML")
 
     @classmethod
-    async def question_message(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str, callback_func):
+    async def question_message(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str, callback_func, voice_mp3=None):
         context.user_data['callback_function'] = callback_func
         await cls.reply(update, message, parse_mode="HTML")
+
+        if voice_mp3:
+            await cls.send_audio(update, context, voice_mp3)
 
     @classmethod
     def storage_info(cls, context: ContextTypes.DEFAULT_TYPE, key: str, value):
