@@ -282,3 +282,10 @@ id	word	meaning	hint
 325	blossom	 florescer; flor	to develop or grow successfully; a flower
 326	shame	vergonha; pena	a feeling of guilt, embarrassment, or regret
 327	whose	cujo(a)	used to ask or show possession
+328	among	entre	no meio de; fazendo parte de um grupo
+329	although	embora; apesar de	used to introduce a contrast
+330	hunger	fome; desejo intenso	the feeling of needing food or a strong desire for something
+331	swift	rápido; veloz	moving very fast
+332	stunning	deslumbrante; impressionante	extremely attractive or impressive
+333	pretend	fingir	to act as if something is true when it is not
+334	figure out	descobrir	to understand or solve

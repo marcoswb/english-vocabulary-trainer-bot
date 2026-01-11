@@ -2849,3 +2849,65 @@ id	vocab_id	sentence
 2931	327	Do you know whose car that is?
 2932	327	She recognized whose voice it was.
 2933	327	Whose name is on the list?
+2934	328	She was among the best students.
+2935	328	He felt comfortable among friends.
+2936	328	The secret spread among the team.
+2937	328	Trust is important among coworkers.
+2938	328	The house is hidden among trees.
+2939	328	They shared tasks among themselves.
+2940	328	Peace exists among nations.
+2941	328	He stood among the crowd.
+2942	328	The prize was divided among winners.
+2943	328	She walked among the guests.
+2944	329	Although it was late, he stayed.
+2945	329	She smiled although she was tired.
+2946	329	Although it rained, they played.
+2947	329	He agreed although he disagreed.
+2948	329	Although small, it is powerful.
+2949	329	She went out although sick.
+2950	329	Although risky, it worked.
+2951	329	He tried although afraid.
+2952	329	Although expensive, it’s worth it.
+2953	329	She helped although busy.
+2954	330	Hunger affects millions worldwide.
+2955	330	He felt hunger after work.
+2956	330	The hunger was unbearable.
+2957	330	Hunger drives survival.
+2958	330	She fought hunger daily.
+2959	330	Hunger can reduce focus.
+2960	330	The child cried from hunger.
+2961	330	Hunger leads to weakness.
+2962	330	They donated to fight hunger.
+2963	330	Hunger is a global issue.
+2964	331	She made a swift decision.
+2965	331	The response was swift.
+2966	331	A swift action saved time.
+2967	331	The bird is swift in flight.
+2968	331	He moved with swift steps.
+2969	331	The company took swift measures.
+2970	331	A swift recovery followed.
+2971	331	The river has a swift current.
+2972	331	Swift changes surprised everyone.
+2973	331	The police acted swift and firm.
+2974	332	The view was stunning.
+2975	332	She wore a stunning dress.
+2976	332	The results were stunning.
+2977	332	A stunning performance amazed us.
+2978	332	The sunset looked stunning.
+2979	332	He made a stunning comeback.
+2980	332	The building is stunning.
+2981	332	She received stunning news.
+2982	332	The design is stunning.
+2983	332	A stunning victory followed.
+2984	333	Kids pretend to be superheroes.
+2985	333	She pretended to listen.
+2986	333	He pretends everything is fine.
+2987	333	Don’t pretend you don’t know.
+2988	333	They pretend to agree.
+2989	333	She pretended to sleep.
+2990	333	He pretends confidence.
+2991	333	Let’s pretend it’s a game.
+2992	333	The child pretended fear.
+2993	333	She can’t pretend forever.
+2994	51	I need to figure out the problem.
+2995	334	I need to figure out the problem.
