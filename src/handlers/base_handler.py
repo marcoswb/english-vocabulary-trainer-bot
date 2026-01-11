@@ -19,7 +19,9 @@ class BaseHandler:
         filename = exc_tb.tb_frame.f_code.co_filename
         filename = str(filename).split('english-vocabulary-trainer-bot')[1]
         line_number = exc_tb.tb_lineno
-        await context.bot.send_message(chat_id=update.effective_chat.id, text=f'Arquivo: {filename}: {line_number} - "{error}"', parse_mode="HTML")
+        error_message = f'Arquivo: {filename}: {line_number} - "{error}"'
+        print(error_message)
+        await context.bot.send_message(chat_id=update.effective_chat.id, text=error_message, parse_mode="HTML")
 
     @classmethod
     async def question_message(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str, callback_func, voice_mp3=None):
