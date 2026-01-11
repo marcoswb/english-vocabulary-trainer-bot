@@ -288,4 +288,3 @@ id	word	meaning	hint
 331	swift	rápido; veloz	moving very fast
 332	stunning	deslumbrante; impressionante	extremely attractive or impressive
 333	pretend	fingir	to act as if something is true when it is not
-334	figure out	descobrir	to understand or solve

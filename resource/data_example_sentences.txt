@@ -304,10 +304,8 @@ id	vocab_id	sentence
 336	64	It will take at least an hour.
 337	64	At least she called.
 338	64	You need at least two years of experience.
-339	64	At least tell me the truth.
 340	64	He earns at least that much.
 341	64	At least one option worked.
-342	64	We need at least five people.
 343	64	At least they apologized.
 344	65	His duties include managing the team.
 345	65	She knows her duties well.
@@ -2909,5 +2907,43 @@ id	vocab_id	sentence
 2991	333	Let’s pretend it’s a game.
 2992	333	The child pretended fear.
 2993	333	She can’t pretend forever.
-2994	51	I need to figure out the problem.
-2995	334	I need to figure out the problem.
+2996	230	The law forbids smoking here.
+2997	230	They forbid entry after midnight.
+2998	230	School rules forbid phones.
+2999	230	The sign forbids parking.
+3000	230	Parents forbid dangerous activities.
+3001	230	The contract forbids sharing data.
+3002	230	The policy forbids access.
+3003	230	They forbid loud music.
+3004	230	The company forbids disclosure.
+3005	230	This rule forbids mistakes.
+3006	221	I dream of traveling the world.
+3007	221	She had a strange dream.
+3008	221	He dreams about success.
+3009	221	The child shared a dream.
+3010	221	She followed her dream.
+3011	221	I had a bad dream.
+3012	221	They dream big.
+3013	221	He dreams of freedom.
+3014	221	The dream felt real.
+3015	221	Never stop dreaming.
+3016	219	They dig a hole in the yard.
+3017	219	He dug the ground carefully.
+3018	219	I don’t dig that idea.
+3019	219	She digs old music.
+3020	219	They dig for information.
+3021	219	He dug too deep.
+3022	219	The dog likes to dig.
+3023	219	We dig into the problem.
+3024	219	She dug up the past.
+3025	219	I dig your style.
+3026	220	She likes to draw animals.
+3027	220	He drew a quick sketch.
+3028	220	The game ended in a draw.
+3029	220	The magnet draws metal.
+3030	220	She draws attention easily.
+3031	220	He drew the curtains.
+3032	220	They draw conclusions.
+3033	220	She drew a map.
+3034	220	The artist draws daily.
+3035	220	The match was a draw.
