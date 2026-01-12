@@ -2947,3 +2947,73 @@ id	vocab_id	sentence
 3033	220	She drew a map.
 3034	220	The artist draws daily.
 3035	220	The match was a draw.
+3039	336	The water is bubbling.
+3040	336	The soup started bubbling.
+3041	336	She has a bubbling personality.
+3042	336	The drink was bubbling.
+3043	336	Laughter came bubbling out.
+3044	336	The pot was bubbling fast.
+3045	336	Ideas were bubbling up.
+3046	336	The sauce kept bubbling.
+3047	336	He felt bubbling excitement.
+3048	336	The stream was bubbling gently.
+3049	337	The mission used an uncrewed spacecraft.
+3050	337	An uncrewed rocket was launched.
+3051	337	The satellite is uncrewed.
+3052	337	They tested an uncrewed vehicle.
+3053	337	The flight was uncrewed.
+3054	337	Uncrewed missions reduce risk.
+3055	337	The probe is fully uncrewed.
+3056	337	An uncrewed launch succeeded.
+3057	337	The capsule returned uncrewed.
+3058	337	Uncrewed technology is advancing.
+3059	338	She urged him to rest.
+3060	338	The doctor urged caution.
+3061	338	They urged quick action.
+3062	338	He was urged to apply.
+3063	338	The teacher urged practice.
+3064	338	She urged patience.
+3065	338	The report urged reform.
+3066	338	He urged them to leave.
+3067	338	The guide urged silence.
+3068	338	They urged cooperation.
+3069	339	I can’t afford that car.
+3070	339	She can afford the trip.
+3071	339	They cannot afford delays.
+3072	339	He could afford a break.
+3073	339	We can afford this option.
+3074	339	She can’t afford mistakes.
+3075	339	They afford better tools.
+3076	339	I can afford lunch.
+3077	339	He can afford comfort.
+3078	339	We can’t afford failure.
+3079	340	The jacket is made of leather.
+3080	340	He bought leather shoes.
+3081	340	The bag has a leather strap.
+3082	340	Leather is durable.
+3083	340	She cleaned the leather sofa.
+3084	340	The belt is leather.
+3085	340	They sell leather goods.
+3086	340	The leather smells new.
+3087	340	He prefers leather seats.
+3088	340	The wallet is leather.
+3089	341	The shoes are too tight.
+3090	341	The lid is tight.
+3091	341	She wore a tight dress.
+3092	341	The schedule is tight.
+3093	341	The knot is tight.
+3094	341	He held it tight.
+3095	341	The budget is tight.
+3096	341	The space feels tight.
+3097	341	Keep the door tight shut.
+3098	341	The grip was tight.
+3099	342	The screw is loose.
+3100	342	She wore loose clothes.
+3101	342	The dog got loose.
+3102	342	The rope is loose.
+3103	342	His explanation was loose.
+3104	342	The lid came loose.
+3105	342	Loose papers fell.
+3106	342	The plan is loose.
+3107	342	The handle feels loose.
+3108	342	He prefers loose fit.

@@ -288,3 +288,10 @@ id	word	meaning	hint
 331	swift	rápido; veloz	moving very fast
 332	stunning	deslumbrante; impressionante	extremely attractive or impressive
 333	pretend	fingir	to act as if something is true when it is not
+336	bubbling	borbulhando; animado	producing bubbles or showing lively excitement
+337	uncrewed	não tripulado	operating without people on board
+338	urged	instado; pressionado	strongly encouraged or persuaded to do something
+339	afford	poder pagar	have enough money or resources for something
+340	leather	couro	a strong material made from animal skin
+341	tight	apertado	firmly fixed or with little space
+342	loose	solto	not firmly fixed or not tight
