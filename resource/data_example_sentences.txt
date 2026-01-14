@@ -3017,3 +3017,53 @@ id	vocab_id	sentence
 3106	342	The plan is loose.
 3107	342	The handle feels loose.
 3108	342	He prefers loose fit.
+3109	343	He was caught cheating.
+3110	343	She caught the ball.
+3111	343	They were caught in traffic.
+3112	343	The police caught the thief.
+3113	343	He caught a cold.
+3114	343	She caught his attention.
+3115	343	The cat caught a mouse.
+3116	343	They got caught in the rain.
+3117	343	He was caught off guard.
+3118	343	She caught the mistake.
+3119	344	The baby looks plump.
+3120	344	She bought plump grapes.
+3121	344	The cat is plump and healthy.
+3122	344	He described the fruit as plump.
+3123	344	The pillows are plump.
+3124	344	The chicken is plump.
+3125	344	She prefers plump berries.
+3126	344	The fish was plump.
+3127	344	A plump cushion feels soft.
+3128	344	The cheeks were plump.
+3129	345	The rose has sharp thorns.
+3130	345	He cut himself on the thorns.
+3131	345	Thorns protect the plant.
+3132	345	The bush is full of thorns.
+3133	345	Watch out for the thorns.
+3134	345	The stem has long thorns.
+3135	345	They removed the thorns.
+3136	345	The thorns tore his shirt.
+3137	345	The plant grows thorns.
+3138	345	Thorns covered the branch.
+3139	346	The book is thick.
+3140	346	The soup is thick.
+3141	346	Fog was thick this morning.
+3142	346	The wall is thick.
+3143	346	She has thick hair.
+3144	346	The forest is thick.
+3145	346	The sauce became thick.
+3146	346	The accent is thick.
+3147	346	The glass is thick.
+3148	346	The plot is thick.
+3149	347	Grown-ups should act responsibly.
+3150	347	The movie is for grown-ups.
+3151	347	Grown-ups make decisions.
+3152	347	Kids think grown-ups know everything.
+3153	347	Grown-ups pay the bills.
+3154	347	The rules were set by grown-ups.
+3155	347	Grown-ups need rest too.
+3156	347	Children asked the grown-ups.
+3157	347	Grown-ups handle problems.
+3158	347	Grown-ups lead by example.

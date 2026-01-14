@@ -295,3 +295,8 @@ id	word	meaning	hint
 340	leather	couro	a strong material made from animal skin
 341	tight	apertado	firmly fixed or with little space
 342	loose	solto	not firmly fixed or not tight
+343	caught	pegou; capturado; flagrado	past tense of catch; taken or trapped
+344	plump	gordinho	round and full in a pleasant way
+345	thorns	espinhos	sharp points on plants that can hurt
+346	thick	grosso; espesso; denso	having a large distance between opposite sides
+347	grown-ups	adultos	people who are fully developed or mature
