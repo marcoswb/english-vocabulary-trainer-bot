@@ -3067,3 +3067,353 @@ id	vocab_id	sentence
 3156	347	Children asked the grown-ups.
 3157	347	Grown-ups handle problems.
 3158	347	Grown-ups lead by example.
+3159	348	She had a dizzy spell at work.
+3160	348	He felt a dizzy spell suddenly.
+3161	348	The heat caused a dizzy spell.
+3162	348	I get a dizzy spell when I stand up fast.
+3163	348	She reported a dizzy spell to the doctor.
+3164	348	A dizzy spell made him sit down.
+3165	348	The dizzy spell passed quickly.
+3166	348	Stress triggered a dizzy spell.
+3167	348	He experienced a dizzy spell after exercise.
+3168	348	The dizzy spell worried her.
+3169	349	She began to faint.
+3170	349	He felt faint from hunger.
+3171	349	The room was hot and she fainted.
+3172	349	He almost fainted.
+3173	349	She felt faint after standing.
+3174	349	The patient may faint.
+3175	349	He looked faint and weak.
+3176	349	She fainted briefly.
+3177	349	The pain made him faint.
+3178	349	He warned he might faint.
+3179	350	The cut will heal soon.
+3180	350	Time helps wounds heal.
+3181	350	The body needs rest to heal.
+3182	350	The injury healed completely.
+3183	350	She is learning to heal emotionally.
+3184	350	The doctor expects it to heal.
+3185	350	Broken bones take time to heal.
+3186	350	The medicine helps heal tissue.
+3187	350	The scar will heal slowly.
+3188	350	Nature helps people heal.
+3189	351	She took a pain reliever.
+3190	351	This pain reliever works fast.
+3191	351	The doctor suggested a pain reliever.
+3192	351	I need a pain reliever for my head.
+3193	351	The pain reliever reduced swelling.
+3194	351	He carries a pain reliever.
+3195	351	The pain reliever helped a lot.
+3196	351	A mild pain reliever was enough.
+3197	351	She avoids strong pain relievers.
+3198	351	The pain reliever eased the pain.
+3199	352	The doctor told her to rest.
+3200	352	He needs to rest today.
+3201	352	She rested after the injury.
+3202	352	The body must rest to recover.
+3203	352	He lay down to rest.
+3204	352	They stopped to rest.
+3205	352	She rested her eyes.
+3206	352	It’s important to rest well.
+3207	352	He rested for an hour.
+3208	352	The athlete rested between games.
+3209	353	She sprained her ankle.
+3210	353	He sprained his wrist.
+3211	353	It’s easy to sprain a joint.
+3212	353	The fall caused her to sprain it.
+3213	353	He sprained his knee playing soccer.
+3214	353	A wrong step can sprain your ankle.
+3215	353	She feared she had sprained it.
+3216	353	The doctor confirmed a sprain.
+3217	353	He rested after spraining his foot.
+3218	353	Sports injuries often sprain joints.
+3219	354	The surgeon performed the operation.
+3220	354	She consulted a surgeon.
+3221	354	The surgeon explained the risks.
+3222	354	He is a skilled surgeon.
+3223	354	The surgeon arrived early.
+3224	354	A surgeon repaired the damage.
+3225	354	The surgeon wore gloves.
+3226	354	She wants to become a surgeon.
+3227	354	The surgeon saved his life.
+3228	354	The surgeon finished successfully.
+3229	355	The wound needs cleaning.
+3230	355	She covered the wound.
+3231	355	The wound healed slowly.
+3232	355	He suffered a deep wound.
+3233	355	The wound started bleeding.
+3234	355	The nurse examined the wound.
+3235	355	The wound became infected.
+3236	355	They treated the wound carefully.
+3237	355	The wound left a scar.
+3238	355	The wound was painful.
+3239	356	The experience was painful.
+3240	356	The injury is painful.
+3241	356	It was a painful mistake.
+3242	356	The procedure was painful.
+3243	356	She had a painful headache.
+3244	356	The memory is painful.
+3245	356	The wound looks painful.
+3246	356	Recovery can be painful.
+3247	356	It was emotionally painful.
+3248	356	The pain became painful to bear.
+3249	357	The cut bled a lot.
+3250	357	He bled after the accident.
+3251	357	The wound bled heavily.
+3252	357	She bled from the nose.
+3253	357	The injury bled briefly.
+3254	357	He bled through the bandage.
+3255	357	The patient bled internally.
+3256	357	The scratch bled slightly.
+3257	357	She bled before treatment.
+3258	357	The cut bled again.
+3259	358	The knife is sharp.
+3260	358	He felt a sharp pain.
+3261	358	The object has sharp edges.
+3262	358	She felt a sharp sting.
+3263	358	The pain was sharp and sudden.
+3264	358	The blade stayed sharp.
+3265	358	A sharp turn caused injury.
+3266	358	The glass was sharp.
+3267	358	The sound was sharp.
+3268	358	He inhaled with a sharp breath.
+3269	359	The pain was slight.
+3270	359	She felt slight dizziness.
+3271	359	The injury was slight.
+3272	359	A slight cut appeared.
+3273	359	There was a slight delay.
+3274	359	He noticed a slight swelling.
+3275	359	The change was slight.
+3276	359	A slight mistake occurred.
+3277	359	The improvement was slight.
+3278	359	She felt slight discomfort.
+3279	360	He is just an acquaintance.
+3280	360	She met an old acquaintance.
+3281	360	They are acquaintances, not friends.
+3282	360	An acquaintance introduced them.
+3283	360	She greeted an acquaintance.
+3284	360	The party was full of acquaintances.
+3285	360	He ran into an acquaintance.
+3286	360	The acquaintance recognized him.
+3287	360	They spoke like acquaintances.
+3288	360	She barely knows the acquaintance.
+3289	361	The silence was awkward.
+3290	361	He felt awkward at the party.
+3291	361	The conversation became awkward.
+3292	361	She laughed in an awkward way.
+3293	361	It was an awkward moment.
+3294	361	He gave an awkward answer.
+3295	361	The situation felt awkward.
+3296	361	She made an awkward mistake.
+3297	361	The hug was awkward.
+3298	361	Everyone felt awkward.
+3299	362	The doctor used stitches.
+3300	362	He needed stitches on his arm.
+3301	362	The stitches were removed later.
+3302	362	She got stitches after the cut.
+3303	362	The wound required stitches.
+3304	362	The stitches held the skin together.
+3305	362	The nurse checked the stitches.
+3306	362	The stitches healed well.
+3307	362	He felt pain near the stitches.
+3308	362	The stitches left a small scar.
+3309	363	She reached the hospital in time.
+3310	363	He reached the top of the hill.
+3311	363	They reached an agreement.
+3312	363	The message reached everyone.
+3313	363	She reached her goal.
+3314	363	He finally reached home.
+3315	363	The team reached the finals.
+3316	363	The pain reached its peak.
+3317	363	She reached for help.
+3318	363	We reached a decision.
+3319	364	A layer of ice covered the road.
+3320	364	She added another layer of clothing.
+3321	364	The cake has many layers.
+3322	364	A layer of dust formed.
+3323	364	The skin has several layers.
+3324	364	He painted a new layer.
+3325	364	The ground has a soft layer.
+3326	364	A layer of snow fell.
+3327	364	The app has a security layer.
+3328	364	The sandwich has a cheese layer.
+3329	365	He stood near the door.
+3330	365	She stood still.
+3331	365	They stood in silence.
+3332	365	He stood in line.
+3333	365	She stood up quickly.
+3334	365	The building stood empty.
+3335	365	He stood by his decision.
+3336	365	They stood together.
+3337	365	She stood watching.
+3338	365	The statue stood tall.
+3339	366	I got a leg cramp.
+3340	366	The swimmer had a cramp.
+3341	366	A cramp stopped him suddenly.
+3342	366	She felt a stomach cramp.
+3343	366	The cramp was painful.
+3344	366	He stretched to avoid cramp.
+3345	366	A muscle cramp woke her up.
+3346	366	The cramp eased slowly.
+3347	366	Dehydration can cause cramp.
+3348	366	He complained about a cramp.
+3349	367	The disease spreads quickly.
+3350	367	Doctors study the disease.
+3351	367	The disease affects the lungs.
+3352	367	It is a serious disease.
+3353	367	The disease was detected early.
+3354	367	They work to prevent disease.
+3355	367	The disease has no cure yet.
+3356	367	The disease weakened him.
+3357	367	Research focuses on the disease.
+3358	367	The disease is contagious.
+3359	368	She stayed home due to illness.
+3360	368	The illness lasted weeks.
+3361	368	Stress can cause illness.
+3362	368	He recovered from his illness.
+3363	368	The illness was mild.
+3364	368	Children get illness easily.
+3365	368	The illness spread fast.
+3366	368	Her illness worried everyone.
+3367	368	The illness required rest.
+3368	368	He talked about his illness.
+3369	369	Food poisoning made him sick.
+3370	369	The child suffered poisoning.
+3371	369	The poisoning was accidental.
+3372	369	Symptoms suggest poisoning.
+3373	369	The doctor treated poisoning.
+3374	369	Chemical poisoning is dangerous.
+3375	369	The poisoning caused vomiting.
+3376	369	They suspected poisoning.
+3377	369	The poisoning was reported.
+3378	369	He recovered from poisoning.
+3379	370	They had a strange encounter.
+3380	370	The encounter changed her life.
+3381	370	He described the encounter.
+3382	370	The encounter was unexpected.
+3383	370	She had an encounter with a bear.
+3384	370	The encounter caused fear.
+3385	370	The encounter happened at night.
+3386	370	He avoided another encounter.
+3387	370	The encounter felt awkward.
+3388	370	It was their first encounter.
+3389	371	I bumped into an old friend.
+3390	371	She bumped into her boss.
+3391	371	He bumped into trouble.
+3392	371	They bumped into each other.
+3393	371	I often bump into him here.
+3394	371	She bumped into a stranger.
+3395	371	He bumped into a table.
+3396	371	We bumped into them downtown.
+3397	371	I bumped into her by chance.
+3398	371	They bumped into problems early.
+3401	397	He stood by the window.
+3403	397	She stood quietly.
+3405	397	They stood in line.
+3407	397	The child stood still.
+3409	397	He stood near the door.
+3411	397	She stood up slowly.
+3413	397	The house stood empty.
+3415	397	He stood watching the rain.
+3417	397	They stood together.
+3419	397	The statue stood tall.
+3420	398	Cool breezes came from the sea.
+3421	398	The evening breezes felt nice.
+3422	398	Soft breezes moved the leaves.
+3423	398	Warm breezes filled the air.
+3424	398	Breezes helped with the heat.
+3425	398	Gentle breezes blew outside.
+3426	398	The breezes calmed everyone.
+3427	398	Spring breezes arrived early.
+3428	398	Breezes carried the scent.
+3429	398	The beach had light breezes.
+3430	399	The baby is crawling.
+3431	399	Insects were crawling on the ground.
+3432	399	He felt bugs crawling.
+3433	399	The traffic was crawling.
+3434	399	The soldier kept crawling forward.
+3435	399	Time felt crawling slowly.
+3436	399	The toddler started crawling early.
+3437	399	The snake was crawling away.
+3438	399	The line was crawling forward.
+3439	399	The ant was crawling up the wall.
+3441	400	The wind began to blow.
+3443	400	Please blow out the candle.
+3445	400	He got a hard blow to the head.
+3447	400	The explosion was a huge blow.
+3449	400	She blew on her hands.
+3451	400	The storm will blow tonight.
+3453	400	He blew the whistle.
+3455	400	The news came as a blow.
+3457	400	Wind can blow sand everywhere.
+3459	400	She blew dust off the book.
+3460	401	The sun shone brightly.
+3461	401	The stars glowed brightly.
+3462	401	She smiled brightly.
+3463	401	The room was brightly lit.
+3464	401	The colors shined brightly.
+3465	401	The lights flashed brightly.
+3466	401	The sign glowed brightly.
+3467	401	The flowers bloomed brightly.
+3468	401	The moon shone brightly.
+3469	401	Her eyes sparkled brightly.
+3470	402	He leaned against the wall.
+3471	402	She leaned forward to listen.
+3472	402	The ladder leaned sideways.
+3473	402	He leaned on the table.
+3474	402	She leaned closer.
+3475	402	The bike leaned on the fence.
+3476	402	He leaned back in his chair.
+3477	402	The man leaned on a cane.
+3478	402	She leaned her head down.
+3479	402	The tree leaned slightly.
+3480	403	She can carry the bag.
+3481	403	He carried the child.
+3482	403	The truck carries goods.
+3483	403	I will carry this for you.
+3484	403	The wind carries smells.
+3485	403	She carries a backpack.
+3486	403	They carry heavy boxes.
+3487	403	The story carries emotion.
+3488	403	He carries his phone everywhere.
+3489	403	The bridge can carry weight.
+3490	404	Use glue to fix it.
+3491	404	The glue dried fast.
+3492	404	She spilled glue on the table.
+3493	404	This glue is strong.
+3494	404	He bought glue at the store.
+3495	404	The glue sticks well.
+3496	404	They used glue for crafts.
+3497	404	The glue held the paper.
+3498	404	The glue tube was empty.
+3499	404	Apply glue carefully.
+3500	405	She wore a warm pullover.
+3501	405	He bought a new pullover.
+3502	405	The pullover is blue.
+3503	405	I like this pullover.
+3504	405	The pullover feels soft.
+3505	405	She washed her pullover.
+3506	405	The pullover keeps me warm.
+3507	405	He lost his pullover.
+3508	405	The pullover fits well.
+3509	405	It’s a thick pullover.
+3510	406	The pen ran out of ink.
+3511	406	Black ink stained the paper.
+3512	406	He spilled ink on his shirt.
+3513	406	The printer needs ink.
+3514	406	The tattoo uses special ink.
+3515	406	She bought blue ink.
+3516	406	The ink dried quickly.
+3517	406	The ink looks faded.
+3518	406	The bottle contains ink.
+3519	406	The ink soaked through.
+3520	407	The paper is thin.
+3521	407	He is very thin.
+3522	407	The ice is thin.
+3523	407	She sliced it thin.
+3524	407	The fabric feels thin.
+3525	407	The line is thin.
+3526	407	The soup is too thin.
+3527	407	The air felt thin.
+3528	407	He has thin hair.
+3529	407	The wall is thin.

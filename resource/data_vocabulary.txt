@@ -300,3 +300,38 @@ id	word	meaning	hint
 345	thorns	espinhos	sharp points on plants that can hurt
 346	thick	grosso; espesso; denso	having a large distance between opposite sides
 347	grown-ups	adultos	people who are fully developed or mature
+348	dizzy spell	tontura	a short period of feeling dizzy or lightheaded
+349	faint	desmaiar	to lose consciousness briefly or lacking strength
+350	to heal	curar	to become healthy again or recover from injury
+351	pain reliever	analgésico	medicine used to reduce or eliminate pain
+352	to rest	descansar	to stop activity to recover strength or health
+353	to sprain	torcer (articulação)	to injure a joint by twisting it
+354	surgeon	cirurgião	a doctor who performs operations
+355	wound	ferida	an injury to the body, especially one that breaks the skin
+356	painful	dolorido	causing physical or emotional pain
+357	bled	sangrou	past tense of bleed; lost blood
+358	sharp	afiado	having a thin edge or causing sudden strong pain
+359	slight	leve; pequeno	small in degree or amount
+360	acquaintance	conhecido (não íntimo)	a person known slightly but not well
+361	awkward	estranho; constrangedor	causing discomfort or embarrassment
+362	stitches	pontos (cirurgia)	medical thread used to close a wound
+363	reached	chegou; alcançou	past of reach; arrived at or achieved something
+364	layer	camada	a level or thickness covering something
+365	stood	ficou em pé; permaneceu	past of stand; was upright or stayed in a place
+366	cramp	cãibra; espasmo	painful muscle contraction
+367	disease	doença	illness with a specific cause and symptoms
+368	illness	doença; enfermidade	state of being sick or unwell
+369	poisoning	intoxicação	harm caused by ingesting toxic substances
+370	encounter	encontro	an unexpected meeting or experience
+371	bump into	esbarrar em; encontrar por acaso	to meet someone unexpectedly
+397	stood	ficou em pé; permaneceu	past of stand; stayed upright or remained somewhere
+398	breezes	brisas	light and gentle winds
+399	crawling	engatinhando; rastejando	moving slowly close to the ground
+400	blow	soprar; golpe; explosão	to move air or strike suddenly
+401	brightly	brilhantemente; intensamente	with strong light or vivid energy
+402	leaned	inclinou-se; apoiou-se	past of lean; rested or bent toward something
+403	carry	carregar; levar	to hold and move something from one place to another
+404	glue	cola	substance used to stick things together
+405	pullover	blusa de frio; suéter	clothing worn over the head
+406	ink	tinta	liquid used for writing or printing
+407	thin	fino; magro	having little thickness or width
