@@ -11,11 +11,24 @@ DB_CONFIG = {
 
 BASE_PATH = 'data'
 
+def load_saved_word(cursor):
+    cursor.execute(f'SELECT word FROM english_trainer.vocabulary ORDER BY 1')
+    result_db = cursor.fetchall()
 
-def load_vocabulary(cursor):
+    result = []
+    for line in result_db:
+        result.append(line[0].upper())
+
+    return result
+
+def load_vocabulary(saved_words, cursor):
     with open(f'{BASE_PATH}/vocabulary.txt', encoding='utf-8') as f:
         for line in f:
             word, meaning, hint = line.strip().split('\t')
+
+            if word.upper() in saved_words:
+                print(f'Palavra "{word}" já cadastrada!')
+                continue
 
             cursor.execute(
                 """
@@ -26,10 +39,13 @@ def load_vocabulary(cursor):
             )
 
 
-def load_training_state(cursor):
+def load_training_state(saved_words, cursor):
     with open(f'{BASE_PATH}/vocabulary.txt', encoding='utf-8') as f:
         for line in f:
             word, _, _ = line.strip().split('\t')
+
+            if word.upper() in saved_words:
+                continue
 
             cursor.execute(
                 """
@@ -43,10 +59,13 @@ def load_training_state(cursor):
             )
 
 
-def load_example_sentences(cursor):
+def load_example_sentences(saved_words, cursor):
     with open(f'{BASE_PATH}/example_sentences.txt', encoding='utf-8') as f:
         for line in f:
             word, sentence = line.strip().split('\t')
+
+            if word.upper() in saved_words:
+                continue
 
             cursor.execute(
                 """
@@ -78,9 +97,11 @@ def main():
             with conn.cursor() as cursor:
                 print('Carregando dados.')
 
-                load_vocabulary(cursor)
-                load_training_state(cursor)
-                load_example_sentences(cursor)
+                saved_words = load_saved_word(cursor)
+
+                load_vocabulary(saved_words, cursor)
+                load_training_state(saved_words, cursor)
+                load_example_sentences(saved_words, cursor)
 
                 print('Dados carregados com sucesso.')
 
