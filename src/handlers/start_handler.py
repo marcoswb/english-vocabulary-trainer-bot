@@ -108,7 +108,8 @@ class Start(BaseHandler):
                             vocab_id=vocab_id,
                             question=sentence,
                             english_word=word,
-                            correct_response=word
+                            correct_response=word,
+                            send_mp3_with_question=True
                         ))
                 elif exercise_type == ExerciseType.LEARNEAD:
                     for sentence in get_random_itens(sentences.get(vocab_id, []), 1):
@@ -116,7 +117,8 @@ class Start(BaseHandler):
                             vocab_id=vocab_id,
                             question=sentence,
                             english_word=word,
-                            correct_response=word
+                            correct_response=word,
+                            send_mp3_with_question=True
                         ))
                 else:
                     continue
