@@ -3417,3 +3417,213 @@ id	vocab_id	sentence
 3527	407	The air felt thin.
 3528	407	He has thin hair.
 3529	407	The wall is thin.
+3530	408	She peered through the window.
+3531	408	He peered at the map carefully.
+3532	408	The child peered into the box.
+3533	408	She peered at him in the dark.
+3534	408	He peered over his glasses.
+3535	408	They peered inside the cave.
+3536	408	She peered at the tiny text.
+3537	408	He peered around the corner.
+3538	408	The cat peered outside.
+3539	408	She peered closely at the screen.
+3540	409	He sat in the armchair.
+3541	409	The armchair looks comfortable.
+3542	409	She relaxed in the armchair.
+3543	409	The armchair is near the window.
+3544	409	He bought a new armchair.
+3545	409	The armchair is old but cozy.
+3546	409	She placed the armchair in the corner.
+3547	409	The armchair has soft cushions.
+3548	409	He fell asleep in the armchair.
+3549	409	The armchair fits the room well.
+3550	410	I like nuts in my salad.
+3551	410	He ate roasted nuts.
+3552	410	She bought mixed nuts.
+3553	410	This idea sounds nuts.
+3554	410	That movie was nuts.
+3555	410	He went nuts with excitement.
+3556	410	The cake has nuts inside.
+3557	410	She is allergic to nuts.
+3558	410	The squirrel loves nuts.
+3559	410	The crowd went nuts.
+3560	411	We binge watch shows on weekends.
+3561	411	She binge watched the whole series.
+3562	411	He plans to binge watch tonight.
+3563	411	They binge watch together.
+3564	411	I binge watch when I’m tired.
+3565	411	She binge watched all night.
+3566	411	We binge watch during holidays.
+3567	411	He binge watches crime shows.
+3568	411	They binge watched one season.
+3569	411	I binge watch to relax.
+3570	412	He played games to kill time.
+3571	412	She read a book to kill time.
+3572	412	We talked to kill time.
+3573	412	I watched videos to kill time.
+3574	412	They walked around to kill time.
+3575	412	He scrolled his phone to kill time.
+3576	412	She listened to music to kill time.
+3577	412	We grabbed coffee to kill time.
+3578	412	He used puzzles to kill time.
+3579	412	They joked around to kill time.
+3580	413	The room feels cozy.
+3581	413	She loves cozy places.
+3582	413	The café is cozy.
+3583	413	He wore a cozy sweater.
+3584	413	The house looks cozy.
+3585	413	They had a cozy dinner.
+3586	413	The bed is cozy.
+3587	413	It’s warm and cozy inside.
+3588	413	The cabin felt cozy.
+3589	413	She made the space cozy.
+3590	414	The choir sang beautifully.
+3591	414	She joined the school choir.
+3592	414	The choir practiced weekly.
+3593	414	A church choir performed.
+3594	414	The choir filled the hall.
+3595	414	He listens to the choir.
+3596	414	The choir wore uniforms.
+3597	414	The choir rehearsed all day.
+3598	414	The choir sang softly.
+3599	414	The choir amazed everyone.
+3600	415	She stroked the cat gently.
+3601	415	He stroked his beard.
+3602	415	She stroked the dog.
+3603	415	He stroked her hair.
+3604	415	The child stroked the horse.
+3605	415	She stroked the fabric.
+3606	415	He stroked the painting softly.
+3607	415	She stroked his arm.
+3608	415	He stroked the surface.
+3609	415	She stroked the puppy.
+3610	416	She was wiping the table.
+3611	416	He kept wiping his hands.
+3612	416	She is wiping the floor.
+3613	416	He was wiping sweat away.
+3614	416	She finished wiping the glass.
+3615	416	They are wiping tears.
+3616	416	He wiped while cleaning.
+3617	416	She kept wiping the screen.
+3618	416	He was wiping dust off.
+3619	416	She wiped the counter.
+3620	417	He stood in the corner.
+3621	417	The shop is on the corner.
+3622	417	She turned the corner.
+3623	417	The cat hid in the corner.
+3624	417	He waited at the corner.
+3625	417	The table is in the corner.
+3626	417	She painted the corner.
+3627	417	The street corner was busy.
+3628	417	He backed into a corner.
+3629	417	The room has a dark corner.
+3630	418	Creepers covered the wall.
+3631	418	The garden has green creepers.
+3632	418	Creepers climbed the fence.
+3633	418	The house was full of creepers.
+3634	418	Creepers grew fast.
+3635	418	The wall had ivy creepers.
+3636	418	Creepers spread everywhere.
+3637	418	The creepers looked wild.
+3638	418	Creepers blocked the window.
+3639	418	Creepers need trimming.
+3640	419	The sun was shining.
+3641	419	Her eyes were shining.
+3642	419	The stars are shining.
+3643	419	The floor was shining.
+3644	419	The metal kept shining.
+3645	419	His future looks shining.
+3646	419	The moon was shining bright.
+3647	419	The lights were shining.
+3648	419	The car looked shining.
+3649	419	The sky was shining blue.
+3650	420	The candles were lit.
+3651	420	She bought scented candles.
+3652	420	Candles decorated the table.
+3653	420	The candles melted slowly.
+3654	420	They blew out the candles.
+3655	420	Candles created a calm mood.
+3656	420	The room had many candles.
+3657	420	Candles flickered softly.
+3658	420	She loves burning candles.
+3659	420	The candles smelled nice.
+3660	421	He is well-mannered.
+3661	421	She raised a well-mannered child.
+3662	421	The dog is well-mannered.
+3663	421	He was polite and well-mannered.
+3664	421	They are well-mannered guests.
+3665	421	A well-mannered student listened.
+3666	421	She seems well-mannered.
+3667	421	The boy stayed well-mannered.
+3668	421	Well-mannered people wait.
+3669	421	He acted well-mannered.
+3670	422	Good manners matter.
+3671	422	She has great manners.
+3672	422	He learned table manners.
+3673	422	Manners are important.
+3674	422	The child showed manners.
+3675	422	She teaches manners.
+3676	422	His manners impressed them.
+3677	422	They discussed social manners.
+3678	422	Bad manners annoy people.
+3679	422	Manners reflect upbringing.
+3680	423	The tape is sticking well.
+3681	423	Mud was sticking to his shoes.
+3682	423	She is sticking the paper together.
+3683	423	The label keeps sticking.
+3684	423	Food was sticking to the pan.
+3685	423	The glue is sticking properly.
+3686	423	Leaves were sticking to the car.
+3687	423	He hates things sticking to his hands.
+3688	423	The note is sticking to the fridge.
+3689	423	The bandage is sticking firmly.
+3690	424	She wiped the table clean.
+3691	424	He wiped his face.
+3692	424	She wiped away the tears.
+3693	424	He wiped the window.
+3694	424	The nurse wiped the wound.
+3695	424	She wiped the dust off.
+3696	424	He wiped his hands dry.
+3697	424	The screen was wiped gently.
+3698	424	She wiped the counter.
+3699	424	He wiped the sweat away.
+3700	425	He was shouting for help.
+3701	425	She heard someone shouting.
+3702	425	The teacher stopped the shouting.
+3703	425	They were shouting outside.
+3704	425	He kept shouting angrily.
+3705	425	Shouting echoed down the street.
+3706	425	She dislikes shouting.
+3707	425	The crowd was shouting loudly.
+3708	425	He came in shouting.
+3709	425	There was shouting everywhere.
+3710	426	Perhaps we should wait.
+3711	426	She is perhaps right.
+3712	426	It will rain, perhaps.
+3713	426	Perhaps he forgot.
+3714	426	They will come, perhaps.
+3715	426	Perhaps tomorrow is better.
+3716	426	He is perhaps too tired.
+3717	426	Perhaps she knows the answer.
+3718	426	It is perhaps impossible.
+3719	426	Perhaps we can try again.
+3720	427	The wizard cast a spell.
+3721	427	The story features a wizard.
+3722	427	He dressed as a wizard.
+3723	427	The wizard waved his staff.
+3724	427	A wizard lives in the tower.
+3725	427	She met a powerful wizard.
+3726	427	The wizard solved the problem.
+3727	427	The child pretended to be a wizard.
+3728	427	The wizard disappeared suddenly.
+3729	427	The wizard was very wise.
+3730	428	The situation is dire.
+3731	428	They faced dire consequences.
+3732	428	The warning sounded dire.
+3733	428	The village was in dire need.
+3734	428	It is a dire emergency.
+3735	428	The future looked dire.
+3736	428	He was in dire trouble.
+3737	428	The conditions were dire.
+3738	428	The report gave a dire picture.
+3739	428	Action is direly needed.

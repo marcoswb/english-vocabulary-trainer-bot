@@ -335,3 +335,24 @@ id	word	meaning	hint
 405	pullover	blusa de frio; suéter	clothing worn over the head
 406	ink	tinta	liquid used for writing or printing
 407	thin	fino; magro	having little thickness or width
+408	peered	olhou atentamente; espiou	looked closely or with difficulty
+409	armchair	poltrona	comfortable chair with arms
+410	nuts	nozes;	types of hard-shelled food or slang for crazy
+411	binge watch	maratonar séries	watch many episodes in one sitting
+412	kill time	matar o tempo	do something while waiting
+413	cozy	aconchegante; confortável	warm, comfortable, and relaxing
+414	choir	coral; coro	group of people who sing together
+415	stroked	acariciou; passou a mão	past of stroke; touched gently
+416	wiping	enxugando; limpando	cleaning or drying by rubbing
+417	corner	canto; esquina	a place where two sides meet
+418	creepers	trepadeiras; rastejantes	climbing or spreading plants
+419	shining	brilhando; reluzente	emitting or reflecting light
+420	candles	velas	wax sticks with a wick that burn
+421	well-mannered	educado; bem-comportado	polite and respectful in behavior
+422	manners	boas maneiras	social rules of polite behavior
+423	sticking	grudando; aderindo	present participle of stick; attaching or remaining fixed
+424	wiped	limpou; enxugou	past of wipe; cleaned or dried by rubbing
+425	shouting	gritando	speaking very loudly
+426	perhaps	talvez	used to express uncertainty or possibility
+427	wizard	mago; feiticeiro	person with magical powers or great skill
+428	dire	crítico; grave	extremely serious or urgent
