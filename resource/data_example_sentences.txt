@@ -3627,3 +3627,263 @@ id	vocab_id	sentence
 3737	428	The conditions were dire.
 3738	428	The report gave a dire picture.
 3739	428	Action is direly needed.
+3740	429	Freedom is important to everyone.
+3741	429	She values freedom of choice.
+3742	429	They fought for freedom.
+3743	429	Travel gives me freedom.
+3744	429	He finally felt freedom.
+3745	429	Freedom comes with responsibility.
+3746	429	The country gained freedom.
+3747	429	Children want freedom.
+3748	429	He missed his freedom.
+3749	429	Freedom inspires people.
+3750	430	The vehicle stopped suddenly.
+3751	430	She bought a new vehicle.
+3752	430	The vehicle needs fuel.
+3753	430	This vehicle is electric.
+3754	430	He parked the vehicle outside.
+3755	430	The vehicle was damaged.
+3756	430	Emergency vehicles arrived fast.
+3757	430	The vehicle broke down.
+3758	430	The vehicle carried supplies.
+3759	430	He repaired the vehicle.
+3760	431	The benefits outweigh the risks.
+3761	431	The pros outweigh the cons.
+3762	431	His experience outweighs his age.
+3763	431	The cost outweighs the value.
+3764	431	Health outweighs money.
+3765	431	The advantages outweigh drawbacks.
+3766	431	The positives outweigh negatives.
+3767	431	Time savings outweigh expenses.
+3768	431	The reward outweighs the effort.
+3769	431	The joy outweighs the pain.
+3770	432	We were stuck in a traffic jam.
+3771	432	The traffic jam lasted hours.
+3772	432	A traffic jam blocked the road.
+3773	432	She missed work due to traffic jam.
+3774	432	The accident caused a traffic jam.
+3775	432	Traffic jams are common here.
+3776	432	He hates traffic jams.
+3777	432	The traffic jam cleared slowly.
+3778	432	A massive traffic jam formed.
+3779	432	Traffic jams increase stress.
+3780	433	She is a reliable worker.
+3781	433	This car is reliable.
+3782	433	He gave reliable information.
+3783	433	The source is reliable.
+3784	433	We need a reliable system.
+3785	433	She proved reliable.
+3786	433	The service is reliable.
+3787	433	A reliable friend helps.
+3788	433	The data seems reliable.
+3789	433	This brand is reliable.
+3790	434	She found a shell on the beach.
+3791	434	The egg shell cracked.
+3792	434	The turtle has a hard shell.
+3793	434	The shell protected the animal.
+3794	434	He kept the shell as a souvenir.
+3795	434	The nut has a tough shell.
+3796	434	The shell was smooth.
+3797	434	Seashells covered the sand.
+3798	434	The shell broke easily.
+3799	434	The shell shined in the sun.
+3800	435	The school held an assembly.
+3801	435	The assembly starts at noon.
+3802	435	Product assembly took hours.
+3803	435	The assembly was crowded.
+3804	435	They called an emergency assembly.
+3805	435	The toy needs assembly.
+3806	435	The assembly discussed rules.
+3807	435	Assembly instructions were clear.
+3808	435	The workers joined the assembly.
+3809	435	Final assembly happens tomorrow.
+3810	436	Wait here till I return.
+3811	436	The shop is open till late.
+3812	436	He worked till midnight.
+3813	436	Stay calm till help arrives.
+3814	436	The farmer used a till machine.
+3815	436	The money is in the till.
+3816	436	She waited till morning.
+3817	436	The store closed early till today.
+3818	436	Count the cash in the till.
+3819	436	Rest till you feel better.
+3820	437	A pile of books lay there.
+3821	437	He made a pile of clothes.
+3822	437	The snow formed a pile.
+3823	437	A pile of dishes waited.
+3824	437	Leaves piled up outside.
+3825	437	The kids jumped into a pile.
+3826	437	She sorted the pile.
+3827	437	The pile grew bigger.
+3828	437	A pile blocked the way.
+3829	437	Trash formed a pile.
+3830	438	Take a deep breath.
+3831	438	She held her breath.
+3832	438	He was out of breath.
+3833	438	A cold breath filled the air.
+3834	438	Her breath was shaky.
+3835	438	He caught his breath.
+3836	438	The breath fogged the glass.
+3837	438	She took a slow breath.
+3838	438	His breath smelled of coffee.
+3839	438	Breath control is important.
+3840	439	They found shelter from the rain.
+3841	439	The animal needs shelter.
+3842	439	The shelter was overcrowded.
+3843	439	She stayed in a shelter.
+3844	439	The trees gave shelter.
+3845	439	The shelter protects families.
+3846	439	They built a shelter.
+3847	439	The dog was taken to a shelter.
+3848	439	The cave offered shelter.
+3849	439	We looked for shelter.
+3850	440	I didn’t realize the time.
+3851	440	She realized her mistake.
+3852	440	He realized the truth.
+3853	440	They realized the risk.
+3854	440	I realized how lucky I am.
+3855	440	She slowly realized it.
+3856	440	He realized too late.
+3857	440	They realized the problem.
+3858	440	I realize now.
+3859	440	She realized her potential.
+3860	441	Please remain calm.
+3861	441	He remained silent.
+3862	441	The door remained closed.
+3863	441	Only a few remain.
+3864	441	She remained focused.
+3865	441	The problem remains.
+3866	441	They remain hopeful.
+3867	441	The rules remain the same.
+3868	441	He remained at home.
+3869	441	Memories remain forever.
+3870	442	We need to evaluate the plan.
+3871	442	The doctor evaluated the patient.
+3872	442	She evaluated the results.
+3873	442	He evaluated the risks.
+3874	442	They evaluated performance.
+3875	442	She carefully evaluated options.
+3876	442	The team evaluated data.
+3877	442	He evaluated the situation.
+3878	442	The teacher evaluated students.
+3879	442	They evaluated the costs.
+3880	443	She took a calm approach.
+3881	443	The approach worked well.
+3882	443	He approached the door.
+3883	443	They approached the problem carefully.
+3884	443	The deadline is approaching.
+3885	443	She approached him slowly.
+3886	443	This approach makes sense.
+3887	443	He used a new approach.
+3888	443	The plane began its approach.
+3889	443	They discussed their approach.
+3890	444	It is likely to rain.
+3891	444	He is likely correct.
+3892	444	She will likely agree.
+3893	444	The outcome is likely positive.
+3894	444	It’s likely too late.
+3895	444	They are likely busy.
+3896	444	He is likely tired.
+3897	444	The plan is likely to fail.
+3898	444	She is likely right.
+3899	444	Problems are likely ahead.
+3900	445	It took a lot of effort.
+3901	445	She made an effort.
+3902	445	The effort paid off.
+3903	445	He put effort into it.
+3904	445	Team effort matters.
+3905	445	It requires effort.
+3906	445	She appreciated the effort.
+3907	445	The effort was worth it.
+3908	445	He showed great effort.
+3909	445	Success needs effort.
+3910	446	The outcome was positive.
+3911	446	We await the outcome.
+3912	446	The outcome surprised everyone.
+3913	446	The outcome depends on effort.
+3914	446	They discussed the outcome.
+3915	446	The outcome was uncertain.
+3916	446	A good outcome is possible.
+3917	446	The outcome changed plans.
+3918	446	The outcome mattered a lot.
+3919	446	The outcome was final.
+3920	447	They wandered through the city.
+3921	447	He likes to wander alone.
+3922	447	She wandered into the forest.
+3923	447	His thoughts began to wander.
+3924	447	The tourists wandered around.
+3925	447	He wandered without a plan.
+3926	447	She wandered the streets at night.
+3927	447	The child wandered off.
+3928	447	We wandered for hours.
+3929	447	He wandered aimlessly.
+3930	448	Her face was flushed.
+3931	448	He looked flushed after running.
+3932	448	She felt flushed with embarrassment.
+3933	448	His cheeks were flushed.
+3934	448	The heat left her flushed.
+3935	448	He became flushed with anger.
+3936	448	She was flushed from exercise.
+3937	448	His face suddenly flushed.
+3938	448	She looked flushed and tired.
+3939	448	The child’s face was flushed.
+3940	449	She noticed the mistake.
+3941	449	He noticed her smile.
+3942	449	I noticed something strange.
+3943	449	They noticed the change.
+3944	449	She noticed the noise.
+3945	449	He noticed the sign.
+3946	449	I noticed him immediately.
+3947	449	She noticed the detail.
+3948	449	They noticed the delay.
+3949	449	He noticed her absence.
+3950	450	The cat leapt onto the table.
+3951	450	He leapt over the fence.
+3952	450	She leapt with joy.
+3953	450	The child leapt forward.
+3954	450	He leapt into the water.
+3955	450	Her heart leapt.
+3956	450	The dog leapt excitedly.
+3957	450	He leapt from the chair.
+3958	450	The frog leapt away.
+3959	450	She leapt in surprise.
+3960	451	I wonder what happened.
+3961	451	She wondered about the future.
+3962	451	He wonders if it’s true.
+3963	451	I wonder why she left.
+3964	451	They wondered aloud.
+3965	451	She wondered how it worked.
+3966	451	He wondered about her reaction.
+3967	451	I wonder if he knows.
+3968	451	She wonders every day.
+3969	451	We wonder what comes next.
+3970	452	She frowned at the comment.
+3971	452	He frowned in confusion.
+3972	452	The teacher frowned.
+3973	452	She frowned slightly.
+3974	452	He frowned with concern.
+3975	452	She frowned at the screen.
+3976	452	His face frowned deeply.
+3977	452	She frowned in disapproval.
+3978	452	He frowned without speaking.
+3979	452	The man frowned quietly.
+3980	453	The color faded over time.
+3981	453	Her smile faded slowly.
+3982	453	The sound faded away.
+3983	453	The memory faded.
+3984	453	The paint faded in the sun.
+3985	453	The light faded out.
+3986	453	His hope faded.
+3987	453	The music faded softly.
+3988	453	The image faded quickly.
+3989	453	The mark faded away.
+3990	454	The hotel charges a fee.
+3991	454	There is an entry fee.
+3992	454	She paid the service fee.
+3993	454	The fee is too high.
+3994	454	They charged a late fee.
+3995	454	The lawyer asked for a fee.
+3996	454	The fee covers everything.
+3997	454	He refused to pay the fee.
+3998	454	The fee was included.
+3999	454	A small fee applies.

@@ -356,3 +356,29 @@ id	word	meaning	hint
 426	perhaps	talvez	used to express uncertainty or possibility
 427	wizard	mago; feiticeiro	person with magical powers or great skill
 428	dire	crítico; grave	extremely serious or urgent
+429	freedom	liberdade	state of being free to act or choose
+430	vehicle	veículo	something used to transport people or goods
+431	outweigh	superar; compensar mais	 to be more important or greater than something else
+432	traffic jam	congestionamento; engarrafamento	a long line of vehicles stopped or moving slowly
+433	reliable	confiável	someone or something you can trust
+434	shell	concha; casca; invólucro	outer hard covering of something
+435	assembly	assembleia; montagem	group gathered together or the act of putting parts together
+436	till	até; caixa registradora	used to show time limit or a cash register (UK)
+437	pile	pilha; monte	a heap or stack of things
+438	breath	respiração; fôlego	the air taken into or expelled from the lungs
+439	shelter	abrigo; proteger	a place that provides protection or safety
+440	realize	perceber; compreender	to become aware of something
+441	remain	permanecer; restar	to stay in the same place or condition
+442	evaluate	avaliar	to judge or assess something carefully
+443	approach	abordar; aproximação	to come near or deal with something
+444	likely	provável	expected to happen
+445	effort	esforço	physical or mental energy used to do something
+446	outcome	resultado	final result of an action or situation
+447	wander	vagar; perambular	to walk or move without a fixed direction
+448	flushed	ruborizado; corado	face turning red due to emotion, heat, or effort
+449	noticed	percebeu; notou	past of notice; became aware of something
+450	leapt	saltou; pulou	past of leap; jumped suddenly
+451	wonder	perguntar-se; maravilha	to feel curiosity or amazement
+452	frowned	franziu a testa	past of frown; showed displeasure or concern
+453	faded	desbotou; enfraqueceu	past of fade; lost color or strength
+454	fee	taxa; tarifa	money charged for a service
