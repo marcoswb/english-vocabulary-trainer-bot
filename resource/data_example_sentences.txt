@@ -3887,3 +3887,133 @@ id	vocab_id	sentence
 3997	454	He refused to pay the fee.
 3998	454	The fee was included.
 3999	454	A small fee applies.
+4000	455	Don’t bother me now.
+4001	455	Does this bother you?
+4002	455	He didn’t bother to call.
+4003	455	She tried not to bother him.
+4004	455	The noise bothers her.
+4005	455	It doesn’t bother me.
+4006	455	Why bother asking?
+4007	455	He was bothered by the delay.
+4008	455	She didn’t want to bother anyone.
+4009	455	Small things bother him.
+4010	456	He started to sweat.
+4011	456	She wiped the sweat away.
+4012	456	Sweat dripped from his face.
+4013	456	Exercise makes you sweat.
+4014	456	He broke out in sweat.
+4015	456	Sweat soaked his shirt.
+4016	456	The heat caused sweat.
+4017	456	She was covered in sweat.
+4018	456	Sweat rolled down his back.
+4019	456	He felt cold sweat.
+4020	457	The cat hid in the bushes.
+4021	457	Bushes lined the path.
+4022	457	She trimmed the bushes.
+4023	457	The bushes were overgrown.
+4024	457	He heard noise in the bushes.
+4025	457	Birds nested in the bushes.
+4026	457	The bushes blocked the view.
+4027	457	They walked past the bushes.
+4028	457	The bushes rustled softly.
+4029	457	Flowers grew near the bushes.
+4030	458	Teenagers use a lot of slang.
+4031	458	This word is slang.
+4032	458	I don’t understand that slang.
+4033	458	He speaks in modern slang.
+4034	458	Slang changes quickly.
+4035	458	Avoid slang in formal writing.
+4036	458	That phrase is common slang.
+4037	458	She learned some local slang.
+4038	458	Internet slang spreads fast.
+4039	458	Slang can be confusing.
+4040	459	He was staring at me.
+4041	459	Stop staring at your phone.
+4042	459	She kept staring outside.
+4043	459	The child was staring quietly.
+4044	459	They were staring in shock.
+4045	459	He caught her staring.
+4046	459	She felt uncomfortable staring.
+4047	459	The cat was staring at the wall.
+4048	459	He stood there staring.
+4049	459	She noticed him staring.
+4050	460	She kissed his cheek.
+4051	460	He touched his cheek.
+4052	460	Her cheek turned red.
+4053	460	The child had a round cheek.
+4054	460	He felt a slap on his cheek.
+4055	460	She wiped her cheek.
+4056	460	A tear rolled down her cheek.
+4057	460	He has a scar on his cheek.
+4058	460	She rested her cheek on her hand.
+4059	460	The wind hit his cheek.
+4060	461	She made a big fuss.
+4061	461	Don’t fuss over small things.
+4062	461	He doesn’t like fuss.
+4063	461	They caused a fuss.
+4064	461	Why all the fuss?
+4065	461	She fussed about the mess.
+4066	461	The baby fussed loudly.
+4067	461	He avoided any fuss.
+4068	461	Stop making a fuss.
+4069	461	There was no need for fuss.
+4070	462	We heard rumbling thunder.
+4071	462	The engine was rumbling.
+4072	462	There was a rumbling sound.
+4073	462	The ground started rumbling.
+4074	462	His stomach was rumbling.
+4075	462	Rumbling echoed in the distance.
+4076	462	The train came rumbling.
+4077	462	A rumbling noise woke us.
+4078	462	The volcano began rumbling.
+4079	462	The sky was rumbling.
+4080	463	The ship sailed away.
+4081	463	A large ship arrived.
+4082	463	The ship crossed the ocean.
+4083	463	The cargo ship was full.
+4084	463	They boarded the ship.
+4085	463	The ship docked safely.
+4086	463	The ship carried goods.
+4087	463	The ship sank slowly.
+4088	463	He worked on a ship.
+4089	463	The ship left the harbor.
+4090	464	They stood on the cliff.
+4091	464	The cliff was very high.
+4092	464	He looked down the cliff.
+4093	464	The waves hit the cliff.
+4094	464	She slipped near the cliff.
+4095	464	The cliff overlooked the sea.
+4096	464	Birds nested on the cliff.
+4097	464	The cliff was dangerous.
+4098	464	They climbed the cliff.
+4099	464	A path led to the cliff.
+4100	465	She acquired new skills.
+4101	465	He acquired experience.
+4102	465	They acquired the company.
+4103	465	I want to acquire knowledge.
+4104	465	She acquired confidence.
+4105	465	The museum acquired art.
+4106	465	He acquired a new habit.
+4107	465	They acquired property.
+4108	465	She acquired wealth.
+4109	465	The business acquired clients.
+4110	466	The rain hindered progress.
+4111	466	Noise can hinder focus.
+4112	466	Don’t let fear hinder you.
+4113	466	The injury hindered him.
+4114	466	Lack of funds hindered growth.
+4115	466	Stress can hinder learning.
+4116	466	The rules hinder creativity.
+4117	466	The delay hindered plans.
+4118	466	Poor communication hinders success.
+4119	466	Weather hindered travel.
+4120	467	I got the gist of it.
+4121	467	Explain the gist quickly.
+4122	467	He understood the gist.
+4123	467	The gist is simple.
+4124	467	She missed the gist.
+4125	467	I know the gist already.
+4126	467	He summarized the gist.
+4127	467	The gist was clear.
+4128	467	Tell me the gist.
+4129	467	I caught the gist.

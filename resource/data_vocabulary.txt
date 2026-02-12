@@ -382,3 +382,16 @@ id	word	meaning	hint
 452	frowned	franziu a testa	past of frown; showed displeasure or concern
 453	faded	desbotou; enfraqueceu	past of fade; lost color or strength
 454	fee	taxa; tarifa	money charged for a service
+455	bother	incomodar; preocupar	to annoy or cause trouble to someone
+456	sweat	suor; suar	liquid produced by the body when hot or nervous
+457	bushes	arbustos; moitas	small plants or shrubs
+458	slang	gíria	informal language used in casual speech
+459	staring	encarando	looking at someone or something for a long time
+460	cheek	bochecha	side of the face below the eye
+461	fuss	alvoroço; reclamar	excessive attention or unnecessary worry
+462	rumbling	estrondo; ronco	low continuous deep sound
+463	ship	navio	large boat used for transporting people or goods
+464	cliff	penhasco	high, steep rock face
+465	acquire	adquirir; obter	to get or gain something
+466	hinder	atrapalhar; impedir	to make something difficult to happen
+467	gist	essência	main idea of something
