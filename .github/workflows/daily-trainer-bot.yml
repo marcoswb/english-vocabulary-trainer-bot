@@ -2,13 +2,13 @@ name: Daily Quiz
 
 on:
   schedule:
-    - cron: '10 15 * * *'
+    - cron: '0 15 * * *'
   workflow_dispatch:
 
 jobs:
   quiz:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v3
 
