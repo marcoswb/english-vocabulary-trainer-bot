@@ -4017,3 +4017,203 @@ id	vocab_id	sentence
 4127	467	The gist was clear.
 4128	467	Tell me the gist.
 4129	467	I caught the gist.
+4130	468	The villagers lived in small huts.
+4131	468	Huts were built near the river.
+4132	468	The huts were made of wood.
+4133	468	They slept in simple huts.
+4134	468	The storm damaged the huts.
+4135	468	The huts had thatched roofs.
+4136	468	Tourists stayed in beach huts.
+4137	468	The huts were close together.
+4138	468	Smoke rose from the huts.
+4139	468	The huts looked fragile.
+4140	469	The tide is coming in.
+4141	469	The tide went out quickly.
+4142	469	We watched the tide rise.
+4143	469	The tide was strong today.
+4144	469	Fishermen depend on the tide.
+4145	469	The tide changed suddenly.
+4146	469	The boat moved with the tide.
+4147	469	The tide left shells behind.
+4148	469	High tide flooded the shore.
+4149	469	The tide affects the beach.
+4150	470	He parked near the curb.
+4151	470	The car hit the curb.
+4152	470	She stepped off the curb.
+4153	470	The city painted the curb.
+4154	470	The law aims to curb crime.
+4155	470	They tried to curb spending.
+4156	470	We must curb pollution.
+4157	470	He stood on the curb.
+4158	470	The curb was damaged.
+4159	470	She waited by the curb.
+4160	471	His cleverness impressed everyone.
+4161	471	She solved it with cleverness.
+4162	471	Cleverness helped her win.
+4163	471	The plan showed cleverness.
+4164	471	His cleverness stood out.
+4165	471	They admired her cleverness.
+4166	471	Cleverness can solve problems.
+4167	471	Her cleverness saved time.
+4168	471	The trick required cleverness.
+4169	471	He used cleverness wisely.
+4170	472	The country faced unrest.
+4171	472	Social unrest spread quickly.
+4172	472	There was political unrest.
+4173	472	The unrest worried leaders.
+4174	472	Protests caused unrest.
+4175	472	Economic problems led to unrest.
+4176	472	The city experienced unrest.
+4177	472	Unrest continued for weeks.
+4178	472	The unrest grew stronger.
+4179	472	The government addressed the unrest.
+4180	473	He buried the treasure.
+4181	473	She buried her face in her hands.
+4182	473	The dog buried a bone.
+4183	473	The town was buried in snow.
+4184	473	He buried the letter.
+4185	473	The secret was buried.
+4186	473	They buried the time capsule.
+4187	473	The past was buried.
+4188	473	She buried her feelings.
+4189	473	The body was buried nearby.
+4190	474	They amended the law.
+4191	474	We need to amend the plan.
+4192	474	She amended the document.
+4193	474	The contract was amended.
+4194	474	He amended his mistake.
+4195	474	The rule may be amended.
+4196	474	Congress voted to amend.
+4197	474	They amended the agreement.
+4198	474	The policy was amended.
+4199	474	Please amend the report.
+4200	475	The meeting was brief.
+4201	475	He gave a brief explanation.
+4202	475	She made a brief visit.
+4203	475	The call was brief.
+4204	475	He wrote a brief note.
+4205	475	Keep it brief.
+4206	475	It was a brief moment.
+4207	475	The speech was brief.
+4208	475	They had a brief talk.
+4209	475	The delay was brief.
+4210	476	The noise ceased suddenly.
+4211	476	They demanded violence cease.
+4212	476	Operations will cease tomorrow.
+4213	476	The rain ceased at night.
+4214	476	Hostilities ceased.
+4215	476	The company ceased production.
+4216	476	The fire ceased burning.
+4217	476	The conflict must cease.
+4218	476	The protests ceased.
+4219	476	The sound ceased completely.
+4220	477	This tool enhances productivity.
+4221	477	She enhanced her skills.
+4222	477	The lights enhanced the mood.
+4223	477	They enhanced security.
+4224	477	The update enhances performance.
+4225	477	Music enhances the experience.
+4226	477	The design enhances beauty.
+4227	477	Exercise enhances health.
+4228	477	He enhanced the image.
+4229	477	The course enhances knowledge.
+4230	478	We had to go through customs at the airport.
+4231	478	The customs officer checked my passport.
+4232	478	It took an hour to pass through customs.
+4233	478	Customs found nothing illegal in her luggage.
+4234	478	He works for customs at the border.
+4235	478	Our bags were inspected by customs.
+4236	478	Customs regulations are very strict here.
+4237	478	She declared the goods at customs.
+4238	478	We were delayed because of customs.
+4239	478	Customs seized the prohibited items.
+4240	479	She poured coffee into a cup.
+4241	479	He won a gold cup in the tournament.
+4242	479	I need a cup of tea.
+4243	479	The cup fell off the table.
+4244	479	This cup is made of ceramic.
+4245	479	She washed the cup after drinking.
+4246	479	He filled the cup with water.
+4247	479	That cup belongs to me.
+4248	479	She bought a new cup yesterday.
+4249	479	The cup is too hot to hold.
+4250	480	Please listen carefully.
+4251	480	I like to listen to music at night.
+4252	480	Listen to your teacher.
+4253	480	He didn't listen to the warning.
+4254	480	Listen to what I'm saying.
+4255	480	She listens to podcasts every day.
+4256	480	You should listen more and talk less.
+4257	480	He stopped to listen.
+4258	480	Listen before you respond.
+4259	480	I was listening to the radio.
+4260	481	She is proud of her son.
+4261	481	He felt proud of his work.
+4262	481	They are proud to be part of the team.
+4263	481	I'm proud of you.
+4264	481	She looked proud and confident.
+4265	481	He was proud of his achievements.
+4266	481	We are proud to represent our country.
+4267	481	Her parents are very proud.
+4268	481	He stood proud and tall.
+4269	481	She felt proud after finishing the project.
+4270	482	He flung the ball across the field.
+4271	482	She flung her bag on the sofa.
+4272	482	The door was flung open.
+4273	482	He flung the papers into the trash.
+4274	482	She flung her arms around him.
+4275	482	The child flung the toy away.
+4276	482	He flung himself into the chair.
+4277	482	She flung the window open.
+4278	482	The wind flung the door shut.
+4279	482	He flung his coat on the bed.
+4280	483	The coach said they were not sissies.
+4281	483	Only sissies are afraid of spiders, he joked.
+4282	483	They called him a sissy, but he ignored them.
+4283	483	Real heroes are not sissies.
+4284	483	He said, "We are not sissies."
+4285	483	They teased the boys by calling them sissies.
+4286	483	Stop acting like sissies.
+4287	483	He didn't want to be seen as one of the sissies.
+4288	483	The bully used the word sissies to insult them.
+4289	483	They proved they were not sissies.
+4290	484	The loud noise frightened the child.
+4291	484	She was frightened by the storm.
+4292	484	He looked frightened.
+4293	484	I was frightened when I heard the scream.
+4294	484	The dog was frightened by fireworks.
+4295	484	She felt frightened walking alone at night.
+4296	484	The movie frightened me.
+4297	484	He seemed frightened and confused.
+4298	484	They were frightened of the dark.
+4299	484	The sudden movement frightened her.
+4300	485	I felt relief after the exam.
+4301	485	It was a relief to see him safe.
+4302	485	She sighed with relief.
+4303	485	The medicine brought relief.
+4304	485	There was relief in his voice.
+4305	485	The news came as a relief.
+4306	485	He cried with relief.
+4307	485	We felt great relief.
+4308	485	The pain slowly turned into relief.
+4309	485	It was such a relief.
+4310	486	You can choose either option.
+4311	486	I don't like either movie.
+4312	486	Either answer is correct.
+4313	486	You can sit on either side.
+4314	486	I don't want either one.
+4315	486	Either way is fine.
+4316	486	We can meet on either day.
+4317	486	She didn't call, and I didn't either.
+4318	486	Either plan will work.
+4319	486	I don't speak French either.
+4320	487	That was a silly mistake.
+4321	487	Don't be silly.
+4322	487	He made a silly joke.
+4323	487	She felt silly for forgetting.
+4324	487	It sounds silly, but it's true.
+4325	487	The dog did something silly.
+4326	487	Stop being silly.
+4327	487	It was a silly idea.
+4328	487	He wore a silly hat.
+4329	487	I said something silly.

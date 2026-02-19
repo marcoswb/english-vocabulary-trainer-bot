@@ -395,3 +395,23 @@ id	word	meaning	hint
 465	acquire	adquirir; obter	to get or gain something
 466	hinder	atrapalhar; impedir	to make something difficult to happen
 467	gist	essência	main idea of something
+468	huts	cabanas; casebres	small simple houses, often made of basic materials
+469	tide	maré	the rise and fall of the sea
+470	curb	meio-fio; conter	edge of a sidewalk or to control something
+471	cleverness	inteligência; esperteza	ability to think quickly and smartly
+472	unrest	agitação; instabilidade	state of disturbance or protest
+473	buried	enterrado	past of bury; put under the ground
+474	amend	emendar; alterar	to make changes to improve something
+475	brief	curto; breve	short in time or length
+476	cease	cessar; parar	to stop completely
+477	enhance	melhorar; aprimorar	to increase quality, value, or effect
+478	customs	alfândega / controle aduaneiro	airport luggage inspection
+479	cup	xícara / taça / copa	container for drinks
+480	listen	ouvir / escutar	pay attention with your ears
+481	proud	orgulhoso	feeling good about achievement
+482	flung	arremessou / atirou	past of fling (throw forcefully)
+483	sissies	maricas / covardes	insult for someone seen as weak
+484	frightened	assustado	feeling fear
+485	relief	alívio	feeling better after stress
+486	either	qualquer um dos dois	one or the other
+487	silly	bobo / tolo	not serious, a bit stupid
