@@ -4217,3 +4217,783 @@ id	vocab_id	sentence
 4327	487	It was a silly idea.
 4328	487	He wore a silly hat.
 4329	487	I said something silly.
+4330	488	I dunno what he meant.
+4331	488	I dunno why she left early.
+4332	488	Dunno if it's going to rain.
+4333	488	I dunno the answer.
+4334	488	He said he dunno anything about it.
+4335	488	I dunno how to fix this.
+4336	488	We dunno where they went.
+4337	488	Dunno what to say.
+4338	488	I honestly dunno.
+4339	488	They dunno the rules.
+4340	489	The littluns were playing on the beach.
+4341	489	The older kids protected the littluns.
+4342	489	The littluns were scared of the dark.
+4343	489	Some littluns started crying.
+4344	489	The littluns followed the big boys.
+4345	489	The littluns didn't understand the plan.
+4346	489	The littluns needed help.
+4347	489	He tried to calm the littluns.
+4348	489	The littluns were hungry.
+4349	489	The littluns gathered near the fire.
+4350	490	We woke up at dawn.
+4351	490	The sky turned pink at dawn.
+4352	490	Dawn broke quietly.
+4353	490	They left before dawn.
+4354	490	The birds sing at dawn.
+4355	490	A new day begins at dawn.
+4356	490	She watched the sunrise at dawn.
+4357	490	It was cold at dawn.
+4358	490	The light of dawn filled the room.
+4359	490	They worked from dawn to dusk.
+4360	491	They sailed into uncharted waters.
+4361	491	This is uncharted territory for me.
+4362	491	The explorers crossed uncharted lands.
+4363	491	We are entering uncharted times.
+4364	491	The forest remained uncharted.
+4365	491	It's an uncharted path.
+4366	491	The mission moved into uncharted space.
+4367	491	He faced uncharted challenges.
+4368	491	The map showed uncharted areas.
+4369	491	They stepped into uncharted ground.
+4370	492	My legs feel stiff.
+4371	492	He gave a stiff reply.
+4372	492	The wind was stiff and cold.
+4373	492	She wore a stiff jacket.
+4374	492	His movements were stiff.
+4375	492	The competition was stiff.
+4376	492	The fabric is stiff.
+4377	492	He walked with a stiff posture.
+4378	492	It was a stiff challenge.
+4379	492	She felt stiff after the workout.
+4380	493	Please do it properly.
+4381	493	He didn't explain it properly.
+4382	493	Make sure you close the door properly.
+4383	493	She was properly trained.
+4384	493	The machine isn't working properly.
+4385	493	He apologized properly.
+4386	493	Clean your room properly.
+4387	493	The job was done properly.
+4388	493	We need to plan this properly.
+4389	493	The instructions were not followed properly.
+4390	494	He threw the spear.
+4391	494	The hunter carried a spear.
+4392	494	The spear hit the target.
+4393	494	She held the spear tightly.
+4394	494	The warrior used a spear.
+4395	494	He carved a wooden spear.
+4396	494	The spear was sharp.
+4397	494	They practiced with a spear.
+4398	494	The spear broke.
+4399	494	He raised the spear high.
+4400	495	Only fools ignore advice.
+4401	495	They were not fools.
+4402	495	Fools rush into danger.
+4403	495	He called them fools.
+4404	495	We are not fools.
+4405	495	Fools never learn.
+4406	495	They acted like fools.
+4407	495	Fools make the same mistake twice.
+4408	495	Don't be fools.
+4409	495	Fools laugh at serious matters.
+4410	496	He bowed to the audience.
+4411	496	She bowed her head in respect.
+4412	496	The actor bowed after the show.
+4413	496	He bowed politely.
+4414	496	She bowed before leaving.
+4415	496	The knight bowed to the king.
+4416	496	He bowed deeply.
+4417	496	She bowed slightly.
+4418	496	The crowd bowed in silence.
+4419	496	He bowed and smiled.
+4420	497	He does squats every morning.
+4421	497	She completed fifty squats.
+4422	497	Squats help strengthen your legs.
+4423	497	He added squats to his workout.
+4424	497	They practiced squats at the gym.
+4425	497	Squats can improve balance.
+4426	497	She struggles with squats.
+4427	497	The trainer recommended squats.
+4428	497	Squats are good for your posture.
+4429	497	He increased his squats this week.
+4430	498	He was called a coward.
+4431	498	A coward runs from danger.
+4432	498	Don't be a coward.
+4433	498	The coward refused to fight.
+4434	498	He didn't want to look like a coward.
+4435	498	Only a coward would lie.
+4436	498	She thought he was a coward.
+4437	498	The coward hid behind others.
+4438	498	No one likes a coward.
+4439	498	He proved he was not a coward.
+4440	499	You ought to apologize.
+4441	499	We ought to leave now.
+4442	499	He ought to study more.
+4443	499	She ought to know better.
+4444	499	They ought to try again.
+4445	499	I ought to call her.
+4446	499	You ought to listen.
+4447	499	We ought to help them.
+4448	499	He ought to be careful.
+4449	499	She ought to rest.
+4450	500	She felt homesick.
+4451	500	He gets homesick easily.
+4452	500	I was homesick at camp.
+4453	500	They felt homesick abroad.
+4454	500	She called home because she was homesick.
+4455	500	The student became homesick.
+4456	500	He looked homesick.
+4457	500	Being away made her homesick.
+4458	500	I still feel homesick sometimes.
+4459	500	The child was homesick.
+4460	501	She studied abroad.
+4461	501	He lives abroad.
+4462	501	They traveled abroad last year.
+4463	501	She works abroad.
+4464	501	Many students go abroad.
+4465	501	He moved abroad for work.
+4466	501	We met abroad.
+4467	501	She wants to study abroad.
+4468	501	They lived abroad for years.
+4469	501	He returned from abroad.
+4470	502	The landscape was beautiful.
+4471	502	The desert landscape is dry.
+4472	502	The mountain landscape amazed us.
+4473	502	She painted the landscape.
+4474	502	The landscape changed after the storm.
+4475	502	The city landscape is impressive.
+4476	502	The landscape looked peaceful.
+4477	502	We admired the landscape.
+4478	502	The landscape stretched for miles.
+4479	502	The snowy landscape was stunning.
+4480	503	A flock of birds flew overhead.
+4481	503	The sheep moved in a flock.
+4482	503	A flock gathered near the lake.
+4483	503	We saw a flock of geese.
+4484	503	The flock scattered suddenly.
+4485	503	A flock of tourists arrived.
+4486	503	People flock to the beach in summer.
+4487	503	The flock stayed together.
+4488	503	A flock crossed the field.
+4489	503	The birds formed a flock.
+4490	504	The children played in the sand.
+4491	504	Sand filled his shoes.
+4492	504	The sand was warm.
+4493	504	She built a castle in the sand.
+4494	504	Sand covered the beach.
+4495	504	The wind blew sand everywhere.
+4496	504	He brushed the sand off.
+4497	504	The sand felt soft.
+4498	504	Sand got into my eyes.
+4499	504	The sand was golden.
+4500	505	They gather every weekend.
+4501	505	Please gather your things.
+4502	505	We gathered around the fire.
+4503	505	She gathered information.
+4504	505	People gather in the square.
+4505	505	He gathered his courage.
+4506	505	The clouds began to gather.
+4507	505	They gathered flowers.
+4508	505	We gather data daily.
+4509	505	She gathered the children.
+4510	506	He got into trouble.
+4511	506	She had trouble sleeping.
+4512	506	We are in trouble.
+4513	506	The car is having trouble.
+4514	506	He caused trouble.
+4515	506	She stayed out of trouble.
+4516	506	I don't want any trouble.
+4517	506	They are looking for trouble.
+4518	506	He had trouble understanding.
+4519	506	She solved the trouble.
+4520	507	She wore a red dress.
+4521	507	He wore his favorite jacket.
+4522	507	I wore boots yesterday.
+4523	507	She wore a big smile.
+4524	507	He wore glasses at school.
+4525	507	They wore uniforms.
+4526	507	She wore a hat.
+4527	507	He wore a watch.
+4528	507	I wore my new shoes.
+4529	507	She wore perfume.
+4530	508	Farmers sow seeds in spring.
+4531	508	They sow corn every year.
+4532	508	You must sow before you harvest.
+4533	508	He plans to sow wheat.
+4534	508	We sow the field carefully.
+4535	508	She will sow flowers.
+4536	508	Farmers sow rice in this region.
+4537	508	They sow grass in the yard.
+4538	508	It is time to sow.
+4539	508	He helped sow the crops.
+4540	509	We need to discuss this further.
+4541	509	He walked further down the road.
+4542	509	I will explain further.
+4543	509	She moved further away.
+4544	509	For further information, call us.
+4545	509	They decided to investigate further.
+4546	509	He pushed the idea further.
+4547	509	The shop is further ahead.
+4548	509	We must go further.
+4549	509	She studied further.
+4550	510	The company is purging old files.
+4551	510	They are purging unnecessary data.
+4552	510	The system is purging errors.
+4553	510	He talked about purging bad habits.
+4554	510	The army began purging rebels.
+4555	510	The team is purging outdated records.
+4556	510	She is purging negative thoughts.
+4557	510	The database is purging duplicates.
+4558	510	The process involves purging toxins.
+4559	510	They are purging unused accounts.
+4560	511	The protesters were accused of looting.
+4561	511	Stores were damaged by looting.
+4562	511	The police tried to stop the looting.
+4563	511	Looting occurred after the storm.
+4564	511	The city suffered from looting.
+4565	511	He was arrested for looting.
+4566	511	Looting caused major losses.
+4567	511	They condemned the looting.
+4568	511	The army prevented looting.
+4569	511	Looting continued overnight.
+4570	512	The teacher praised her work.
+4571	512	He was praised for his effort.
+4572	512	They praised the team.
+4573	512	She praised his courage.
+4574	512	The manager praised the staff.
+4575	512	He praised her honesty.
+4576	512	The coach praised the players.
+4577	512	She praised the results.
+4578	512	They praised the design.
+4579	512	The critics praised the film.
+4580	513	The roof needs repair.
+4581	513	Rain hit the roof.
+4582	513	The cat climbed onto the roof.
+4583	513	The roof is leaking.
+4584	513	Snow covered the roof.
+4585	513	He fixed the roof.
+4586	513	The roof collapsed.
+4587	513	Birds sat on the roof.
+4588	513	The roof is made of tiles.
+4589	513	They painted the roof.
+4590	514	The hotel offers many amenities.
+4591	514	A pool is a nice amenity.
+4592	514	The gym is a popular amenity.
+4593	514	This park has great amenities.
+4594	514	Clean bathrooms are an important amenity.
+4595	514	The building includes modern amenities.
+4596	514	Wi-Fi is a useful amenity.
+4597	514	The resort provides luxury amenities.
+4598	514	Parking is a basic amenity.
+4599	514	The apartment has few amenities.
+4600	515	She felt content with her life.
+4601	515	He was content to stay home.
+4602	515	The content of the book was interesting.
+4603	515	We reviewed the content carefully.
+4604	515	She seemed content and relaxed.
+4605	515	The website content was updated.
+4606	515	He was content with the result.
+4607	515	The content includes images and text.
+4608	515	I am content for now.
+4609	515	The teacher explained the content.
+4610	516	He clamped the lid shut.
+4611	516	She clamped her hand over her mouth.
+4612	516	The mechanic clamped the pipe.
+4613	516	He clamped his teeth together.
+4614	516	The police clamped the car.
+4615	516	She clamped the papers with a clip.
+4616	516	The machine clamped the material.
+4617	516	He clamped down on cheating.
+4618	516	The device clamped tightly.
+4619	516	She clamped the door closed.
+4620	517	She giggled at the joke.
+4621	517	The children giggled in class.
+4622	517	He giggled nervously.
+4623	517	She giggled behind her hand.
+4624	517	They giggled during the movie.
+4625	517	The girl giggled softly.
+4626	517	He giggled like a child.
+4627	517	She giggled at his mistake.
+4628	517	The students giggled quietly.
+4629	517	He giggled with embarrassment.
+4630	518	She is tearing the paper.
+4631	518	He was tearing up old letters.
+4632	518	The dog is tearing the toy apart.
+4633	518	She kept tearing at the package.
+4634	518	They are tearing down the building.
+4635	518	I heard a tearing sound.
+4636	518	He started tearing his shirt.
+4637	518	The wind is tearing through the trees.
+4638	518	She was tearing the envelope open.
+4639	518	The child is tearing pages from the book.
+4640	519	The Eiffel Tower is a famous landmark.
+4641	519	We visited a historic landmark.
+4642	519	This case became a legal landmark.
+4643	519	The building is a city landmark.
+4644	519	The statue is an important landmark.
+4645	519	It was a landmark decision.
+4646	519	The bridge is a national landmark.
+4647	519	The museum is a cultural landmark.
+4648	519	This agreement marks a landmark moment.
+4649	519	The tower serves as a landmark for travelers.
+4650	520	She sat beside me.
+4651	520	The dog lay beside the sofa.
+4652	520	He stood beside his friend.
+4653	520	The keys are beside the phone.
+4654	520	She placed her bag beside the chair.
+4655	520	He walked beside her.
+4656	520	The house is beside the river.
+4657	520	She parked beside the store.
+4658	520	The lamp is beside the bed.
+4659	520	He stayed beside his family.
+4660	521	The plane flew above the clouds.
+4661	521	Her name is above mine on the list.
+4662	521	The temperature is above zero.
+4663	521	He lives in the apartment above.
+4664	521	The painting hangs above the sofa.
+4665	521	The bird circled above us.
+4666	521	The sun was high above.
+4667	521	The water rose above the bridge.
+4668	521	She looked above her head.
+4669	521	The sign is above the door.
+4670	522	The temperature dropped below zero.
+4671	522	Please read the text below.
+4672	522	The apartment below is empty.
+4673	522	He signed below the line.
+4674	522	The valley lies below the mountain.
+4675	522	The submarine went below the surface.
+4676	522	The answer is below.
+4677	522	The noise came from below.
+4678	522	The price is below average.
+4679	522	Clouds formed below the peak.
+4680	523	The cat hid underneath the bed.
+4681	523	The keys were underneath the table.
+4682	523	He found dirt underneath his shoes.
+4683	523	The treasure was buried underneath.
+4684	523	She wore a shirt underneath her jacket.
+4685	523	The child hid underneath the blanket.
+4686	523	Leaves gathered underneath the tree.
+4687	523	The box is underneath the shelf.
+4688	523	Water flowed underneath the bridge.
+4689	523	He looked underneath the car.
+4690	524	The village lies beneath the hill.
+4691	524	He felt beneath the surface.
+4692	524	The treasure was buried beneath the sand.
+4693	524	The clouds drifted beneath the plane.
+4694	524	She believes she is beneath him.
+4695	524	The river flows beneath the bridge.
+4696	524	He hid the letter beneath the pillow.
+4697	524	The truth lies beneath the story.
+4698	524	The roots grow beneath the ground.
+4699	524	She felt the earth beneath her feet.
+4700	525	He acknowledged the mistake.
+4701	525	She acknowledged his help.
+4702	525	They acknowledged the problem.
+4703	525	He acknowledged her presence.
+4704	525	The company acknowledged the error.
+4705	525	She acknowledged the applause.
+4706	525	He acknowledged the message.
+4707	525	They acknowledged the risk.
+4708	525	The government acknowledged the crisis.
+4709	525	She acknowledged his effort.
+4710	526	She walked through the park.
+4711	526	He looked through the window.
+4712	526	They went through a difficult time.
+4713	526	The train passed through the tunnel.
+4714	526	We talked through the night.
+4715	526	Light came through the door.
+4716	526	He read through the document.
+4717	526	She pushed through the crowd.
+4718	526	The river flows through the city.
+4719	526	They made it through the storm.
+4720	527	We will arrive at noon.
+4721	527	They arrived late to the meeting.
+4722	527	She will arrive tomorrow.
+4723	527	He arrived safely.
+4724	527	The train arrived on time.
+4725	527	Guests began to arrive early.
+4726	527	When did you arrive?
+4727	527	We arrived at the airport.
+4728	527	She arrived with a smile.
+4729	527	The package will arrive soon.
+4730	528	She touched her forehead.
+4731	528	Sweat ran down his forehead.
+4732	528	He kissed her forehead.
+4733	528	She had a mark on her forehead.
+4734	528	He wiped his forehead.
+4735	528	The doctor examined his forehead.
+4736	528	She felt her forehead for a fever.
+4737	528	His forehead was cold.
+4738	528	He hit his forehead on the door.
+4739	528	Wrinkles formed on his forehead.
+4740	529	The towel is still damp.
+4741	529	The ground felt damp.
+4742	529	Her clothes were damp from the rain.
+4743	529	The air was damp and cold.
+4744	529	The basement smells damp.
+4745	529	His hair was damp.
+4746	529	The walls looked damp.
+4747	529	The paper became damp.
+4748	529	It was a damp morning.
+4749	529	The soil remained damp.
+4750	530	That idea sounds barmy.
+4751	530	He must be barmy to try that.
+4752	530	She gave a barmy suggestion.
+4753	530	Only a barmy person would do that.
+4754	530	It’s absolutely barmy.
+4755	530	He looked at her like she was barmy.
+4756	530	That plan is completely barmy.
+4757	530	They thought he was barmy.
+4758	530	It would be barmy to quit now.
+4759	530	Are you barmy?
+4760	531	Brazil is in the Southern Hemisphere.
+4761	531	The Northern Hemisphere has winter now.
+4762	531	The Earth is divided into two hemispheres.
+4763	531	Seasons differ between hemispheres.
+4764	531	The left hemisphere controls language.
+4765	531	The right hemisphere controls creativity.
+4766	531	The moon was visible in this hemisphere.
+4767	531	The storm affected the hemisphere.
+4768	531	Climate varies by hemisphere.
+4769	531	The Northern Hemisphere is colder in January.
+4770	532	Good etiquette is important at dinner.
+4771	532	She knows proper etiquette.
+4772	532	Wedding etiquette can be strict.
+4773	532	Business etiquette matters.
+4774	532	He ignored basic etiquette.
+4775	532	Table etiquette is essential.
+4776	532	They discussed email etiquette.
+4777	532	She studied social etiquette.
+4778	532	Proper etiquette shows respect.
+4779	532	He apologized for breaking etiquette.
+4780	533	He crouched behind the wall.
+4781	533	She crouched down quietly.
+4782	533	The cat crouched before jumping.
+4783	533	They crouched in fear.
+4784	533	He crouched near the door.
+4785	533	She crouched to tie her shoes.
+4786	533	The player crouched low.
+4787	533	He crouched in the bushes.
+4788	533	She crouched beside the bed.
+4789	533	The soldier crouched for cover.
+4790	534	He touched her shoulder.
+4791	534	She carried the bag on her shoulder.
+4792	534	He shrugged his shoulder.
+4793	534	She injured her shoulder.
+4794	534	The strap slipped off his shoulder.
+4795	534	He tapped me on the shoulder.
+4796	534	She rested her head on his shoulder.
+4797	534	His shoulder was sore.
+4798	534	He threw the ball over his shoulder.
+4799	534	She looked over her shoulder.
+4800	535	The skull protects the brain.
+4801	535	They found a skull in the cave.
+4802	535	The doctor examined the skull.
+4803	535	He injured his skull.
+4804	535	The skull was buried in the sand.
+4805	535	The X-ray showed the skull clearly.
+4806	535	The skull is part of the skeleton.
+4807	535	The helmet protects the skull.
+4808	535	The skull cracked on impact.
+4809	535	The museum displayed a human skull.
+4810	538	The grass is green.
+4811	538	He sat on the grass.
+4812	538	The grass needs cutting.
+4813	538	Morning dew covered the grass.
+4814	538	The children rolled on the grass.
+4815	538	The cow ate the grass.
+4816	538	The grass felt soft.
+4817	538	They lay in the grass.
+4818	538	The grass grew quickly.
+4819	538	The dog ran across the grass.
+4820	539	He tried to heave the box.
+4821	539	She heaved a sigh.
+4822	539	The workers heaved the rock aside.
+4823	539	He felt his chest heave.
+4824	539	They heaved the boat ashore.
+4825	539	She heaved with laughter.
+4826	539	The ground began to heave.
+4827	539	He gave a heavy heave.
+4828	539	She heaved the door open.
+4829	539	The crowd began to heave forward.
+4830	540	She wore a woollen bonnet.
+4831	540	The baby had a woollen bonnet.
+4832	540	Her woollen bonnet kept her warm.
+4833	540	The old woman knitted a woollen bonnet.
+4834	540	He found a woollen bonnet in the drawer.
+4835	540	The woollen bonnet was red.
+4836	540	She tied her woollen bonnet tightly.
+4837	540	The child lost her woollen bonnet.
+4838	540	A woollen bonnet is useful in winter.
+4839	540	The wind almost blew off her woollen bonnet.
+4840	541	My shoes are wet.
+4841	541	The ground is wet after the rain.
+4842	541	Her hair was wet.
+4843	541	He got wet in the storm.
+4844	541	The towel is still wet.
+4845	541	The paint is wet.
+4846	541	She wiped the wet floor.
+4847	541	The dog came inside wet.
+4848	541	The clothes were completely wet.
+4849	541	It was a cold and wet morning.
+4850	542	She was filled with grief.
+4851	542	He struggled with grief.
+4852	542	Grief can take time to heal.
+4853	542	They shared their grief.
+4854	542	The news brought great grief.
+4855	542	She cried in her grief.
+4856	542	Grief changed him deeply.
+4857	542	He felt sudden grief.
+4858	542	Her grief was overwhelming.
+4859	542	Grief followed the loss.
+4860	543	She felt envy when she saw his success.
+4861	543	He tried to hide his envy.
+4862	543	Envy can damage friendships.
+4863	543	They looked at her with envy.
+4864	543	I don't feel envy toward him.
+4865	543	Her talent caused envy among coworkers.
+4866	543	He watched their happiness with envy.
+4867	543	Envy grew inside him.
+4868	543	She struggled with envy.
+4869	543	Envy is a dangerous emotion.
+4870	544	The waterfalls were beautiful.
+4871	544	We visited several waterfalls.
+4872	544	The sound of waterfalls is relaxing.
+4873	544	Mist rose from the waterfalls.
+4874	544	The hikers reached the waterfalls.
+4875	544	Waterfalls attract many tourists.
+4876	544	The waterfalls crashed loudly.
+4877	544	They took photos of the waterfalls.
+4878	544	The path leads to the waterfalls.
+4879	544	The waterfalls flow all year.
+4880	545	The party was lively.
+4881	545	She has a lively personality.
+4882	545	The street looked lively at night.
+4883	545	The children had a lively discussion.
+4884	545	The music made the room lively.
+4885	545	He gave a lively performance.
+4886	545	The market is always lively.
+4887	545	Their conversation became lively.
+4888	545	The town feels lively in summer.
+4889	545	She told the story in a lively way.
+4890	546	We walked along the boardwalk.
+4891	546	The boardwalk runs beside the beach.
+4892	546	Shops line the boardwalk.
+4893	546	The boardwalk was crowded.
+4894	546	They met on the boardwalk.
+4895	546	The boardwalk stretches for miles.
+4896	546	Children rode bikes on the boardwalk.
+4897	546	The boardwalk overlooks the ocean.
+4898	546	Lights shine along the boardwalk.
+4899	546	Tourists love the boardwalk.
+4900	547	The mall opens at ten.
+4901	547	They went shopping at the mall.
+4902	547	The mall was very busy.
+4903	547	A new store opened in the mall.
+4904	547	We met at the mall.
+4905	547	The mall has many restaurants.
+4906	547	She bought shoes at the mall.
+4907	547	The mall closes late.
+4908	547	Teenagers gather at the mall.
+4909	547	The mall has a big parking lot.
+4910	548	The concert venue was crowded.
+4911	548	This venue hosts many events.
+4912	548	They chose a beautiful venue for the wedding.
+4913	548	The venue is near the city center.
+4914	548	The conference venue was very modern.
+4915	548	We arrived early at the venue.
+4916	548	The venue can hold two thousand people.
+4917	548	They changed the venue at the last minute.
+4918	548	The venue offers great facilities.
+4919	548	The venue was easy to find.
+4920	549	The cold drink was refreshing.
+4921	549	The breeze felt refreshing.
+4922	549	It was refreshing to hear the truth.
+4923	549	The walk in the forest was refreshing.
+4924	549	Her honesty was refreshing.
+4925	549	The rain made the air refreshing.
+4926	549	The conversation was refreshing.
+4927	549	A swim in the lake felt refreshing.
+4928	549	The cool wind was refreshing.
+4929	549	It was a refreshing change.
+4930	550	It irks me when people are late.
+4931	550	It irks her when he interrupts.
+4932	550	It irks them to wait so long.
+4933	550	It irks me when the phone rings constantly.
+4934	550	It irks him when people complain.
+4935	550	It irks her when others are careless.
+4936	550	It irks me when someone lies.
+4937	550	It irks him when plans change suddenly.
+4938	550	It irks them when the rules are ignored.
+4939	550	It irks me when people waste time.
+4940	551	The road was dusty.
+4941	551	The old books were dusty.
+4942	551	The room looked dusty.
+4943	551	His shoes were dusty.
+4944	551	The attic smelled dusty.
+4945	551	The shelves were dusty.
+4946	551	The car became dusty.
+4947	551	The trail was dry and dusty.
+4948	551	The box was covered in dusty paper.
+4949	551	The air felt dusty.
+4950	552	His shoes were worn.
+4951	552	The jacket looked worn.
+4952	552	The carpet was worn.
+4953	552	The book had worn pages.
+4954	552	She wore a worn sweater.
+4955	552	The path was worn by travelers.
+4956	552	The chair looked worn with age.
+4957	552	His expression was tired and worn.
+4958	552	The fabric was worn thin.
+4959	552	The handle was worn smooth.
+4960	553	The books are on the shelves.
+4961	553	She cleaned the shelves.
+4962	553	The store has empty shelves.
+4963	553	He placed the boxes on the shelves.
+4964	553	The shelves were full of books.
+4965	553	They built wooden shelves.
+4966	553	The shelves hold many items.
+4967	553	Dust covered the shelves.
+4968	553	The kitchen shelves are organized.
+4969	553	She reached the top shelves.
+4970	554	He has many regrets.
+4971	554	She regrets her decision.
+4972	554	He spoke about his regrets.
+4973	554	They have no regrets.
+4974	554	She regrets not studying more.
+4975	554	He regrets what he said.
+4976	554	Time is full of regrets.
+4977	554	She shared her regrets.
+4978	554	He lives with many regrets.
+4979	554	They expressed their regrets.
+4980	555	The ceiling is very high.
+4981	555	The light hangs from the ceiling.
+4982	555	He looked up at the ceiling.
+4983	555	The ceiling was painted white.
+4984	555	Water dripped from the ceiling.
+4985	555	The fan is attached to the ceiling.
+4986	555	The ceiling needs repair.
+4987	555	The ceiling collapsed.
+4988	555	She stared at the ceiling.
+4989	555	The ceiling lights are bright.
+4990	556	The whale swam in the ocean.
+4991	556	They saw a whale from the boat.
+4992	556	The whale dived deep.
+4993	556	A blue whale is huge.
+4994	556	The whale surfaced slowly.
+4995	556	The whale splashed water.
+4996	556	Tourists watched the whale.
+4997	556	The whale moved gracefully.
+4998	556	A whale appeared near the ship.
+4999	556	The whale disappeared underwater.
+5000	557	The ship has sunk.
+5001	557	The treasure remains sunk.
+5002	557	The boat sunk in the storm.
+5003	557	The object sunk quickly.
+5004	557	His heart sunk with worry.
+5005	557	The submarine had sunk.
+5006	557	The rock sunk into the sand.
+5007	557	The city remembered the sunk ship.
+5008	557	The boat was sunk by waves.
+5009	557	The wreck has sunk deep.
+5010	558	The door was slightly open.
+5011	558	She smiled slightly.
+5012	558	The temperature dropped slightly.
+5013	558	He moved slightly closer.
+5014	558	The color is slightly different.
+5015	558	I felt slightly better.
+5016	558	The box is slightly heavier.
+5017	558	She tilted her head slightly.
+5018	558	The road curves slightly.
+5019	558	The price increased slightly.
+5020	559	He held the rope firmly.
+5021	559	She spoke firmly to the child.
+5022	559	The lid was firmly closed.
+5023	559	He planted his feet firmly.
+5024	559	She gripped the handle firmly.
+5025	559	The teacher firmly explained the rule.
+5026	559	He pressed the button firmly.
+5027	559	The door was firmly locked.
+5028	559	She held his hand firmly.
+5029	559	He firmly refused the offer.
+5030	560	She opened the wardrobe.
+5031	560	The wardrobe is full of clothes.
+5032	560	He bought a new wardrobe.
+5033	560	The wardrobe stands beside the bed.
+5034	560	She organized her wardrobe.
+5035	560	The wardrobe doors were wide open.
+5036	560	His wardrobe includes many suits.
+5037	560	The wardrobe is made of wood.
+5038	560	She hid the box in the wardrobe.
+5039	560	The wardrobe looked old.
+5040	561	The table surface is smooth.
+5041	561	Her skin felt smooth.
+5042	561	The road was smooth.
+5043	561	He made a smooth movement.
+5044	561	The fabric is smooth.
+5045	561	The stone feels smooth.
+5046	561	The surface became smooth.
+5047	561	The ride was smooth.
+5048	561	He gave a smooth answer.
+5049	561	The water looked smooth.
+5050	562	Her handwriting is neat.
+5051	562	The room looks neat.
+5052	562	He keeps his desk neat.
+5053	562	She folded the clothes neatly.
+5054	562	The garden is neat and tidy.
+5055	562	He made a neat pile.
+5056	562	The design is neat.
+5057	562	She arranged the books neatly.
+5058	562	The lines are neat.
+5059	562	It was a neat solution.
+5060	563	She gasped in surprise.
+5061	563	He gasped for air.
+5062	563	The crowd gasped at the scene.
+5063	563	She gasped when she saw the result.
+5064	563	He gasped loudly.
+5065	563	The child gasped in fear.
+5066	563	She gasped at the sudden noise.
+5067	563	He gasped after running.
+5068	563	The audience gasped together.
+5069	563	She gasped at the beautiful view.
+5070	564	The blankets kept us warm.
+5071	564	She folded the blankets.
+5072	564	The bed has two blankets.
+5073	564	They wrapped themselves in blankets.
+5074	564	The blankets were soft.
+5075	564	She washed the blankets.
+5076	564	The blankets covered the sofa.
+5077	564	He brought extra blankets.
+5078	564	The blankets smelled fresh.
+5079	564	The blankets were thick.
+5080	565	The road closures caused traffic.
+5081	565	Store closures affected the city.
+5082	565	The closures were announced yesterday.
+5083	565	School closures worried parents.
+5084	565	The closures lasted for weeks.
+5085	565	Many closures happened during the storm.
+5086	565	The company reported several closures.
+5087	565	Closures disrupted travel plans.
+5088	565	The closures surprised everyone.
+5089	565	The closures changed the schedule.
+5090	566	The road will widen ahead.
+5091	566	They plan to widen the bridge.
+5092	566	Her eyes widen in surprise.
+5093	566	The company hopes to widen its market.
+5094	566	The river begins to widen.
+5095	566	He tried to widen the gap.
+5096	566	The path widens near the hill.
+5097	566	We need to widen the discussion.
+5098	566	The government wants to widen access.
+5099	566	The crack started to widen.
+5100	567	Many people suffer from stress.
+5101	567	He suffered a serious injury.
+5102	567	They suffer from lack of sleep.
+5103	567	The company suffered losses.
+5104	567	She suffered in silence.
+5105	567	The town suffered damage.
+5106	567	He suffered from headaches.
+5107	567	Animals suffer in extreme heat.
+5108	567	She doesn't want others to suffer.
+5109	567	The patient suffered greatly.

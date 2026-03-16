@@ -415,3 +415,81 @@ id	word	meaning	hint
 485	relief	alívio	feeling better after stress
 486	either	qualquer um dos dois	one or the other
 487	silly	bobo / tolo	not serious, a bit stupid
+488	dunno	não sei	informal for "don't know"
+489	littluns	crianças pequenas	very young children (informal, British)
+490	dawn	amanhecer	sunrise, early morning light
+491	uncharted	não mapeado	unknown, unexplored
+492	stiff	rígido / duro	not flexible
+493	properly	corretamente	in the right way
+494	spear	lança	long weapon with a sharp point
+495	fools	tolos / idiotas	people who act without wisdom
+496	bowed	curvou-se	bent forward to show respect
+497	squats	agachamentos	exercise for legs
+498	coward	covarde	person afraid to face danger
+499	ought	deveria	expresses duty or advice
+500	homesick	com saudade de casa	missing home
+501	abroad	no exterior	in another country
+502	landscape	paisagem	natural scenery
+503	flock	bando / rebanho	group of animals or people
+504	sand	areia	small grains from rocks
+505	gather	reunir / juntar	bring together
+506	trouble	problema / encrenca	difficulty or danger
+507	wore	usou / vestiu	past of wear
+508	sow	semear	plant seeds in soil
+509	further	mais adiante / adicionalmente	more distance or more detail
+510	purging	purgando / eliminando	removing unwanted things
+511	looting	saqueando	stealing during chaos
+512	praised	elogiou	said good things about
+513	roof	telhado / teto	top covering of a building
+514	amenity	comodidade / recurso útil	facility that adds comfort
+515	content	conteúdo / satisfeito	information inside or feeling satisfied
+516	clamped	prendeu / apertou	closed tightly with force
+517	giggled	deu risadinhas	laughed lightly in a shy or silly way
+518	tearing	rasgando	ripping apart
+519	landmark	ponto de referência	famous or important place
+520	beside	ao lado	next to
+521	above	acima	higher than
+522	below	abaixo	lower than
+523	underneath	debaixo	directly under something
+524	beneath	sob / abaixo	formal word for under
+525	acknowledged	reconheceu	admitted or showed awareness
+526	through	através / por meio de	from one side to the other
+527	arrive	chegar	reach a destination
+528	forehead	testa	front part of your head
+529	damp	úmido	slightly wet
+530	barmy	louco / maluco	British slang for crazy
+531	hemisphere	hemisfério	half of a sphere (Earth or brain)
+532	etiquette	etiqueta / boas maneiras	social rules of behavior
+533	crouch	agachar	bend low with knees bent
+534	shoulder	ombro	upper part of your arm joint
+535	skull	crânio	bone structure protecting the brain
+538	grass	grama / relva	green plants covering the ground
+539	heave	erguer com esforço / suspirar	levantar something heavy with effort
+540	woollen bonnet	gorro de lã	warm knitted winter hat
+541	wet	molhado	not dry
+542	grief	luto / tristeza profunda	deep sadness after loss
+543	envy	inveja	wanting what someone else has
+544	waterfalls	cachoeiras	water falling from a high place
+545	lively	animado / cheio de vida	full of energy
+546	boardwalk	passarela de madeira (geralmente na praia)	wooden walkway near beach
+547	mall	shopping center / shopping	center with many stores
+548	venue	local do evento / local de realização	place where an event happens
+549	refreshing	refrescante / revigorante	making you feel fresh or renewed
+550	irks	irrita / incomoda	to annoy slightly
+551	dusty	empoeirado	covered with dust
+552	worn	gasto / desgastado	used so much that it looks old
+553	shelves	prateleiras	flat boards used to hold objects
+554	regrets	arrependimentos	feelings of wishing you had done something differently
+555	ceiling	teto	inside top surface of a room
+556	whale	baleia	very large sea mammal
+557	sunk	afundado	past participle of sink
+558	slightly	ligeiramente / um pouco	a small amount
+559	firmly	firmemente	with strong grip or certainty
+560	wardrobe	guarda-roupa	furniture where clothes are stored
+561	smooth	liso / suave	even surface without roughness
+562	neat	arrumado / organizado	tidy and well organized
+563	gasped	ofegou / soltou um suspiro forte	suddenly breathe in from shock or lack of air
+564	blankets	cobertores	thick covers used on beds
+565	closures	fechamentos / encerramentos	when something stops operating
+566	widen	alargar / ampliar	make something wider
+567	suffer	sofrer	experience pain or difficulty
