@@ -493,3 +493,39 @@ id	word	meaning	hint
 565	closures	fechamentos / encerramentos	when something stops operating
 566	widen	alargar / ampliar	make something wider
 567	suffer	sofrer	experience pain or difficulty
+568	fog	neblina / nevoeiro	thick mist that reduces visibility
+569	quell	reprimir / acalmar	stop something (like emotion or unrest)
+570	spreading	espalhando	moving outward over an area
+571	parade	desfile	public procession or celebration
+572	harbouring	abrigando / guardando (sentimentos ou pessoas)	keeping something hidden or protected
+595	hampered	prejudicado / dificultado	made progress harder
+596	candle	vela	wax stick that produces light
+597	unattended	sem supervisão	left without someone watching
+598	unknowingly	sem saber / inconscientemente	without realizing
+599	deemed	considerado / julgado	officially regarded as
+600	due to	devido a	because of something
+601	treadmill	esteira (de academia)	machine for running indoors
+602	barbell	barra com pesos	gym equipment for lifting
+603	glistening	brilhando / reluzente	shining with light or moisture
+604	purse	bolsa / carteira pequena	small bag for personal items
+605	hail	granizo / granizar	ice falling from the sky
+606	jolted	sacudiu / deu um tranco	sudden movement or shock
+607	church	igreja	religious building
+608	passionate	apaixonado / intenso	strong feelings about something
+609	on the fence	indeciso	not decided yet
+610	keen	interessado / entusiasmado	eager or very interested
+611	rather	bastante / preferir (would rather)	to some degree or preference
+612	loathe	odiar profundamente	strongly dislike
+613	beard	barba	hair on a man's face
+614	indeed	de fato / realmente	used to emphasize truth
+615	beaver	castor	animal that builds dams
+616	praying	rezando	speaking to a god
+617	chased	perseguiu	ran after something
+618	huge	enorme	very big
+619	furry	peludo	covered with soft hair
+620	scaly	escamoso	covered with scales
+628	loan	empréstimo	money borrowed and must be repaid
+629	overtime	hora extra	work done beyond normal hours
+630	achievement	conquista	something successfully completed
+631	sword	espada	long weapon with a blade
+632	wipe	limpar / enxugar	remove dirt or liquid by rubbing

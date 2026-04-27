@@ -4997,3 +4997,363 @@ id	vocab_id	sentence
 5107	567	Animals suffer in extreme heat.
 5108	567	She doesn't want others to suffer.
 5109	567	The patient suffered greatly.
+5110	568	The fog covered the city.
+5111	568	We drove slowly through the fog.
+5112	568	The fog made it hard to see.
+5113	568	Thick fog filled the valley.
+5114	568	The airport closed because of fog.
+5115	568	The fog lifted in the morning.
+5116	568	The road disappeared in the fog.
+5117	568	Fog surrounded the hills.
+5118	568	The ship moved through the fog.
+5119	568	The fog came suddenly.
+5120	569	The police tried to quell the protest.
+5121	569	He tried to quell his anger.
+5122	569	The government moved to quell unrest.
+5123	569	She spoke calmly to quell fears.
+5124	569	The teacher tried to quell the noise.
+5125	569	They acted quickly to quell the fire.
+5126	569	The speech helped quell doubts.
+5127	569	He couldn't quell his curiosity.
+5128	569	The leader tried to quell the panic.
+5129	569	The measures helped quell violence.
+5130	570	The fire is spreading quickly.
+5131	570	Disease is spreading in the area.
+5132	570	The news is spreading fast.
+5133	570	She is spreading butter on bread.
+5134	570	The fog is spreading across the valley.
+5135	570	The influence is spreading worldwide.
+5136	570	The smell is spreading through the house.
+5137	570	The stain is spreading on the fabric.
+5138	570	The idea is spreading among students.
+5139	570	The light is spreading across the sky.
+5140	571	The parade moved down the street.
+5141	571	We watched the parade together.
+5142	571	The city hosts a parade every year.
+5143	571	The parade was full of music.
+5144	571	Children enjoyed the parade.
+5145	571	The parade attracted many visitors.
+5146	571	Bands played during the parade.
+5147	571	The parade lasted for hours.
+5148	571	People cheered at the parade.
+5149	571	The parade celebrated a holiday.
+5150	572	He is harbouring a secret.
+5151	572	She is harbouring anger.
+5152	572	They are harbouring doubts.
+5153	572	He was accused of harbouring criminals.
+5154	572	She kept harbouring resentment.
+5155	572	The group was harbouring refugees.
+5156	572	He is harbouring strong feelings.
+5157	572	They were harbouring fear.
+5158	572	She is harbouring hope.
+5159	572	He continued harbouring suspicion.
+5182	595	The rain hampered our plans.
+5183	595	He was hampered by lack of experience.
+5184	595	The project was hampered by delays.
+5185	595	She felt hampered by the rules.
+5186	595	The team was hampered by injuries.
+5187	595	Progress was hampered by poor communication.
+5188	595	He was hampered by limited resources.
+5189	595	The work was hampered by technical issues.
+5190	595	They were hampered by bad weather.
+5191	595	The investigation was hampered by missing data.
+5192	596	She lit a candle.
+5193	596	The candle burned slowly.
+5194	596	He blew out the candle.
+5195	596	The room was lit by a candle.
+5196	596	The candle melted quickly.
+5197	596	They placed a candle on the table.
+5198	596	The candle flickered in the wind.
+5199	596	She bought scented candles.
+5200	596	The candle gave a soft light.
+5201	596	He watched the candle burn.
+5202	597	The bag was left unattended.
+5203	597	Children should not be left unattended.
+5204	597	The car remained unattended.
+5205	597	The store was unattended for hours.
+5206	597	The machine ran unattended.
+5207	597	The fire started from an unattended stove.
+5208	597	The desk was unattended.
+5209	597	The building was unattended at night.
+5210	597	The equipment was left unattended.
+5211	597	The child wandered off unattended.
+5212	598	He unknowingly made a mistake.
+5213	598	She unknowingly offended him.
+5214	598	They unknowingly broke the rule.
+5215	598	He unknowingly helped them.
+5216	598	She unknowingly revealed the secret.
+5217	598	They unknowingly caused damage.
+5218	598	He unknowingly ignored the warning.
+5219	598	She unknowingly entered the room.
+5220	598	They unknowingly supported the idea.
+5221	598	He unknowingly created a problem.
+5222	599	He was deemed responsible.
+5223	599	The plan was deemed effective.
+5224	599	She was deemed unfit for the role.
+5225	599	The action was deemed necessary.
+5226	599	They were deemed guilty.
+5227	599	The result was deemed satisfactory.
+5228	599	It was deemed a success.
+5229	599	The decision was deemed final.
+5230	599	He was deemed eligible.
+5231	599	The method was deemed safe.
+5232	600	The delay was due to traffic.
+5233	600	The game was canceled due to rain.
+5234	600	Flights were late due to fog.
+5235	600	The problem happened due to a bug.
+5236	600	The meeting changed due to scheduling issues.
+5237	600	His success was due to hard work.
+5238	600	The road was closed due to an accident.
+5239	600	She stayed home due to illness.
+5240	600	The event was postponed due to weather.
+5241	600	The failure was due to poor planning.
+5242	601	He runs on the treadmill daily.
+5243	601	The treadmill is in the gym.
+5244	601	She increased the speed on the treadmill.
+5245	601	The treadmill helps with cardio.
+5246	601	He fell off the treadmill.
+5247	601	They bought a new treadmill.
+5248	601	She walked on the treadmill.
+5249	601	The treadmill was broken.
+5250	601	He trained hard on the treadmill.
+5251	601	The treadmill display showed distance.
+5252	602	He lifted a heavy barbell.
+5253	602	The barbell was on the floor.
+5254	602	She trained with a barbell.
+5255	602	The barbell workout was intense.
+5256	602	He added weights to the barbell.
+5257	602	The coach corrected his barbell form.
+5258	602	The barbell felt heavy.
+5259	602	She dropped the barbell carefully.
+5260	602	The barbell rolled slightly.
+5261	602	He cleaned the barbell.
+5262	603	The water was glistening in the sun.
+5263	603	Her eyes were glistening with tears.
+5264	603	The wet road was glistening.
+5265	603	Snow was glistening on the ground.
+5266	603	The leaves were glistening after rain.
+5267	603	His skin was glistening with sweat.
+5268	603	The surface was glistening brightly.
+5269	603	The lake looked glistening.
+5270	603	The sand was glistening.
+5271	603	The morning dew was glistening.
+5272	604	She put her phone in her purse.
+5273	604	Her purse was on the table.
+5274	604	He found a purse on the street.
+5275	604	She bought a new purse.
+5276	604	The purse was expensive.
+5277	604	She opened her purse.
+5278	604	The purse was made of leather.
+5279	604	She lost her purse.
+5280	604	The purse contained money.
+5281	604	He returned the purse to her.
+5282	605	It started to hail suddenly.
+5283	605	Hail damaged the cars.
+5284	605	The storm brought heavy hail.
+5285	605	We took shelter from the hail.
+5286	605	Hail hit the roof loudly.
+5287	605	The crops were destroyed by hail.
+5288	605	Hail covered the ground.
+5289	605	It may hail later today.
+5290	605	The hail was very strong.
+5291	605	Hail fell during the storm.
+5292	606	The car jolted over the bump.
+5293	606	He was jolted awake by the noise.
+5294	606	She was jolted by the sudden stop.
+5295	606	The train jolted forward.
+5296	606	The news jolted everyone.
+5297	606	He felt jolted by the impact.
+5298	606	The movement jolted the passengers.
+5299	606	She was jolted out of sleep.
+5300	606	The shock jolted him.
+5301	606	The bus jolted suddenly.
+5302	607	They went to church on Sunday.
+5303	607	The church is old and beautiful.
+5304	607	She sings in the church choir.
+5305	607	The church bells rang loudly.
+5306	607	The church was full of people.
+5307	607	He prayed in the church.
+5308	607	The church stands in the center.
+5309	607	They got married in a church.
+5310	607	The church doors were open.
+5311	607	The church offers community help.
+5312	608	She is passionate about music.
+5313	608	He gave a passionate speech.
+5314	608	They are passionate about their work.
+5315	608	She feels passionate about helping others.
+5316	608	He is a passionate learner.
+5317	608	Her voice sounded passionate.
+5318	608	They had a passionate discussion.
+5319	608	He is passionate about sports.
+5320	608	She showed a passionate attitude.
+5321	608	He made a passionate argument.
+5322	609	I'm on the fence about the decision.
+5323	609	She is still on the fence.
+5324	609	They are on the fence about moving.
+5325	609	He stayed on the fence for too long.
+5326	609	We are on the fence about the plan.
+5327	609	She remained on the fence.
+5328	609	He is on the fence about buying it.
+5329	609	They are on the fence about the project.
+5330	609	I'm still on the fence.
+5331	609	She sat on the fence during the debate.
+5332	610	She is keen to learn.
+5333	610	He is keen on sports.
+5334	610	They are keen to start.
+5335	610	She has a keen interest in music.
+5336	610	He is keen to help.
+5337	610	She is keen on reading.
+5338	610	They are keen to travel.
+5339	610	He has a keen eye for detail.
+5340	610	She is keen to improve.
+5341	610	He is keen on technology.
+5342	611	I would rather stay home.
+5343	611	She would rather read a book.
+5344	611	He is rather tired.
+5345	611	It's rather cold today.
+5346	611	I would rather go now.
+5347	611	She felt rather nervous.
+5348	611	He is rather busy.
+5349	611	They would rather wait.
+5350	611	It was rather surprising.
+5351	611	I would rather not say.
+5352	612	I loathe doing chores.
+5353	612	She loathes waking up early.
+5354	612	He loathes dishonesty.
+5355	612	They loathe bad behavior.
+5356	612	I loathe waiting in line.
+5357	612	She loathes loud noises.
+5358	612	He loathes being late.
+5359	612	They loathe unfair rules.
+5360	612	I loathe cold weather.
+5361	612	She loathes conflict.
+5362	613	He has a long beard.
+5363	613	The man shaved his beard.
+5364	613	His beard is thick.
+5365	613	She touched his beard.
+5366	613	The beard was gray.
+5367	613	He grew a beard.
+5368	613	The beard looked neat.
+5369	613	His beard was messy.
+5370	613	He trimmed his beard.
+5371	613	The beard covered his face.
+5372	614	That is indeed true.
+5373	614	He is indeed very talented.
+5374	614	She was indeed surprised.
+5375	614	It was indeed a great day.
+5376	614	They are indeed ready.
+5377	614	He did indeed finish the work.
+5378	614	She is indeed correct.
+5379	614	It was indeed difficult.
+5380	614	They did indeed try.
+5381	614	This is indeed important.
+5382	615	The beaver built a dam.
+5383	615	A beaver lives near the river.
+5384	615	The beaver cut down a tree.
+5385	615	We saw a beaver in the lake.
+5386	615	The beaver has strong teeth.
+5387	615	The beaver worked all day.
+5388	615	The beaver swam across the water.
+5389	615	The beaver carried branches.
+5390	615	The beaver built its home.
+5391	615	The beaver is a hardworking animal.
+5392	616	She is praying quietly.
+5393	616	They were praying together.
+5394	616	He kept praying for help.
+5395	616	The group is praying in the church.
+5396	616	She sat there praying.
+5397	616	They are praying for peace.
+5398	616	He was praying silently.
+5399	616	She started praying again.
+5400	616	The family is praying.
+5401	616	He stood there praying.
+5402	617	The dog chased the cat.
+5403	617	He chased after the ball.
+5404	617	They chased the thief.
+5405	617	The police chased the suspect.
+5406	617	She chased her dreams.
+5407	617	He chased the bus.
+5408	617	The cat chased a mouse.
+5409	617	They chased each other.
+5410	617	He chased the opportunity.
+5411	617	The kids chased butterflies.
+5412	618	The building is huge.
+5413	618	They have a huge house.
+5414	618	The problem is huge.
+5415	618	He made a huge mistake.
+5416	618	The crowd was huge.
+5417	618	She has a huge collection.
+5418	618	The tree is huge.
+5419	618	The wave was huge.
+5420	618	The dog is huge.
+5421	618	The impact was huge.
+5422	619	The dog is furry.
+5423	619	The cat feels soft and furry.
+5424	619	The animal has a furry coat.
+5425	619	The rabbit is very furry.
+5426	619	The toy looks furry.
+5427	619	The puppy is small and furry.
+5428	619	The bear is big and furry.
+5429	619	The animal appeared furry.
+5430	619	The jacket has a furry hood.
+5431	619	The kitten is fluffy and furry.
+5432	620	The fish has scaly skin.
+5433	620	The snake is scaly.
+5434	620	The lizard has a scaly body.
+5435	620	The creature looked scaly.
+5436	620	The scaly texture felt rough.
+5437	620	The dragon is scaly.
+5438	620	The animal has scaly armor.
+5439	620	The reptile is cold and scaly.
+5440	620	The skin became dry and scaly.
+5441	620	The creature appeared scaly.
+5446	628	He took a loan from the bank.
+5447	628	She applied for a loan.
+5448	628	The loan must be repaid.
+5449	628	They approved his loan.
+5450	628	He paid off the loan.
+5451	628	The loan has low interest.
+5452	628	She needs a loan for the house.
+5453	628	The bank denied the loan.
+5454	628	He is still paying the loan.
+5455	628	The loan helped his business.
+5456	629	He worked overtime yesterday.
+5457	629	She earns more with overtime.
+5458	629	They stayed for overtime.
+5459	629	Overtime can be tiring.
+5460	629	He avoided working overtime.
+5461	629	She gets paid for overtime.
+5462	629	They worked overtime to finish.
+5463	629	The job requires overtime.
+5464	629	He hates doing overtime.
+5465	629	Overtime helped complete the project.
+5466	630	Winning the prize was a big achievement.
+5467	630	She felt proud of her achievement.
+5468	630	Graduation is a great achievement.
+5469	630	His achievement was recognized.
+5470	630	This is a major achievement.
+5471	630	He celebrated his achievement.
+5472	630	The award marks her achievement.
+5473	630	It was a personal achievement.
+5474	630	Her achievement inspired others.
+5475	630	They honored his achievement.
+5476	631	He held a sharp sword.
+5477	631	The knight carried a sword.
+5478	631	The sword was heavy.
+5479	631	He raised the sword high.
+5480	631	The sword shined in the light.
+5481	631	She picked up the sword.
+5482	631	The warrior used a sword.
+5483	631	The sword fell to the ground.
+5484	631	He trained with a sword.
+5485	631	The sword was ancient.
+5486	632	She wiped the table.
+5487	632	He wiped his hands.
+5488	632	She wiped away tears.
+5489	632	He wiped the screen clean.
+5490	632	The cloth can wipe dust.
+5491	632	She wiped the floor.
+5492	632	He wiped his face.
+5493	632	She wiped the glass.
+5494	632	He wiped the board.
+5495	632	She wiped the counter.
