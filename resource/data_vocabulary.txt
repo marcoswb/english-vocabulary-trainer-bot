@@ -529,3 +529,47 @@ id	word	meaning	hint
 630	achievement	conquista	something successfully completed
 631	sword	espada	long weapon with a blade
 632	wipe	limpar / enxugar	remove dirt or liquid by rubbing
+633	jewellery	joias / joalheria	decorative items like rings or necklaces
+634	hailed	clamou / saudou / chamou (táxi)	praised or called
+635	affordability	acessibilidade financeira	how affordable something is
+636	appliance	eletrodoméstico	home machine like a fridge or oven
+637	measure	medir / medida	find size, amount, or degree
+638	oven	forno	used to bake or cook food
+639	kettle	chaleira	boils water
+640	blender	liquidificador	mixes food into liquid
+641	grater	ralador	used to shred food like cheese
+642	pan	panela / frigideira	used to cook food on stove
+643	pot	panela	deep container for cooking
+644	boil	ferver	heat liquid until bubbles form
+645	peel	descascar	remove outer skin
+646	cashier	caixa (funcionário)	person who handles payments
+647	dairy	laticínios	milk-based products
+648	pint	pinta (medida de volume)	unit for liquids (beer, milk)
+649	bar	bar / balcão	place to drink or counter
+650	pound	libra / libra esterlina	unit of weight or UK currency
+651	loaf	pão (inteiro)	whole bread before slicing
+652	parents	pais	father and mother
+653	must	deve / tem que	obligation or strong certainty
+654	household	doméstico / lar	people living in one home
+655	spotless	impecável / sem sujeira	completely clean
+656	straighten up	arrumar / organizar	make something tidy
+657	grumpy	mal-humorado	easily annoyed or in bad mood
+658	puppy	filhote de cachorro	young dog
+659	worse	pior	comparative form of bad
+660	worst	o pior	superlative form of bad
+661	furthest	o mais distante	superlative of far
+694	rapport	boa relação / sintonia	friendly and trusting relationship
+695	nun	freira	religious woman in the church
+696	settler	colono	person who moves to live in new land
+697	ripped	rasgado / musculoso	torn apart or very muscular
+698	installment	parcela / prestação	one payment in a series
+699	sought	procurou	past of seek
+700	prompt	imediato / pontual	quick or without delay
+701	diver	mergulhador	person who dives underwater
+702	cutlery	talheres	forks, knives, and spoons
+703	sides	acompanhamentos	extra foods served with main dish
+704	unveiled	revelou / lançou	showed publicly for the first time
+705	realtor	corretor de imóveis	person who sells houses or property
+706	plumber	encanador	person who fixes pipes and water systems
+707	robberies	assaltos / roubos	crimes involving stealing
+708	scrambled	embaralhado / mexido / escalou	mixed up, rushed, or cooked eggs style

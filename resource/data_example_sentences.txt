@@ -5357,3 +5357,443 @@ id	vocab_id	sentence
 5493	632	She wiped the glass.
 5494	632	He wiped the board.
 5495	632	She wiped the counter.
+5496	633	She bought expensive jewellery.
+5497	633	The jewellery was displayed in the window.
+5498	633	She wore gold jewellery.
+5499	633	The jewellery shop was busy.
+5500	633	He gave her jewellery as a gift.
+5501	633	The jewellery sparkled in the light.
+5502	633	She keeps her jewellery in a box.
+5503	633	The jewellery was stolen.
+5504	633	The bride wore beautiful jewellery.
+5505	633	The jewellery looked elegant.
+5506	634	He hailed a taxi.
+5507	634	She was hailed as a hero.
+5508	634	The city was hailed for its culture.
+5509	634	He hailed from a small town.
+5510	634	The film was hailed by critics.
+5511	634	She was hailed for her bravery.
+5512	634	The leader was hailed by supporters.
+5513	634	He hailed the decision as wise.
+5514	634	The team was hailed as champions.
+5515	634	The discovery was hailed worldwide.
+5516	635	Housing affordability is a concern.
+5517	635	The plan improves affordability.
+5518	635	Affordability affects many families.
+5519	635	They discussed price affordability.
+5520	635	The issue of affordability remains.
+5521	635	Affordability is important to buyers.
+5522	635	The project focuses on affordability.
+5523	635	Affordability drives demand.
+5524	635	The lack of affordability is a problem.
+5525	635	They analyzed affordability trends.
+5526	636	The kitchen appliance is new.
+5527	636	She bought a home appliance.
+5528	636	The appliance stopped working.
+5529	636	They repaired the appliance.
+5530	636	The appliance uses electricity.
+5531	636	He plugged in the appliance.
+5532	636	The appliance is energy efficient.
+5533	636	She cleaned the appliance.
+5534	636	The appliance is easy to use.
+5535	636	The appliance broke yesterday.
+5536	637	They measure the room carefully.
+5537	637	He used a tool to measure length.
+5538	637	We need to measure the results.
+5539	637	She took a measure of success.
+5540	637	The doctor will measure your height.
+5541	637	They measure performance daily.
+5542	637	He tried to measure the distance.
+5543	637	The test measures ability.
+5544	637	She will measure the fabric.
+5545	637	We measure progress over time.
+5546	638	The oven is preheating.
+5547	638	She baked a cake in the oven.
+5548	638	The oven is very hot.
+5549	638	He cleaned the oven.
+5550	638	The oven stopped working.
+5551	638	They put the food in the oven.
+5552	638	The oven timer rang.
+5553	638	She opened the oven door.
+5554	638	The oven cooks evenly.
+5555	638	The oven needs repair.
+5556	639	The kettle is boiling.
+5557	639	She filled the kettle with water.
+5558	639	The kettle whistled loudly.
+5559	639	He put the kettle on the stove.
+5560	639	The kettle is made of metal.
+5561	639	She poured tea from the kettle.
+5562	639	The kettle is hot.
+5563	639	He bought a new kettle.
+5564	639	The kettle boiled quickly.
+5565	639	She turned off the kettle.
+5566	640	She used the blender to make juice.
+5567	640	The blender is powerful.
+5568	640	He cleaned the blender.
+5569	640	The blender made a loud noise.
+5570	640	She put fruits in the blender.
+5571	640	The blender stopped suddenly.
+5572	640	They bought a new blender.
+5573	640	The blender mixes well.
+5574	640	He fixed the blender.
+5575	640	The blender is easy to use.
+5576	641	She used a grater for cheese.
+5577	641	The grater is sharp.
+5578	641	He grated carrots with the grater.
+5579	641	The grater slipped from her hand.
+5580	641	She washed the grater.
+5581	641	The grater is made of steel.
+5582	641	He used the grater carefully.
+5583	641	The grater works well.
+5584	641	She stored the grater in a drawer.
+5585	641	The grater is small.
+5586	642	She cooked eggs in the pan.
+5587	642	The pan is on the stove.
+5588	642	He washed the pan.
+5589	642	The pan is very hot.
+5590	642	She used a frying pan.
+5591	642	The pan has a handle.
+5592	642	He dropped the pan.
+5593	642	The pan is clean.
+5594	642	She bought a new pan.
+5595	642	The pan is made of iron.
+5596	643	She cooked soup in a pot.
+5597	643	The pot is on the stove.
+5598	643	He filled the pot with water.
+5599	643	The pot started to boil.
+5600	643	She washed the pot.
+5601	643	The pot is very hot.
+5602	643	They bought a new pot.
+5603	643	The pot is made of steel.
+5604	643	He dropped the pot.
+5605	643	The pot is large.
+5606	644	Water begins to boil at 100 degrees.
+5607	644	She boiled eggs for breakfast.
+5608	644	The soup started to boil.
+5609	644	He waited for the water to boil.
+5610	644	The liquid will boil soon.
+5611	644	She let it boil for ten minutes.
+5612	644	The pot began to boil.
+5613	644	He boiled the vegetables.
+5614	644	The kettle will boil quickly.
+5615	644	They watched the water boil.
+5616	645	She peeled the apple.
+5617	645	He peeled the potatoes.
+5618	645	She peeled an orange.
+5619	645	The paint began to peel.
+5620	645	He peeled the banana.
+5621	645	She used a knife to peel.
+5622	645	The skin started to peel.
+5623	645	He peeled the fruit carefully.
+5624	645	She peeled the carrots.
+5625	645	The label began to peel.
+5626	646	The cashier scanned the items.
+5627	646	She works as a cashier.
+5628	646	The cashier gave the receipt.
+5629	646	He paid the cashier.
+5630	646	The cashier was friendly.
+5631	646	She became a cashier last year.
+5632	646	The cashier counted the money.
+5633	646	He spoke to the cashier.
+5634	646	The cashier helped the customer.
+5635	646	The cashier closed the register.
+5636	647	The store sells dairy products.
+5637	647	Milk is a dairy product.
+5638	647	She avoids dairy.
+5639	647	The dairy section is at the back.
+5640	647	They bought dairy items.
+5641	647	Dairy includes cheese and yogurt.
+5642	647	He works in the dairy industry.
+5643	647	The dairy farm is nearby.
+5644	647	She prefers plant-based dairy alternatives.
+5645	647	Dairy products must be refrigerated.
+5646	648	He ordered a pint of beer.
+5647	648	She drank a pint of milk.
+5648	648	A pint is a unit of volume.
+5649	648	They shared a pint at the bar.
+5650	648	He poured a pint into the glass.
+5651	648	She bought a pint of ice cream.
+5652	648	The recipe needs a pint of cream.
+5653	648	He finished his pint quickly.
+5654	648	The pint was cold.
+5655	648	They served a fresh pint.
+5656	649	They met at the bar.
+5657	649	He ordered a drink at the bar.
+5658	649	The bar was crowded.
+5659	649	She works at a bar.
+5660	649	They sat at the bar.
+5661	649	The bar closed late.
+5662	649	He leaned on the bar.
+5663	649	The bar has live music.
+5664	649	She cleaned the bar.
+5665	649	The bar serves cocktails.
+5666	650	The bag weighs one pound.
+5667	650	He paid ten pounds.
+5668	650	The pound is a currency.
+5669	650	She lost a pound.
+5670	650	This costs five pounds.
+5671	650	He lifted a heavy pound weight.
+5672	650	The price dropped by a pound.
+5673	650	They exchanged pounds for euros.
+5674	650	One pound equals sixteen ounces.
+5675	650	He earned fifty pounds.
+5676	651	She bought a loaf of bread.
+5677	651	He sliced the loaf.
+5678	651	The loaf was fresh.
+5679	651	They shared a loaf.
+5680	651	The loaf smelled good.
+5681	651	She baked a loaf.
+5682	651	The loaf was warm.
+5683	651	He cut the loaf carefully.
+5684	651	The loaf was soft.
+5685	651	They ate the whole loaf.
+5686	652	Her parents are kind.
+5687	652	His parents live nearby.
+5688	652	They visited their parents.
+5689	652	My parents are working.
+5690	652	Their parents helped them.
+5691	652	She called her parents.
+5692	652	His parents were proud.
+5693	652	They stayed with their parents.
+5694	652	Our parents support us.
+5695	652	The parents attended the meeting.
+5696	653	You must finish your work.
+5697	653	She must be tired.
+5698	653	We must leave now.
+5699	653	He must study harder.
+5700	653	This must be the place.
+5701	653	You must follow the rules.
+5702	653	She must call him.
+5703	653	We must try again.
+5704	653	He must be joking.
+5705	653	You must be careful.
+5706	654	She manages the household.
+5707	654	The household is busy.
+5708	654	They have a large household.
+5709	654	Household chores take time.
+5710	654	The household includes four people.
+5711	654	They run a quiet household.
+5712	654	The household expenses increased.
+5713	654	She organized the household.
+5714	654	The household has two pets.
+5715	654	They cleaned the household together.
+5716	655	The room is spotless.
+5717	655	She kept the kitchen spotless.
+5718	655	His shirt was spotless.
+5719	655	The floor looked spotless.
+5720	655	The house was spotless.
+5721	655	She made everything spotless.
+5722	655	The bathroom is spotless.
+5723	655	The table remained spotless.
+5724	655	The car looked spotless.
+5725	655	The place was spotless.
+5726	656	Please straighten up your room.
+5727	656	He straightened up the desk.
+5728	656	She told him to straighten up.
+5729	656	They need to straighten up the house.
+5730	656	He straightened up his posture.
+5731	656	She straightened up the papers.
+5732	656	We should straighten up before guests arrive.
+5733	656	He straightened up his clothes.
+5734	656	She straightened up the shelves.
+5735	656	They straightened up the living room.
+5736	657	He feels grumpy today.
+5737	657	She gets grumpy when tired.
+5738	657	The old man looked grumpy.
+5739	657	He woke up grumpy.
+5740	657	She sounded grumpy.
+5741	657	The child became grumpy.
+5742	657	He is always grumpy in the morning.
+5743	657	She acted grumpy.
+5744	657	The dog seemed grumpy.
+5745	657	He stayed grumpy all day.
+5746	658	The puppy is very playful.
+5747	658	She adopted a small puppy.
+5748	658	The puppy barked loudly.
+5749	658	He trained the puppy.
+5750	658	The puppy slept on the sofa.
+5751	658	The puppy followed her everywhere.
+5752	658	They bought food for the puppy.
+5753	658	The puppy chewed the shoe.
+5754	658	The puppy wagged its tail.
+5755	658	The puppy looked adorable.
+5756	659	My headache feels worse today.
+5757	659	The weather became worse.
+5758	659	Things could be worse.
+5759	659	He performed worse than before.
+5760	659	The traffic is getting worse.
+5761	659	Her condition grew worse.
+5762	659	This problem is worse now.
+5763	659	The second movie was worse.
+5764	659	He felt worse after eating.
+5765	659	The situation became much worse.
+5766	660	That was the worst day of my life.
+5767	660	He made the worst mistake.
+5768	660	This is the worst weather.
+5769	660	She expected the worst.
+5770	660	The worst part is over.
+5771	660	He had the worst luck.
+5772	660	That was the worst movie.
+5773	660	They feared the worst.
+5774	660	It was the worst experience.
+5775	660	She prepared for the worst.
+5776	661	He ran the furthest.
+5777	661	This is the furthest point.
+5778	661	She lives the furthest away.
+5779	661	They traveled the furthest distance.
+5780	661	The furthest star is hard to see.
+5781	661	He threw the ball the furthest.
+5782	661	This is the furthest I've ever been.
+5783	661	She reached the furthest corner.
+5784	661	The village is the furthest north.
+5785	661	That road goes the furthest.
+5809	694	They developed a good rapport.
+5810	694	She has a strong rapport with students.
+5811	694	He built rapport with the team.
+5812	694	Good rapport improves communication.
+5813	694	The doctor quickly established rapport.
+5814	694	They share a friendly rapport.
+5815	694	Rapport is important in business.
+5816	694	She created rapport with customers.
+5817	694	He values rapport with coworkers.
+5818	694	The teacher has great rapport with children.
+5819	695	The nun prayed quietly.
+5820	695	She spoke to the nun.
+5821	695	The nun worked at the school.
+5822	695	The old nun smiled kindly.
+5823	695	They visited the nun at the convent.
+5824	695	The nun wore traditional clothing.
+5825	695	The nun helped the poor.
+5826	695	The nun taught the children.
+5827	695	He thanked the nun for her help.
+5828	695	The nun walked through the church.
+5829	696	The settler built a small house.
+5830	696	Early settlers arrived by ship.
+5831	696	The settler farmed the land.
+5832	696	Many settlers moved west.
+5833	696	The settler faced harsh winters.
+5834	696	The settlers formed a community.
+5835	696	The settler traded goods.
+5836	696	The settler explored the region.
+5837	696	The settler worked hard to survive.
+5838	696	The settlers crossed the river.
+5839	697	His jeans are ripped.
+5840	697	She ripped the paper accidentally.
+5841	697	The bag was ripped open.
+5842	697	He ripped the letter apart.
+5843	697	The shirt looked ripped.
+5844	697	She ripped the package open.
+5845	697	The fabric was badly ripped.
+5846	697	He ripped the poster from the wall.
+5847	697	The athlete looked ripped.
+5848	697	The old book had ripped pages.
+5849	698	She paid the installment on time.
+5850	698	The car was bought in installments.
+5851	698	He missed an installment payment.
+5852	698	The next installment is due tomorrow.
+5853	698	They agreed on monthly installments.
+5854	698	The loan requires small installments.
+5855	698	She finished the first installment.
+5856	698	The installment plan helped them.
+5857	698	He paid the final installment.
+5858	698	The house is being paid in installments.
+5859	699	He sought help from a friend.
+5860	699	She sought advice from her teacher.
+5861	699	They sought shelter during the storm.
+5862	699	The company sought new investors.
+5863	699	He sought peace and quiet.
+5864	699	She sought medical attention.
+5865	699	The police sought the suspect.
+5866	699	They sought a better future.
+5867	699	He sought answers online.
+5868	699	She sought permission to leave.
+5869	700	She gave a prompt reply.
+5870	700	Please be prompt for the meeting.
+5871	700	The teacher used a writing prompt.
+5872	700	He responded promptly.
+5873	700	The system displayed a prompt message.
+5874	700	Her arrival was prompt.
+5875	700	The prompt action prevented problems.
+5876	700	They received prompt service.
+5877	700	The app asked for a password prompt.
+5878	700	He gave a prompt explanation.
+5879	701	The diver explored the reef.
+5880	701	She is an experienced diver.
+5881	701	The diver entered the water carefully.
+5882	701	A diver found the treasure.
+5883	701	The diver wore special equipment.
+5884	701	The diver swam deep underwater.
+5885	701	The rescue diver acted quickly.
+5886	701	The diver surfaced slowly.
+5887	701	He trained to become a diver.
+5888	701	The diver photographed sea life.
+5889	702	The cutlery is in the drawer.
+5890	702	She bought new cutlery.
+5891	702	The restaurant provided silver cutlery.
+5892	702	He polished the cutlery.
+5893	702	The cutlery set includes forks and knives.
+5894	702	They arranged the cutlery neatly.
+5895	702	The cutlery was made of steel.
+5896	702	She washed the cutlery after dinner.
+5897	702	The cutlery looked elegant.
+5898	702	He dropped the cutlery on the floor.
+5899	703	We ordered fries as sides.
+5900	703	The restaurant offers several sides.
+5901	703	Salad and rice are common sides.
+5902	703	She chose vegetables for her sides.
+5903	703	The burger comes with two sides.
+5904	703	They shared different sides.
+5905	703	The meal included tasty sides.
+5906	703	He ordered extra sides.
+5907	703	Mashed potatoes are popular sides.
+5908	703	The sides completed the meal.
+5909	704	The company unveiled a new product.
+5910	704	They unveiled the statue yesterday.
+5911	704	She unveiled her latest design.
+5912	704	The plan was unveiled at the meeting.
+5913	704	He unveiled the surprise slowly.
+5914	704	The artist unveiled the painting.
+5915	704	The government unveiled new policies.
+5916	704	They unveiled the memorial publicly.
+5917	704	The brand unveiled its new logo.
+5918	704	She unveiled the results proudly.
+5919	705	The realtor showed us the house.
+5920	705	She works as a realtor.
+5921	705	The realtor explained the contract.
+5922	705	They hired a realtor to sell the property.
+5923	705	The realtor arranged the visit.
+5924	705	He spoke with the realtor yesterday.
+5925	705	The realtor found them a good apartment.
+5926	705	She trusts her realtor.
+5927	705	The realtor negotiated the price.
+5928	705	The realtor specializes in luxury homes.
+5929	706	The plumber fixed the sink.
+5930	706	We called a plumber for repairs.
+5931	706	The plumber arrived early.
+5932	706	She hired a plumber yesterday.
+5933	706	The plumber repaired the pipe.
+5934	706	He works as a plumber.
+5935	706	The plumber checked the leak.
+5936	706	The plumber installed a new faucet.
+5937	706	The plumber solved the problem quickly.
+5938	706	The plumber carried heavy tools.
+5939	707	The city experienced several robberies.
+5940	707	Police investigated the robberies.
+5941	707	The robberies happened at night.
+5942	707	Many robberies were reported this month.
+5943	707	The robberies caused fear in the neighborhood.
+5944	707	They discussed the recent robberies.
+5945	707	The robberies targeted small stores.
+5946	707	Security cameras helped solve the robberies.
+5947	707	The robberies shocked the community.
+5948	707	Officers prevented further robberies.
+5949	708	She made scrambled eggs for breakfast.
+5950	708	He scrambled up the hill.
+5951	708	The children scrambled for candy.
+5952	708	They scrambled to escape the rain.
+5953	708	He scrambled the papers accidentally.
+5954	708	The signal became scrambled.
+5955	708	She scrambled to finish the project.
+5956	708	The players scrambled for the ball.
+5957	708	He scrambled over the rocks.
+5958	708	The message was scrambled.
