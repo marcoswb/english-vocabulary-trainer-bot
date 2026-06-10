@@ -573,3 +573,27 @@ id	word	meaning	hint
 706	plumber	encanador	person who fixes pipes and water systems
 707	robberies	assaltos / roubos	crimes involving stealing
 708	scrambled	embaralhado / mexido / escalou	mixed up, rushed, or cooked eggs style
+709	bare essentials	o essencial mínimo	only the most necessary things
+710	memorable	memorável	worth remembering
+711	compass	bússola	tool used for navigation
+712	ridesharing	compartilhamento de viagens	service where people share rides
+713	spoons	colheres	eating utensils for soup or food
+714	townhouse	casa geminada	house connected to neighboring houses
+715	nosy	intrometido	too interested in other people's business
+716	mow	cortar (grama)	cut grass with a mower
+717	lawn	gramado	area of grass around a house
+718	warm up	aquecer	become warmer or prepare for activity
+719	feather	pena	soft covering from a bird
+720	soothe	acalmar / aliviar	make someone feel calmer or less painful
+721	bathe	tomar banho / banhar	wash yourself or someone in water
+722	truthful	honesto / verdadeiro	telling the truth
+723	worthless	sem valor	having no value or usefulness
+727	myth	mito	traditional story, often not historically true
+728	foothill	sopé da montanha	low hill at the base of a mountain
+729	lighthearted	descontraído / leve	cheerful and not serious
+730	wool	lã	soft fiber from sheep
+731	youthful	jovem / jovial	looking or feeling young
+732	shook	sacudiu	past of shake
+733	mat	tapete pequeno / capacho	piece of material placed on the floor
+734	drums	tambores / bateria	percussion musical instruments
+735	feathers	penas	soft covering of birds

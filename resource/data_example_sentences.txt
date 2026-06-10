@@ -5797,3 +5797,243 @@ id	vocab_id	sentence
 5956	708	The players scrambled for the ball.
 5957	708	He scrambled over the rocks.
 5958	708	The message was scrambled.
+5959	709	We packed only the bare essentials.
+5960	709	The cabin contained the bare essentials.
+5961	709	For the trip, bring only the bare essentials.
+5962	709	The apartment has the bare essentials.
+5963	709	They survived with the bare essentials.
+5964	709	He moved in with the bare essentials.
+5965	709	The emergency kit includes the bare essentials.
+5966	709	She bought only the bare essentials.
+5967	709	The room was furnished with the bare essentials.
+5968	709	We focused on the bare essentials.
+5969	710	It was a memorable vacation.
+5970	710	She gave a memorable speech.
+5971	710	That was a memorable day.
+5972	710	The concert was memorable.
+5973	710	He had a memorable experience.
+5974	710	The movie had a memorable ending.
+5975	710	Their wedding was memorable.
+5976	710	It was a memorable moment.
+5977	710	The trip became memorable.
+5978	710	She created a memorable impression.
+5979	711	The compass pointed north.
+5980	711	He carried a compass while hiking.
+5981	711	The compass helped us navigate.
+5982	711	She checked the compass frequently.
+5983	711	A compass is useful in the wilderness.
+5984	711	The compass needle moved slightly.
+5985	711	They used a compass and a map.
+5986	711	The compass was accurate.
+5987	711	He learned how to use a compass.
+5988	711	The compass guided them home.
+5989	712	Ridesharing is popular in big cities.
+5990	712	She uses ridesharing to get to work.
+5991	712	The ridesharing app was easy to use.
+5992	712	They saved money through ridesharing.
+5993	712	Ridesharing reduced travel costs.
+5994	712	He prefers ridesharing over driving.
+5995	712	The company offers ridesharing services.
+5996	712	Ridesharing helps reduce traffic.
+5997	712	Many commuters use ridesharing.
+5998	712	Ridesharing is convenient for travelers.
+5999	713	The spoons are in the drawer.
+6000	713	She washed the spoons after dinner.
+6001	713	We need more spoons for dessert.
+6002	713	The spoons were made of silver.
+6003	713	He dropped the spoons.
+6004	713	The child counted the spoons.
+6005	713	They bought new spoons.
+6006	713	The spoons matched the cutlery set.
+6007	713	She polished the spoons.
+6008	713	The spoons were neatly arranged.
+6009	714	They bought a townhouse near downtown.
+6010	714	The townhouse has three bedrooms.
+6011	714	She lives in a modern townhouse.
+6012	714	The townhouse shares walls with its neighbors.
+6013	714	We visited a beautiful townhouse.
+6014	714	The townhouse has a small backyard.
+6015	714	He rented a townhouse last year.
+6016	714	The townhouse is in a quiet neighborhood.
+6017	714	They renovated the old townhouse.
+6018	714	The townhouse was listed for sale.
+6019	715	My neighbor is very nosy.
+6020	715	Don't be so nosy.
+6021	715	She asked a nosy question.
+6022	715	He is too nosy about other people's lives.
+6023	715	The reporter seemed nosy.
+6024	715	Her nosy behavior annoyed everyone.
+6025	715	They have a nosy coworker.
+6026	715	The child became nosy about the surprise.
+6027	715	Being nosy can cause problems.
+6028	715	She sounded a bit nosy.
+6029	716	He needs to mow the lawn.
+6030	716	She mows the grass every week.
+6031	716	They hired someone to mow the yard.
+6032	716	I will mow the lawn tomorrow.
+6033	716	He learned how to mow safely.
+6034	716	The machine can mow large areas.
+6035	716	She finished mowing before lunch.
+6036	716	They mow the field regularly.
+6037	716	He forgot to mow the backyard.
+6038	716	We need to mow the grass.
+6039	717	The lawn is freshly cut.
+6040	717	Children played on the lawn.
+6041	717	He watered the lawn.
+6042	717	The lawn looks healthy.
+6043	717	Leaves covered the lawn.
+6044	717	They sat on the lawn.
+6045	717	The lawn needs mowing.
+6046	717	She planted flowers near the lawn.
+6047	717	The dog ran across the lawn.
+6048	717	The lawn was green and neat.
+6049	718	Let's warm up before exercising.
+6050	718	He warmed up by jogging.
+6051	718	The soup will warm up quickly.
+6052	718	She needs time to warm up to new people.
+6053	718	The room began to warm up.
+6054	718	They warmed up before the game.
+6055	718	I'll warm up the leftovers.
+6056	718	The audience started to warm up.
+6057	718	He did stretches to warm up.
+6058	718	The weather will warm up tomorrow.
+6059	719	A feather floated through the air.
+6060	719	The bird lost a feather.
+6061	719	She found a feather on the ground.
+6062	719	The feather was soft.
+6063	719	He collected colorful feathers.
+6064	719	The hat had a feather.
+6065	719	A white feather landed nearby.
+6066	719	The feather drifted slowly.
+6067	719	The feather came from a duck.
+6068	719	The child kept the feather.
+6069	720	The music helped soothe her.
+6070	720	She tried to soothe the baby.
+6071	720	A warm bath can soothe sore muscles.
+6072	720	He spoke softly to soothe their fears.
+6073	720	The medicine helped soothe the pain.
+6074	720	The teacher soothed the nervous student.
+6075	720	The sound of rain can soothe people.
+6076	720	She used lotion to soothe her skin.
+6077	720	He tried to soothe the angry customer.
+6078	720	The gentle voice soothed the child.
+6079	721	The baby likes to bathe before bed.
+6080	721	She bathed the dog.
+6081	721	They bathe in the river.
+6082	721	He likes to bathe in warm water.
+6083	721	The children bathed at the beach.
+6084	721	She bathed after the workout.
+6085	721	I need to bathe the cat.
+6086	721	They bathed in the lake.
+6087	721	He bathed the wound carefully.
+6088	721	She bathed the child gently.
+6089	722	She gave a truthful answer.
+6090	722	He is always truthful.
+6091	722	A truthful witness is important.
+6092	722	They appreciated her truthful response.
+6093	722	Being truthful builds trust.
+6094	722	The report was truthful.
+6095	722	He remained truthful during the interview.
+6096	722	She is known for being truthful.
+6097	722	The child was truthful about what happened.
+6098	722	A truthful statement can prevent problems.
+6099	723	The broken toy was worthless.
+6100	723	He felt the old coupon was worthless.
+6101	723	The fake ticket was worthless.
+6102	723	The damaged item became worthless.
+6103	723	She considered the advice worthless.
+6104	723	The stock became nearly worthless.
+6105	723	Without evidence, the claim was worthless.
+6106	723	The paper was worthless after getting wet.
+6107	723	He threw away the worthless object.
+6108	723	The worthless product disappointed customers.
+6139	727	The story is just a myth.
+6140	727	Many cultures have creation myths.
+6141	727	The myth was passed down for generations.
+6142	727	People believed the myth for centuries.
+6143	727	The book explores an ancient myth.
+6144	727	That idea is a common myth.
+6145	727	The myth features powerful gods.
+6146	727	She enjoys reading about myths.
+6147	727	The legend became a myth.
+6148	727	The myth explained natural events.
+6149	728	The village lies in the foothills.
+6150	728	They hiked through the foothills.
+6151	728	A river flows near the foothill.
+6152	728	The farm is located in a foothill region.
+6153	728	The road winds around the foothills.
+6154	728	Wild animals live in the foothills.
+6155	728	The foothill was covered with trees.
+6156	728	They camped near the foothill.
+6157	728	The foothills lead up to the mountains.
+6158	728	The foothill landscape was beautiful.
+6159	729	The movie was lighthearted and funny.
+6160	729	She made a lighthearted joke.
+6161	729	The conversation stayed lighthearted.
+6162	729	He has a lighthearted personality.
+6163	729	They enjoyed a lighthearted evening.
+6164	729	The article takes a lighthearted approach.
+6165	729	Her comments were lighthearted.
+6166	729	The play was lighthearted and entertaining.
+6167	729	He remained lighthearted despite the stress.
+6168	729	The event had a lighthearted atmosphere.
+6169	730	The sweater is made of wool.
+6170	730	She bought a wool blanket.
+6171	730	The sheep produce wool.
+6172	730	Wool keeps you warm in winter.
+6173	730	He wore a wool coat.
+6174	730	The wool felt soft.
+6175	730	They sell wool products.
+6176	730	She knitted with wool.
+6177	730	The wool hat was comfortable.
+6178	730	Wool is a natural material.
+6179	731	She has a youthful appearance.
+6180	731	He remains youthful at heart.
+6181	731	The actor has a youthful smile.
+6182	731	Her energy is youthful.
+6183	731	The design has a youthful style.
+6184	731	He looked surprisingly youthful.
+6185	731	The brand targets a youthful audience.
+6186	731	She maintained a youthful attitude.
+6187	731	His youthful enthusiasm inspired others.
+6188	731	The outfit gave her a youthful look.
+6189	732	The earthquake shook the building.
+6190	732	He shook my hand.
+6191	732	She shook her head.
+6192	732	The news shook everyone.
+6193	732	He shook the bottle before opening it.
+6194	732	They shook with laughter.
+6195	732	The loud noise shook the windows.
+6196	732	She shook the dust from the rug.
+6197	732	The experience shook his confidence.
+6198	732	He shook the tree gently.
+6199	733	The cat slept on the mat.
+6200	733	She wiped her shoes on the mat.
+6201	733	The yoga mat is blue.
+6202	733	He placed the mat by the door.
+6203	733	The mat was dirty.
+6204	733	They bought a new mat.
+6205	733	The welcome mat looked worn.
+6206	733	She rolled up the mat.
+6207	733	The mat protected the floor.
+6208	733	The dog lay on the mat.
+6209	734	He plays the drums in a band.
+6210	734	The drums were very loud.
+6211	734	She bought a new set of drums.
+6212	734	The sound of drums filled the room.
+6213	734	The drummer hit the drums hard.
+6214	734	Children learned to play drums.
+6215	734	The drums added energy to the song.
+6216	734	They heard drums in the distance.
+6217	734	The festival featured traditional drums.
+6218	734	The drums echoed through the hall.
+6219	735	The bird has colorful feathers.
+6220	735	She collected feathers from the beach.
+6221	735	The feathers floated in the wind.
+6222	735	The pillow is filled with feathers.
+6223	735	They found feathers on the ground.
+6224	735	The feathers were soft to touch.
+6225	735	The bird spread its feathers.
+6226	735	The costume was decorated with feathers.
+6227	735	Feathers covered the nest.
+6228	735	The feathers shined in the sunlight.
