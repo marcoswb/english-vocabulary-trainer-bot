@@ -597,3 +597,33 @@ id	word	meaning	hint
 733	mat	tapete pequeno / capacho	piece of material placed on the floor
 734	drums	tambores / bateria	percussion musical instruments
 735	feathers	penas	soft covering of birds
+736	perches	pousa / empoleira	sits on a high place (bird)
+737	fork	garfo	eating utensil with prongs
+738	salt	sal	common seasoning for food
+739	chatted	conversou	talked casually
+740	hang on	espere / segure	wait or hold tightly
+741	hang back	recuar / ficar para trás	stay behind or hesitate
+742	hang up	desligar / pendurar	end a call or place something on a hook
+743	hang around	ficar por perto	spend time in a place without a purpose
+744	hang in there	aguente firme	don’t give up during difficulties
+745	ape	símio / macaco antropoide	large primate similar to humans
+746	rare	raro	not common or hard to find
+747	y’all	vocês (informal, sul dos EUA)	short form of "you all"
+748	ain’t	não é / não está / não tem (informal)	very informal negative contraction
+749	soda	refrigerante	sweet carbonated drink
+750	sneakers	tênis	casual sports shoes
+751	treasures	tesouros	valuable or precious items
+752	dealers	comerciantes / revendedores	people who buy and sell goods
+753	skirts	saias	clothing worn from the waist down
+754	shelf	prateleira	flat surface for holding objects
+755	clerk	atendente / escriturário	person who works in a store or office
+756	intended	pretendido / planejado	meant or planned for a purpose
+760	sprain	entorse	injury caused by twisting a joint
+761	inhabitants	habitantes	people or animals living in a place
+762	beetle	besouro	insect with a hard shell
+763	sway	balançar / influenciar	move gently side to side or affect opinions
+764	trap	armadilha	device used to catch something
+765	snare	laço / armadilha de fio	trap made from a loop, often wire
+766	cough	tosse	force air out of your throat
+767	pumpkin	abóbora	large orange vegetable
+768	peas	ervilhas	small round green vegetables
