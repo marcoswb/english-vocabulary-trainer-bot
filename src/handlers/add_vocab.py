@@ -95,9 +95,67 @@ class AddVocab(BaseHandler):
             elif response_user == 'Cancelar':
                 await cls.send_message(update, context, 'Cancelado!\nDigite /vocab para ir para a próxima palavra candidata!')
             elif response_user == 'Significado':
-                pass
+                await cls.question_message(update, context, 'Qual o significado em português dessa palavra/expressão?', AddVocab.confirm_translation)
             elif response_user == 'Definição':
-                pass
+                await cls.question_message(update, context, 'Qual a definição da palavra/expressão?', AddVocab.confirm_hint)
+        except Exception as error:
+            await cls.send_error(update, context, error, sys.exc_info())
+
+    @classmethod
+    async def confirm_translation(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, portuguese_word: str):
+        try:
+            portuguese_word = str(portuguese_word).upper()
+            if not portuguese_word:
+                await cls.question_message(update, context, 'Digite o significado da palavra/expressão corretamente!', AddVocab.confirm_translation)
+                return
+
+            cls.storage_info(context, 'portuguese_word', portuguese_word)
+
+            english_word = cls.get_info_storage(context, 'english_word')
+            hint_word = cls.get_info_storage(context, 'hint_word')
+            examples = cls.get_info_storage(context, 'sentence_examples')
+
+            message = f"Palavra: '<strong>{english_word}</strong>'\n"
+            message += f"Significado: '<strong>{portuguese_word}</strong>'\n"
+            message += f"Definição: '<strong>{hint_word}</strong>'\n\n"
+            message += "Exemplos:\n"
+
+            for index, example in enumerate(examples):
+                message += f"<strong>{str(index + 1)}.</strong> {example}\n"
+
+            await cls.send_message(update, context, message)
+
+            options = ['Cadastrar', 'Cancelar', 'Significado', 'Definição']
+            await cls.ask_with_options(update, context, 'Deseja corrigir manualmente alguma informação?', options, AddVocab.confirm_word, sort_options=False)
+        except Exception as error:
+            await cls.send_error(update, context, error, sys.exc_info())
+
+    @classmethod
+    async def confirm_hint(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, hint_word: str):
+        try:
+            hint_word = str(hint_word).upper()
+            if not hint_word:
+                await cls.question_message(update, context, 'Digite o hint da palavra/expressão corretamente!', AddVocab.confirm_hint)
+                return
+
+            cls.storage_info(context, 'hint_word', hint_word)
+
+            english_word = cls.get_info_storage(context, 'english_word')
+            portuguese_word = cls.get_info_storage(context, 'portuguese_word')
+            examples = cls.get_info_storage(context, 'sentence_examples')
+
+            message = f"Palavra: '<strong>{english_word}</strong>'\n"
+            message += f"Significado: '<strong>{portuguese_word}</strong>'\n"
+            message += f"Definição: '<strong>{hint_word}</strong>'\n\n"
+            message += "Exemplos:\n"
+
+            for index, example in enumerate(examples):
+                message += f"<strong>{str(index + 1)}.</strong> {example}\n"
+
+            await cls.send_message(update, context, message)
+
+            options = ['Cadastrar', 'Cancelar', 'Significado', 'Definição']
+            await cls.ask_with_options(update, context, 'Deseja corrigir manualmente alguma informação?', options, AddVocab.confirm_word, sort_options=False)
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
 
