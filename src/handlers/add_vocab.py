@@ -29,7 +29,7 @@ class AddVocab(BaseHandler):
             cls.words_to_process = words.copy()
             english_word = words[cls.current_index]['word']
 
-            await cls.ask_confirm(update, context, f'Deseja add <strong>"{english_word}"</strong> ao vocabulario?', AddVocab.check_word)
+            await cls.ask_confirm(update, context, f"Deseja add <strong>'{english_word}'</strong> ao vocabulario?", AddVocab.check_word)
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
 
@@ -46,7 +46,7 @@ class AddVocab(BaseHandler):
                     return
 
                 english_word = cls.words_to_process[cls.current_index]['word']
-                await cls.ask_confirm(update, context, f'Deseja adicionar <strong>"{english_word}"</strong> ao vocabulario?', AddVocab.check_word)
+                await cls.ask_confirm(update, context, f"Deseja adicionar <strong>'{english_word}'</strong> ao vocabulario?", AddVocab.check_word)
                 return
 
             english_word = cls.words_to_process[cls.current_index]['word']
@@ -71,67 +71,33 @@ class AddVocab(BaseHandler):
             cls.storage_info(context, 'english_word', english_word)
             cls.storage_info(context, 'portuguese_word', portuguese_word)
             cls.storage_info(context, 'hint_word', hint_word)
+            for sentence in examples:
+                cls.append_in_storage(context, 'sentence_examples', sentence)
+
             await cls.send_message(update, context, message)
 
-            await cls.ask_confirm(update, context, 'Deseja corrigir manualmente alguma informação?', AddVocab.confirm_word)
+            options = ['Cadastrar', 'Cancelar', 'Significado', 'Definição']
+            await cls.ask_with_options(update, context, 'Deseja corrigir manualmente alguma informação?', options, AddVocab.confirm_word, sort_options=False)
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
 
     @classmethod
-    async def confirm_word(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, portuguese_word: str):
+    async def confirm_word(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, response_user: str):
         try:
-            portuguese_word = str(portuguese_word).upper()
-            if not portuguese_word:
-                await cls.finish(update, context, 'Digite o significado da palavra/expressão corretamente!')
-                return
-
-            cls.storage_info(context, 'portuguese_word', portuguese_word)
-            await cls.question_message(update, context, 'Digite a definição da palavra/expressão', AddVocab.get_hint)
+            if response_user == 'Cadastrar':
+                await cls.save_word(update, context)
+            elif response_user == 'Cancelar':
+                await cls.send_message(update, context, 'Cancelado!\nDigite /vocab para ir para a próxima palavra candidata!')
+            elif response_user == 'Significado':
+                pass
+            elif response_user == 'Definição':
+                pass
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
 
     @classmethod
-    async def get_hint(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, hint_word: str):
+    async def save_word(cls, update: Update, context: ContextTypes.DEFAULT_TYPE):
         try:
-            hint_word = str(hint_word).upper()
-            if not hint_word:
-                await cls.finish(update, context, 'Digite o hint da palavra/expressão corretamente!')
-                return
-
-            cls.storage_info(context, 'hint_word', hint_word)
-            await cls.question_message(update, context, 'Digite uma frase de exemplo', AddVocab.get_examples)
-        except Exception as error:
-            await cls.send_error(update, context, error, sys.exc_info())
-
-    @classmethod
-    async def get_examples(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, sentence_example: str):
-        try:
-            sentence_example = str(sentence_example).upper()
-            if sentence_example == 'FIM':
-                english_word = cls.get_info_storage(context, 'english_word')
-                portuguese_word = cls.get_info_storage(context, 'portuguese_word')
-                sentence_examples = cls.get_info_storage(context, 'sentence_examples')
-                if not sentence_examples:
-                    await cls.question_message(update, context, 'Digite uma frase de exemplo', AddVocab.get_examples)
-                else:
-                    message = f"Inglês: '<strong>{english_word}</strong>'\n"
-                    message += f"Português: '<strong>{portuguese_word}</strong>'\n\n"
-                    message += "Confirma o cadastro da palavra?"
-
-                    await cls.ask_confirm(update, context, message, AddVocab.save_word)
-            else:
-                cls.append_in_storage(context, 'sentence_examples', sentence_example)
-                await cls.question_message(update, context, "Digite uma frase de exemplo ou digite 'fim' para salvar os dados!", AddVocab.get_examples)
-        except Exception as error:
-            await cls.send_error(update, context, error, sys.exc_info())
-
-    @classmethod
-    async def save_word(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, confirm_response: str):
-        try:
-            if confirm_response == 'no':
-                await cls.finish(update, context, 'Processo encerrado!')
-                return
-
             english_word = cls.get_info_storage(context, 'english_word')
             portuguese_word = cls.get_info_storage(context, 'portuguese_word')
             hint_word = cls.get_info_storage(context, 'hint_word')
@@ -150,6 +116,7 @@ class AddVocab(BaseHandler):
                 sentence_model.connect()
                 sentence_model.insert_line(sentence, id_word)
 
-            await cls.finish(update, context, 'Dados salvos com sucesso!')
+            cls.candidate_words.remove_word(english_word)
+            await cls.finish(update, context, 'Dados salvos com sucesso!\nDigite /vocab para adicionar mais palavras ao vocabulário!')
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
