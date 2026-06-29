@@ -52,13 +52,19 @@ class AddVocab(BaseHandler):
             english_word = cls.words_to_process[cls.current_index]['word']
 
             infos_api = get_meaning_data_api(english_word)
-            hint_word = infos_api.get('meaning', 'Sem definição')
+            hint_word = infos_api.get('meaning', None)
 
             examples = infos_api.get('examples', [])
             examples.extend(cls.candidate_words.get_candidates_sentences(english_word))
 
             llm_infos = get_complement_data_llm(english_word, hint_word, examples)
             portuguese_word = llm_infos.get('portuguese_translation', 'Sem tradução')
+
+            if not hint_word:
+                hint_word = llm_infos.get('short_hint', None)
+
+            if not examples:
+                examples = llm_infos.get('examples', [])
 
             message = f"Palavra: '<strong>{english_word}</strong>'\n"
             message += f"Significado: '<strong>{portuguese_word}</strong>'\n"
@@ -117,6 +123,6 @@ class AddVocab(BaseHandler):
                 sentence_model.insert_line(sentence, id_word)
 
             cls.candidate_words.remove_word(english_word)
-            await cls.finish(update, context, 'Dados salvos com sucesso!\nDigite /vocab para adicionar mais palavras ao vocabulário!')
+            await cls.send_message(update, context, 'Dados salvos com sucesso!\nDigite /vocab para adicionar mais palavras ao vocabulário!')
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())

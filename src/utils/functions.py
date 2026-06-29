@@ -68,6 +68,7 @@ def get_complement_data_llm(word, meaning, examples):
         portuguese_translation: str
         short_hint: str
         cefr_level: str
+        examples: list[str]
 
     result_data = {}
     try:
@@ -87,9 +88,10 @@ def get_complement_data_llm(word, meaning, examples):
         
         Return JSON only with:
         
-        - portuguese_translation
-        - short_hint
-        - cefr_level
+        - portuguese_translation(Portuguese translation of the word)
+        - short_hint(A short hint or definition of the word in English)
+        - cefr_level(The CEFR level of the word, e.g., A1, A2, B1, B2, C1, C2)
+        - examples(An array of example sentences using the word, if available, max 5 sentences)
         """
 
         client = genai.Client()
