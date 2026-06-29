@@ -6037,3 +6037,303 @@ id	vocab_id	sentence
 6226	735	The costume was decorated with feathers.
 6227	735	Feathers covered the nest.
 6228	735	The feathers shined in the sunlight.
+6229	736	The bird perches on the branch.
+6230	736	A hawk perches on the fence.
+6231	736	The owl perches quietly at night.
+6232	736	The parrot perches near the window.
+6233	736	A sparrow perches on the roof.
+6234	736	The eagle perches high above.
+6235	736	The bird perches on a wire.
+6236	736	A crow perches on the tree.
+6237	736	The robin perches beside the feeder.
+6238	736	The falcon perches on the cliff.
+6239	737	He used a fork to eat pasta.
+6240	737	The fork fell on the floor.
+6241	737	She picked up a fork.
+6242	737	The fork is in the drawer.
+6243	737	He washed the fork after dinner.
+6244	737	The restaurant provided a clean fork.
+6245	737	She placed the fork beside the plate.
+6246	737	The silver fork looked elegant.
+6247	737	He grabbed a fork and knife.
+6248	737	The fork was slightly bent.
+6249	738	Please pass the salt.
+6250	738	She added salt to the soup.
+6251	738	Too much salt can ruin the dish.
+6252	738	The recipe requires a pinch of salt.
+6253	738	He sprinkled salt on the fries.
+6254	738	The salt container was empty.
+6255	738	Sea salt has a distinct flavor.
+6256	738	They bought a bag of salt.
+6257	738	The cook reduced the amount of salt.
+6258	738	Salt helps preserve food.
+6259	739	We chatted for hours.
+6260	739	She chatted with her friend.
+6261	739	They chatted during lunch.
+6262	739	He chatted about work.
+6263	739	The neighbors chatted outside.
+6264	739	She chatted online with classmates.
+6265	739	They chatted while waiting.
+6266	739	He chatted with the cashier.
+6267	739	We chatted about our plans.
+6268	739	The group chatted after the meeting.
+6269	740	Hang on for a moment.
+6270	740	Please hang on while I check.
+6271	740	Hang on tight during the ride.
+6272	740	I told him to hang on.
+6273	740	Hang on, I'm almost ready.
+6274	740	She asked me to hang on.
+6275	740	Hang on to your ticket.
+6276	740	The child had to hang on tightly.
+6277	740	Hang on while the page loads.
+6278	740	Just hang on a little longer.
+6279	741	He tends to hang back in meetings.
+6280	741	She hung back while others spoke.
+6281	741	Don't hang back from opportunities.
+6282	741	They hung back near the entrance.
+6283	741	He decided to hang back and observe.
+6284	741	Some students hang back after class.
+6285	741	She hung back because she was nervous.
+6286	741	The team hung back cautiously.
+6287	741	He prefers to hang back in crowds.
+6288	741	They hung back until it was safe.
+6289	742	Please hang up the coat.
+6290	742	She hung up the phone.
+6291	742	He forgot to hang up.
+6292	742	I'll call back if you hang up.
+6293	742	She hung up abruptly.
+6294	742	He hung up his jacket.
+6295	742	Don't hang up yet.
+6296	742	The picture was hung up on the wall.
+6297	742	She told him not to hang up.
+6298	742	He quickly hung up the phone.
+6299	743	We hung around the park.
+6300	743	Don't hang around after work.
+6301	743	They like to hang around together.
+6302	743	He hung around the store.
+6303	743	She hung around waiting for news.
+6304	743	The kids hung around outside.
+6305	743	We hung around for a while.
+6306	743	He often hangs around that café.
+6307	743	They hung around after the event.
+6308	743	She didn't want to hang around all day.
+6309	744	Hang in there, things will improve.
+6310	744	I told her to hang in there.
+6311	744	Hang in there during tough times.
+6312	744	He kept saying, "Hang in there."
+6313	744	Hang in there, you're almost done.
+6314	744	She encouraged him to hang in there.
+6315	744	Hang in there and keep trying.
+6316	744	We all need to hang in there sometimes.
+6317	744	Hang in there despite the challenges.
+6318	744	Just hang in there a little longer.
+6319	745	The ape climbed the tree.
+6320	745	We saw an ape at the zoo.
+6321	745	The ape used a tool.
+6322	745	The ape moved quickly through the forest.
+6323	745	The young ape stayed near its mother.
+6324	745	The ape grabbed a piece of fruit.
+6325	745	Scientists study ape behavior.
+6326	745	The ape looked very intelligent.
+6327	745	The ape swung from branch to branch.
+6328	745	The ape lived in a protected habitat.
+6329	746	This bird is very rare.
+6330	746	It's rare to see snow here.
+6331	746	She has a rare talent.
+6332	746	The coin is rare and valuable.
+6333	746	Such opportunities are rare.
+6334	746	He suffers from a rare condition.
+6335	746	A rare flower grows in this region.
+6336	746	That mistake is rare.
+6337	746	They found a rare species.
+6338	746	It's rare for him to be late.
+6339	747	Y’all are welcome to join us.
+6340	747	Where are y’all going?
+6341	747	Did y’all enjoy the trip?
+6342	747	I'm glad y’all came.
+6343	747	What do y’all think?
+6344	747	Y’all should try this restaurant.
+6345	747	Are y’all ready?
+6346	747	I'll see y’all tomorrow.
+6347	747	Y’all did a great job.
+6348	747	How have y’all been?
+6349	748	He ain't ready yet.
+6350	748	She ain't coming today.
+6351	748	It ain't easy.
+6352	748	That ain't true.
+6353	748	I ain't worried about it.
+6354	748	They ain't here yet.
+6355	748	This ain't what I expected.
+6356	748	We ain't finished.
+6357	748	He ain't interested.
+6358	748	She ain't feeling well.
+6359	749	I ordered a soda with my meal.
+6360	749	She drank a cold soda.
+6361	749	The soda was too sweet.
+6362	749	He bought a can of soda.
+6363	749	They serve soda at the party.
+6364	749	The soda spilled on the table.
+6365	749	She prefers water to soda.
+6366	749	I opened a bottle of soda.
+6367	749	The soda was refreshing.
+6368	749	He stopped drinking soda.
+6369	750	She bought new sneakers yesterday.
+6370	750	His sneakers are very comfortable.
+6371	750	The sneakers were covered in mud.
+6372	750	I wear sneakers to the gym.
+6373	750	Her white sneakers look clean.
+6374	750	He tied his sneakers before running.
+6375	750	The store sells sports sneakers.
+6376	750	My sneakers are worn out.
+6377	750	They compared different sneakers.
+6378	750	The sneakers matched his outfit.
+6379	751	The museum displays ancient treasures.
+6380	751	Pirates searched for hidden treasures.
+6381	751	The cave contained valuable treasures.
+6382	751	She considers her family her greatest treasures.
+6383	751	They discovered treasures underwater.
+6384	751	The king protected his treasures.
+6385	751	The treasures were made of gold.
+6386	751	Explorers found lost treasures.
+6387	751	The treasures attracted many visitors.
+6388	751	The treasures were carefully preserved.
+6389	752	The car dealers offered discounts.
+6390	752	Several dealers attended the event.
+6391	752	The dealers negotiated prices.
+6392	752	Art dealers visited the gallery.
+6393	752	The dealers displayed their products.
+6394	752	Many dealers compete for customers.
+6395	752	The dealers met with buyers.
+6396	752	Experienced dealers understand the market.
+6397	752	The dealers exchanged information.
+6398	752	The dealers closed several sales.
+6399	753	She bought two new skirts.
+6400	753	The skirts were displayed in the window.
+6401	753	Long skirts are popular this season.
+6402	753	The store sells colorful skirts.
+6403	753	She prefers skirts over pants.
+6404	753	The skirts were made of cotton.
+6405	753	They compared different skirts.
+6406	753	The skirts matched the jackets.
+6407	753	Many skirts were on sale.
+6408	753	The skirts looked elegant.
+6409	754	The book is on the shelf.
+6410	754	She placed the vase on the shelf.
+6411	754	The shelf is made of wood.
+6412	754	He cleaned the shelf.
+6413	754	The shelf holds many books.
+6414	754	The shelf broke under the weight.
+6415	754	She reached for the top shelf.
+6416	754	The shelf was neatly organized.
+6417	754	They installed a new shelf.
+6418	754	The shelf stood against the wall.
+6419	755	The clerk helped the customer.
+6420	755	She works as a clerk.
+6421	755	The clerk printed the receipt.
+6422	755	He asked the clerk for directions.
+6423	755	The clerk answered my questions.
+6424	755	The store clerk was friendly.
+6425	755	The clerk processed the payment.
+6426	755	She spoke with the clerk.
+6427	755	The clerk organized the documents.
+6428	755	The clerk greeted everyone warmly.
+6429	756	The gift was intended for her.
+6430	756	He intended to call yesterday.
+6431	756	The message was intended to help.
+6432	756	She intended no harm.
+6433	756	The project achieved its intended goal.
+6434	756	They intended to arrive early.
+6435	756	The change was intended to improve performance.
+6436	756	He intended to finish the work.
+6437	756	The book was intended for beginners.
+6438	756	The result was not what they intended.
+6469	760	He suffered a sprain while playing soccer.
+6470	760	She has a sprained ankle.
+6471	760	The doctor examined the sprain.
+6472	760	A sprain can take weeks to heal.
+6473	760	He rested after the sprain.
+6474	760	The sprain caused swelling.
+6475	760	She wore a brace because of the sprain.
+6476	760	The athlete recovered from the sprain.
+6477	760	A minor sprain still hurts.
+6478	760	They treated the sprain with ice.
+6479	761	The island has few inhabitants.
+6480	761	The inhabitants welcomed the visitors.
+6481	761	Many inhabitants work in fishing.
+6482	761	The inhabitants left the village.
+6483	761	The city's inhabitants increased over time.
+6484	761	The inhabitants depend on tourism.
+6485	761	Local inhabitants know the area well.
+6486	761	The inhabitants celebrated the festival.
+6487	761	The inhabitants rebuilt their homes.
+6488	761	The inhabitants shared their traditions.
+6489	762	A beetle crawled across the leaf.
+6490	762	The child found a shiny beetle.
+6491	762	The beetle hid under a rock.
+6492	762	Some beetles can fly.
+6493	762	The beetle moved slowly.
+6494	762	Scientists studied the beetle species.
+6495	762	The beetle has a hard shell.
+6496	762	A colorful beetle landed nearby.
+6497	762	The bird ate the beetle.
+6498	762	The beetle disappeared into the grass.
+6499	763	The trees sway in the wind.
+6500	763	Her opinion may sway the decision.
+6501	763	The bridge began to sway slightly.
+6502	763	He watched the grass sway.
+6503	763	The crowd started to sway with the music.
+6504	763	The speech helped sway voters.
+6505	763	The boat began to sway gently.
+6506	763	She tried to sway his opinion.
+6507	763	The branches sway during storms.
+6508	763	The dancers sway to the rhythm.
+6509	764	The hunter set a trap.
+6510	764	The mouse escaped the trap.
+6511	764	They fell into a trap.
+6512	764	The trap was hidden well.
+6513	764	He built a trap for rabbits.
+6514	764	The trap caught nothing.
+6515	764	The game includes many traps.
+6516	764	She avoided the trap.
+6517	764	The trap closed quickly.
+6518	764	It was a clever trap.
+6519	765	The rabbit was caught in a snare.
+6520	765	They discovered a snare in the forest.
+6521	765	The hunter set a snare.
+6522	765	The animal escaped the snare.
+6523	765	The snare was hidden among bushes.
+6524	765	He removed the snare carefully.
+6525	765	The snare injured the animal.
+6526	765	The ranger found an illegal snare.
+6527	765	The fox avoided the snare.
+6528	765	The snare was made of wire.
+6529	766	He has a bad cough.
+6530	766	She started to cough during the meeting.
+6531	766	The doctor treated his cough.
+6532	766	He couldn't stop coughing.
+6533	766	A dry cough can be annoying.
+6534	766	She covered her mouth when she coughed.
+6535	766	The medicine relieved his cough.
+6536	766	His cough kept him awake.
+6537	766	The child developed a cough.
+6538	766	Please cough into your elbow.
+6539	767	She carved a pumpkin for Halloween.
+6540	767	The pumpkin is growing in the garden.
+6541	767	We made pumpkin soup.
+6542	767	He picked a large pumpkin.
+6543	767	The pumpkin was bright orange.
+6544	767	They baked a pumpkin pie.
+6545	767	The farmer harvested pumpkins.
+6546	767	The pumpkin seeds were roasted.
+6547	767	She decorated the porch with pumpkins.
+6548	767	The pumpkin weighed ten kilograms.
+6549	768	She added peas to the soup.
+6550	768	The children ate their peas.
+6551	768	Frozen peas are easy to cook.
+6552	768	He grows peas in his garden.
+6553	768	The recipe calls for peas and carrots.
+6554	768	The peas were fresh and sweet.
+6555	768	She bought a bag of peas.
+6556	768	They served peas with dinner.
+6557	768	The peas cooked quickly.
+6558	768	We mixed peas into the rice.
