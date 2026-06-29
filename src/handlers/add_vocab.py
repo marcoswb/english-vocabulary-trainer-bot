@@ -7,6 +7,7 @@ from src.database.example_sentence import ExampleSentence
 from src.database.training_state import TrainingState
 from src.database.candidate_words import CandidateWords
 from src.utils.decorator_auth import only_authorized
+from src.utils.functions import get_meaning_data_api, get_complement_data_llm
 
 class AddVocab(BaseHandler):
 
@@ -45,13 +46,34 @@ class AddVocab(BaseHandler):
                     return
 
                 english_word = cls.words_to_process[cls.current_index]['word']
-                await cls.ask_confirm(update, context, f'Deseja add <strong>"{english_word}"</strong> ao vocabulario?', AddVocab.check_word)
+                await cls.ask_confirm(update, context, f'Deseja adicionar <strong>"{english_word}"</strong> ao vocabulario?', AddVocab.check_word)
                 return
-            else:
-                english_word = cls.words_to_process[cls.current_index]['word']
-                cls.storage_info(context, 'english_word', english_word)
 
-                await cls.send_message(update, context, f'Adicionando "<strong>{english_word}</strong>" ao vocabulário.')
+            english_word = cls.words_to_process[cls.current_index]['word']
+
+            infos_api = get_meaning_data_api(english_word)
+            hint_word = infos_api.get('meaning', 'Sem definição')
+
+            examples = infos_api.get('examples', [])
+            examples.extend(cls.candidate_words.get_candidates_sentences(english_word))
+
+            llm_infos = get_complement_data_llm(english_word, hint_word, examples)
+            portuguese_word = llm_infos.get('portuguese_translation', 'Sem tradução')
+
+            message = f"Palavra: '<strong>{english_word}</strong>'\n"
+            message += f"Significado: '<strong>{portuguese_word}</strong>'\n"
+            message += f"Definição: '<strong>{hint_word}</strong>'\n\n"
+            message += "Exemplos:\n"
+
+            for index, example in enumerate(examples):
+                message += f"<strong>{str(index + 1)}.</strong> {example}\n"
+
+            cls.storage_info(context, 'english_word', english_word)
+            cls.storage_info(context, 'portuguese_word', portuguese_word)
+            cls.storage_info(context, 'hint_word', hint_word)
+            await cls.send_message(update, context, message)
+
+            await cls.ask_confirm(update, context, 'Deseja corrigir manualmente alguma informação?', AddVocab.confirm_word)
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
 

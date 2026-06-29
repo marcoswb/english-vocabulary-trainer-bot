@@ -3,3 +3,4 @@ dotenv
 psycopg2
 python-dotenv
 gTTS
+google-genai
