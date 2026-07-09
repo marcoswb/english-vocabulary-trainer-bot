@@ -10,7 +10,6 @@ from telegram.ext import (
 )
 import src.utils.functions as func
 from src.handlers.start_handler import Start
-from src.handlers.add_word_handler import AddWord
 from src.handlers.add_vocab import AddVocab
 from src.handlers.message_response_handler import MessageResponseHandler
 from src.handlers.unknown_handler import Unknown
@@ -20,7 +19,7 @@ async def warn_user():
         bot = Bot(token=func.get_env('TOKEN_BOT'))
         await bot.send_message(
             chat_id=func.get_env('AUTHORIZED_USER_ID'),
-            text='Olá! Seu quiz diário está pronto.\nDigite /start para começar ️\nDigite /add para adicionar uma palavra ao vocabulário.\nDigite /vocab para adicionar palavras candidatas ao vocabulário.'
+            text='Olá! Seu quiz diário está pronto.\nDigite /start para começar \nDigite /vocab para adicionar palavras candidatas ao vocabulário.'
         )
     except Forbidden:
         print(f"Usuário {func.get_env('AUTHORIZED_USER_ID')} bloqueou o bot.")
@@ -29,7 +28,6 @@ def start_quiz():
     application = ApplicationBuilder().token(func.get_env('TOKEN_BOT')).build()
 
     application.add_handler(CommandHandler('start', Start.init))
-    application.add_handler(CommandHandler('add', AddWord.init))
     application.add_handler(CommandHandler('vocab', AddVocab.init))
     application.add_handler(MessageHandler(filters.TEXT, MessageResponseHandler.response_str))
     application.add_handler(CallbackQueryHandler(MessageResponseHandler.response_query))
