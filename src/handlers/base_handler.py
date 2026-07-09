@@ -3,14 +3,21 @@ from telegram.ext import ContextTypes
 
 
 class BaseHandler:
+    invalid_tags = ['h3']
 
     @classmethod
     def get_message(cls, update: Update):
         return ' '.join(update.message.text.split(' ')[1:]).strip()
 
     @classmethod
+    def clean_message(cls, message: str):
+        for tag in cls.invalid_tags:
+            message = message.replace(f'<{tag}>', '').replace(f'</{tag}>', '')
+        return message.strip()
+
+    @classmethod
     async def send_message(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str):
-        await context.bot.send_message(chat_id=update.effective_chat.id, text=message, parse_mode="HTML")
+        await context.bot.send_message(chat_id=update.effective_chat.id, text=cls.clean_message(message), parse_mode="HTML")
 
     @classmethod
     async def send_error(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, error, exec_info):
@@ -21,7 +28,7 @@ class BaseHandler:
         line_number = exc_tb.tb_lineno
         error_message = f'Arquivo: {filename}: {line_number} - "{error}"'
         print(error_message)
-        await context.bot.send_message(chat_id=update.effective_chat.id, text=error_message, parse_mode="HTML")
+        await context.bot.send_message(chat_id=update.effective_chat.id, text=cls.clean_message(error_message), parse_mode="HTML")
 
     @classmethod
     async def question_message(cls, update: Update, context: ContextTypes.DEFAULT_TYPE, message: str, callback_func, voice_mp3=None):
