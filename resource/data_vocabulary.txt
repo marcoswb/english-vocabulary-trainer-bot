@@ -627,3 +627,15 @@ id	word	meaning	hint
 766	cough	tosse	force air out of your throat
 767	pumpkin	abóbora	large orange vegetable
 768	peas	ervilhas	small round green vegetables
+769	include	incluir	To bring into a group, class, set, or total as a (new) part or member.
+770	sightseeing	turismo / passeio turístico	visiting famous places while traveling
+771	snow shovel	pá de neve	tool used to remove snow
+772	snowflake	floco de neve	single crystal of snow
+773	frost	geada / gelo fino	thin layer of ice from cold weather
+774	dew	orvalho	small drops of water on plants in the morning
+775	defence	DEFESA	To furnish with defences; to fortify.
+776	campaign	CAMPANHA	To take part in a campaign.
+777	gang	GANGUE	To go; walk; proceed.
+778	estate	PROPRIEDADE	To give an estate to.
+779	laundry	roupa para lavar / lavanderia	clothes that need washing or have been washed
+780	allowance	mesada / verba	regular amount of money given to someone

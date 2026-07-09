@@ -6337,3 +6337,100 @@ id	vocab_id	sentence
 6556	768	They served peas with dinner.
 6557	768	The peas cooked quickly.
 6558	768	We mixed peas into the rice.
+6559	769	I will purchase the vacation package if you will include car rental.
+6560	769	Does this volume of Shakespeare include his sonnets?
+6561	769	You have to include the strings library to use this function.
+6562	769	Ships being targeted by the U.S. blockade include Iranian vessels and so-called shadow fleet ⁠tankers.
+6563	769	The trial included testimony from multiple accusers and presentation of evidence, including messages, images and videos from Borg Høiby's cellphone.
+6564	769	TBIs include any injury to the brain caused by an external force, such as a fall, car crash or blow to the head.
+6565	770	We went sightseeing in Paris.
+6566	770	Sightseeing is my favorite part of traveling.
+6567	770	They spent the day sightseeing.
+6568	770	She enjoys sightseeing on weekends.
+6569	770	The tour includes sightseeing stops.
+6570	770	We did some sightseeing before dinner.
+6571	770	He took many photos while sightseeing.
+6572	770	Sightseeing can be tiring but fun.
+6573	770	They planned a full day of sightseeing.
+6574	770	The bus is perfect for sightseeing.
+6575	771	He used a snow shovel to clear the driveway.
+6576	771	The snow shovel is in the garage.
+6577	771	She bought a new snow shovel.
+6578	771	The snow shovel made the job easier.
+6579	771	They needed a sturdy snow shovel.
+6580	771	He grabbed the snow shovel after the storm.
+6581	771	The snow shovel broke while clearing ice.
+6582	771	She stored the snow shovel by the door.
+6583	771	Every house had a snow shovel.
+6584	771	The snow shovel helped clear the sidewalk.
+6585	772	A snowflake landed on my glove.
+6586	772	Every snowflake has a unique shape.
+6587	772	The child caught a snowflake.
+6588	772	A single snowflake melted quickly.
+6589	772	The snowflake sparkled in the sunlight.
+6590	772	She watched each snowflake fall.
+6591	772	A snowflake landed on the window.
+6592	772	The snowflake disappeared instantly.
+6593	772	They admired the delicate snowflakes.
+6594	772	The snowflake rested on his coat.
+6595	773	The grass was covered with frost.
+6596	773	Frost formed on the windows overnight.
+6597	773	The morning frost was beautiful.
+6598	773	The frost damaged the plants.
+6599	773	Heavy frost covered the fields.
+6600	773	The car windshield was covered in frost.
+6601	773	Frost made the roads slippery.
+6602	773	The frost melted after sunrise.
+6603	773	The flowers didn't survive the frost.
+6604	773	They expected frost by morning.
+6605	774	The grass was wet with dew.
+6606	774	Morning dew covered the flowers.
+6607	774	The dew sparkled in the sunlight.
+6608	774	The leaves were covered in dew.
+6609	774	The dew disappeared as the sun rose.
+6610	774	She walked through the dew.
+6611	774	The morning dew cooled the plants.
+6612	774	Drops of dew formed on the grass.
+6613	774	The dew reflected the sunrise.
+6614	774	The field glistened with dew.
+6615	775	No overall price tag was revealed on Monday, even though the prime minister touted it as the single biggest defence procurement in Canadian history.
+6616	775	There's concern among defence planners whether Bell Textron Canada Ltd., located out of Mirabel, Que., can refurbish all 82 helicopters.
+6617	776	No overall price tag was revealed on Monday, even though the prime minister touted it as the single biggest defence procurement in Canadian history.
+6618	776	There's concern among defence planners whether Bell Textron Canada Ltd., located out of Mirabel, Que., can refurbish all 82 helicopters.
+6619	776	She campaigned for better social security.
+6620	776	He spoke to As It Happens guest host Karina Roman about how he led the campaign.
+6621	776	So far, more than 20 campaigns have registered, though not all have brought in donations yet.
+6622	776	Advertising spending is capped at $607,000 per campaign, meaning Let Alberta Decide has received roughly a third of the maximum spend.
+6623	776	If contributions continue at the current rate, Wilson said the campaign could reach the maximum within a couple of months.
+6624	776	Carter said the number of donations has been "heartwarming," and has allowed the campaign to put up 40 signs in Calgary.
+6625	777	At his admissibility hearing, he claimed the Bishnoi gang has threatened his family in India because they believe he is working with the police.
+6626	777	Threats, corruption and intimidation: Is the Bishnoi gang calling shots at Cricket Canada?
+6627	777	According to sources, they claimed they represented the Bishnoi gang — a violent criminal group designated a terrorist entity in Canada.
+6628	777	The Bishnoi gang is run from an Indian prison by its namesake, 33-year-old Lawrence Bishnoi.
+6629	777	"Why would any parents send their kids to play this sport where the people on the top level are corrupt and using the gangs to influence the sport?"
+6630	778	At his admissibility hearing, he claimed the Bishnoi gang has threatened his family in India because they believe he is working with the police.
+6631	778	Threats, corruption and intimidation: Is the Bishnoi gang calling shots at Cricket Canada?
+6632	778	According to sources, they claimed they represented the Bishnoi gang — a violent criminal group designated a terrorist entity in Canada.
+6633	778	The Bishnoi gang is run from an Indian prison by its namesake, 33-year-old Lawrence Bishnoi.
+6634	778	"Why would any parents send their kids to play this sport where the people on the top level are corrupt and using the gangs to influence the sport?"
+6635	778	an estate diamond; estate jewelry
+6636	779	I need to do the laundry today.
+6637	779	She folded the laundry after drying it.
+6638	779	The laundry is still in the washing machine.
+6639	779	He carried the laundry upstairs.
+6640	779	We washed the laundry together.
+6641	779	The laundry basket is full.
+6642	779	She hung the laundry outside to dry.
+6643	779	He forgot to take out the laundry.
+6644	779	The clean laundry smelled fresh.
+6645	779	They finished the laundry before dinner.
+6646	780	My parents gave me a weekly allowance.
+6647	780	She saved part of her allowance.
+6648	780	He spends his allowance on books.
+6649	780	The children receive a monthly allowance.
+6650	780	Her allowance increased this year.
+6651	780	He earned an extra allowance by doing chores.
+6652	780	She used her allowance to buy a game.
+6653	780	They discussed their son's allowance.
+6654	780	The allowance teaches children about money.
+6655	780	He put his allowance into a savings account.
