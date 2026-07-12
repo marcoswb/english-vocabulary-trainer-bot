@@ -20,12 +20,13 @@ jobs:
 
       - name: Run quiz script
         env:
-          API_ID: ${{ secrets.TELEGRAM_TOKEN }}
           API_HASH: ${{ secrets.API_HASH }}
-          TOKEN_BOT: ${{ secrets.TOKEN_BOT }}
+          API_ID: ${{ secrets.TELEGRAM_TOKEN }}
+          AUTHORIZED_USER_ID: ${{ secrets.AUTHORIZED_USER_ID }}
           DB_DATABASE: ${{ secrets.DB_DATABASE }}
           DB_HOST: ${{ secrets.DB_HOST }}
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
           DB_USER: ${{ secrets.DB_USER }}
-          AUTHORIZED_USER_ID: ${{ secrets.AUTHORIZED_USER_ID }}
+          TOKEN_BOT: ${{ secrets.TOKEN_BOT }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python main.py
