@@ -26,9 +26,12 @@ class AddVocab(BaseHandler):
                 await cls.finish(update, context, 'Não há palavras candidatas para adicionar ao vocabulário!')
                 return
 
+            if cls.current_index >= len(words):
+                await cls.finish(update, context, 'Não há palavras candidatas para adicionar ao vocabulário!')
+                return
+
             cls.words_to_process = words.copy()
             english_word = words[cls.current_index]['word']
-
             await cls.ask_confirm(update, context, f"Deseja add <strong>'{english_word}'</strong> ao vocabulario?", AddVocab.check_word)
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
