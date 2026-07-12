@@ -66,6 +66,9 @@ class AddVocab(BaseHandler):
             if not examples:
                 examples = llm_infos.get('examples', [])
 
+            if hint_word:
+                hint_word = hint_word[:149]
+
             message = f"Palavra: '<strong>{english_word}</strong>'\n"
             message += f"Significado: '<strong>{portuguese_word}</strong>'\n"
             message += f"Definição: '<strong>{hint_word}</strong>'\n\n"
