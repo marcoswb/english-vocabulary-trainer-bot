@@ -50,6 +50,10 @@ class BaseHandler:
         context.user_data[key].append(value)
 
     @classmethod
+    def clean_storage(cls, context: ContextTypes.DEFAULT_TYPE):
+        context.user_data.clear()
+
+    @classmethod
     def get_info_storage(cls, context: ContextTypes.DEFAULT_TYPE, key: str):
         return context.user_data.get(key)
 

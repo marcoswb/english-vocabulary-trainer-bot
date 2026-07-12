@@ -184,6 +184,7 @@ class AddVocab(BaseHandler):
                 sentence_model.insert_line(sentence, id_word)
 
             cls.candidate_words.remove_word(english_word)
+            cls.clean_storage(context)
             await cls.send_message(update, context, 'Dados salvos com sucesso!\nDigite /vocab para adicionar mais palavras ao vocabulário!')
         except Exception as error:
             await cls.send_error(update, context, error, sys.exc_info())
