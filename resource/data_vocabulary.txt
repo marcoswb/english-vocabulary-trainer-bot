@@ -639,3 +639,60 @@ id	word	meaning	hint
 778	estate	PROPRIEDADE	To give an estate to.
 779	laundry	roupa para lavar / lavanderia	clothes that need washing or have been washed
 780	allowance	mesada / verba	regular amount of money given to someone
+781	threat	ameaça	An expression of intent to injure or punish another.
+782	indictment	acusação formal; indiciamento	An official formal accusation for a criminal offence, or the process by which it is brought to a jury.
+783	wildfire	incêndio florestal	A rapidly spreading fire, especially one occurring in a wildland area.
+784	refund	reembolsar	To return (money) to (someone); to reimburse.
+785	account	conta, relato, descrição, razão	A registry of pecuniary transactions; a written or printed statement of business dealings or debts and credits, and also of other things subjected to
+786	procession	procissão	To take part in a procession.
+787	complaint	reclamação, queixa, doença	The act of complaining.
+788	charge	Encarregar	To assign a duty or responsibility to
+789	allege	ALEGAR	To state under oath, to plead.
+790	whooping	surra	To beat, to strike.
+791	across	Através de, do outro lado de, por toda parte	(crosswords, often in combination) A word that runs horizontally in the completed puzzle grid or its associated clue.
+792	century	século	A period of 100 consecutive years; often specifically a numbered period with conventional start and end dates, e.g., the twentieth century, which str
+793	harvest	colheita / colher	gather crops from the fields
+794	wreath	coroa (de flores ou enfeite)	circular arrangement of flowers or leaves
+795	ranch	operar um rancho, administrar um rancho	To operate a ranch; engage in ranching.
+796	strait	estreito (passagem de água)	To confine; put to difficulties.
+797	brochure	folheto / panfleto	informational booklet or leaflet
+798	run out of	ficar sem	use up all of something
+799	witness	testemunha / testemunhar	person who sees an event or to see something happen
+800	island	ilha	To surround with water; make into an island.
+801	enunciate	enunciar / articular	pronounce words clearly
+802	hurry	pressa / apressar	move or act quickly
+803	roar	rugido / rugir	loud deep sound made by animals or engines
+804	lambs	cordeiros	young sheep
+805	ladders	escadas	portable climbing equipment
+806	ranch house	casa térrea	rural-style house with one floor
+807	barking	latido / latindo	the sound a dog makes
+808	former	anterior, ex-, antigo	Previous.
+809	shift	mudar; turno	(sometimes figurative) To move from one place to another; to redistribute.
+826	outbreak	surto	To burst out.
+827	produce	produzir, gerar, fabricar	To yield, make or manufacture; to generate.
+828	protest	protestar, protesto	To make a strong objection.
+829	target	Alvejar	To aim something, especially a weapon, at (a target).
+830	supply	Fornecer; Suprimento	To provide (something), to make (something) available for use.
+831	furniture	móveis	items such as tables, chairs, and beds
+832	ensure	garantir	make certain that something happens
+833	footage	gravação / filmagem	recorded video
+834	flick	dar um peteleco / movimento rápido	quick light movement with a finger or hand
+835	raincoat	capa de chuva	waterproof coat for rainy weather
+836	picking	colhendo / escolhendo	gathering or selecting something
+837	flying a kite	soltar pipa	playing with a kite in the wind
+838	caterpillar	lagarta	larva that later becomes a butterfly
+839	watering can	regador	container used to water plants
+840	daffodil	narciso	yellow spring flower
+841	umbrella	guarda-chuva	object used to protect from rain
+842	heavy	Pesado; intenso; abundante	(often with "up") To make heavier.
+843	premier	Premiê	To perform, display or exhibit for the first time.
+844	wildberrie	fruto silvestre	A small edible fruit that grows in the wild.
+845	chimney	CHAMINÉ	To negotiate a chimney (narrow vertical cave passage) by pushing against the sides with back, feet, hands, etc.
+846	labour	trabalho, mão de obra, trabalhar, esforçar-se	To toil, to work.
+847	arrest	prender, deter	To stop the motion of (a person or animal).
+854	napkin	guardanapo	cloth or paper used while eating
+855	dusting	tirar o pó	cleaning surfaces by removing dust
+856	scrubbing	esfregar	cleaning by rubbing hard
+857	mopping	passar pano no chão	cleaning a floor with a mop
+858	despite	apesar de, não obstante	To vex; to annoy; to offend contemptuously.
+859	squeeze	apertar / espremer	press something firmly or tightly
