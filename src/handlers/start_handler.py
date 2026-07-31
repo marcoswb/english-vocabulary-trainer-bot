@@ -110,6 +110,7 @@ class Start(BaseHandler):
                             question=sentence,
                             english_word=word,
                             correct_response=formated_word,
+                            hint=line.get('hint'),
                             send_mp3_with_question=True
                         ))
                 elif exercise_type == ExerciseType.LEARNEAD:
@@ -119,6 +120,7 @@ class Start(BaseHandler):
                             question=sentence,
                             english_word=word,
                             correct_response=formated_word,
+                            hint=line.get('hint'),
                             send_mp3_with_question=True
                         ))
                 else:
