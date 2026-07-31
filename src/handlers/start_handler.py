@@ -61,6 +61,7 @@ class Start(BaseHandler):
             for line in training_words:
                 vocab_id = line.get('vocab_id')
                 word = str(line.get('word')).upper()
+                formated_word = str(word).replace("'", "").replace('-', '')
                 streak = line.get('streak')
                 exercise_type = ExerciseType.get_exercise_by_streak(streak)
 
@@ -87,7 +88,7 @@ class Start(BaseHandler):
                             vocab_id=vocab_id,
                             question=sentence,
                             english_word=word,
-                            correct_response=word,
+                            correct_response=formated_word,
                             hint=line.get('hint'),
                             first_word=True,
                             send_mp3_with_question=True
@@ -98,7 +99,7 @@ class Start(BaseHandler):
                             vocab_id=vocab_id,
                             question=sentence,
                             english_word=word,
-                            correct_response=word,
+                            correct_response=formated_word,
                             hint=line.get('hint'),
                             send_mp3_with_question=True
                         ))
@@ -108,7 +109,7 @@ class Start(BaseHandler):
                             vocab_id=vocab_id,
                             question=sentence,
                             english_word=word,
-                            correct_response=word,
+                            correct_response=formated_word,
                             send_mp3_with_question=True
                         ))
                 elif exercise_type == ExerciseType.LEARNEAD:
@@ -117,7 +118,7 @@ class Start(BaseHandler):
                             vocab_id=vocab_id,
                             question=sentence,
                             english_word=word,
-                            correct_response=word,
+                            correct_response=formated_word,
                             send_mp3_with_question=True
                         ))
                 else:
