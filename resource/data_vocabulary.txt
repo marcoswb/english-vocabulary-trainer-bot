@@ -696,3 +696,58 @@ id	word	meaning	hint
 857	mopping	passar pano no chão	cleaning a floor with a mop
 858	despite	apesar de, não obstante	To vex; to annoy; to offend contemptuously.
 859	squeeze	apertar / espremer	press something firmly or tightly
+860	missile	míssil	Any object used as a weapon by being thrown or fired through the air, such as stone, arrow or bullet.
+861	wall	Murar, cercar com muro	To enclose with, or as if with, a wall or walls.
+862	spread	espalhar	To stretch out, open out (a material etc.) so that it more fully covers a given area of space.
+863	pellet	projétil, pelote, bala	To form into pellets.
+864	climber	escalador	One who climbs.
+892	reveal	revelar	To uncover; to show and display that which was hidden.
+893	exposure	exposição	The condition of being exposed, uncovered, or unprotected.
+894	crew	tripulação	To make the shrill sound characteristic of a rooster; to make a sound in this manner, either in gaiety, joy, pleasure, or defiance.
+895	sneeze	espirrar	To suddenly force air out through your nose and mouth, usually because something irritates your nose.
+896	flood	Inundação	To overflow, as by water from excessive rainfall.
+897	guilty	culpado	A plea by a defendant who does not contest a charge.
+898	lift	levantar / erguer	To move something or someone upward, usually using your hands or physical strength.
+899	murder	Assassinar; assassinato	To deliberately kill (a person or persons) without justification, especially with malice aforethought.
+900	rate	Classificar, avaliar, considerar	To assign or be assigned a particular rank or level.
+901	crash	colisão, acidente, bater, cair violentamente	To collide with something destructively, fall or come down violently.
+902	royal	real	A royal person; a member of a royal family.
+903	towards	em direção a	In the direction of.
+904	brand	marca	To burn the flesh with a hot iron, either as a marker (for criminals, slaves etc.) or to cauterise a wound.
+905	beyond	além	The unknown.
+906	worth	que vale a pena, valor	Value.
+907	sailor	marinheiro	A person in the business of navigating ships or other vessels
+925	plague	peste	A highly contagious disease, especially one causing many deaths, or something that causes trouble.
+926	wrist	pulso	The joint connecting the hand with the forearm.
+927	bond	laço, vínculo, ligação	A close connection or relationship between people or things.
+928	backdate	antedatar	To make something effective from an earlier date than it was actually made or signed.
+929	chick	filhote	a young bird
+930	housing	habitação	buildings or shelters for people to live in
+931	strengthen	fortalecer	to make something stronger or more robust
+932	hostage	refém	A person taken by an attacker to ensure that the attacker's demands are met.
+933	tend	tender a, ter tendência a	To regularly or frequently behave in a particular way or have a particular characteristic.
+934	stock	Estoque	A supply of goods or materials available; shares in a company; or farm animals.
+935	recognise	reconhecer	To know who someone is or what something is because you have seen or heard them before, or to accept that something is true or exists.
+936	drawer	gaveta	A sliding compartment in a piece of furniture used to store things.
+937	resettlement	reassentamento	The process of moving people to a new place to live, often after they have been displaced.
+938	silk	seda	A soft, smooth, valuable fabric produced by silkworms.
+939	widow	viúva	A woman whose husband has died and who has not remarried.
+940	filthy	imundo / imunda	Extremely dirty and covered with unpleasant substances.
+941	sleeve	manga	The part of a piece of clothing that covers your arm.
+942	bland	sem sabor / insosso / sem graça	Describes food with very little flavor or something that is dull and uninteresting.
+943	council	conselho	A group of people chosen to make decisions or manage the affairs of an organization or town.
+944	nightstand	criado-mudo / mesa de cabeceira	A small table or cabinet placed beside a bed.
+945	climb	subir / escalar	To move upward using your hands and feet or by taking steps.
+946	bell	sinar	To attach a bell to.
+947	heating	aquecimento	The process or system of making a place or thing warm.
+948	willing	disposto / disposto a	Ready or happy to do something without being forced.
+949	nearly	quase	Almost, but not completely or not quite.
+950	mildly	levemente / moderadamente	To a small degree; not very strongly or intensely.
+951	barely	mal / apenas / por pouco	Only just; by a very small amount or degree.
+952	hardly	quase não / mal	Almost not at all; used to say that something happens very little or is difficult to do.
+953	western	ocidental	Situated in or facing the west
+954	humming	cantarolar / zumbido	To make a continuous low sound with your lips closed, often while singing a tune.
+955	careless	descuidado / desatento	Not paying enough attention to what you are doing, which can lead to mistakes.
+956	somehow	de alguma forma / por algum motivo	In a way that is not known, explained, or immediately clear.
+957	weeding out	eliminar / selecionar, removendo os indesejados	Removing unwanted or unsuitable people or things from a group.
+958	slurp	tomar fazendo barulho / sorver	To eat or drink noisily by sucking liquid or food into your mouth.

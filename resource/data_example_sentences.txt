@@ -7070,3 +7070,644 @@ id	vocab_id	sentence
 7319	859	She squeezed the sponge to remove the water.
 7320	859	The child squeezed the teddy bear tightly.
 7321	859	He squeezed past the crowd.
+7322	860	The Rhodians, who used leaden bullets, were able to project their missiles twice as far as the Persian slingers, who used large stones.
+7323	860	That missile is explosive enough to kill hundreds.
+7324	860	Kyiv Mayor Vitali Klitschko said the capital had come under a ballistic missile attack, with AFP reporting more than 10 explosions.
+7325	860	Ukraine's air force said recently that a shortage of interceptor missiles was hampering its attempts to shoot down ballistic missiles fired by Russia.
+7326	860	The Patriot is one of the few air defence systems able to intercept ballistic missiles.
+7327	860	Earlier this week, Zelensky condemned as a "horrific crime" a Russian missile attack that killed five members of the same family.
+7328	860	That was part of an overnight attack in which Russia launched more than 70 missiles and over 280 drones.
+7329	860	Ukraine’s Zelensky had met Trump earlier this week and said Trump had agreed to license the production of Patriot missiles to Ukraine.
+7330	860	He spoke next to a bust of Mazepa in the Pechersk Lavra, an ancient Kyiv monastery hit by Russian missiles.
+7331	861	He walled the study with books.
+7332	861	By the later 15th Century, domestic wall clocks also began having alarms, set using a pin, he says.
+7333	861	Choe recalls losing her wallet twice in Switzerland.
+7334	861	The question is: who built the wall, and why?Though it’s survived centuries, the wall wasn’t secured with mortar.
+7335	861	Water can drain through the openings in the wall, and individual stones can fall out without setting off a progressive collapse.
+7336	861	The origin of the wall has been a subject of local debate for years.
+7337	861	Or they could have been field walls, created from stones that were rooted out to ready the soil for planting and dumped at the edge of the clearing.
+7338	861	The Birds Canada study published in June found that insect-eating swallows are becoming smaller and less numerous as their food source dwindles.
+7339	861	The wall was built to slice straight across the road, which left a triangle-shaped scrap of land on the wrong side.
+7340	861	And it required a certain audacity to build something abutting the wall patrolled by East German soldiers with shoot-to-kill orders.
+7341	862	In the days following the crackdown, the government has not confirmed media reports that pellet guns were used on protesters.
+7342	862	They fire cartridges, known as "birdshot", containing 200 to 400 small metal pellets.
+7343	862	When used against crowds, the pellets spread out in a wide arc, striking people indiscriminately.
+7344	862	We have spoken to two of the injured men who believe they were hit by pellet guns fired by security forces.
+7345	862	A senior official at a hospital has confirmed a fourth man who also received treatment for pellet wounds.
+7346	862	"These pellet injuries can actually be quite devastating, especially at close range.
+7347	862	When loaded with birdshot cartridges, shotguns are sometimes referred to as 'pellet guns',"
+7348	862	he added."But these pellets are not safe.
+7349	862	In the UK, Boyce says pellet guns are widely used for shooting birds of prey and they're fairly freely available.
+7350	862	Medical records that he has shared with the BBC show he has 26 pellet wounds on his right elbow and four on his upper right back.
+7351	862	We didn't think he would fire, but then I suddenly heard a cracking sound nearby and pellets hit me on my left eyebrow and my chin."
+7352	862	He spread his newspaper on the table.
+7353	862	I spread my arms wide and welcomed him home.
+7354	862	I spread the rice grains evenly over the floor.
+7355	862	The missionaries quickly spread their new message across the country.
+7356	862	I dropped my glass; the water spread quickly over the tiled floor.
+7357	862	She liked to spread butter on her toast while it was still hot.
+7358	862	He always spreads his toast with peanut butter and strawberry jam.
+7359	862	to spread a table
+7360	862	Word quickly spread of her revelations, and people flocked to see this enigmatic young woman.Warning:
+7361	862	By the 1520s, Protestant ideas had spread from mainland Europe.
+7362	862	As climate change brings warmer temperatures to the country, it will exacerbate the spread of the insect.
+7363	862	Without proper management, spotted lanternflies are expected to spread westward and reach California sometime between 2027 and 2033.
+7364	862	Since 2020, dog detection has joined the arsenal of responses to the spread in the US.
+7365	862	From an access-to-information perspective, Becker is enthusiastic about AI spreading Wikipedia's content.
+7366	862	Why the ships could become 'super-spreaders'</h3>Tamburri and his co-authors describe the closure as a "worst-case scenario.
+7367	862	The slimy invertebrates, which spread through biofouling and ballast water, compete with mussels on farms along Canada's East Coast.
+7368	862	Ricciardi compared marine invasions to a hub-and-spoke network: Ships carry organisms to ports, that may become new hubs for further spread.
+7369	862	Attacks have spread across the Gulf to the Red Sea and even a Mediterranean facility in Egypt.
+7370	862	Online, she found dozens of Indonesians reporting similar experiences, and screenshots of rejected applications quickly spread across social media.
+7371	863	In the days following the crackdown, the government has not confirmed media reports that pellet guns were used on protesters.
+7372	863	They fire cartridges, known as "birdshot", containing 200 to 400 small metal pellets.
+7373	863	When used against crowds, the pellets spread out in a wide arc, striking people indiscriminately.
+7374	863	We have spoken to two of the injured men who believe they were hit by pellet guns fired by security forces.
+7375	863	A senior official at a hospital has confirmed a fourth man who also received treatment for pellet wounds.
+7376	863	"These pellet injuries can actually be quite devastating, especially at close range.
+7377	863	When loaded with birdshot cartridges, shotguns are sometimes referred to as 'pellet guns',"
+7378	863	he added."But these pellets are not safe.
+7379	863	In the UK, Boyce says pellet guns are widely used for shooting birds of prey and they're fairly freely available.
+7380	863	Medical records that he has shared with the BBC show he has 26 pellet wounds on his right elbow and four on his upper right back.
+7381	863	We didn't think he would fire, but then I suddenly heard a cracking sound nearby and pellets hit me on my left eyebrow and my chin."
+7382	864	Broad Peak is regarded as one of the more challenging mountains for climbers.
+7383	864	Officials said the bodies of Purja and other climbers were located ⁠in a difficult site and ⁠had yet to be retrieved.
+7384	864	Elite climbers said Purja was a "charismatic colourful" character.
+7385	864	The expedition included five Nepali climbers, as well as US, Pakistani, Omani and Chinese nationals.
+7386	864	Another foreign climber was also part of the group, said Karrar Haidri, the vice-president of the Alpine Club of Pakistan.
+7387	864	Among the victims were Nadhira Alharthy, the first Omani to climb Everest, and a US climber, Mallory Geis.
+7388	864	Trackers carried by the climbers showed a rapid loss of altitude, suggesting the team had been caught in an avalanche.
+7389	864	You can’t call yourself a climber and not help in that situation.
+7393	892	he said, acknowledging the pardon was "not good" for the American people, the constitution - or his father's legacy.
+7394	892	Hunter Biden got emotional at times in the interview, notably when discussing his father's health.
+7395	892	"He's the best father, the best husband, the best grandfather.
+7396	892	Hunter Biden also reflected on the presidential debate in June 2024 that ultimately ended his father's re-election campaign.
+7397	892	Hunter Biden has previously argued that his father's poor debate performance reflected physical exhaustion after extensive travel.
+7398	892	Following Joe Biden's cancer diagnosis, he has also questioned whether the illness may already have been affecting his father.
+7399	892	He said his father remains politically engaged and determined to continue speaking publicly.
+7400	892	A father, who declined to identify himself, said his son, who was at the school during the shooting, was still in shock and could not sleep alone.
+7401	892	These are people — someone's mother, father, sister, brother, child or friend, and they deserve better."</i
+7402	892	The suspected attacker fired at least 26 bullets with a gun belonging to his grandfather, and was found with 34 additional ammunition rounds.
+7403	892	Aminudeen revealed that some couples had been disqualified after being discovered to have altered their medical test results.
+7404	892	He revealed that the "cancer has spread, metastasised into his bones and further.
+7405	892	That trust often reveals itself in daily transactions.
+7406	892	But if such dissent existed, it wasn't revealed to me.
+7407	892	Historical accounts from the ancient world tend to reveal the cloistered nature of women's lives.
+7408	892	These women did not need to describe sex with their beloved in crude detail to reveal what they really thought of it.
+7409	892	i>"and they have a penchant for underhand tactics" without revealing what they meant.
+7410	892	Travelling through Iran reveals mixed narratives about the US-Israel war The excavator stops suddenly.
+7411	892	A journey the length of the country reveals the impact of the war on its people.
+7412	892	He also revealed he had been in regular contact by text message with Caruana Galizia’s sons, Matthew and Paul.
+7413	893	Limit your exposure to harsh chemicals.   Get as much exposure to a new language as you can.
+7414	893	They rented a cabin with a beautiful southern exposure.
+7415	893	The evidence linking excessive sun exposure with skin cancer risk still holds up today.
+7416	893	Why do we need sunshine?</h3>Moderate sun exposure helps the body produce vitamin D, which is essential for bone health and muscle function.
+7417	893	Higher exposure to daytime light can improve cognitive performance, reaction times and memory.
+7418	893	Sunlight exposure also increases the level of the chemical messenger serotonin in the brain, which help us to feel calmer and more focused.
+7419	893	Meanwhile, insufficient exposure to daylight can increase the risk of depressive symptoms, low mood and insomnia.<h3>
+7420	893	In very high UV areas, this exposure should be taken in the mid-morning or mid-afternoon instead.
+7421	893	(Read more about why sunscreen is not enough to prevent sunburns).Too much sun exposure can also cause cataracts.
+7422	893	But long-term exposure to high levels of cortisol can suppress the immune system and raise the risk of cardiovascular disease.
+7423	893	Precise causes are hard to disentangle from other factors such as exposure to cosmic radiation while flying.
+7424	894	He’s been crowing all day about winning the game of cards.
+7425	894	those that do receive orders from trained crew commanders, including on when it's time to leave."If
+7426	894	Why airlines are warning over lithium-ion batteries Ben Wodecki is used to travelling the globe and is used to seeing airline crew at work.
+7427	894	Flight crew dropped the device into a container of water, Wodecki says.
+7428	894	However, there is a group of people for whom jet lag is unavoidable –airline crews.
+7429	894	In ​April, the White House shared a video showing the crew of Artemis II meeting with Trump at the White House the day before.
+7430	894	The crew scrambled to put out the blaze and called for help from nearby vessels.
+7431	894	The crews stuck in the strait have had their hopes of departure raised several times, before being dashed.
+7432	894	For the crews stuck waiting to exit it is like being in "prison", the head of one of India’s maritime trade unions said.
+7433	895	I sneezed several times this morning.
+7434	895	She started to sneeze when she walked into the dusty room.
+7435	895	He tried to hold back a sneeze during the meeting.
+7436	895	I always sneeze when I'm around cats.
+7437	895	She covered her mouth when she sneezed.
+7438	895	That strong perfume made me sneeze.
+7439	895	He sneezed so loudly that everyone looked at him.
+7440	895	I think I'm going to sneeze.
+7441	895	The baby sneezed and then started laughing.
+7442	895	She had to stop driving because she couldn't stop sneezing.
+7443	896	The floor was flooded with beer.
+7444	896	The station's switchboard was flooded with listeners making complaints.
+7445	896	By then, Baruah's home was disappearing beneath the flood.
+7446	896	The latest figures put the death toll from floods at 100, with 10 districts and 456 villages affected and about 140,000 people impacted.
+7447	896	The floods have been particularly severe in parts of Upper Assam, where villages like Charing that do not usually flood have been inundated.
+7448	896	For Baruah, 40, the shock is especially profound."This is the first flood we have experienced in this area in our lifetime,"
+7449	896	She recalls hearing about a major flood in 1950, long before she was born, but nothing like this had happened during her lifetime.
+7450	896	But when it did, the flood threatened not only her home, but the livelihood she had spent years building.
+7451	896	The flood destroyed much of it.
+7452	896	She has returned to the area around her flood-damaged home.
+7453	896	Baruah is learning to live with the possibility of more floods – and to prepare for them.
+7454	896	""We will have to learn to coexist with the floods."
+7455	896	Four districts on Beijing’s outskirts ​activated level 1 emergency flood responses.
+7456	897	He was guilty of cheating at cards.
+7457	897	The guilty man was led away.
+7458	897	Do you have a guilty conscience?
+7459	897	I have a guilty secret.
+7460	897	He also faces state charges, although his lawyers are seeking to get those dismissed following his guilty plea.
+7461	897	Mangione had initially pleaded not guilty in both the federal and state cases against him for the shooting death of Thompson.
+7462	897	Mangione's guilty plea could now throw a wrench into his New York state case.
+7463	897	Friedman Agnifilo told the judge: "Mr Mangione is prepared to plead guilty at this time."
+7464	897	""I will accept your guilty plea,"
+7465	897	His lawyers are seeking to get the majority of those charges dismissed following his guilty plea in the federal case.
+7466	897	>Mangione had previously pleaded not guilty in April 2025 to federal murder, weapons and stalking charges.
+7467	898	Can you help me lift this box?
+7468	898	He lifted the bag and put it on the table.
+7469	898	I can't lift this by myself; it's too heavy.
+7470	898	She lifted her head and looked at me.
+7471	898	We need to lift the furniture carefully.
+7472	898	He lifted his arm to wave goodbye.
+7473	898	This exercise can help you lift heavier weights.
+7474	898	She lifted the baby out of the crib.
+7475	898	Can you lift the lid and see what's inside?
+7476	898	The machine can lift up to 500 kilograms.
+7477	899	The woman found dead in her kitchen was murdered by her husband.
+7478	899	Our team is going to murder them.
+7479	899	He's torn my best shirt. When I see him, I'll murder him!
+7480	899	I could murder a hamburger right now.
+7481	899	Davis, 63, is charged with Shakur's murder.
+7482	899	The murder case had largely gone cold until public statements made by Davis himself, who published a memoir in 2019.
+7483	899	He said in the book that he gave the gun used in the murder to his nephew, Anderson, who shot the rapper.
+7484	899	What to know as a gang leader goes on trial in Tupac's murder It's been three decades filled with mystery, conspiracies - and anger.
+7485	899	He's accused of murder with a deadly weapon with the intent to promote, further or assist a criminal gang.
+7486	899	For nearly three decades, the killing remained one of America's most famous unsolved murders.
+7487	899	Who could testify at Tupac's murder trial?
+7488	899	but I did not murder Tupac.'"
+7489	899	Jury selection for the state murder trial was initially set to begin on 8 September.
+7490	899	Mangione  faces eight state charges, including second degree murder, for all of which he has pleaded not guilty.
+7491	899	The 32-year-old was indicted on murder charges on July 20.
+7492	900	She is rated fourth in the country.
+7493	900	They rate his talents highly.
+7494	900	He rated this book brilliant.
+7495	900	The view here hardly rates a mention in the travel guide.
+7496	900	The transformer is rated at 10 watts.
+7497	900	The customers don't rate the new burgers.
+7498	900	He rates as the best cyclist in the country.
+7499	900	This last performance of hers didn't rate very high with the judges.
+7500	900	Data from Wamart-backed Flipkart, India's largest e-commerce platform corroborates this.
+7501	900	Two separate attacks on Russia has resulted in at least 16 people, including one child, being killed this week.
+7502	900	It's to celebrate our differences and unify us.
+7503	900	It is the beginning of a journey to celebrate India's cultural richness with the world.
+7504	900	The US and Oman have been negotiating separately with Tehran to reopen the Strait of Hormuz, a waterway that is vital to the global economy.
+7505	900	i>"Canada's most important strategic sectors".
+7506	900	As the federal government spends more money to cover its budget deficits, consumers have faced higher interest rates and inflation.
+7507	900	The rate on borrowing costs over 30 years eased on the back of the move to 5.18%.
+7508	900	Currently, the average interest rate on 30-year fixed mortgages is 6.67%, according to finance firm Freddie Mac.
+7509	900	It said there were "several participants" in favour of increased rates last month.
+7510	900	The central bank ended up holding its benchmark interest rate in the current 3.50%-3.75% range for the fifth time in a row.
+7511	901	crash diet
+7512	901	Images from the scene show smoke at the wooded crash site on Mount Ololokwe, as members of the Kenya Red Cross approach the still-burning wreckage.
+7513	901	Former President of Ecuador Guillermo Lasso mentioned he had died in the helicopter crash.
+7514	901	According to a memo seen by the BBC's US partner CBS News one of the Americans killed in the crash was NBCUniversal journalist José Alberto Suárez.
+7515	901	Miami restaurateur Roger Duarte was among the Americans killed in the crash, according to local and US media.
+7516	901	Earlier reports had suggested seven people, six tourists and a pilot, were killed in the crash.
+7517	901	Helicopter crashes are not uncommon in Kenya.
+7518	901	In February, a helicopter crash in the Rift Valley county of Nandi killed six people, including a member of parliament.
+7519	901	The helicopter crashed in a rugged area in the foothills of Mount Ololokwe, a popular tourist destination in the country, local media reported.
+7520	901	Lady Lori Helicopters said in a statement that the aircraft was operating a charter flight when it crashed.
+7521	901	"Sensi-Contugi was visiting Kenya as a tourist with his wife, Stephany Hollihan Vasconez, who also died in the crash.
+7522	901	In February, a legislator was among six people who died after a helicopter crash in a hilly area of western Kenya.
+7523	902	royal mast;  royal sail
+7524	902	a royal pain in the neck
+7525	902	Their UK security was downgraded after they stopped being working royals in 2020 and moved to the US, where they have paid for their own protection.
+7526	902	Other non-working royals get only limited security, and if that happens to Prince Harry, it could be the source of further tensions.
+7527	902	Sign up here to get the latest royal stories and analysis every week with our Royal Watch newsletter.
+7528	902	While he formally becomes a prince, he will not receive a royal allowance.
+7529	902	He will not be part of Belgium's royal line of succession, unlike his half-sister Princess Louise and half-brothers Prince Aymeric and Prince Nicolas.
+7530	902	Nor will he take part in public royal activities.
+7531	902	Albert II abdicated as king of the Belgians in 2013 as the paternity issue became a royal scandal.
+7532	902	That said, they are not expected to return to royal duties.
+7533	902	They remain private citizens and non-working royals.
+7534	902	Any work they do here will not be linked to official royal duty.
+7535	902	>Sign up here to get the latest royal stories and analysis every week with our Royal Watch newsletter.
+7536	903	As an example, Parker pointed to foreign financial institutions that help Iran evade sanctions, or directs money towards Iranian coffers.
+7537	903	In reality, perhaps the terror man felt towards the whale was more about his repressed fears about his own vulnerability.
+7538	903	This revelation by Trump, who called the exercise "inappropriate and hostile" towards North Korea and costly to the US, caught his allies by surprise.
+7539	903	As for our adventurous friends who had persisted towards Giewont, our reunion was earlier than expected.
+7540	903	"Maybe that's not a magic spell to fix the ills of the world, but personally it did help me lean towards kindness, beauty and peace.
+7541	903	Ukraine’s air force had earlier warned of Russian Kalibr missiles passing over the regional village of Kaharlyk and heading towards the capital.
+7542	904	When they caught him, he was branded and then locked up.
+7543	904	The ranch hands had to brand every new calf by lunchtime.
+7544	904	Her face is branded upon my memory.
+7545	904	He was branded a fool by everyone that heard his story.
+7546	904	They branded the new detergent "Suds-O", with a nature scene inside a green O on the muted-colored recycled-cardboard box.
+7547	904	Or perhaps not, because experts say the Harry and Meghan brand is at a crossroads.
+7548	904	But I don't think they have been as successful at converting that initial success into an enduring brand.
+7549	904	The most successful brands, she says, are consistent in the image that they present - and a return to the UK risks looking like another U-turn.
+7550	904	Stephen has a warning, though: "A return to the UK could be a useful brand reset, but a postcode does not reposition a brand.
+7551	904	Netflix also ended its involvement in Meghan's lifestyle brand, As Ever, earlier this year."Netflix produces movies.
+7552	904	Netflix doesn't produce jam," says Jones, the brand guru.
+7553	904	But in branding terms, Jones acknowledges that even negative publicity can have value if it keeps someone at the centre of the conversation.
+7554	904	In an interview with Vogue, she said the drug in question was tirzepatide (which is sold under brand names Zepbound and Mounjaro).
+7555	904	Williams is paid to be a brand ambassador for Ro, a company that administers the drugs, and her husband, Alexis Ohanian is an investor in the company.
+7556	904	Since 98 per cent of Sour Puss sales are in Canada, we view it as a Canadian brand," spokesperson Laura Donnelly wrote in an email.
+7557	905	She had no reason for the conviction beyond the very inadequate one that she had seen him around London.
+7558	905	No swimming beyond this point.
+7559	905	Your staff went beyond my expectations in refunding my parking ticket.
+7560	905	The patient was beyond medical help.
+7561	905	He understood geometry well, but algebraic topology was beyond him.
+7562	905	It can be done and it will be done, beyond any possibility of doubt."
+7563	905	We stop at an art shop beyond the River Liffey, past the tourist track, and chat up the art student at the till.
+7564	905	And those losses go beyond where the tariffs directly land," he wrote.
+7565	905	In other words, beyond the life of this U.S. administration," Carney said.
+7566	906	A painting worth thousands.
+7567	906	His friendship is not worth having.
+7568	906	This job is hardly worth the effort.
+7569	906	Pressurised by more than a year's worth of growing suspicion and a rush of online attention, the issue had become too big to ignore.
+7570	906	<h3>Why the story is worth retelling</h3>Stagg's decision resonates today at a time when facts and science are often seen as opinions.
+7571	906	It was worth it for me, though I recognise that finding the time is a luxury not everyone can afford.
+7572	906	Barbara Hepworth Museum and Sculpture Garden, St Ives, Cornwall, UK"Finding Trewyn Studio was a sort of magic," wrote Barbara Hepworth.
+7573	906	Hepworth quickly became established as a prominent St Ives artist, and is remembered as a leading figure in modernist art.
+7574	906	Sixty years' worth of loving art-making wrapped up in a quaint English country house and gardens visit – what's not to like?9.
+7575	906	Canada exported more than $4 billion US worth of electronics equipment that would be subject to Trump’s new tariffs.
+7576	906	It’s worth noting passenger cars and trucks are not on the list, though motorcycles and mopeds are, as are some components.
+7577	907	He's a talented sailor and has spent many years at sea.
+7578	907	By midnight some of the younger sailors there were so inebriated they had to prop each other up.
+7579	907	Some sailors were wary of making any conversation at all.
+7580	907	This could be a nod to the two men – a sailor and a medical student – Picasso initially thought about including in the painting.
+7581	907	One sailor, Breese, who did not want to give his surname, said "it’s a fever dream right now"
+7582	907	The sailors were being released in staggered groups, so not everyone was out.
+7583	907	Shakeira Fairfax, who had travelled all the way from New Jersey, had to wait one more day to be reunited with her sailor daughter, Jada Fairfax.
+7584	907	They also had to be careful with supplies of soap and toothpaste to ensure every sailor could receive some, he added.
+7591	925	Scientists say that choline is a wonder-nutrient, but that it has been hugely overlooked.
+7592	925	We need choline for numerous functions in our bodies, including liver function.
+7593	925	During the development of a foetus, choline deficiency can be particularly harmful because it inhibits cell proliferation in the brain.
+7594	925	Acetylcholine plays a major role in brain nerve cells, which are needed for our memory, thinking and learning.
+7595	925	On the other hand, choline deficiency has also been associated with neurodegenerative disorders such as Alzheimer's and Parkinson's disease.
+7596	925	Another way choline may affect the brain is our mental health.
+7597	925	One study found that higher intake of choline was associated with lower levels of anxiety.
+7598	925	In another study, having a higher dietary intake of choline was linked to a lower risk of depression.
+7599	925	Having an adequate choline intake can also come with a number of other benefits.
+7600	925	This may partly be because of homocysteine, she says, but also because choline is an essential structure in our cell membranes.<h3>
+7601	925	Studies show that choline is vitally important for a baby's development in the womb.
+7602	925	"Pneumonic plague can transmit from person to person and that is why there is the concern around this," he said.
+7603	925	""People think, 'Oh the plague, that's gone, that went hundreds of years ago,' but it hasn't," Clarke said.
+7604	925	So much so that Barton wrote to Pope Clement, warning him that there would be a plague if he turned against Catherine.
+7605	925	Did a Russian lab worker die from pneumonic plague?
+7606	925	Yes, plague — specifically, pneumonic plague.
+7607	925	<h3>What is pneumonic plague?
+7608	925	There are three forms of plague: bubonic, septicemic and pneumonic.
+7609	925	Bubonic plague, the most common form, causes buboes — painful, inflammed lymph nodes near the site of a flea bite.
+7610	925	Septicemic plague happens when bubonic plague infections aren't treated and spread to the bloodstream and other parts of the body.
+7611	925	In 2017, a pneumonic plague outbreak in the latter country affected more than 2,400 people and killed 209 people.
+7612	925	According to the agency, the last recorded human case of plague in this country was in 1939.
+7613	926	According to researchers in Switzerland, the Romans had something of a penchant for sweet chestnut trees, spreading them across Europe.
+7614	926	By the time of the Middle Ages, sweet chestnuts were a staple food in the area.
+7615	926	But as the Roman Empire expanded, the presence of sweet chestnut pollen grew.
+7616	926	Specifically, the percentage of sweet chestnut pollen relative to other pollen across Europe "shows a pattern of a sudden increase around year zero
+7617	926	Sweet chestnut trees can be striking features of the landscape.
+7618	926	But the Roman elites did appreciate sweet chestnut's ability to quickly sprout new poles when cut back, a practice known as coppicing.
+7619	926	Coppicing can also have a rejuvenating effect on the chestnut tree, even after decades of neglect.
+7620	926	In Ticino, chestnut trees became more and more dominant under the Romans, according to the pollen record.
+7621	926	The chestnuts, for example, could be dried and ground into flour.
+7622	926	"But the real work of planting the chestnut tree orchards was probably done by local populations.
+7623	926	"But here in Ticino, where chestnuts have been cultivated, they can reach up to almost 1,000 years, because of their symbiosis with humans."
+7624	926	How to future-proof your wrists Modern life is ruining our wrists.
+7625	926	Now, nearly two decades later, it could increase my risk of developing wrist arthritis.
+7626	926	Our wrists are remarkably adaptable.
+7627	926	From typing to holding a coffee cup, functional wrists are essential to normal everyday life.
+7628	926	"When that goes awry, that's when wrist arthritis starts to develop.
+7629	926	Simply avoiding arthritis is a major reason for maintaining your wrist health.
+7630	926	The latter two ailments occur when the cartilage cushioning the small bones within the wrist becomes damaged, or the bones become misaligned.
+7631	926	>Arthritis of the wrist has been estimated to affect as many as one in seven Americans.
+7632	926	Abadeer describes the wrist as being a "sentinel joint" which can reflect early signs of declining health within the rest of the body.
+7633	926	About half of all patients who develop rheumatoid arthritis first feel the effects the disease in their wrist before it progresses to other joints.
+7634	926	"And if you're weak in your shoulders, then you put more load on the wrist.
+7635	927	The strong bond between a mother and child is unbreakable.
+7636	927	They formed a strong bond during their time working together.
+7637	927	A common interest can create an instant bond between strangers.
+7638	927	He felt a special bond with his grandmother.
+7639	927	The company issued new bonds to raise capital.
+7640	928	Our first example of backdated paperwork comes in 2006, after a new law in Cyprus meant that company accounts had to be made public.
+7641	928	Panorama also found evidence that backdated documents had been used in a tax evasion scheme.
+7642	928	In addition to the documents which Deloitte helped to backdate, Abramovich's advisers at MeritServus falsified a third set of records.
+7643	928	MeritServus backdated documents to make it look like Electus did not own the fortune.
+7644	928	MeritServus signed and backdated documents which falsely purported to show the BVI company had owned the $10bn fortune since 20 November 2003.
+7645	928	Lawyers for Tenenbaum said that documents could sometimes be backdated for legitimate reasons, such as to show when a transaction became effective.
+7646	928	All in all, analysis of the Cyprus files suggest that more than 1,000 documents pertaining to the Abramovich empire were backdated.
+7647	929	To save scarlet macaws, scientists are rescuing chicks from their lethal parents Scarlet macaws are an iconic but declining tropical bird.
+7648	929	By studying these birds for over two decades, Vigo-Trauco had discovered that scarlet macaws intentionally starve their youngest chicks.
+7649	929	In 2017, Vigo-Trauco launched a rarely attempted form of rescue-mission, which led her to the chick she named Parker.
+7650	929	Her goal was to recruit wild scarlet macaw couples to become foster parents for the doomed chicks.
+7651	929	So why do the parents neglect their younger chicks?Vigo-Trauco believes parents can't cope well with chicks at different development stages.
+7652	929	Raising rejected chicks by hand is one potential solution.
+7653	929	They also screened the forest's nests to find the chick a suitable foster family, who would teach him how to live as a wild bird.
+7654	929	He was the only fourth chick to do so in decades of observations of wild nests in Tambopata.
+7655	929	The team found similar success with 25 other chicks they've rescued between 2017 and 2019.
+7656	929	You need to trek miles into the jungle to locate a nest with a chick in danger.
+7657	929	Then quickly find a couple with a suitable nest that is either empty or with one chick of a similar age.
+7658	930	The UK government said it was investing £39bn in affordable housing and pledged £625m to train up to 60,000 construction workers.
+7659	930	For Hundertwasser, this applied to industrial buildings as much as it did to housing.
+7660	930	From the northern tip of Spain to the south, people poured into plazas calling for a nationwide reckoning over access to housing.
+7661	930	"It’s become a symbol, seen as the tip of the iceberg when it comes to the issue of housing.
+7662	930	And still, housing remains an enormous challenge.
+7663	930	The head of one of the country’s biggest labour unions called for investment funds to be "kicked out" of the housing market.
+7664	931	Finally, they came up with an outlandish-sounding solution: panel boards made from rice husks – a byproduct of rice farming.
+7665	931	The house that rice built</h3>While growing on the plant, rice husks protect the grains from moisture and pests.
+7666	931	Guimond is now the chief executive of Modern Mill, the first US-based company that manufactures construction products out of rice husks at scale.
+7667	931	"The whole point of the rice husk is to protect the rice while it grows," Guimond says.
+7668	931	In addition to protecting against moisture, the high silica content means rice husks are surprisingly resilient to fire, according to Fine.
+7669	931	The benefits of rice husk</h3>Timber has long been considered a sustainable building material.
+7670	931	But the wide availability and low cost of rice husk, added to the fact it is a waste material, gives it a distinct advantage.
+7671	931	Research has found that rice husk panels perform as well as traditional materials when it comes to thermal and acoustic control.
+7672	931	Rice husk may have the most long-term potential in rice-producing areas of the Global South, but it is already being used in buildings in the US.
+7673	931	Since the Park City condo project was completed, Fine has used rice husk panels in five additional projects, with several more in the pipeline.
+7674	931	'The spine just wants to move': How to strengthen your neck The modern world is a challenging place for necks.
+7675	931	Some exercises can also strengthen the knee bones themselves, reducing the risk of  osteoporosis or bone thinning around the knee joint in later life.
+7676	931	Colvin says that it is never too early to begin working on strengthening your knees.
+7677	931	Straight leg raises</h3>This is another simple exercise for strengthening the quadricep muscle.
+7678	931	Calf raises are one of the best ways of strengthening these muscles, according to Chhabra.
+7679	931	Overall, taking the time to do knee strengthening exercises serves as a valuable investment in your long-term health.
+7680	931	However, constructive arguments, which focus on mutually resolving issues with respect, curiosity and kindness, can strengthen your relationship.
+7681	931	Poland’s deputy foreign minister Marcin Bosacki says EU membership is, however, aiding a transition that will strengthen the economy.
+7682	932	The postboxes for each household bear stickers put there after the attacks three years ago: red indicates those killed, and black those taken hostage.
+7683	932	Seventy-six people from the kibbutz were kidnapped to Gaza, including nine bodies, with 14 hostages taken alive and killed in captivity.
+7684	932	However, with 20 houses renovated or rebuilt, a few former hostages have come back to live here.
+7685	932	the US-brokered ceasefire deal which brought the last hostages home a year ago, violence has continued, including near-daily Israeli attacks on Gaza.
+7686	932	This anniversary of the attacks is the first with no hostages remaining in Gaza.
+7687	932	Achi sees that now is the time to focus on personal healing."Until the hostages came back, it was the only thing on our mind," he says.
+7688	932	He is waiting for a new house but, for now, staying in the former home of Gadi Moses, 82, who survived 482 days as a hostage.
+7689	932	The dead and hostages represented more than a quarter of the small community.
+7690	932	Last year, at this time, she was still campaigning for the release of other hostages, her own emotions held at bay by the urgency of that campaign.
+7691	932	After the exhausting campaign to get Keith and other hostages home, she said she had struggled to concentrate on the election.
+7692	932	Yocheved Lifshitz, 88, was taken hostage from Nir Oz with her husband Oded, whose magnificent cactus garden blooms at the heart of the kibbutz.
+7693	933	But if you don't do that, you're going to get very generic images, which tend to reinforce a lot of the biases that we have in society.
+7694	933	His brother convinced him to apply for a finance job, which he only intended to do for a few years.
+7695	933	It's a tenderly-sketched theme: sex is essential, but it may teach you lessons the hard way.
+7696	933	The company's shares fell by more than 8% in extended trading in New York after the earnings were announced.
+7697	933	Nevertheless, as a broad guide, healthy adult men tend to have around 10–20% body fat.
+7698	933	Healthy adult women tend to have around 20–29%.
+7699	933	Those living with obesity tend to have body fat above 30%.
+7700	933	Among athletes the typical amount of body fat tends to be lower.
+7701	933	Our fat mass tends to increase while our muscle and bone levels decline.
+7702	933	Temperature – which, even in hot climates, tends to fall over the course of the night and rise again during the day.
+7703	933	That's no mistake, says Crittenden; they build a sense of cohesion and support.
+7704	934	For Ohio, it's the tax on steel that will particularly hurt, as well as the tax on laundry machines.
+7705	934	That's across numerous sectors, including steel tubes and pipes, plastics and advanced materials.
+7706	934	The dramatic encounter highlights the scorpionfish's stealthy hunting behaviour – and the constant battle for survival on coral reefs.
+7707	934	Yet in their absence, houses had been ransacked and some livestock stolen by passing sailors.
+7708	934	The correction in Indian stocks has, in fact, only intensified in recent weeks.
+7709	934	Donald Trump had warned he would ban diesel exports from the US if European countries did not agree to put more of their own stocks onto the market.
+7710	934	On Friday, he said on social media: "Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil.
+7711	934	It is not yet clear which partner countries will release stocks, nor how quickly.
+7712	934	Improving food stocks will likely lead to an increased shark population, though the sharks' numbers increase a lot more slowly than the seals.
+7713	934	Those 8m books represented more than 85% of Ranok’s total stock, he said.
+7714	934	He lost 40,000 books in the same Nova Poshta warehouse attack that destroyed Krapky’s stock – about $500,000 (£377,800) of losses.
+7715	935	For a few minutes, tourists and locals occupy the same space, following exactly the same routines.
+7716	935	But since May, as the occupying Russian forces expanded minefields and drone cover, the trickle of supplies has entirely halted.
+7717	935	He continued: "Russian occupying forces are obstructing the provision of aid to the civilian population.
+7718	935	They also screened the forest's nests to find the chick a suitable foster family, who would teach him how to live as a wild bird.
+7719	935	Parker was finally placed in a new nest on 22 December, and his adoptive mother, Tambo, started preening him straight away.
+7720	935	He was the only fourth chick to do so in decades of observations of wild nests in Tambopata.
+7721	935	But the last time García-Anleu's team introduced a bird to a foster nest in Guatemala was in 2019.Wild fostering requires perfect timing, he says.
+7722	935	You need to trek miles into the jungle to locate a nest with a chick in danger.
+7723	935	Then quickly find a couple with a suitable nest that is either empty or with one chick of a similar age.
+7724	935	As for Parker, he managed to leave the nest and spread his wings.
+7725	935	The majority French-speaking province has held other votes on this, in 1980 and 1995.
+7726	935	But its majority is a slender one.
+7727	935	For the majority of human history, even the removal of limbs was done on patients who were fully awake.
+7728	935	In a by-election in December 1969, he won the seat with a handsome majority.
+7729	935	The vast majority of the surviving sources were written by men who were prone to exaggerate women's sexual habits in one direction or the other.
+7730	935	The vast majority of the women they knew were destined for anonymity.
+7731	935	But the vast majority were encountered only once."Probably 80% of them we only saw once and never again.
+7732	935	Alberta woman, 61, breaks her own world record by planking for 5 hours You can accomplish a lot in five hours.
+7733	935	An abdominal plank is an isometric core exercise where you hold your body straight like a plank of wood.
+7734	935	Most adults can hold a plank for 20 to 60 seconds, according to Health magazine.
+7735	935	I love fitness, and I discovered I could plank with a cast on,"
+7736	935	When she first started, she says she could hold a plank for about a minute or minute and a half, but she kept practicing.
+7737	935	She told the Guinness World Records she fell in love with doing pushups while doing 500 every day as training for her planks.
+7738	935	Now, she planks every day for at least a few hours.
+7739	935	I did a master's degree while I was planking.
+7740	935	CBC News did not attempt to write this story while planking.
+7741	935	He recognised the trial's limitations at the time.
+7742	935	Tooro is one of Uganda's four main officially recognised historical kingdoms.
+7743	935	According to tradition, a recognised son of the late king should succeed him.
+7744	935	"<h3>Forced home</h3>However, it is not clear how any Rohingyas can be repatriated to Myanmar, where they are not recognised as citizens.
+7745	935	The problems facing Sami people today are not dissimilar to those Turi would recognise.
+7746	936	I found an old photograph in the drawer.
+7747	936	She opened the drawer to look for a pen.
+7748	936	He keeps his important documents in the top drawer.
+7749	936	The drawer was full of clothes and papers.
+7750	936	I couldn't close the drawer because it was too full.
+7751	936	She put the keys back in the kitchen drawer.
+7752	936	There is a small drawer under the desk.
+7753	936	He searched every drawer in the house.
+7754	936	I need to organize my desk drawer this weekend.
+7755	936	She found some old letters at the bottom of the drawer.
+7756	937	The government provided financial support for the resettlement of the families.
+7757	937	Resettlement gave the refugees a chance to start a new life.
+7758	937	The organization helps with the resettlement of displaced people.
+7759	937	The resettlement process took several months.
+7760	937	Many families struggled with resettlement in a new country.
+7761	937	The project focuses on the resettlement of local communities.
+7762	937	They received housing assistance during their resettlement.
+7763	937	The war forced thousands of people to seek resettlement elsewhere.
+7764	937	Successful resettlement requires access to jobs and education.
+7765	937	The report explains the challenges of refugee resettlement.
+7766	938	She wore a beautiful silk dress to the wedding.
+7767	938	This scarf is made of soft silk.
+7768	938	The silk fabric felt smooth against my skin.
+7769	938	He bought a silk tie for the job interview.
+7770	938	She carefully washed her silk blouse by hand.
+7771	938	The curtains were made of expensive silk.
+7772	938	Spiders use silk to build their webs.
+7773	938	He wrapped the gift in a piece of silk.
+7774	938	The traditional dress was decorated with silk embroidery.
+7775	938	This shop sells silk from different parts of Asia.
+7776	939	After her husband died, she became a widow.
+7777	939	The widow lived alone in a small house.
+7778	939	He offered to help the elderly widow with her groceries.
+7779	939	The widow received support from her family.
+7780	939	She had been a widow for ten years.
+7781	939	The story follows a young widow who moves to the countryside.
+7782	939	The widow kept her husband's letters in a wooden box.
+7783	939	Her neighbors visited the widow every weekend.
+7784	939	The wealthy widow donated money to the local hospital.
+7785	939	As a widow, she had to manage the family business alone.
+7786	940	His shoes were filthy after walking through the mud.
+7787	940	The kitchen was filthy after the party.
+7788	940	She refused to sleep in the filthy hotel room.
+7789	940	The children came home with filthy clothes.
+7790	940	He washed his hands because they were filthy.
+7791	940	The abandoned house was dark and filthy.
+7792	940	We had to clean the filthy bathroom before the guests arrived.
+7793	940	The dog jumped onto the sofa with its filthy paws.
+7794	940	He found a filthy old blanket in the basement.
+7795	940	The streets became filthy after the festival.
+7796	941	She rolled up her sleeves before washing the dishes.
+7797	941	There was a small hole in the sleeve of my shirt.
+7798	941	He wiped his face with his sleeve.
+7799	941	I bought a jacket with long sleeves.
+7800	941	She pulled the sleeves down to cover her hands.
+7801	941	He spilled coffee on the sleeve of his white shirt.
+7802	941	The tailor shortened the sleeves of my suit.
+7803	941	She grabbed him by the sleeve to get his attention.
+7804	941	My sweater has one sleeve longer than the other.
+7805	941	He pushed his sleeves up before starting work.
+7806	942	The soup was too bland, so I added some salt.
+7807	942	He prefers spicy food because he finds plain rice bland.
+7808	942	The sauce tasted bland without any herbs.
+7809	942	The movie was so bland that I almost fell asleep.
+7810	942	She added garlic to make the dish less bland.
+7811	942	The restaurant served a bland meal with very little flavor.
+7812	942	His speech was bland and failed to interest the audience.
+7813	942	I thought the coffee tasted bland and watery.
+7814	942	The doctor recommended bland food while my stomach recovered.
+7815	942	The book had an interesting idea, but the writing felt bland.
+7816	943	The city council approved the construction of a new park.
+7817	943	The council met yesterday to discuss the local budget.
+7818	943	She was elected to the town council last year.
+7819	943	The council decided to improve public transportation.
+7820	943	Residents complained to the council about the noise.
+7821	943	The council is responsible for maintaining the public library.
+7822	943	He attended a council meeting to express his concerns.
+7823	943	The council rejected the proposal after a long discussion.
+7824	943	The school council organized a fundraising event.
+7825	943	The council announced new rules for the local market.
+7826	944	I keep a glass of water on my nightstand.
+7827	944	She placed her phone on the nightstand before going to bed.
+7828	944	There is a lamp on the nightstand next to my bed.
+7829	944	He opened the nightstand drawer to find his glasses.
+7830	944	My nightstand is too small for all my books.
+7831	944	She left her favorite novel on the nightstand.
+7832	944	The wooden nightstand matches the bedroom furniture.
+7833	944	I always charge my phone on the nightstand overnight.
+7834	944	He found his watch behind the nightstand.
+7835	944	They bought two matching nightstands for their bedroom.
+7836	945	We decided to climb the mountain early in the morning.
+7837	945	She climbed the stairs to her apartment.
+7838	945	The children love to climb trees in the park.
+7839	945	He used a ladder to climb onto the roof.
+7840	945	It took us three hours to climb to the top.
+7841	945	Be careful when you climb that wall.
+7842	945	The cat climbed onto the kitchen counter.
+7843	945	We watched the hikers climb up the rocky path.
+7844	945	She wants to climb a mountain before she turns thirty.
+7845	945	Prices continue to climb during the holiday season.
+7846	946	Who will bell the cat?
+7847	946	to bell a tube
+7848	946	Hops bell.
+7849	946	Then, one day, a Russian engineer came to the Lebanese town of Beit Chabab to make a church bell.
+7850	946	After several attempts he succeeded and decided to give up making arms, converting his gunsmithery into Lebanon’s first church-bell foundry.
+7851	946	Three centuries later, the Naffah family is still making church bells in Beit Chabab.
+7852	946	Each bell takes about two months to make.
+7853	946	When the metal is ready, it is poured over the bell mould, hardening within three minutes.
+7854	946	The workshop produces about 25 bells a year, about 20 of which go to churches in Lebanon.
+7855	946	The cost of the bell depends mostly on the size, with every 100kg (220lbs) costing $8,000 (£6,000).
+7856	946	"Look at this bell, it’s the work of my two hands.
+7857	946	Each bell bears the names of those who worked on it.
+7858	946	One bell ready to be installed has the name of Naffah, his son Charbel and the patron who commissioned it.
+7859	946	Other bells in the shop for repairs – one from 1910, another from 1932 – bear the names of Naffah’s grandfathers.
+7860	947	The heating oil market is unregulated, unlike gas and electricity, so any changes in the global price quickly gets passed on to customers.
+7861	947	How much is heating oil?
+7862	947	</h3>Peter Mason lives in Minety, in north Wiltshire, where most homes rely on heating oil.
+7863	947	For people who rely on heating oil, it means feeling helpless.
+7864	947	The Competitions and Markets Authority (CMA) said heating oil customers in remote areas were too vulnerable to price shocks.
+7865	947	The organisation is asking the government to remove VAT on heating oil and LPG for six months in this month's budget.
+7866	947	He'd quickly feel drowsier, though he'd wonder what his mother would say about the heating bill.
+7867	947	Scientists now also think human-caused global heating is making El Niños more intense.With Agence France-Presse and Associated Press
+7868	947	Scientists now also think human-caused global heating is making El Niño’s more intense.
+7869	948	I am willing to help you with your project.
+7870	948	She was willing to try something new.
+7871	948	He is always willing to learn from his mistakes.
+7872	948	Are you willing to work on weekends?
+7873	948	They were willing to pay more for better quality.
+7874	948	She is willing to listen to different opinions.
+7875	948	He wasn't willing to accept the offer.
+7876	948	My parents are willing to support my decision.
+7877	948	We need someone who is willing to take responsibility.
+7878	948	I'm willing to wait a little longer.
+7879	949	I nearly missed the bus this morning.
+7880	949	The project is nearly finished.
+7881	949	She has lived here for nearly ten years.
+7882	949	I nearly forgot to call my mother.
+7883	949	The restaurant was nearly empty when we arrived.
+7884	949	He nearly fell while climbing the stairs.
+7885	949	We have nearly enough money to buy the car.
+7886	949	The train was nearly an hour late.
+7887	949	I nearly spilled my coffee on the computer.
+7888	949	It's nearly impossible to finish everything in one day.
+7889	950	I was mildly surprised by his reaction.
+7890	950	The food was mildly spicy, so everyone could enjoy it.
+7891	950	She was mildly disappointed with the result.
+7892	950	The doctor said the symptoms were mildly concerning.
+7893	950	He smiled mildly when he heard the joke.
+7894	950	The weather was mildly warm throughout the afternoon.
+7895	950	I felt mildly uncomfortable during the conversation.
+7896	950	The sauce was mildly sweet.
+7897	950	She was mildly annoyed by the constant noise.
+7898	950	The book was mildly interesting, but not very exciting.
+7899	951	I could barely hear what she was saying.
+7900	951	We barely had enough time to catch the train.
+7901	951	He was so tired that he could barely keep his eyes open.
+7902	951	She barely knows her new neighbors.
+7903	951	I barely slept last night because of the noise.
+7904	951	The room was barely large enough for two people.
+7905	951	He barely passed the final exam.
+7906	951	There was barely any food left in the fridge.
+7907	951	I could barely believe what I was seeing.
+7908	951	They arrived barely five minutes before the meeting started.
+7909	952	I hardly ever watch television these days.
+7910	952	She could hardly believe that she had won the prize.
+7911	952	We hardly know each other.
+7912	952	I had hardly finished dinner when the phone rang.
+7913	952	He hardly spoke during the entire meeting.
+7914	952	There was hardly anyone at the beach that morning.
+7915	952	I can hardly wait for the weekend.
+7916	952	She hardly noticed the change in his appearance.
+7917	952	He had hardly any money left after paying the bills.
+7918	952	I hardly remember anything from that trip.
+7919	953	That whole time, she had just one home, a burrow in North Bungulla Reserve near Tammin, south-western Australia.
+7920	953	<h3>Elegant landing</h3>Photographer Tapani Linnanmäki caught this white-tailed eagle touching down on watery sea ice on Finland's western coast.
+7921	953	Future of western security is at stake in Yemen civil war, says country’s former PM
+7922	954	She was humming a song while cooking dinner.
+7923	954	I could hear someone humming in the next room.
+7924	954	He walked down the street, humming his favorite tune.
+7925	954	The humming of the refrigerator kept me awake.
+7926	954	She started humming when her favorite song came on.
+7927	954	I caught myself humming the same melody all day.
+7928	954	The bees were humming around the flowers.
+7929	954	He was humming softly as he worked in the garden.
+7930	954	There was a strange humming sound coming from the machine.
+7931	954	My mother was humming while she folded the clothes.
+7932	955	He made a careless mistake and lost the document.
+7933	955	Be careful with that glass; don't be so careless.
+7934	955	Her careless driving nearly caused an accident.
+7935	955	I was careless and left my wallet on the bus.
+7936	955	A careless comment can hurt someone's feelings.
+7937	955	He lost his keys because he was careless.
+7938	955	The report contained several careless errors.
+7939	955	She was careless with her money and spent it all.
+7940	955	Don't be careless when you cross the street.
+7941	955	His careless attitude annoyed his coworkers.
+7942	956	Somehow, we managed to finish the project on time.
+7943	956	I somehow forgot my password again.
+7944	956	She somehow knew that something was wrong.
+7945	956	We need to find a way to solve this problem somehow.
+7946	956	Somehow, he found his way back home.
+7947	956	I somehow managed to carry all the bags by myself.
+7948	956	They somehow got tickets to the sold-out concert.
+7949	956	Somehow, the cat got inside the locked room.
+7950	956	I'm sure we'll figure it out somehow.
+7951	956	She somehow made enough money to travel around Europe.
+7952	957	The company is weeding out outdated procedures.
+7953	957	We are weeding out the weakest candidates from the selection process.
+7954	957	The software helps with weeding out duplicate records.
+7955	957	The teacher is weeding out incorrect answers before grading the tests.
+7956	957	We spent the afternoon weeding out unwanted plants from the garden.
+7957	957	The team is weeding out ideas that are too expensive to implement.
+7958	957	Regular reviews help us with weeding out unnecessary tasks.
+7959	957	The manager is weeding out applications that don't meet the requirements.
+7960	957	We need to focus on weeding out unreliable suppliers.
+7961	957	The new system is effective at weeding out spam messages.
+7962	958	He made a loud noise as he slurped his soup.
+7963	958	Please don't slurp your noodles at the dinner table.
+7964	958	She slurped her drink through a straw.
+7965	958	I could hear him slurp his coffee from across the room.
+7966	958	The child began to slurp the soup because it was too hot to eat quickly.
+7967	958	He likes to slurp noodles straight from the bowl.
+7968	958	She took a sip and slurped the last bit of her milkshake.
+7969	958	It's considered rude to slurp loudly in some situations.
+7970	958	He slurped his ramen while watching television.
+7971	958	I accidentally slurped my drink too loudly in the quiet room.
